@@ -1,1 +1,40 @@
 
+2023-01-01 11:28:42,417 - main.py [line:53] - INFO: 爬取开始ing......
+2023-01-01 11:28:44,515 - main.py [line:63] - INFO: 共获取到9条链接.
+2023-01-01 11:28:46,573 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63a5d47174424700013ca399/插入成功！
+2023-01-01 11:28:46,574 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:151] - INFO: 1 保存成功!
+2023-01-01 11:28:51,700 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-01 11:29:01,636 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-01 11:29:08,563 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63a72825c5a3250001d737e2/插入成功！
+2023-01-01 11:29:08,563 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:151] - INFO: 1 保存成功!
+2023-01-01 11:29:13,336 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-01 11:29:23,279 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-01 11:29:30,811 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63a8766e74424700013dbb31/插入成功！
+2023-01-01 11:29:30,812 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:151] - INFO: 1 保存成功!
+2023-01-01 11:29:35,419 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-01 11:29:45,163 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-01 11:29:51,834 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63a9ca3fc5a325000179be2d/插入成功！
+2023-01-01 11:29:51,834 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:151] - INFO: 1 保存成功!
+2023-01-01 11:29:56,458 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-01 11:30:06,284 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-01 11:30:13,342 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63ab1982744247000127a55a/插入成功！
+2023-01-01 11:30:13,343 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:151] - INFO: 1 保存成功!
+2023-01-01 11:30:18,146 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-01 11:30:27,935 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-01 11:30:34,434 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63ac6b86c3e1e500018736e8/插入成功！
+2023-01-01 11:30:34,435 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:151] - INFO: 1 保存成功!
+2023-01-01 11:30:40,384 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-01 11:30:50,007 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-01 11:30:56,923 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63adbdeac5a32500017b37fb/插入成功！
+2023-01-01 11:30:56,923 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:151] - INFO: 1 保存成功!
+2023-01-01 11:31:01,654 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-01 11:31:11,462 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-01 11:31:17,874 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63af0f73c3e1e50001882f18/插入成功！
+2023-01-01 11:31:17,875 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:151] - INFO: 1 保存成功!
+2023-01-01 11:31:22,676 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-01 11:31:32,390 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-01 11:31:39,424 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63b061047442470001299e71/插入成功！
+2023-01-01 11:31:39,425 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:151] - INFO: 1 保存成功!
+2023-01-01 11:31:44,045 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-01 11:31:53,870 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-01 11:31:58,875 - main.py [line:85] - INFO: 处理完成! 新数据条数:9
