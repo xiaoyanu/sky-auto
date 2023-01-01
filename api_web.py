@@ -130,8 +130,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
         html = f"<h1>{title}</h1>{html}"  # 为 html 添加标题
 
         # 重名处理
-        if os.path.exists(os.path.join("html", "%s.html" % (file_name))):
-            file_name = "%s[%s]" % (file_name, random.randint(0, 9999))
+        #if os.path.exists(os.path.join("html", "%s.html" % (file_name))):
+        #    file_name = "1" % (file_name, random.randint(0, 9999))
 
         # 写文件
         self.makedir()  # 建目录
