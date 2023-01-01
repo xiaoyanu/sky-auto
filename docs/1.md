@@ -1,6 +1,6 @@
 ---
 title: 每日任务 大蜡烛 季节蜡烛 免费魔法
-date: 2023-01-01 12:44:30
+date: 2023-01-01 19:51:57
 categories: Sky光•遇
 tags: [Sky光•遇,每日任务 大蜡烛 季节蜡烛 免费魔法]
 description: 
@@ -106,11 +106,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
- **禁阁**
+ **暮土**
 
  **灼热碎片 [红石]：**
 
-具体位置： **星光沙漠**
+具体位置： **失落方舟**
 
 坠落时间： **7、13、19** 小时的08分40秒左右～50分
 
@@ -120,7 +120,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：此坠落点 **可完成  **[破晓季] 季节任务
 
-![](https://img.166.net/reunionpub/ds/kol/20230101/001510-j5bv7fgc1l.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230101/133848-7t42ykgfsp.jpg)
 
  ****
 
