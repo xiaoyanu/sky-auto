@@ -147,6 +147,10 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
         # 在 reademe.md 中写文件
         with open("README.md", "w", encoding="utf8") as mm:
             mm.write(md)
+            
+        # 在 reademe.txt 中写文件
+        with open("readme.txt", "w", encoding="utf8") as mm:
+            mm.write(md)
 
         log.logger.info(f"{file_name} 保存成功!")
         return os.path.join("docs", "%s.md" % (file_name)), html
