@@ -1,6 +1,6 @@
 ---
 title: 每日任务 大蜡烛 季节蜡烛 免费魔法
-date: 2023-01-02 00:30:22
+date: 2023-01-02 12:51:30
 categories: Sky光•遇
 tags: [Sky光•遇,每日任务 大蜡烛 季节蜡烛 免费魔法]
 description: 
@@ -30,7 +30,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230101/001241-0j8eod9thr.jpeg)
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
@@ -52,7 +52,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
-![](https://img.166.net/reunionpub/ds/kol/20230102/000342-ye4s1ntm5z.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230102/002041-hyucstezm0.jpg)
 
  **任务四：收集紫色光芒 0/1**
 
@@ -61,8 +61,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 靠近光芒即可完成
 
  **位置：禁阁一层 右侧隐藏图 [垂直迷宫]**
-
-![](https://img.166.net/reunionpub/ds/kol/20230102/001359-qs72wd5urp.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230102/000413-wig81az0bp.jpeg)
 
@@ -114,23 +112,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图：霞谷**
 
- **霞谷**
-
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230102/000733-iop9k034wf.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230102/004953-b3awyftogs.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230102/000741-jinhv8zo3d.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230102/005011-n24h6yzvum.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230102/000752-vprwfsmcj8.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230102/005049-e9nufilrj0.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230102/000805-mr5t2fd9wk.png)
+![](https://img.166.net/reunionpub/ds/kol/20230102/005122-a4u08nsk3e.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
@@ -148,11 +144,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
-  
-
 ![](https://img.166.net/reunionpub/ds/kol/20230102/000941-z3rmfyo0va.png)
-
-  
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
