@@ -125,7 +125,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
         # 构造文件名
         strtime = time.strftime("%Y-%m-%d")
-        file_name = "1"
+        file_name = "%s" % (strtime)
         md = f"{MDheader}\n# {title}\n{md}"  # 为md文件加标题和博客头
         html = f"<h1>{title}</h1>{html}"  # 为 html 添加标题
 
