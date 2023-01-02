@@ -1,6 +1,6 @@
 ---
 title: 每日任务 大蜡烛 季节蜡烛 免费魔法
-date: 2022-12-26 11:29:30
+date: 2023-01-02 00:30:22
 categories: Sky光•遇
 tags: [Sky光•遇,每日任务 大蜡烛 季节蜡烛 免费魔法]
 description: 
@@ -10,65 +10,73 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 每日任务 大蜡烛 季节蜡烛 免费魔法
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **12月26日 星期一**
+ **1月2日 星期一**
 
- **霞谷**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20221226/001031-otv0wibhjc.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230102/001534-0u5t81klgy.jpeg)
 
- **任务一：2人合力开启一道门 0/1**
+ **任务一：给一位朋友送礼 0/1**
 
 完成方法：
 
-两位玩家协力开启一道门即可完成
+1.点击好友 找到击掌右边的礼物 花费3根普通蜡烛并送给对方爱心后即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20221226/000317-yd2vnrbpjz.jpeg)
+2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
 
-![](https://img.166.net/reunionpub/ds/kol/20221226/000325-l0th9r6fvc.jpeg)
+ **[第一种 二种任选其一完成即可]**
 
-![](https://img.166.net/reunionpub/ds/kol/20221226/000343-ukdqfvzhs5.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230101/001230-3wdomyizuk.png)
 
- **任务二：在霞谷重温先祖的美好回忆  0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230101/001241-0j8eod9thr.jpeg)
+
+ **任务二：在暮土重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 竞技场**
+ **位置：禁阁二层**
 
- **先祖：自豪冠军 [动作]**
+ **先祖：气功高人 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20221226/000451-gf05kbds1n.png)
+![](https://img.166.net/reunionpub/ds/kol/20230102/000248-8ki30sgaz5.png)
 
- **任务三：掀翻5只螃蟹 0/5**
+![](https://img.166.net/reunionpub/ds/kol/20230102/000316-hyrtbjvd97.jpeg)
 
-完成方法：
-
-点击人物头部长按大叫即可掀翻螃蟹
-
- **推荐地图：暮土 云野圣岛**
-
-![](https://img.166.net/reunionpub/ds/kol/20221226/000516-sg3cf2u6bd.jpeg)
-
- **任务四：在霞光城拱门上冥想 0/1**
+ **任务三：收集30点烛光 0/30**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+1.领取任务
 
- **位置：霞谷 霞光城**
+2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
-![](https://img.166.net/reunionpub/ds/kol/20221226/000603-91mq4wn8bh.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230102/000342-ye4s1ntm5z.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20221226/000610-gn3pf9azq5.jpeg)
+ **任务四：收集紫色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：禁阁一层 右侧隐藏图 [垂直迷宫]**
+
+![](https://img.166.net/reunionpub/ds/kol/20230102/001359-qs72wd5urp.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20230102/000413-wig81az0bp.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
  **季节蜡烛**
 
- **地图： 霞谷**
+ **地图： 霞谷 禁阁**
 
- **位置：霞谷A+B组**
+ **位置：禁阁A组**
+
+![](https://img.166.net/reunionpub/ds/kol/20230102/000544-a2iw5cyo7q.png)
+
+ **位置：霞谷A组**
 
 ![](https://img.166.net/reunionpub/ds/kol/20221212/234745-gcjyp3f975.png)
 
@@ -76,27 +84,27 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **旅行先祖**
 
-归属季——踏舞孩童
+小王子季——沾沾自喜的自恋狂
 
-复刻时间：12/24早上6:00～12/28中午12:00
+复刻时间：12/29早上6:00～1/2中午12:00
 
- **位置：晨岛  **
+位置：禁阁 星光沙漠
 
-![](https://img.166.net/reunionpub/ds/kol/20221224/140935-5kqiou9sr1.png)
+![](https://img.166.net/reunionpub/ds/kol/20221229/001322-as582o0619.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20221224/140950-mpir6l28ob.png)
+![](https://img.166.net/reunionpub/ds/kol/20221229/001322-f1w7oeh35q.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20221224/141003-f2m7t1gp5z.png)
+![](https://img.166.net/reunionpub/ds/kol/20221229/001322-bn17pou2jc.jpeg)
 
- **兑换图：**
+兑换图：
 
-![](https://img.166.net/reunionpub/ds/kol/20221223/105445-3slcepq8du.png)
+![](https://img.166.net/reunionpub/ds/kol/20221230/004128-7wbdo5lcmv.png)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
  **伊甸之眼坠落碎片位置**
 
- **无**
+无
 
  ****
 
@@ -106,29 +114,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图：霞谷**
 
- ****
-
-****
-
-****
-
-**霞谷**
+ **霞谷**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20221226/001059-zvygmn2aku.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230102/000733-iop9k034wf.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20221226/001111-v0tfihekgu.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230102/000741-jinhv8zo3d.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20221226/001127-1vb2fpm3l5.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230102/000752-vprwfsmcj8.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20221226/001139-ewjmtny859.png)
+![](https://img.166.net/reunionpub/ds/kol/20230102/000805-mr5t2fd9wk.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
@@ -142,23 +144,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20221225/234642-g0spvs6bkm.png)
-
- **霞谷竞技场免费魔法**
-
-![](https://img.166.net/reunionpub/ds/kol/20221226/004319-mio0l9bz3s.png)
-
- **圣诞节免费魔法**
-
-位置： **禁阁办公室屋顶**
-
-![](https://img.166.net/reunionpub/ds/kol/20221224/205730-710lefwq3o.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20221224/205743-fd653rl9ug.png)
+![](https://img.166.net/reunionpub/ds/kol/20230102/000851-2twzjbssni.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
-![](https://img.166.net/reunionpub/ds/kol/20221225/234733-cbovltueg3.png)
+  
+
+![](https://img.166.net/reunionpub/ds/kol/20230102/000941-z3rmfyo0va.png)
+
+  
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
