@@ -141,7 +141,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
             h.write(html)
 
         # 在 docs 目录中写文件
-        with open(os.path.join("docs", "%s.md" % (file_name)), "w", encoding="utf8") as m:
+        with open(os.path.join("docs", "%s.txt" % (file_name)), "w", encoding="utf8") as m:
             m.write(md)
 
         # 在 reademe.md 中写文件
