@@ -75,3 +75,6 @@
 2023-01-06 00:35:45,995 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: 1872786834@qq.com发信未知失败: The file docs/2023-01-06.md doesn't exist.
 2023-01-06 00:35:52,674 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: whalefall9420@outlook.com发信未知失败: The file docs/2023-01-06.md doesn't exist.
 2023-01-06 00:35:57,679 - main.py [line:85] - INFO: 处理完成! 新数据条数:1
+2023-01-06 00:52:15,204 - main.py [line:53] - INFO: 爬取开始ing......
+2023-01-06 00:52:17,157 - main.py [line:63] - INFO: 共获取到9条链接.
+2023-01-06 00:52:31,654 - main.py [line:85] - INFO: 处理完成! 新数据条数:0
