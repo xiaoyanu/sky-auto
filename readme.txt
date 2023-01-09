@@ -1,6 +1,6 @@
 ---
 title: 每日任务 大蜡烛 季节蜡烛 免费魔法
-date: 2023-01-09 00:30:38
+date: 2023-01-10 00:38:19
 categories: Sky光•遇
 tags: [Sky光•遇,每日任务 大蜡烛 季节蜡烛 免费魔法]
 description: 
@@ -10,11 +10,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 每日任务 大蜡烛 季节蜡烛 免费魔法
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **1月9日 星期一**
+ **1月10日 星期二**
 
-  **雨林**
+  **  霞谷**
 
-![](https://img.166.net/reunionpub/ds/kol/20230109/001321-dlr0ze235s.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230110/002146-5lzjuokca3.jpeg)
 
  **任务一：给一位朋友送礼 0/1**
 
@@ -30,17 +30,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230109/000454-ojpsl5rkvb.jpeg)
 
- **任务二：在雨林重温先祖的美好回忆 0/1**
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：雨林 荧光森林**
+ **位置：霞谷 霞光城**
 
- **先祖：娇嗔搬运工 [动作]**
+ **先祖：倒立运动员 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230109/000531-qtuj2s5fd1.png)
+![](https://img.166.net/reunionpub/ds/kol/20230110/000246-rdzlg0w7at.png)
 
  **任务三：净化10株黑暗植物 0/10**
 
@@ -54,31 +54,49 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230108/000315-19fdblczh2.jpeg)
 
- **任务四：在雨林追逐散落的星光 0/1**
+ **任务四：在霞光城拱门上冥想 0/1**
 
-完成方法：
+ **完成方法：**
 
-靠近星光即可完成
+ **点击坐下冥想并回答问题即可完成**
 
- **位置：雨林 静谧庭院**
+ **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/ds/kol/20230109/000323-dikas2epu4.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230110/000409-4gdbe3f61y.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230110/000422-nc9msl31zp.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
  **季节蜡烛**
 
- **地图： 雨林**
+ **地图： 霞谷**
 
- **位置：雨林A组**
+ **位置：霞谷B组**
 
-![](https://img.166.net/reunionpub/ds/kol/20230109/000951-7ylm5pt9nw.png)
+![](https://img.166.net/reunionpub/ds/kol/20230110/002732-shaikqomvt.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **伊甸之眼坠落碎片位置**
 
- **无**
+ **霞谷**
+
+ **黑石：**
+
+具体位置： **滑冰场**
+
+坠落时间： **9** 、 **14** 、 **19** 的08分40秒左右～50分
+
+清理方式：净化黑石碎片周围黑暗植物即可
+
+获取货币：烛光 [普通蜡烛/白蜡烛]
+
+注：此坠落点 **不可完成** 季节任务
+
+![](https://img.166.net/reunionpub/ds/kol/20230110/001141-ysjcrg194z.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230110/001220-ssilt4er2n.png)
 
  ****
 
@@ -252,13 +270,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法商店：**
 
 注：开启 魔法商店 需完成 [魔法季] 全部剧情
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20230110/000639-bpyejs48m5.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
