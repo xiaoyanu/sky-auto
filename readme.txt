@@ -1,6 +1,6 @@
 ---
 title: 每日任务 大蜡烛 季节蜡烛 免费魔法
-date: 2023-01-10 14:01:56
+date: 2023-01-11 00:36:20
 categories: Sky光•遇
 tags: [Sky光•遇,每日任务 大蜡烛 季节蜡烛 免费魔法]
 description: 
@@ -10,91 +10,77 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 每日任务 大蜡烛 季节蜡烛 免费魔法
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **1月10日 星期二**
+ **1月11日 星期三**
 
-  **  霞谷**
+  **  暮土**
 
-![](https://img.166.net/reunionpub/ds/kol/20230110/002146-5lzjuokca3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230111/000817-yvz8wa12jc.jpeg)
 
- **任务一：给一位朋友送礼 0/1**
-
-完成方法：
-
-1.点击好友 找到击掌右边的礼物 花费3根普通蜡烛并送给对方爱心后即可完成
-
-2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
-
- **[第一种 二种任选其一完成即可]**
-
-![](https://img.166.net/reunionpub/ds/kol/20230109/000419-n3biht9js0.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20230109/000454-ojpsl5rkvb.jpeg)
-
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+ **任务一：2人合力开启一道门 0/1**
 
 完成方法：
 
-点燃先祖重温回忆
+两位玩家协力开启一道门即可完成
 
- **位置：霞谷 霞光城**
+![](https://img.166.net/reunionpub/ds/kol/20230111/001358-jnf2ir1e0l.jpeg)
 
- **先祖：倒立运动员 [动作]**
+![](https://img.166.net/reunionpub/ds/kol/20230111/001406-fos01lgkza.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230110/000246-rdzlg0w7at.png)
+![](https://img.166.net/reunionpub/ds/kol/20230111/001415-34286rde1o.jpeg)
 
- **任务三：净化10株黑暗植物 0/10**
-
-完成方法：
-
-拿出心火蜡烛燃烧10株黑暗植物即可完成
-
- **推荐地图：暮土 雨林 云野圣岛  **
-
-![](https://img.166.net/reunionpub/ds/kol/20230108/000306-pnfdzyojb3.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230108/000315-19fdblczh2.jpeg)
-
- **任务四：在霞光城拱门上冥想 0/1**
+ **任务二：在暮土重温先祖的美好回忆 0/1**
 
  **完成方法：**
 
- **点击坐下冥想并回答问题即可完成**
+ **点燃先祖重温回忆**
 
- **位置：霞谷 霞光城**
+ **位置：暮土  一龙图**
 
-![](https://img.166.net/reunionpub/ds/kol/20230110/000409-4gdbe3f61y.jpeg)
+ **先祖：无畏战士 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230110/000422-nc9msl31zp.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230111/001005-sh8qmw9vob.jpeg)
+
+ **任务三：面对冥龙 0/1**
+
+ **完成方法：**
+
+ **被冥龙锁定变成红光即可完成**
+
+ **推荐地图：暮土/暴风眼**
+
+ **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
+
+![](https://img.166.net/reunionpub/ds/kol/20230111/001131-nldgr109mk.jpeg)
+
+ **任务四：收集红色光芒  **
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：暮土  1.遗忘方舟 2.黑水港湾（沉船图）**
+
+ ***注：此光芒共有两处位置任选其一完成即可**
+
+![](https://img.166.net/reunionpub/ds/kol/20230111/001302-bmpqjrlkhu.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230111/001313-5tk1sbf7ls.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
  **季节蜡烛**
 
- **地图： 霞谷**
+ **地图： 暮土**
 
- **位置：霞谷B组**
+ **位置：暮土B组**
 
-![](https://img.166.net/reunionpub/ds/kol/20230110/002732-shaikqomvt.png)
+![](https://img.166.net/reunionpub/ds/kol/20230111/001657-e5jwypvi0t.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **伊甸之眼坠落碎片位置**
 
- **霞谷**
-
- **黑石：**
-
-具体位置： **滑冰场**
-
-坠落时间： **9** 、 **14** 、 **19** 的08分40秒左右～50分
-
-清理方式：净化黑石碎片周围黑暗植物即可
-
-获取货币：烛光 [普通蜡烛/白蜡烛]
-
-注：此坠落点 **不可完成** 季节任务
-
-![](https://img.166.net/reunionpub/ds/kol/20230110/001220-ssilt4er2n.png)
+ **无**
 
  ****
 
@@ -268,7 +254,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **光能药剂x1**
+ **璀璨之星x1**
 
  **魔法商店：**
 
@@ -276,20 +262,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230110/000639-bpyejs48m5.png)
+![](https://img.166.net/reunionpub/ds/kol/20230110/233515-4zajw8ude3.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230109/001158-e9jhw53rav.png)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
-
- **注解：**
-
-星盘¹
-
-![](https://img.166.net/reunionpub/ds/kol/20230109/001452-snfz5qc490.jpeg)
-**![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
 感谢观看
 
