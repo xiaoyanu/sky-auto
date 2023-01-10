@@ -1,6 +1,6 @@
 ---
 title: 每日任务 大蜡烛 季节蜡烛 免费魔法
-date: 2023-01-10 00:38:19
+date: 2023-01-10 14:01:56
 categories: Sky光•遇
 tags: [Sky光•遇,每日任务 大蜡烛 季节蜡烛 免费魔法]
 description: 
@@ -93,8 +93,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 获取货币：烛光 [普通蜡烛/白蜡烛]
 
 注：此坠落点 **不可完成** 季节任务
-
-![](https://img.166.net/reunionpub/ds/kol/20230110/001141-ysjcrg194z.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230110/001220-ssilt4er2n.png)
 
