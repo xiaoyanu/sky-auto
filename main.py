@@ -39,7 +39,7 @@ def writeSQL(title, url, html) -> bool:
 
     except sqlite3.IntegrityError:
         # log.logger.warning(f"{url}数据已存在")
-        return False
+        return True
     except Exception as e:
         log.logger.critical(f"{url}其他错误: {e}")
         return False
