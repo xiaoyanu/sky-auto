@@ -1,6 +1,6 @@
 ---
 title: 每日任务 大蜡烛 季节蜡烛 免费魔法
-date: 2023-01-11 13:43:40
+date: 2023-01-12 00:42:43
 categories: Sky光•遇
 tags: [Sky光•遇,每日任务 大蜡烛 季节蜡烛 免费魔法]
 description: 
@@ -10,71 +10,67 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 每日任务 大蜡烛 季节蜡烛 免费魔法
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **1月11日 星期三**
+ **1月12日 星期四**
 
-  **  暮土**
+  **  禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20230111/000817-yvz8wa12jc.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230112/003317-zhnk42vpsl.jpeg)
 
- **任务一：2人合力开启一道门 0/1**
-
-完成方法：
-
-两位玩家协力开启一道门即可完成
-
-![](https://img.166.net/reunionpub/ds/kol/20230111/001358-jnf2ir1e0l.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230111/001406-fos01lgkza.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230111/001415-34286rde1o.jpeg)
-
- **任务二：在暮土重温先祖的美好回忆 0/1**
-
- **完成方法：**
-
- **点燃先祖重温回忆**
-
- **位置：暮土  一龙图**
-
- **先祖：无畏战士 [动作]**
-
-![](https://img.166.net/reunionpub/ds/kol/20230111/001005-sh8qmw9vob.jpeg)
-
- **任务三：面对冥龙 0/1**
-
- **完成方法：**
-
- **被冥龙锁定变成红光即可完成**
-
- **推荐地图：暮土/暴风眼**
-
- **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
-
-![](https://img.166.net/reunionpub/ds/kol/20230111/001131-nldgr109mk.jpeg)
-
- **任务四：收集红色光芒  **
+ **任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-靠近光芒即可完成
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
- **位置：暮土  1.遗忘方舟 2.黑水港湾（沉船图）**
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
- ***注：此光芒共有两处位置任选其一完成即可**
+![](https://img.166.net/reunionpub/ds/kol/20230112/000145-rqvzie5tnk.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230111/001302-bmpqjrlkhu.jpeg)
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
-![](https://img.166.net/reunionpub/ds/kol/20230111/001313-5tk1sbf7ls.jpeg)
+完成方法：
+
+点燃先祖重温回忆
+
+ **位置：禁阁四层**
+
+ **先祖：拳礼武僧[动作]**
+
+![](https://img.166.net/reunionpub/ds/kol/20230112/001049-o90jt7peqr.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230112/001331-zvjb83okf2.jpeg)
+
+ **任务三：掀翻5只螃蟹 0/5**
+
+完成方法：
+
+点击人物头部长按大叫即可掀翻螃蟹
+
+ **推荐地图：暮土 云野圣岛**
+
+![](https://img.166.net/reunionpub/ds/kol/20230112/000929-rn81497l02.jpeg)
+
+ **任务四：在禁阁追逐散落的星光 0/1**
+
+完成方法：
+
+靠近星光即可完成
+
+ **位置：禁阁一层**
+
+![](https://img.166.net/reunionpub/ds/kol/20230112/001010-2azhcoev4n.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
  **季节蜡烛**
 
- **地图： 暮土**
+ **地图： 禁阁**
 
- **位置：暮土B组**
+ **位置：禁阁A组**
 
-![](https://img.166.net/reunionpub/ds/kol/20230111/001657-e5jwypvi0t.jpeg)
+  
+
+![](https://img.166.net/reunionpub/ds/kol/20230112/001743-5uiol490wd.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
@@ -86,7 +82,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
-**大蜡烛**
+**旅行先祖**
+
+ **归属季——不舍家长**
+
+复刻时间：1/12早上6:00～1/16中午12:00
+
+位置： **暮土 巨兽荒原**
+
+![](https://img.166.net/reunionpub/ds/kol/20230112/002853-1p4fst3vnm.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230112/002904-689ksova3b.jpeg)![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
+
+ **大蜡烛**
 
  **地图：云野 雨林 霞谷 暮土 禁阁**
 
@@ -254,7 +262,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法商店：**
 
@@ -262,7 +270,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230110/233515-4zajw8ude3.png)
+![](https://img.166.net/reunionpub/ds/kol/20230112/003041-1e60987qwu.png)
+
+  
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
