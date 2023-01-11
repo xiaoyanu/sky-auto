@@ -218,3 +218,33 @@
 2023-01-11 00:55:51,568 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: 1872786834@qq.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
 2023-01-11 00:55:57,890 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: whalefall9420@outlook.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
 2023-01-11 00:56:02,895 - main.py [line:85] - INFO: 处理完成! 新数据条数:9
+2023-01-11 13:21:12,167 - main.py [line:53] - INFO: 爬取开始ing......
+2023-01-11 13:21:14,435 - main.py [line:63] - INFO: 共获取到9条链接.
+2023-01-11 13:21:16,479 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-01-11 保存成功!
+2023-01-11 13:21:18,460 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: 1872786834@qq.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:21:25,120 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: whalefall9420@outlook.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:21:32,868 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-01-11 保存成功!
+2023-01-11 13:21:34,560 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: 1872786834@qq.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:21:41,290 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: whalefall9420@outlook.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:21:48,301 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-01-11 保存成功!
+2023-01-11 13:21:49,972 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: 1872786834@qq.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:21:56,694 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: whalefall9420@outlook.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:22:03,674 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-01-11 保存成功!
+2023-01-11 13:22:05,333 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: 1872786834@qq.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:22:12,106 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: whalefall9420@outlook.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:22:19,820 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-01-11 保存成功!
+2023-01-11 13:22:21,525 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: 1872786834@qq.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:22:28,199 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: whalefall9420@outlook.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:22:35,189 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-01-11 保存成功!
+2023-01-11 13:22:36,932 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: 1872786834@qq.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:22:43,667 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: whalefall9420@outlook.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:22:51,721 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-01-11 保存成功!
+2023-01-11 13:22:53,339 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: 1872786834@qq.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:23:00,221 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: whalefall9420@outlook.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:23:07,288 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-01-11 保存成功!
+2023-01-11 13:23:08,988 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: 1872786834@qq.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:23:15,625 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: whalefall9420@outlook.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:23:22,612 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-01-11 保存成功!
+2023-01-11 13:23:24,361 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: 1872786834@qq.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:23:31,085 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:90] - WARNING: whalefall9420@outlook.com发信未知失败: The file docs/2023-01-11.md doesn't exist.
+2023-01-11 13:23:36,090 - main.py [line:85] - INFO: 处理完成! 新数据条数:9
