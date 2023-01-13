@@ -23,7 +23,7 @@ class SkyTask(object):
     def __init__(self) -> None:
         '''初始化方法,用手机UA请求'''
         self.header = {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Mobile Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/108.0.0.0",
         }
         # 光遇小管家主页
         self.index_url = "https://m.ds.163.com/user/0c565eef3c904d84b23f5624ff67f853"
@@ -125,13 +125,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
         # 构造文件名
         strtime = time.strftime("%Y-%m-%d")
-        file_name = "%s" % (strtime)
+        file_name = "%s %s" % (strtime, self.checkNameValid(title))
         md = f"{MDheader}\n# {title}\n{md}"  # 为md文件加标题和博客头
         html = f"<h1>{title}</h1>{html}"  # 为 html 添加标题
 
         # 重名处理
-        #if os.path.exists(os.path.join("html", "%s.html" % (file_name))):
-        #    file_name = "1" % (file_name, random.randint(0, 9999))
+        if os.path.exists(os.path.join("html", "%s.html" % (file_name))):
+            file_name = "%s[%s]" % (file_name, random.randint(0, 9999))
 
         # 写文件
         self.makedir()  # 建目录
@@ -141,15 +141,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
             h.write(html)
 
         # 在 docs 目录中写文件
-        with open(os.path.join("docs", "%s.txt" % (file_name)), "w", encoding="utf8") as m:
+        with open(os.path.join("docs", "%s.md" % (file_name)), "w", encoding="utf8") as m:
             m.write(md)
 
         # 在 reademe.md 中写文件
         with open("README.md", "w", encoding="utf8") as mm:
-            mm.write(md)
-            
-        # 在 reademe.txt 中写文件
-        with open("readme.txt", "w", encoding="utf8") as mm:
             mm.write(md)
 
         log.logger.info(f"{file_name} 保存成功!")
