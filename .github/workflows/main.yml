@@ -2,7 +2,7 @@ name: Sky task every day update
 
 on:
   schedule:
-    - cron: '10,20,30,40 16,5 * * *'
+    - cron: '10,20,30,40 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,9 @@ jobs:
   build:
     
     runs-on: ubuntu-latest
+    
+    env:
+      TZ: Asia/Shanghai
     
     steps:
       
