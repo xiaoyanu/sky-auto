@@ -38,6 +38,7 @@ class SkyTask(object):
             html = etree.HTML(resp)
             urlList = html.xpath(
                 r"//div[@class='feed-card']//div[@class='feed-brief-card']/a/@href")
+            print(urlList)
             # 直接匹配出网址了,草!
             urls = [
                 f"https://m.ds.163.com{url}"
@@ -53,20 +54,23 @@ class SkyTask(object):
         '''获取文章详细,返回提取后的HTML和标题'''
         try:
             resp = requests.get(article_url, headers=self.header).text
+            # 把源码保存起来研究
+            with open("./a.html", mode='w', encoding='utf-8') as f:
+                f.write(resp)
             pat = re.compile(
                 r'<article class="feed-article__content">(.*?)</article>')
             pat_title = re.compile(
                 r'<h1 class="feed-article__headline mb-l">(.*?)</h1>')
+            html = pat.findall(resp)
             if html:
                 html = html[0]
             else:
-                heml = ""
-            html = pat.findall(resp)[0]
+                html = ""
+            title = pat_title.findall(resp)
             if title:
                 title = title[0]
             else:
                 title = ""
-            title = pat_title.findall(resp)[0]
         except Exception as e:
             log.logger.warning(f"{article_url}解析失败! {e}")
             return False, False
