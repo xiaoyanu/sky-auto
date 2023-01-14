@@ -38,3 +38,34 @@
 2023-01-14 21:49:37,578 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
 2023-01-14 21:49:47,304 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
 2023-01-14 21:49:52,309 - main.py [line:85] - INFO: 处理完成! 新数据条数:9
+2023-01-15 00:31:08,925 - main.py [line:53] - INFO: 爬取开始ing......
+2023-01-15 00:31:10,600 - main.py [line:63] - INFO: 共获取到9条链接.
+2023-01-15 00:31:13,057 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法 保存成功!
+2023-01-15 00:31:17,483 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:31:26,138 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:31:32,900 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[4538] 保存成功!
+2023-01-15 00:31:36,695 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:31:45,462 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:31:54,514 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[8519] 保存成功!
+2023-01-15 00:31:58,288 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:32:06,929 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:32:14,008 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[6731] 保存成功!
+2023-01-15 00:32:17,648 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:32:26,537 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:32:33,999 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[5552] 保存成功!
+2023-01-15 00:32:37,755 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:32:46,390 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:32:53,210 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[8678] 保存成功!
+2023-01-15 00:32:56,848 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:33:05,556 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:33:12,377 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[7269] 保存成功!
+2023-01-15 00:33:16,180 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:33:24,807 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:33:31,492 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[6245] 保存成功!
+2023-01-15 00:33:35,535 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:33:44,219 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:33:51,125 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63c2d84bc5a32500017cc2ef/插入成功！
+2023-01-15 00:33:51,126 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[4818] 保存成功!
+2023-01-15 00:33:54,880 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:34:03,949 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:34:08,954 - main.py [line:85] - INFO: 处理完成! 新数据条数:9
