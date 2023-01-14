@@ -62,6 +62,7 @@ class SkyTask(object):
             pat_title = re.compile(
                 r'<h1 class="feed-article__headline"><div>(.*?)</div></h1>')
             html = pat.findall(resp)
+            #修复BUG
             if html:
                 html = html[0]
             else:
