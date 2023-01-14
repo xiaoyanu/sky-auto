@@ -2,170 +2,88 @@
 # coding=utf-8
 '''
 Author: whalefall
-Date: 2021-07-15 22:17:41
-LastEditTime: 2021-07-22 17:27:31
-Description: 网易大神-光遇每日任务爬虫
+Date: 2021-07-18 11:18:44
+LastEditTime: 2021-07-22 17:35:09
+Description: 主运行模块
 '''
+from types import MemberDescriptorType
+from email_service import EmailService
+from api_web import SkyTask
 from log import log
-import requests
-from lxml import etree
-import re
-import html2text  # html 转 md
-# from email_service import EmailService
+import sqlite3
 import os
-import time
-import random
 
 
-class SkyTask(object):
-    '''获取光遇任务类'''
+def writeSQL(title, url, html) -> bool:
+    '''写入数据库'''
 
-    def __init__(self) -> None:
-        '''初始化方法,用手机UA请求'''
-        self.header = {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Mobile Safari/537.36",
-        }
-        # 光遇小管家主页
-        self.index_url = "https://m.ds.163.com/user/0c565eef3c904d84b23f5624ff67f853"
-        # self.log = Logger('run.log', level='debug')  # 日志记录器
+    conn = sqlite3.connect("weibo.db")
+    c = conn.cursor()
 
-    def getIndex(self) -> list:
-        '''获取文章链接,返回一个 (标题,链接) 的元组组成的列表'''
+    # 新建SkyDaily表,设置主键为 url
+    c.execute('''create table if not exists `{}` (
+        `title` varchar(225),
+        `url` varchar(225),
+        `html` varchar(225),
+        primary key(`url`)
+    )
+    '''.format("SkyDaily"))
+    conn.commit()
 
-        try:
-            resp = requests.get(self.index_url, headers=self.header).text
-            # print(resp)
-            html = etree.HTML(resp)
-            urlList = html.xpath(
-                r"//div[@class='feed-card']//div[@class='feed-brief-card']/a/@href")
-            # 直接匹配出网址了,草!
-            urls = [
-                f"https://m.ds.163.com{url}"
-                for url in urlList
-            ]
+    try:
+        # 列表不能为 varchar 类型
+        c.execute('''
+        insert into `{}` (title,url,html) values (?,?,?)
+        '''.format("SkyDaily"), (title, url, html))
+        conn.commit()
 
-        except Exception as e:
-            log.logger.warning(f"解析文章链接错误! {e}")
-            return False
-        return urls
+    except sqlite3.IntegrityError:
+        # log.logger.warning(f"{url}数据已存在")
+        return True
+    except Exception as e:
+        log.logger.critical(f"{url}其他错误: {e}")
+        return False
+    else:
+        log.logger.info(f"发现新数据{url}插入成功！")
+        return True
 
-    def parse(self, article_url) -> list:
-        '''获取文章详细,返回提取后的HTML和标题'''
-        try:
-            resp = requests.get(article_url, headers=self.header).text
-            pat = re.compile(
-                r'<article class="feed-article__content">(.*?)</article>')
-            pat_title = re.compile(
-                r'<h1 class="feed-article__headline mb-l">(.*?)</h1>')
-            html = pat.findall(resp)[0]
-            title = pat_title.findall(resp)[0]
-        except Exception as e:
-            log.logger.warning(f"{article_url}解析失败! {e}")
-            return False, False
 
-        return title, html
+def main():
+    '''主运行函数'''
+    log.logger.info("爬取开始ing......")
+    # 各种实例化
+    mail = EmailService()
+    spider = SkyTask()
+    # 获取链接列表,循环直至成功,应对复杂的网络环境
+    for i in range(11):
+        urls = spider.getIndex()
+        if urls:
+            break
 
-    def disposeHTML(self, html: str):
-        '''处理HTML去除头部广告,添加自适应宽度.'''
-        # 广告中的链接会变的,弃用,改用正则
-        # AD = '<p align="center"><a href="https://app.16163.com/ds/ulinks/?utm_term=wyds_dl_kf_gy_xy_5cb546a0d5456870b97d9424"><img src="https://ok.166.net/reunionpub/ds/kol/20210718/005226-vq0bdpwgsu.png" width="100%" height="100%"></a></p>'
+    log.logger.info(f"共获取到{len(urls)}条链接.")
 
-        # 高宽自适应,匹配所有,异常处理
-        try:
-            html = html.replace("<p><br></p>", "")  # 替换掉分割线
-            # 去除广告,可能误杀,我的垃圾正则技术.
-            html = re.sub(r"<p[\S\s]+</a></p>", "", html)
-            html = re.sub(r'width="[0-9]*"', 'width="100%"', html)
-            html = re.sub(r'height="[0-9]*"', 'height="100%"', html)
+    urls.reverse()  # 列表倒叙,从旧到新
+    count = 0
+    for url in urls:
+        # 解析单个文章
+        # 重试
+        for i in range(11):
+            title, html = spider.parse(url)
+            if html:
+                break
 
-        except Exception as e:
-            log.logger.warning(f"文章净化失败! {e}")
+        # 处理
+        html, md = spider.parseArticle(html)
 
-        return html
+        # 入库
+        if writeSQL(title, url, html):
+            count += 1
+            # 写入文件
+            md_path, html_content = spider.writeDoc(md, html, title)
+            mail.send_emails(html_content, fileList=[md_path, "run.log"]) # 支持多邮箱发送.
 
-    def makedir(self):
-        '''新建目录'''
-        if not os.path.exists("markdown"):
-            os.mkdir("markdown")
-        if not os.path.exists("html"):
-            os.mkdir("html")
-
-    def __getTitle(self, md: str) -> str:
-        '''弃用:获取md文件的第一行'''
-        return md.splitlines()[0]
-
-    def checkNameValid(self, name=None):
-        '''文件夹符合规范'''
-        if name is None:
-            print("name is None!")
-            return
-        reg = re.compile(r'[\\/:*?"<>|\r\n]+')
-        valid_name = reg.findall(name)
-        if valid_name:
-            for nv in valid_name:
-                name = name.replace(nv, "_")
-        return name
-
-    def docs_exist(self, file_name):
-        '''TODO: 文件重名自适应,递归,'''
-        if os.path.exists(os.path.join("html", "%s.html" % (file_name))):
-            pass
-
-    def writeDoc(self, md: str, html: str, title: str):
-        '''写文件 传入md,html字符串和标题,返回md文件的位置和处理后html内容'''
-        MDheader = '''---
-title: %s
-date: %s
-categories: Sky光•遇
-tags: [Sky光•遇,%s]
-description: 
-index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
-banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
----''' % (title, time.strftime("%Y-%m-%d %H:%M:%S"), title)
-
-        # 构造文件名
-        strtime = time.strftime("%Y-%m-%d")
-        file_name = "%s %s" % (strtime, self.checkNameValid(title))
-        md = f"{MDheader}\n# {title}\n{md}"  # 为md文件加标题和博客头
-        html = f"<h1>{title}</h1>{html}"  # 为 html 添加标题
-
-        # 重名处理
-        if os.path.exists(os.path.join("html", "%s.html" % (file_name))):
-            file_name = "%s[%s]" % (file_name, random.randint(0, 9999))
-
-        # 写文件
-        self.makedir()  # 建目录
-
-        # 在 html 目录中写文件
-        with open(os.path.join("html", "%s.html" % (file_name)), "w", encoding="utf8") as h:
-            h.write(html)
-
-        # 在 docs 目录中写文件
-        with open(os.path.join("docs", "%s.md" % (file_name)), "w", encoding="utf8") as m:
-            m.write(md)
-
-        # 在 reademe.md 中写文件
-        with open("README.md", "w", encoding="utf8") as mm:
-            mm.write(md)
-        # 在 reademe.md 中写文件
-        with open("readme.txt", "w", encoding="utf8") as mm:
-            mm.write(md)
-
-        log.logger.info(f"{file_name} 保存成功!")
-        return os.path.join("docs", "%s.md" % (file_name)), html
-
-    def parseArticle(self, htmlData):
-        '''
-        解析文章内容,传入匹配出来的html,转为 markdown 格式
-        并保存处理后的HTML MD文件
-        '''
-
-        html = self.disposeHTML(htmlData)
-        md = html2text.html2text(html)
-
-        return html, md
+    log.logger.info(f"处理完成! 新数据条数:{count}")
 
 
 if __name__ == "__main__":
-    sky = SkyTask()
-    # sky.writeDoc("# 测试", "<h1>测试</h1>", "1")
+    main()
