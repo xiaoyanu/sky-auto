@@ -57,7 +57,15 @@ class SkyTask(object):
                 r'<article class="feed-article__content">(.*?)</article>')
             pat_title = re.compile(
                 r'<h1 class="feed-article__headline mb-l">(.*?)</h1>')
+            if html:
+                html = html[0]
+            else:
+                heml = ""
             html = pat.findall(resp)[0]
+            if title:
+                title = title[0]
+            else:
+                title = ""
             title = pat_title.findall(resp)[0]
         except Exception as e:
             log.logger.warning(f"{article_url}解析失败! {e}")
