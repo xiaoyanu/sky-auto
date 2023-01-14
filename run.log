@@ -69,3 +69,33 @@
 2023-01-15 00:33:54,880 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
 2023-01-15 00:34:03,949 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
 2023-01-15 00:34:08,954 - main.py [line:85] - INFO: 处理完成! 新数据条数:9
+2023-01-15 00:47:07,244 - main.py [line:53] - INFO: 爬取开始ing......
+2023-01-15 00:47:10,729 - main.py [line:63] - INFO: 共获取到9条链接.
+2023-01-15 00:47:12,688 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[8293] 保存成功!
+2023-01-15 00:47:16,764 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:47:25,933 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:47:32,897 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[3778] 保存成功!
+2023-01-15 00:47:37,266 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:47:46,702 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:47:53,546 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[4777] 保存成功!
+2023-01-15 00:47:57,547 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:48:06,483 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:48:13,428 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[7844] 保存成功!
+2023-01-15 00:48:17,691 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:48:27,076 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:48:33,979 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[1309] 保存成功!
+2023-01-15 00:48:38,152 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:48:47,376 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:48:55,858 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[8492] 保存成功!
+2023-01-15 00:48:59,866 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:49:08,917 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:49:15,731 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[9180] 保存成功!
+2023-01-15 00:49:19,967 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:49:29,109 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:49:36,124 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[5659] 保存成功!
+2023-01-15 00:49:40,726 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:49:49,993 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:49:57,379 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:169] - INFO: 2023-01-15 每日任务 大蜡烛 季节蜡烛 免费魔法[6952] 保存成功!
+2023-01-15 00:50:01,608 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: 1872786834@qq.com邮件推送成功!
+2023-01-15 00:50:10,802 - /home/runner/work/sky-auto/sky-auto/email_service.py [line:86] - INFO: whalefall9420@outlook.com邮件推送成功!
+2023-01-15 00:50:15,802 - main.py [line:85] - INFO: 处理完成! 新数据条数:9
