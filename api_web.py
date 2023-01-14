@@ -23,7 +23,7 @@ class SkyTask(object):
     def __init__(self) -> None:
         '''初始化方法,用手机UA请求'''
         self.header = {
-            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 Edg/108.0.0.0",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Mobile Safari/537.36",
         }
         # 光遇小管家主页
         self.index_url = "https://m.ds.163.com/user/0c565eef3c904d84b23f5624ff67f853"
@@ -38,7 +38,6 @@ class SkyTask(object):
             html = etree.HTML(resp)
             urlList = html.xpath(
                 r"//div[@class='feed-card']//div[@class='feed-brief-card']/a/@href")
-            print(urlList)
             # 直接匹配出网址了,草!
             urls = [
                 f"https://m.ds.163.com{url}"
@@ -54,23 +53,12 @@ class SkyTask(object):
         '''获取文章详细,返回提取后的HTML和标题'''
         try:
             resp = requests.get(article_url, headers=self.header).text
-            # 把源码保存起来研究
-            with open("./a.html", mode='w', encoding='utf-8') as f:
-                f.write(resp)
             pat = re.compile(
                 r'<article class="feed-article__content">(.*?)</article>')
             pat_title = re.compile(
                 r'<h1 class="feed-article__headline mb-l">(.*?)</h1>')
-            html = pat.findall(resp)
-            if html:
-                html = html[0]
-            else:
-                html = ""
-            title = pat_title.findall(resp)
-            if title:
-                title = title[0]
-            else:
-                title = ""
+            html = pat.findall(resp)[0]
+            title = pat_title.findall(resp)[0]
         except Exception as e:
             log.logger.warning(f"{article_url}解析失败! {e}")
             return False, False
@@ -158,9 +146,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
         # 在 reademe.md 中写文件
         with open("README.md", "w", encoding="utf8") as mm:
-            mm.write(md)
-        # 在 reademe.md 中写文件
-        with open("readme.txt", "w", encoding="utf8") as mm:
             mm.write(md)
 
         log.logger.info(f"{file_name} 保存成功!")
