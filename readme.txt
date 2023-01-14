@@ -1,6 +1,6 @@
 ---
 title: 每日任务 大蜡烛 季节蜡烛 免费魔法
-date: 2023-01-12 13:43:27
+date: 2023-01-14 21:49:32
 categories: Sky光•遇
 tags: [Sky光•遇,每日任务 大蜡烛 季节蜡烛 免费魔法]
 description: 
@@ -10,95 +10,95 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 每日任务 大蜡烛 季节蜡烛 免费魔法
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **1月12日 星期四**
+ **1月14日 星期六**
 
-  **  禁阁**
+  **  雨林**
 
-![](https://img.166.net/reunionpub/ds/kol/20230112/003317-zhnk42vpsl.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230114/001528-97e2pj4zks.jpeg)
 
- **任务一：向一位玩家鞠躬 0/1**
+ **任务一：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
+陌生玩家一起坐在石凳上即可完成
 
- **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
-![](https://img.166.net/reunionpub/ds/kol/20230112/000145-rqvzie5tnk.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230114/000240-wy30g9qd6s.jpeg)
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+ **任务二：在雨林重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁四层**
+ **位置：雨林 密林遗迹**
 
- **先祖：拳礼武僧[动作]**
+ **先祖：歉意伐木工[动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230112/001049-o90jt7peqr.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230114/000316-nzjmgsu7hi.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230112/001331-zvjb83okf2.jpeg)
-
- **任务三：掀翻5只螃蟹 0/5**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+1.点燃一堆大蜡烛
 
- **推荐地图：暮土 云野圣岛**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20230112/000929-rn81497l02.jpeg)
+ **推荐地图：云野 霞谷 禁阁 遇境**
 
- **任务四：在禁阁追逐散落的星光 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230114/000336-4q75ylsgei.jpeg)
+
+ **任务四：收集橙色光芒 0/1**
 
 完成方法：
 
-靠近星光即可完成
+靠近光芒即可完成
 
- **位置：禁阁一层**
+ **位置：雨林 密林遗迹  **
 
-![](https://img.166.net/reunionpub/ds/kol/20230112/001010-2azhcoev4n.png)
+![](https://img.166.net/reunionpub/ds/kol/20230114/000427-pe340du29r.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
  **季节蜡烛**
 
- **地图： 禁阁**
+ **地图： 雨林**
 
- **位置：禁阁A组**
+ **位置：雨林B组  **
 
-  
-
-![](https://img.166.net/reunionpub/ds/kol/20230112/001743-5uiol490wd.png)
+![](https://img.166.net/reunionpub/ds/kol/20230113/235011-9ab4vkq2cw.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **伊甸之眼坠落碎片位置**
 
- **无**
+ **雨林**
+
+ **灼热碎片 [红石]：**
+
+具体位置： **雨林神庙**
+
+坠落时间： **10、14、22** 小时的08分40秒左右～50分
+
+清理方式：净化红石碎片周围黑暗植物，并 **完成净化任务**
+
+获取货币：升华蜡烛
+
+注：此坠落点 **可完成  **[破晓季] 季节任务
+
+![](https://img.166.net/reunionpub/ds/kol/20230114/001025-0ypq2ojzw8.jpeg)
+
+或
+
+![](https://img.166.net/reunionpub/ds/kol/20230114/001044-059j8iflg4.jpeg)
 
  ****
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
-**旅行先祖**
-
- **归属季——不舍家长**
-
-复刻时间：1/12早上6:00～1/16中午12:00
-
-位置： **暮土 巨兽荒原**
-
-![](https://img.166.net/reunionpub/ds/kol/20230112/002853-1p4fst3vnm.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230112/002904-689ksova3b.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230112/014505-slwyn5o20g.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
-
- **大蜡烛**
+**大蜡烛**
 
  **地图：云野 雨林 霞谷 暮土 禁阁**
 
@@ -266,7 +266,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+ **返老还童x1 长大成人x1**
 
  **魔法商店：**
 
@@ -274,17 +274,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230112/003041-1e60987qwu.png)
-
-  
+![](https://img.166.net/reunionpub/ds/kol/20230113/235215-k36f1q4zbc.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
-![](https://img.166.net/reunionpub/ds/kol/20230109/001158-e9jhw53rav.png)
+![](https://img.166.net/reunionpub/ds/kol/20230113/235136-vmolnaycgw.png)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
 感谢观看
 
-\-----------网易大神：Sky孤独旅
+\-----------网易大神：Sky孤独旅人
 
