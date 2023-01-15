@@ -1,0 +1,21 @@
+2023-01-15 10:33:38,409 - main.py [line:53] - INFO: 爬取开始ing......
+2023-01-15 10:33:39,704 - main.py [line:63] - INFO: 共获取到9条链接.
+2023-01-15 10:33:41,091 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63b84dce849ee20001994470/插入成功！
+2023-01-15 10:33:41,092 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:154] - INFO: 2023-01-15 _div_每日任务 大蜡烛 季节蜡烛 免费魔法_/div_ 保存成功!
+2023-01-15 10:33:42,453 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63b99b333408360001497d78/插入成功！
+2023-01-15 10:33:42,454 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:154] - INFO: 2023-01-15 _div_每日任务 大蜡烛 季节蜡烛 免费魔法_/div_ 保存成功!
+2023-01-15 10:33:43,341 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63baec5c74424700012d9d3b/插入成功！
+2023-01-15 10:33:43,342 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:154] - INFO: 2023-01-15 _div_每日任务 大蜡烛 季节蜡烛 免费魔法_/div_ 保存成功!
+2023-01-15 10:33:44,681 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63bc3f8d0c8dc60001b27d75/插入成功！
+2023-01-15 10:33:44,681 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:154] - INFO: 2023-01-15 _div_每日任务 大蜡烛 季节蜡烛 免费魔法_/div_ 保存成功!
+2023-01-15 10:33:45,544 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63bd8ff5c5a325000181438c/插入成功！
+2023-01-15 10:33:45,545 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:154] - INFO: 2023-01-15 _div_每日任务 大蜡烛 季节蜡烛 免费魔法_/div_ 保存成功!
+2023-01-15 10:33:46,870 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63bee5137442470001dab692/插入成功！
+2023-01-15 10:33:46,871 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:154] - INFO: 2023-01-15 _div_每日任务 大蜡烛 季节蜡烛 免费魔法_/div_ 保存成功!
+2023-01-15 10:33:47,752 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63c033403408360001bd8d59/插入成功！
+2023-01-15 10:33:47,753 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:154] - INFO: 2023-01-15 _div_每日任务 大蜡烛 季节蜡烛 免费魔法_/div_ 保存成功!
+2023-01-15 10:33:49,108 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63c183fa849ee2000119139a/插入成功！
+2023-01-15 10:33:49,108 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:154] - INFO: 2023-01-15 _div_每日任务 大蜡烛 季节蜡烛 免费魔法_/div_ 保存成功!
+2023-01-15 10:33:50,087 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63c2d84bc5a32500017cc2ef/插入成功！
+2023-01-15 10:33:50,088 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:154] - INFO: 2023-01-15 _div_每日任务 大蜡烛 季节蜡烛 免费魔法_/div_ 保存成功!
+2023-01-15 10:33:50,088 - main.py [line:85] - INFO: 处理完成! 新数据条数:9
