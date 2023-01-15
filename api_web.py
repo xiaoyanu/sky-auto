@@ -73,6 +73,8 @@ class SkyTask(object):
         # 高宽自适应,匹配所有,异常处理
         try:
             html = html.replace("<p><br></p>", "")  # 替换掉分割线
+            html = html.replace("<div>", "")  # 替换掉DIV
+            html = html.replace("</div>", "")  # 替换掉DIV
             # 去除广告,可能误杀,我的垃圾正则技术.
             html = re.sub(r"<p[\S\s]+</a></p>", "", html)
             html = re.sub(r'width="[0-9]*"', 'width="100%"', html)
