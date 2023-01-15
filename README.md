@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-01-15 13:07:39
+date: 2023-01-16 00:31:38
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,103 +10,69 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **1月15日 星期日**
+ **1月16日 星期一**
 
-  **  霞谷**
+  **  暮土**
 
-![](https://img.166.net/reunionpub/ds/kol/20230115/002730-ts4vyb7oiw.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230116/002038-mvsdn86wpu.jpeg)
 
- **任务一：向一位朋友招手 0/1**
+ **任务一：给一位朋友送礼 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成即可
+1.点击好友 找到击掌右边的礼物 花费3根普通蜡烛并送给对方爱心后即可完成
 
- **注：1～6级动作均可完成**
+2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
 
-![](https://img.166.net/reunionpub/ds/kol/20230115/000153-nfjs93w8hb.png)
+ **[第一种 二种任选其一完成即可]**
 
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230116/000248-os52nc1qvk.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20230116/000259-tslhgq5zay.jpeg)
+
+ **任务二：在暮土重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 滑冰场**
+ **位置：暮土 边陲荒漠**
 
- **先祖：跳跃舞者 [动作]**
+ **先祖：昏厥战士 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230115/061838-i0y5c6lbgs.png)
+![](https://img.166.net/reunionpub/ds/kol/20230116/000350-tgjp80e6no.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230115/061849-uremoy817q.png)
+![](https://img.166.net/reunionpub/ds/kol/20230116/000408-j17wsr24a9.png)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
-
-完成方法一：
-
-拿出心火光影燃烧黑暗藤蔓拯救遥鲲即可完成
-
- **位置：雨林 密林遗迹 [水母图/断桥图]**
-
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/ds/kol/20230115/001349-h7a2v5s3je.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20230115/001324-pm2g14ovd3.png)
-
-完成方法二：
-
-前往 **  [风行网道] **重温 **剧情任务五**  燃烧黑暗植物 拯救遥鲲即可
-
- **位置：雨林 风行网道**
-
-![](https://img.166.net/reunionpub/ds/kol/20230115/001401-o4uekassdg.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230115/001429-0pkwcm1fq8.png)
-
- **任务四：在滑冰场旁冥想 0/1**
+ **任务三：收集30点烛光 0/30**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+1.领取任务
 
- **位置：霞谷 滑冰场**
+2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
-![](https://img.166.net/reunionpub/ds/kol/20230115/001500-1v49dos6t8.png)
+![](https://img.166.net/reunionpub/ds/kol/20230116/000430-n7bo8semyr.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230115/062918-7j4gvc8ut1.png)
+ **任务四：收集红色光芒  **
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：暮土  1.遗忘方舟 2.黑水港湾（沉船图）**
+
+ ***注：此光芒共有两处位置任选其一完成即可**
+
+![](https://img.166.net/reunionpub/ds/kol/20230116/000454-542h6sq7dr.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230116/000502-3jzf2qcrso.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
- **季节蜡烛**
-
- **地图： 霞谷**
-
- **位置：霞谷A组  **
-
-![](https://img.166.net/reunionpub/ds/kol/20230115/000115-640jdclq38.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
-
  **伊甸之眼坠落碎片位置**
 
- **霞谷**
-
- **灼热碎片 [红石]：**
-
-具体位置： **雪隐峰**
-
-坠落时间： **7、13、19** 小时的08分40秒左右～50分
-
-清理方式：净化红石碎片周围黑暗植物，并 **完成净化任务**
-
-获取货币：升华蜡烛
-
-注：此坠落点 **可完成  **[破晓季] 季节任务
-
-![](https://img.166.net/reunionpub/ds/kol/20230115/002210-lnmjk12pf4.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230115/002221-7cos10wnyv.jpeg)
+无
 
  ****
 
@@ -280,7 +246,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体型重塑x1 绚丽彩虹x1**
+ **浪漫烟花x1**
 
  **魔法商店：**
 
@@ -288,11 +254,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230115/002336-p9dv271eyk.png)
+![](https://img.166.net/reunionpub/ds/kol/20230116/000037-u8spm091o4.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
-![](https://img.166.net/reunionpub/ds/kol/20230113/235136-vmolnaycgw.png)
+![](https://img.166.net/reunionpub/ds/kol/20230116/000147-i1ucqyb0pl.png)
+
+ **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
+
+ **注解：**
+
+好友星盘¹
+
+![](https://img.166.net/reunionpub/ds/kol/20230116/001942-0m9u3qyhgr.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
