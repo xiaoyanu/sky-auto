@@ -1,6 +1,6 @@
 ---
 title: 每日任务 大蜡烛 季节蜡烛 免费魔法
-date: 2023-01-15 00:49:57
+date: 2023-01-15 10:17:32
 categories: Sky光•遇
 tags: [Sky光•遇,每日任务 大蜡烛 季节蜡烛 免费魔法]
 description: 
@@ -32,13 +32,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：霞谷 滑冰场 [小双人门内]**
+ **位置：霞谷 滑冰场**
 
  **先祖：跳跃舞者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230115/001237-d69rqy7cle.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230115/061838-i0y5c6lbgs.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230115/001248-5w7qssc3o9.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230115/061849-uremoy817q.png)
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
@@ -70,11 +70,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：禁阁 滑冰场**
+ **位置：霞谷 滑冰场**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230115/001500-1v49dos6t8.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230115/001517-bipoe84my0.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230115/062918-7j4gvc8ut1.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
