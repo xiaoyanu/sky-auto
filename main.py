@@ -55,7 +55,7 @@ def main():
     mail = EmailService()
     spider = SkyTask()
     # 获取链接列表,循环直至成功,应对复杂的网络环境
-    for i in range(11):
+    for i in range(3):
         urls = spider.getIndex()
         if urls:
             break
@@ -67,7 +67,7 @@ def main():
     for url in urls:
         # 解析单个文章
         # 重试
-        for i in range(11):
+        for i in range(3):
             title, html = spider.parse(url)
             if html:
                 break
