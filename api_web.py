@@ -58,8 +58,7 @@ class SkyTask(object):
             pat_title = re.compile(
                 r'<h1 class="feed-article__headline">(.*?)</h1>')
             html = pat.findall(resp)[0]
-            html = html.replace("<div>", "")  # 替换掉DIV
-            html = html.replace("</div>", "")  # 替换掉DIV
+            html = "光遇每日任务标题" #去出DIV
             title = pat_title.findall(resp)[0]
         except Exception as e:
             log.logger.warning(f"{article_url}解析失败! {e}")
