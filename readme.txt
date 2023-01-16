@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-01-16 00:31:38
+date: 2023-01-16 13:24:18
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,7 +8,7 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-**每日任务 大蜡烛 季节蜡烛 免费魔法**
+**每日任务 大蜡烛 免费魔法**
 
  **1月16日 星期一**
 
@@ -26,9 +26,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **[第一种 二种任选其一完成即可]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230116/000248-os52nc1qvk.png)
+![](https://img.166.net/reunionpub/ds/kol/20230116/012850-ibnlpz7ut6.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230116/000259-tslhgq5zay.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230116/013415-jmibes8uc9.jpeg)
 
  **任务二：在暮土重温先祖的美好回忆 0/1**
 
@@ -40,9 +40,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：昏厥战士 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230116/000350-tgjp80e6no.png)
+![](https://img.166.net/reunionpub/ds/kol/20230116/014359-yb92l0i3ez.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230116/000408-j17wsr24a9.png)
+![](https://img.166.net/reunionpub/ds/kol/20230116/014410-id9lzm8gh3.jpeg)
 
  **任务三：收集30点烛光 0/30**
 
@@ -60,13 +60,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 靠近光芒即可完成
 
- **位置：暮土  1.遗忘方舟 2.黑水港湾（沉船图）**
+ **位置：暮土  1.遗忘方舟 2.黑水港湾**
 
  ***注：此光芒共有两处位置任选其一完成即可**
 
-![](https://img.166.net/reunionpub/ds/kol/20230116/000454-542h6sq7dr.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230116/015445-fhkdq7enmy.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230116/000502-3jzf2qcrso.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230116/015458-135gnlea04.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
