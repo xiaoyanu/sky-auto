@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-01-16 13:24:18
+date: 2023-01-17 13:47:49
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,63 +10,51 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 免费魔法**
 
- **1月16日 星期一**
+ **1月17日 星期二**
 
   **  暮土**
 
-![](https://img.166.net/reunionpub/ds/kol/20230116/002038-mvsdn86wpu.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230117/133203-s5zjicd6pv.jpeg)
 
- **任务一：给一位朋友送礼 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-1.点击好友 找到击掌右边的礼物 花费3根普通蜡烛并送给对方爱心后即可完成
+在 好友星盘¹ 接受好友赠送的 **爱心/心火** 即可完成
 
-2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
+![](https://img.166.net/reunionpub/ds/kol/20230117/133238-jmlkv4ifnd.jpeg)
 
- **[第一种 二种任选其一完成即可]**
-
-![](https://img.166.net/reunionpub/ds/kol/20230116/012850-ibnlpz7ut6.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230116/013415-jmibes8uc9.jpeg)
-
- **任务二：在暮土重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 边陲荒漠**
+ **位置：禁阁四层**
 
- **先祖：昏厥战士 [动作]**
+ **先祖：静光学者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230116/014359-yb92l0i3ez.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230117/134341-jwlts3fq1d.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230116/014410-id9lzm8gh3.jpeg)
-
- **任务三：收集30点烛光 0/30**
+ **任务三：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-1.领取任务
+点击人物头部长按大叫即可掀翻螃蟹
 
-2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
+ **推荐地图：暮土 云野圣岛**
 
-![](https://img.166.net/reunionpub/ds/kol/20230116/000430-n7bo8semyr.png)
+![](https://img.166.net/reunionpub/ds/kol/20230117/133620-s0vedym6un.jpeg)
 
- **任务四：收集红色光芒  **
+ **任务四：收集紫色光芒 0/1**
 
 完成方法：
 
 靠近光芒即可完成
 
- **位置：暮土  1.遗忘方舟 2.黑水港湾**
+ **位置：禁阁一层 右侧隐藏图 [垂直迷宫]**
 
- ***注：此光芒共有两处位置任选其一完成即可**
-
-![](https://img.166.net/reunionpub/ds/kol/20230116/015445-fhkdq7enmy.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230116/015458-135gnlea04.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230117/133647-de5k8abs7p.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
@@ -246,7 +234,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法商店：**
 
@@ -254,7 +242,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230116/000037-u8spm091o4.png)
+![](https://img.166.net/reunionpub/ds/kol/20230117/134000-9dz0ykjsb2.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
