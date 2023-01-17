@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-01-17 13:47:49
+date: 2023-01-18 00:49:58
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,57 +10,91 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 免费魔法**
 
- **1月17日 星期二**
+ **1月18日 星期三**
 
-  **  暮土**
+  **  云野**
 
-![](https://img.166.net/reunionpub/ds/kol/20230117/133203-s5zjicd6pv.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230118/004057-ywtln9kgv2.jpeg)
 
- **任务一：接受一位朋友的礼物 0/1**
+ **任务一：与4位玩家牵手组队 0/1**
 
-完成方法：
+完成方法一：
 
-在 好友星盘¹ 接受好友赠送的 **爱心/心火** 即可完成
+与4位玩家牵手即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20230117/133238-jmlkv4ifnd.jpeg)
+ **注：自己也算其中的四分之一**
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230118/000323-69vpbeoj0k.png)
+
+完成方法二：
+
+前往 [ **圆梦村剧场¹** ] 重温 **剧情任务四**  任意选择三位先祖牵手即可
+
+![](https://img.166.net/reunionpub/ds/kol/20230118/000353-c7edn8gk4i.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20230118/000405-ryieaw0h4q.jpeg)
+
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁四层**
+ **位置：云野 圣岛**
 
- **先祖：静光学者 [动作]**
+ **先祖：固执登山者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230117/134341-jwlts3fq1d.png)
+![](https://img.166.net/reunionpub/ds/kol/20230118/001859-lwjopq8snm.jpeg)
 
- **任务三：掀翻5只螃蟹 0/5**
+![](https://img.166.net/reunionpub/ds/kol/20230118/001933-tn6bhyz9gq.jpeg)
 
-完成方法：
-
-点击人物头部长按大叫即可掀翻螃蟹
-
- **推荐地图：暮土 云野圣岛**
-
-![](https://img.166.net/reunionpub/ds/kol/20230117/133620-s0vedym6un.jpeg)
-
- **任务四：收集紫色光芒 0/1**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-靠近光芒即可完成
+1.点燃一堆大蜡烛
 
- **位置：禁阁一层 右侧隐藏图 [垂直迷宫]**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20230117/133647-de5k8abs7p.jpeg)
+ **推荐地图：云野 霞谷 禁阁 遇境**
+
+![](https://img.166.net/reunionpub/ds/kol/20230118/002013-86ut7qpsyr.jpeg)
+
+ **任务四：在仙乡的金塔下冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：云野 云中仙乡 [三塔图]**
+
+![](https://img.166.net/reunionpub/ds/kol/20230118/002039-onz3e1yu27.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **云野**
+
+ **冷却碎片 [黑石]**
+
+具体位置： **云中仙乡**
+
+坠落时间： **9、15、21小时** 的08分40秒左右～50分
+
+清理方式：净化黑石碎片周围黑暗植物即可
+
+获取货币：烛光 [普通蜡烛/白蜡烛]
+
+注：此坠落点 **不可完成  **[破晓季] 季节任务
+
+![](https://img.166.net/reunionpub/ds/kol/20230118/002459-b5rz0wftio.png)
+
+或
+
+  
+
+![](https://img.166.net/reunionpub/ds/kol/20230118/002521-azfdpue093.jpeg)
 
  ****
 
@@ -234,7 +268,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **光能药剂x1**
+ **璀璨之星x1**
 
  **魔法商店：**
 
@@ -242,7 +276,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230117/134000-9dz0ykjsb2.png)
+![](https://img.166.net/reunionpub/ds/kol/20230118/002202-nijolz5dp3.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
@@ -252,9 +286,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注解：**
 
-好友星盘¹
+ **圆梦村剧场¹**
 
-![](https://img.166.net/reunionpub/ds/kol/20230116/001942-0m9u3qyhgr.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230118/003014-ioykm7421g.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20230118/003034-yfw32jdvli.png)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
