@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-01-22 00:47:39
+date: 2023-01-23 00:31:39
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,103 +10,89 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **1月22日 星期日**
+ **1月23日 星期一**
 
- **禁阁**
+ **云野**
 
-![](https://img.166.net/reunionpub/ds/kol/20230122/003409-0s6bhlj8mi.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230123/001330-dei7aom2t8.jpeg)
 
- **任务一：和陌生人一起坐在长凳上 0/1**
+ **任务一：向一位朋友招手 0/1**
 
 完成方法：
 
-陌生玩家一起坐在石凳上即可完成
+点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成即可
 
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
+ **注：1～6级动作均可完成**
 
-![](https://img.166.net/reunionpub/ds/kol/20230122/000450-01d8jr5t7z.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230123/000035-i6dgn8ue1r.png)
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁一层** 右侧隐藏图 **[禁阁档案阁]**
+ **位置：云野 幽光山洞 [左侧隐藏图]**
 
- **先祖：智慧长者 [站姿]**
+ **先祖：辛劳码头工 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230122/002156-hwsjknv42z.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230123/000131-z54caq2fyb.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230122/001149-aqobjiwk80.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230123/000150-sp1k80nr54.png)
 
- **任务三：净化10株黑暗植物 0/10**
+![](https://img.166.net/reunionpub/ds/kol/20230123/000214-9eb4ivn518.png)
 
-完成方法：
-
-拿出心火蜡烛燃烧10株黑暗植物即可完成
-
- **推荐地图：暮土 雨林 云野圣岛  **
-
-![](https://img.166.net/reunionpub/ds/kol/20230122/001338-u52t416dgr.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230122/001348-6sd01r49lw.jpeg)
-
- **任务四：在禁阁追逐散落的星光 0/1**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-靠近星光即可完成
+1.点燃一堆大蜡烛
 
- **位置：禁阁一层**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20230122/001447-7vrsbpt3qc.png)
+ **推荐地图：云野 霞谷 禁阁 遇境**
+
+![](https://img.166.net/reunionpub/ds/kol/20230123/000236-ycbs895qgo.jpeg)
+
+ **任务四：在云野的锦鲤池旁冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：云野 云中仙乡 [三塔图]**
+
+![](https://img.166.net/reunionpub/ds/kol/20230123/000257-1gryzum8wb.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **季节蜡烛**
 
- **禁阁**
+ **云野**
 
  **位置：**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230122/002537-nwoec3742m.png)
+![](https://img.166.net/reunionpub/ds/kol/20230123/000415-e9huto0p2q.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230122/002551-yzodkirlv3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230123/000435-zjtys5a1fm.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230122/002601-ris9us7fbl.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230123/000449-ujms0zp7h3.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230122/002613-ozgv58rkis.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230123/000501-7qwltcu9py.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
  **伊甸之眼坠落碎片位置**
 
- **禁阁**
-
- **灼热碎片 [红石]：**
-
- **具体位置：星光沙漠**
-
- **坠落时间：7** 、 **13** 、 **19** 小时的08分40秒左右～50分
-
- **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币：** 升华蜡烛
-
- **注：此坠落点可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20230122/002902-y7u386aels.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230122/002954-9d5j8zvwcf.jpeg)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
@@ -282,7 +268,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体型重塑x1 绚丽彩虹x1**
+ **浪漫烟花x1**
 
  **魔法商店：**
 
@@ -290,11 +276,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230121/234632-udm5gnkvo9.png)
+![](https://img.166.net/reunionpub/ds/kol/20230123/001001-duflg642za.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
-![](https://img.166.net/reunionpub/ds/kol/20230121/234516-dw2nbkh5s4.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230123/001030-h6te9voprz.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
