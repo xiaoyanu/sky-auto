@@ -315,3 +315,6 @@
 2023-01-27 00:32:42,259 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/63d2a8b7849ee200013b0bad/插入成功！
 2023-01-27 00:32:42,260 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-01-27 光遇每日任务标题 保存成功!
 2023-01-27 00:32:42,260 - main.py [line:85] - INFO: 处理完成! 新数据条数:1
+2023-01-27 00:49:17,402 - main.py [line:53] - INFO: 爬取开始ing......
+2023-01-27 00:49:18,546 - main.py [line:63] - INFO: 共获取到9条链接.
+2023-01-27 00:49:35,916 - main.py [line:85] - INFO: 处理完成! 新数据条数:0
