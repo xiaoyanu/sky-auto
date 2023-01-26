@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-01-26 00:33:33
+date: 2023-01-27 00:32:42
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,91 +10,97 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **1月26日 星期四**
+ **1月27日 星期五**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20230126/003051-h6798p24cb.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230127/002009-4ip0dm2r9b.jpeg)
 
- **任务一：2人合力开启一道门 0/1**
-
-完成方法：
-
-两位玩家协力开启一道门即可完成
-
-![](https://img.166.net/reunionpub/ds/kol/20230126/000244-u4hy6gv1bi.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230126/000253-7r5julae61.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230126/000305-khricwqp3g.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230126/000312-f7nlibjzrs.jpg)
-
- **任务二：在暮土重温先祖的美好回忆 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-点燃先祖重温回忆
+在 好友星盘¹ 接受好友赠送的 **爱心/心火** 即可完成
 
- **位置：暮土 巨兽荒原 [四龙图]**
+![](https://img.166.net/reunionpub/ds/kol/20230127/000227-rz3uktqi2f.jpeg)
 
- **先祖：致敬钢琴家 [动作]**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
-![](https://img.166.net/reunionpub/ds/kol/20230126/001709-7a6prg1dhf.jpg)
+完成方法：点燃先祖重温回忆
 
- **任务三：净化10株黑暗植物 0/10**
+ **位置：禁阁四层**
+
+ **先祖：禅修院士 [动作]**
+
+ **注：需用祈祷动作收集**
+
+![](https://img.166.net/reunionpub/ds/kol/20230127/000318-vmugzs0p3o.jpeg)
+
+ **任务三：面对冥龙 0/1**
 
 完成方法：
 
-拿出心火蜡烛燃烧10株黑暗植物即可完成
+被冥龙锁定变成红光即可完成
 
- **推荐地图：暮土 雨林 云野圣岛**
+ **推荐地图：暮土/暴风眼**
 
-![](https://img.166.net/reunionpub/ds/kol/20230126/001906-9wlcosayki.jpeg)
+ **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
-![](https://img.166.net/reunionpub/ds/kol/20230126/001920-bg6sacfrkh.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230127/000349-ko0tgjs36a.jpeg)
 
- **任务四：在边陲荒漠的神殿里冥想 0/1**
+ **任务四：在禁阁顶层神坛旁冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 边陲荒漠**
+ **位置：禁阁顶层**
 
-![](https://img.166.net/reunionpub/ds/kol/20230126/001942-thagekjm21.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230126/001953-6ugsf218eb.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230127/000414-ncrledf4o8.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **季节蜡烛**
 
- **暮土**
+ **禁阁**
 
  **位置：**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230126/002533-ao7t5ql9fy.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230127/000945-40r2jz1qsi.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230126/002544-k6y9cnweoz.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230127/000954-o21v597q4d.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230126/002602-apit6z7d8o.png)
+![](https://img.166.net/reunionpub/ds/kol/20230127/001004-0ey37b2qp6.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230126/002614-l92mz8knib.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230127/001014-wbh5so4ecq.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **禁阁**
+
+ **灼热碎片 [红石]：**
+
+ **具体位置：星光沙漠**
+
+ **坠落时间：** 11、17、23小时的08分40秒左右～50分
+
+ **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币：** 升华蜡烛
+
+ **注：此坠落点可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol/20230127/001245-r582y1mkse.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
@@ -290,7 +296,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+ **大只佬x1 小不点x1**
 
  **魔法商店：**
 
@@ -298,11 +304,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230126/002735-no2dgs5fv4.png)
+![](https://img.166.net/reunionpub/ds/kol/20230127/001524-bdriszfyjq.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230123/001030-h6te9voprz.jpeg)
+
+ **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
+
+ **注解：**
+
+好友星盘
+
+![](https://img.166.net/reunionpub/ds/kol/20230127/001401-uyzv56hqbm.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
