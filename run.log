@@ -335,3 +335,7 @@
 2023-01-28 00:49:23,210 - main.py [line:53] - INFO: 爬取开始ing......
 2023-01-28 00:49:24,739 - main.py [line:63] - INFO: 共获取到9条链接.
 2023-01-28 00:49:37,993 - main.py [line:85] - INFO: 处理完成! 新数据条数:0
+2023-01-28 13:22:50,613 - main.py [line:53] - INFO: 爬取开始ing......
+2023-01-28 13:22:57,068 - main.py [line:63] - INFO: 共获取到9条链接.
+2023-01-28 13:23:43,247 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:64] - WARNING: https://m.ds.163.com/article/63ceb30f34083600015d81cf/解析失败! HTTPSConnectionPool(host='m.ds.163.com', port=443): Max retries exceeded with url: /article/63ceb30f34083600015d81cf/ (Caused by SSLError(SSLError(1, '[SSL: KRB5_S_TKT_NYV] unexpected eof while reading (_ssl.c:1091)')))
+2023-01-28 13:23:52,204 - main.py [line:85] - INFO: 处理完成! 新数据条数:0
