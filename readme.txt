@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-01-31 00:34:03
+date: 2023-02-01 00:34:03
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,37 +10,35 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **1月31日 星期二**
+ **2月1日 星期三**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20230131/001339-zejkwntv32.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230201/001711-eydml4g62r.jpeg)
 
- **任务一：给一位朋友送礼 0/1**
+ **任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-1.点击好友 找到击掌右边的礼物 花费3根普通蜡烛并送给对方爱心后即可完成
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
-2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
- **[第一种 二种任选其一完成即可]**
+![](https://img.166.net/reunionpub/ds/kol/20230201/000048-so7ncmy0i8.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230131/000215-fo5zib7ah9.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20230131/000139-6shsqzj84m.png)
-
- **任务二：在暮土重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 黑水港湾**
+ **位置：禁阁四层**
 
- **先祖：行礼舰长 [动作]**
+ **先祖：拳礼武僧 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230131/000328-ywi60slfjq.jpg)
+ **注：重温此先祖需点燃石碑周围蜡烛并进行祈祷**
+
+![](https://img.166.net/reunionpub/ds/kol/20230201/000209-ja17scz3mo.jpg)
 
  **任务三：掀翻5只螃蟹 0/5**
 
@@ -50,43 +48,41 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **推荐地图：暮土 云野圣岛**
 
-![](https://img.166.net/reunionpub/ds/kol/20230131/000351-ijezd5ths0.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230201/000234-ndivblz391.jpeg)
 
- **任务四：在远古战场中央冥想 0/1**
+ **任务四：在禁阁顶层神坛旁冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 远古战场**
+ **位置：禁阁顶层**
 
-![](https://img.166.net/reunionpub/ds/kol/20230131/000415-dq247v30sj.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230131/000424-r08swu65o9.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230201/000336-j09hvrclp1.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **季节蜡烛**
 
- **暮土**
+ **禁阁**
 
  **位置：**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230130/234916-m3sr9vn70p.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230201/000549-fhs6ywukz4.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230130/234928-2iyc7kt6m3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230201/000609-8ykcl2q14a.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230130/234937-m10w6y78jn.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230201/000618-p03omg8zbu.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230130/234947-6jigomr3qv.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230201/000633-qau8hw5pfb.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
@@ -98,31 +94,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
  **暮土**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230131/000513-zm0upt8kgd.png)
+![](https://img.166.net/reunionpub/ds/kol/20230201/000729-6macln5h8q.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230131/000531-2svujrnb8o.png)
+![](https://img.166.net/reunionpub/ds/kol/20230201/000742-gytfejmzca.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230131/000543-4njvp69otl.png)
+![](https://img.166.net/reunionpub/ds/kol/20230201/000751-sekw6tg8nv.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230131/000555-3rip7motjs.png)
+![](https://img.166.net/reunionpub/ds/kol/20230201/000807-7kwjsv4chq.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **光能药剂x1**
+ **璀璨之星x1**
 
  **魔法商店：**
 
@@ -130,7 +126,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230130/235229-pr3glb9cf8.png)
+![](https://img.166.net/reunionpub/ds/kol/20230131/235758-zr5qteubw1.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
