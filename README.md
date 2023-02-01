@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-02-01 00:34:03
+date: 2023-02-01 13:24:17
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -35,8 +35,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **位置：禁阁四层**
 
  **先祖：拳礼武僧 [动作]**
-
- **注：重温此先祖需点燃石碑周围蜡烛并进行祈祷**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230201/000209-ja17scz3mo.jpg)
 
@@ -96,11 +94,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图：禁阁**
 
- **暮土**
-
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230201/000729-6macln5h8q.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230201/020446-jsrd3758uk.png)
 
 第二堆：
 
@@ -108,11 +104,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230201/000751-sekw6tg8nv.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230201/020503-uvn8y6k2cb.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230201/000807-7kwjsv4chq.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230201/020531-dv48umr2jf.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
