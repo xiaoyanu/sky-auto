@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-02-08 00:34:56
+date: 2023-02-09 00:35:16
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,41 +10,33 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **2月8日 星期三**
+ **2月9日 星期四**
 
- **雨林**
+ **霞谷**
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/001916-wyf8qs1k6g.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230209/001841-vit5302mce.jpeg)
 
- **任务一：与4位玩家牵手组队 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
-完成方法一：
+完成方法：
 
-与4位玩家牵手即可完成
+在 好友星盘¹ 接受好友赠送的 **爱心/心火** 即可完成
 
- **注：自己也算其中的四分之一**
+![](https://img.166.net/reunionpub/ds/kol/20230209/000252-gsdktvqo4w.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/000424-vth26spsbo.jpg)
-
-完成方法二：
-
-前往 [ **圆梦村剧场¹** ] 重温 **剧情任务四**  任意选择三位先祖牵手即可
-
-![](https://img.166.net/reunionpub/ds/kol/20230208/000455-2cryhugep8.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20230208/000511-to8sa41cwi.jpeg)
-
- **任务二：在雨林重温先祖的美好回忆 0/1**
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：雨林 荧光森林**
+ **位置：霞谷 霞光城**
 
- **先祖：娇嗔搬运工 [动作]**
+ **先祖：空翻亚军 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/001354-l3fbm8rpyq.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230209/000316-4y2qa8djum.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230209/000328-9ipcqt2j5u.jpeg)
 
  **任务三：点燃20根蜡烛 0/20**
 
@@ -58,39 +50,41 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230208/000555-m7ev9w5krn.jpg)
 
- **任务四：在荧光森林冥想 0/1**
+ **任务四：在霞光城拱门上冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林 荧光森林**
+ **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/000617-v6sbizspj1.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230209/000434-6wnbel2o70.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230209/000442-e4sajvi0qy.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **季节蜡烛**
 
- **雨林**
+ **霞谷**
 
  **位置：**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/000927-ais9r23sj1.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230209/000649-vfqj2dt904.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/000936-r6ynb82s5k.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230209/000658-bzdmaruv6y.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/000944-e8r03s2fst.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230209/000706-hrqub87vms.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/000952-m4uhgwpq29.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230209/000713-0zidvjc2m6.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
@@ -102,31 +96,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/000815-nbs9kfs07a.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230209/001457-481g6knycb.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/000825-algj6vfsu1.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230209/001508-qsw2hcndbv.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/000833-6ktamrc7zs.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230209/001517-8jy04gr9ln.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/000845-mpsdwk8f3v.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230209/001525-8vqry0s9nu.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法商店：**
 
@@ -134,21 +128,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230208/001046-fw7bu8s9yd.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230209/000852-pjvm1asbu4.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230206/001230-f6qupk0szc.png)
-
- **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
-
- **注解：**
-
- **圆梦剧场**
-
-![](https://img.166.net/reunionpub/ds/kol/20230208/001148-ygjkc5vhpb.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230208/001156-oi0mlcsudz.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
