@@ -1,51 +1,52 @@
 #!/usr/bin/python python3
 # coding=utf-8
 '''
-Author: XiaoYanU
-Date: 2023年2月9日
+Author: whalefall
+Date: 2021-07-18 11:18:44
+LastEditTime: 2021-07-22 17:35:09
 Description: 主运行模块
 '''
 from types import MemberDescriptorType
 #from email_service import EmailService 禁用邮件推送
 from api_web import SkyTask
 from log import log
-import sqlite3
+#import sqlite3 禁用数据库
 import os
 
-''' 取消数据库
-def writeSQL(title, url, html) -> bool:
-    '''写入数据库'''
+#取消数据库
+#def writeSQL(title, url, html) -> bool:
+#    '''写入数据库'''
 
-    conn = sqlite3.connect("weibo.db")
-    c = conn.cursor()
+#    conn = sqlite3.connect("weibo.db")
+#    c = conn.cursor()
 
     # 新建SkyDaily表,设置主键为 url
-    c.execute('''create table if not exists `{}` (
-        `title` varchar(225),
-        `url` varchar(225),
-        `html` varchar(225),
-        primary key(`url`)
-    )
-    '''.format("SkyDaily"))
-    conn.commit()
+#    c.execute('''create table if not exists `{}` (
+#        `title` varchar(225),
+#        `url` varchar(225),
+#        `html` varchar(225),
+#        primary key(`url`)
+#    )
+#    '''.format("SkyDaily"))
+#    conn.commit()
 
-    try:
+#    try:
         # 列表不能为 varchar 类型
-        c.execute('''
-        insert into `{}` (title,url,html) values (?,?,?)
-        '''.format("SkyDaily"), (title, url, html))
-        conn.commit()
+#        c.execute('''
+#        insert into `{}` (title,url,html) values (?,?,?)
+#        '''.format("SkyDaily"), (title, url, html))
+#        conn.commit()
 
-    except sqlite3.IntegrityError:
+#    except sqlite3.IntegrityError:
         # log.logger.warning(f"{url}数据已存在")
-        return False
-    except Exception as e:
-        log.logger.critical(f"{url}其他错误: {e}")
-        return False
-    else:
-        log.logger.info(f"发现新数据{url}插入成功！")
-        return True
-'''
+#        return False
+#    except Exception as e:
+#        log.logger.critical(f"{url}其他错误: {e}")
+#        return False
+#    else:
+#        log.logger.info(f"发现新数据{url}插入成功！")
+#        return True
+
 
 def main():
     '''主运行函数'''
@@ -73,14 +74,14 @@ def main():
 
         # 处理
         html, md = spider.parseArticle(html)
-'''取消数据库
-        # 入库
-        if writeSQL(title, url, html):
-            count += 1
+
+        # 入库 取消数据库
+#        if writeSQL(title, url, html):
+#            count += 1
             # 写入文件
-            md_path, html_content = spider.writeDoc(md, html, title)
+#            md_path, html_content = spider.writeDoc(md, html, title)
  #           mail.send_emails(html_content, fileList=[md_path, "run.log"]) # 支持多邮箱发送. 禁用邮件推送
-'''
+
     log.logger.info(f"处理完成! 新数据条数:{count}")
 
 
