@@ -1,9 +1,8 @@
 #!/usr/bin/python python3
 # coding=utf-8
 '''
-Author: whalefall
-Date: 2021-07-18 11:18:44
-LastEditTime: 2021-07-22 17:35:09
+Author: XiaoYanU
+Date: 2023年2月9日15点35分
 Description: 主运行模块
 '''
 from types import MemberDescriptorType
