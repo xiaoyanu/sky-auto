@@ -1,9 +1,8 @@
 #!/usr/bin/python python3
 # coding=utf-8
 '''
-Author: whalefall
-Date: 2021-07-18 11:18:44
-LastEditTime: 2021-07-22 17:35:09
+Author: XiaoYanU
+Date: 2023年2月9日
 Description: 主运行模块
 '''
 from types import MemberDescriptorType
@@ -13,8 +12,8 @@ from log import log
 import sqlite3
 import os
 
-
-#def writeSQL(title, url, html) -> bool: 取消数据库
+''' 取消数据库
+def writeSQL(title, url, html) -> bool:
     '''写入数据库'''
 
     conn = sqlite3.connect("weibo.db")
@@ -46,7 +45,7 @@ import os
     else:
         log.logger.info(f"发现新数据{url}插入成功！")
         return True
-
+'''
 
 def main():
     '''主运行函数'''
@@ -55,7 +54,7 @@ def main():
 #    mail = EmailService() 禁用邮件推送
     spider = SkyTask()
     # 获取链接列表,循环直至成功,应对复杂的网络环境
-    for i in range(3):
+    for i in range(11):
         urls = spider.getIndex()
         if urls:
             break
@@ -67,21 +66,21 @@ def main():
     for url in urls:
         # 解析单个文章
         # 重试
-        for i in range(3):
+        for i in range(11):
             title, html = spider.parse(url)
             if html:
                 break
 
         # 处理
         html, md = spider.parseArticle(html)
-
+'''取消数据库
         # 入库
-        #if writeSQL(title, url, html): 取消数据库
-        #    count += 1取消数据库
+        if writeSQL(title, url, html):
+            count += 1
             # 写入文件
-        #    md_path, html_content = spider.writeDoc(md, html, title)取消数据库
+            md_path, html_content = spider.writeDoc(md, html, title)
  #           mail.send_emails(html_content, fileList=[md_path, "run.log"]) # 支持多邮箱发送. 禁用邮件推送
-
+'''
     log.logger.info(f"处理完成! 新数据条数:{count}")
 
 
