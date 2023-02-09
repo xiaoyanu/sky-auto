@@ -14,7 +14,7 @@ import sqlite3
 import os
 
 
-def writeSQL(title, url, html) -> bool:
+#def writeSQL(title, url, html) -> bool: 取消数据库
     '''写入数据库'''
 
     conn = sqlite3.connect("weibo.db")
@@ -55,7 +55,7 @@ def main():
 #    mail = EmailService() 禁用邮件推送
     spider = SkyTask()
     # 获取链接列表,循环直至成功,应对复杂的网络环境
-    for i in range(11):
+    for i in range(3):
         urls = spider.getIndex()
         if urls:
             break
@@ -67,7 +67,7 @@ def main():
     for url in urls:
         # 解析单个文章
         # 重试
-        for i in range(11):
+        for i in range(3):
             title, html = spider.parse(url)
             if html:
                 break
@@ -76,10 +76,10 @@ def main():
         html, md = spider.parseArticle(html)
 
         # 入库
-        if writeSQL(title, url, html):
-            count += 1
+        #if writeSQL(title, url, html): 取消数据库
+        #    count += 1取消数据库
             # 写入文件
-            md_path, html_content = spider.writeDoc(md, html, title)
+        #    md_path, html_content = spider.writeDoc(md, html, title)取消数据库
  #           mail.send_emails(html_content, fileList=[md_path, "run.log"]) # 支持多邮箱发送. 禁用邮件推送
 
     log.logger.info(f"处理完成! 新数据条数:{count}")
