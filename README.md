@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-02-12 00:48:26
+date: 2023-02-12 13:24:04
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -24,7 +24,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/ds/kol/20230212/000258-ptscajuof5.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230212/110318-rt29mawzqn.jpg)
 
  **任务二：在云野重温先祖的美好回忆 0/1**
 
@@ -36,7 +36,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：旋转舞者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230212/000342-4852dlt13y.png)
+![](https://img.166.net/reunionpub/ds/kol/20230212/100510-2bci6dv3f1.jpg)
 
  **任务三：掀翻5只螃蟹 0/5**
 
@@ -54,7 +54,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：云野 云中仙乡   [三塔图]**
+ **位置：云野 云中仙乡  [三塔图]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230212/000824-qasmtw0zr8.jpg)
 
@@ -195,6 +195,14 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **音乐商店 [留影魔法指定地点兑换]：**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230210/233420-s8602h1pou.jpeg)
+
+ **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
+
+ **注解：**
+
+云顶浮石
+
+![](https://img.166.net/reunionpub/ds/kol/20230212/100634-g39vlr6do8.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
