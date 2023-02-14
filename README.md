@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-02-14 00:52:26
+date: 2023-02-14 13:25:42
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -36,11 +36,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：霞谷 滑冰场 山洞口**
+ **位置：霞谷 滑冰场 山洞口里侧**
 
  **先祖：抛球杂耍 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230214/001813-7c1skgnb05.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230214/011151-nl61s3jozc.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230214/023645-5ryjc4tzqb.jpg)
 
  **任务三：净化10株黑暗植物 0/1**
 
@@ -108,11 +110,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：此坠落点 **不可完成  **[破晓季] 季节任务
 
-![](https://img.166.net/reunionpub/ds/kol/20230214/001502-aypq9jegv6.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20230214/001513-dfvy3izwna.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230214/001628-4jtsnh6swp.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230214/100654-ju0nvs8o6z.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
@@ -155,6 +153,14 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **音乐商店 [留影魔法指定地点兑换]：**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230212/234240-s0w3hz1igl.jpeg)
+
+ **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
+
+ **注解：**
+
+好友星盘¹
+
+![](https://img.166.net/reunionpub/ds/kol/20230214/024947-smgiun1q9e.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
