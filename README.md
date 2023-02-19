@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-02-19 00:48:52
+date: 2023-02-19 13:24:12
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -96,7 +96,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
- **雨里**
+ **雨林**
 
  **灼热碎片 [红石]：**
 
@@ -112,7 +112,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230219/001248-tidol4ywr1.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230219/001323-74iakqusl6.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230219/011204-n18a7s4udy.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
