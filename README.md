@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-02-20 00:49:03
+date: 2023-02-20 13:25:14
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -38,7 +38,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：不舍家长[动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230220/000426-30kglm2p1z.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230220/030205-67bmeviz35.jpg)
 
  **任务三：掀翻5只螃蟹 0/5**
 
