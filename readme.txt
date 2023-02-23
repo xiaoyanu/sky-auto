@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-02-23 00:52:37
+date: 2023-02-23 13:25:13
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -100,9 +100,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 复刻时间：2/23早上6:00～2/27中午12:00
 
- **位置：晨岛   左侧有大蜡烛的隐藏山洞口**
+ **位置：晨岛  左侧隐藏山洞口**
+
+![](https://img.166.net/reunionpub/ds/kol/20230223/020547-asqpr1ny4l.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230223/000836-vk193hadoz.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20230223/014509-a98psf5uhc.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
