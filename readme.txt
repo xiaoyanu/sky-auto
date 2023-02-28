@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-02-28 00:53:38
+date: 2023-02-28 13:26:05
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -25,8 +25,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20230228/000104-kezobcfi7q.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230228/000118-46zgvmjc0s.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230228/000127-mr6tkhso9w.jpg)
 
  **任务二：在雨林重温先祖的美好回忆 0/1**
 
