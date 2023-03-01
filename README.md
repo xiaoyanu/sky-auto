@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-03-01 00:53:21
+date: 2023-03-01 13:26:16
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -68,7 +68,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230301/000527-b2hd0e8rn3.jpeg)
 
- **任务二：收集蓝色光芒 0/1**
+ **任务四：收集蓝色光芒 0/1**
 
 完成方法：
 
