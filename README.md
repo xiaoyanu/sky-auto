@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-03-09 00:53:05
+date: 2023-03-09 09:47:13
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -52,9 +52,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：云野 云中仙乡 [三塔图]**
 
- **先祖：犯困船工 [动作]**
+ **先祖：欢笑光农 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230309/000313-ket73vms82.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230309/012805-258q0ukvbs.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230309/012817-rdify8ju9v.jpeg)
 
  **任务三：收集30点烛光 0/30**
 
@@ -108,9 +110,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
+ **旅行先祖**
+
+追光季——击掌光农
+
+复刻时间：3/9早上6:00～3/13中午12:00
+
+ **位置：云野 云顶浮石**
+
+![](https://img.166.net/reunionpub/ds/kol/20230309/003029-ewfpcm4dja.jpg)
+
+ **兑换图**
+
+![](https://img.166.net/reunionpub/ds/kol/20230309/010953-al6zduhnoj.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
+
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 位置
 
