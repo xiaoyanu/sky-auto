@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-03-13 00:47:59
+date: 2023-03-13 07:23:44
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -50,7 +50,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：禁阁一层   4人门内**
+ **位置：禁阁一层  4人门内**
 
  **先祖：祈祷圣徒  [动作]**
 
@@ -111,6 +111,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **无**
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
+
+ **旅行先祖**
+
+追光季——击掌光农
+
+复刻时间：3/9早上6:00～3/13中午12:00
+
+ **位置：云野 云顶浮石**
+
+![](https://img.166.net/reunionpub/ds/kol/20230313/005144-1m4h5tvars.jpg)
+
+ **兑换图**
+
+![](https://img.166.net/reunionpub/ds/kol/20230313/005156-qsd2bshokz.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230313/005012-cdpy0kr1uq.png)
 
  **大蜡烛**
 
