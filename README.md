@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-03-15 13:50:35
+date: 2023-03-16 00:36:14
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,87 +10,79 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **3月15日 星期三**
+ **3月16日 星期四**
 
- **雨林**
+ **霞谷**
 
-![](https://img.166.net/reunionpub/ds/kol/20230315/001302-qk0oe7fiss.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230316/001239-930y5sb2op.jpg)
 
- **任务一：2人合力开启一道门 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-两位玩家协力开启一道门即可完成
+在 好友星盘¹ 接受好友赠送的 **爱心/心火** 即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20230315/000408-1tz57mvsn3.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230316/000151-f1a0w7jl2e.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230315/000419-fpbh9u20cs.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230315/000431-e5kupftc84.jpg)
-
- **任务二：在雨林重温先祖的美好回忆 0/1**
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：雨林 荧光森林**
+ **位置：霞谷 霞光城**
 
- **先祖：羞涩勘探者  [动作]**
+ **先祖：倒立运动员 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230315/000749-k4m7o6wjy0.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230316/000418-6fygaw13se.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230315/000759-qfpwvohjai.jpg)
-
- **任务三：面对冥龙 0/1**
+ **任务三：净化10株黑暗植物 0/1**
 
 完成方法：
 
-被冥龙锁定变成红光即可完成
+拿出心火光影燃烧10株黑暗植物即可完成
 
- **推荐地图：暴风眼 暮土 ——藏宝岛礁/巨兽荒原(四龙图)/远古战场(三龙图)/遗忘方舟等**
+ **推荐地图：暮土 雨林 云野圣岛   净化红黑石碎片周围黑暗植物通用**
 
- **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
+![](https://img.166.net/reunionpub/ds/kol/20230316/000456-w68dsf3294.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230315/000501-jaqmtsihvl.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230316/000505-n82ku43dst.jpeg)
 
- **任务四：收集橙色光芒 0/1**
+ **任务四：在霞光城拱门上冥想 0/1**
 
 完成方法：
 
- **靠近光芒即可完成**
+点击坐下冥想并回答问题即可完成
 
- **补充方案：如果光翼较少可以站在如图2位置等着橙光穿过树根**
+ **位置：霞谷 霞光城**
 
- **位置：密林遗迹   **
+![](https://img.166.net/reunionpub/ds/kol/20230316/000528-1lbfk4w5qc.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230315/000540-l51thueiqj.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230315/000549-ftoiu81dh4.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230316/000535-z5k9sdoys7.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **季节蜡烛**
 
- **雨林**
+ **霞谷**
 
  **位置：**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230314/234335-6yo2gjbu15.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230315/235250-zleujhdimp.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230314/234401-021q8fn5mg.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230315/235301-jvn0mcs18b.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230314/234411-g31bstwjv8.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230315/235309-b8s9o4zmjr.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230314/234421-3u8chjg0ey.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230315/235318-fnsa38hpgz.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
@@ -102,31 +94,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
  **位置**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230314/234530-fg7msia52t.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230315/235421-yoivdfpqk4.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230314/234538-d3fnce85qo.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230315/235431-hw0ikltv9g.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230314/234546-sng2ryf9i6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230315/235439-pq0jct7fm8.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230314/234552-u9mjzgd3pt.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230315/235449-p3lkd1nrh9.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法商店：**
 
@@ -134,13 +126,20 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230314/234637-0grc89z746.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230315/235607-4gcz8qns62.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230313/001915-g7cs0d15l6.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
+
+ **注解：**
+
+好友星盘¹
+
+![](https://img.166.net/reunionpub/ds/kol/20230316/000845-k8gb0uriyj.jpeg)
+**![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
 感谢观看
 
