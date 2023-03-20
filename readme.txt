@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-03-20 13:51:16
+date: 2023-03-21 00:36:49
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,79 +10,77 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **3月20日 星期一**
+ **3月21日 星期二**
 
- **雨林**
+ **霞谷**
 
-![](https://img.166.net/reunionpub/ds/kol/20230320/000355-b9nl0uhey2.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230321/000814-13s8hvtc5z.jpg)
 
- **任务一：向一位朋友做个动作 0/1**
-
-完成方法：
-
-点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
-
-![](https://img.166.net/reunionpub/ds/kol/20230320/000103-pz3uao7kn2.jpg)
-
- **任务二：在荧光小菇旁恢复能量 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-1.将斗篷能量全部消耗
+在 好友星盘¹ 接受好友赠送的 **爱心/心火** 即可完成
 
-2.靠近荧光小菇恢复能量即可完成
+![](https://img.166.net/reunionpub/ds/kol/20230321/000141-9zw5cqklas.jpeg)
 
- **位置：雨林 荧光森林 密林遗迹等**
-
-![](https://img.166.net/reunionpub/ds/kol/20230320/000129-k0ay5sw1zv.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230320/000137-em1fhwsizq.jpeg)
-
- **任务三：点燃20根蜡烛 0/20**
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
-1.点燃一堆大蜡烛
+点燃先祖重温回忆
 
-2.或点燃20根蜡烛即可完成
+ **位置：霞谷 滑冰场**
 
- **推荐地图：云野 霞谷 禁阁 遇境**
+ **先祖：跳跃舞者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230320/000158-2rwuy8gq1n.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230321/000255-6lfjsw2oc7.jpeg)
 
- **任务四：在雨林的神庙内冥想 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230321/000307-q6obv40ctf.jpeg)
+
+ **任务三：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+点击人物头部长按大叫即可掀翻螃蟹
 
- **位置：雨林神庙(终点) 后方花园**
+ **推荐地图：暮土 云野圣岛**
 
-![](https://img.166.net/reunionpub/ds/kol/20230320/000217-0wirgcv51z.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230321/000337-l9ij3ssh82.jpg)
+
+ **任务四：在霞谷追逐散落的星光 0/1**
+
+完成方法：
+
+靠近星光即可完成
+
+ **位置：霞谷 滑冰场**
+
+![](https://img.166.net/reunionpub/ds/kol/20230321/000356-4djz38y5rc.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **季节蜡烛**
 
- **雨林**
+ **霞谷**
 
  **位置：**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230319/235216-jtr0n4vfuy.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230320/235453-ndsh3gkuz9.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230319/235224-cja7dqheyf.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230320/235501-4djktu6pwc.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230319/235233-0ncwb7zdsr.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230320/235509-h152ynamfk.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230319/235241-r4gsqpwi5d.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230320/235517-5v26j1bhpy.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
@@ -94,25 +92,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图： 霞谷**
+ **地图： 暮土**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230319/235420-klts5bfcnd.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230320/235613-5efdak2q6p.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230319/235429-tg78hor49f.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230320/235625-lscvrfbgkd.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230319/235438-1cqem2og47.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230320/235635-7jfl3cm0aw.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230319/235447-u6fhz8m7ny.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230320/235644-wej48y3lkd.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
@@ -126,11 +124,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230319/235526-0sgzu9364f.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230320/235709-rya190qje3.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230319/235555-fqg98l3srj.jpeg)
+
+ **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
+
+ **注解：**
+
+好友星盘¹
+
+![](https://img.166.net/reunionpub/ds/kol/20230321/001223-ty27fublk0.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
