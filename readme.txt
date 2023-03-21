@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-03-21 07:50:54
+date: 2023-03-21 13:24:35
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -116,7 +116,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法商店：**
 
