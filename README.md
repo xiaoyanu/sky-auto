@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-03-23 00:49:07
+date: 2023-03-23 07:21:20
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -96,7 +96,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 具体位置： **星光沙漠**
 
-坠落时间： **9、15、21小时** 的08分40秒左右～50分   （时间仅供参考）
+坠落时间： **9、15、21小时** 的08分40秒左右～50分  （时间仅供参考）
 
 清理方式：净化黑石碎片周围黑暗植物即可
 
@@ -146,7 +146,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230322/235946-3tg51nl8ju.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230323/005217-2sgmnz8wld.jpg)
+
+  
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
