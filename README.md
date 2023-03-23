@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-03-23 07:50:30
+date: 2023-03-23 13:23:59
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -107,6 +107,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20230323/002408-r9nyzsigvm.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230323/002418-rjlfe7buwz.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230313/005012-cdpy0kr1uq.png)
+
+ **旅行先祖**
+
+感恩季——敬礼护卫
+
+复刻时间：3/23早上6:00～3/27中午12:00
+
+ **位置：暮土 一龙图**
+
+![](https://img.166.net/reunionpub/ds/kol/20230323/103010-y6wrjqim3c.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20230323/112137-af6d5eongt.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230313/005012-cdpy0kr1uq.png)
 
