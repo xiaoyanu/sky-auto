@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-04-10 00:28:54
+date: 2023-04-10 00:41:29
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -36,7 +36,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：偷窥邮差 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230410/002309-i6q4b7djry.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230410/004039-l7z59vu01t.jpg)
 
  **任务三：净化10株黑暗植物 0/1**
 
