@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-04-11 00:42:04
+date: 2023-04-11 07:22:24
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -25,6 +25,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20230411/000212-s6rk71j5m9.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230411/000220-go8wevlisc.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230411/002945-qfev3b72ta.jpg)
 
  **任务二：在暮土谷重温先祖的美好回忆 0/1**
 
