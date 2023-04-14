@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-04-15 00:48:07
+date: 2023-04-15 07:22:03
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -36,7 +36,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：熊抱雪人 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230415/002748-864goyws9j.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230415/010747-6zeaijg0v9.jpg)
 
  **任务三：点燃20根蜡烛 0/20**
 
