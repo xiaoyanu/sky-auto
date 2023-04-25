@@ -11479,3 +11479,24 @@
 2023-04-26 07:38:07,581 - main.py [line:46] - INFO: 发现新数据https://m.ds.163.com/article/6447fcf14988e40001e567fc/插入成功！
 2023-04-26 07:38:07,582 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-04-26 光遇每日任务标题 保存成功!
 2023-04-26 07:38:07,582 - main.py [line:84] - INFO: 处理完成! 新数据条数:9
+2023-04-26 07:50:18,378 - main.py [line:52] - INFO: 爬取开始ing......
+2023-04-26 07:50:20,452 - main.py [line:62] - INFO: 共获取到9条链接.
+2023-04-26 07:50:22,270 - main.py [line:46] - INFO: 发现新数据https://m.ds.163.com/article/643d70eaed0eff000166bb59/插入成功！
+2023-04-26 07:50:22,270 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-04-26 光遇每日任务标题 保存成功!
+2023-04-26 07:50:24,441 - main.py [line:46] - INFO: 发现新数据https://m.ds.163.com/article/643ec43754785800019fbe3c/插入成功！
+2023-04-26 07:50:24,442 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-04-26 光遇每日任务标题 保存成功!
+2023-04-26 07:50:26,438 - main.py [line:46] - INFO: 发现新数据https://m.ds.163.com/article/6440130387edc30001c61d46/插入成功！
+2023-04-26 07:50:26,439 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-04-26 光遇每日任务标题 保存成功!
+2023-04-26 07:50:28,513 - main.py [line:46] - INFO: 发现新数据https://m.ds.163.com/article/64416624ed0eff00016ab904/插入成功！
+2023-04-26 07:50:28,514 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-04-26 光遇每日任务标题 保存成功!
+2023-04-26 07:50:30,393 - main.py [line:46] - INFO: 发现新数据https://m.ds.163.com/article/6442b8f15478580001a3fd3d/插入成功！
+2023-04-26 07:50:30,393 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-04-26 光遇每日任务标题 保存成功!
+2023-04-26 07:50:32,413 - main.py [line:46] - INFO: 发现新数据https://m.ds.163.com/article/64440a1487edc30001cb3ce4/插入成功！
+2023-04-26 07:50:32,414 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-04-26 光遇每日任务标题 保存成功!
+2023-04-26 07:50:34,123 - main.py [line:46] - INFO: 发现新数据https://m.ds.163.com/article/64455a2fe13bb600018b9075/插入成功！
+2023-04-26 07:50:34,124 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-04-26 光遇每日任务标题 保存成功!
+2023-04-26 07:50:36,108 - main.py [line:46] - INFO: 发现新数据https://m.ds.163.com/article/6446abdde01bf20001c5ab79/插入成功！
+2023-04-26 07:50:36,108 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-04-26 光遇每日任务标题 保存成功!
+2023-04-26 07:50:38,078 - main.py [line:46] - INFO: 发现新数据https://m.ds.163.com/article/6447fcf14988e40001e567fc/插入成功！
+2023-04-26 07:50:38,078 - /home/runner/work/sky-auto/sky-auto/api_web.py [line:155] - INFO: 2023-04-26 光遇每日任务标题 保存成功!
+2023-04-26 07:50:38,078 - main.py [line:84] - INFO: 处理完成! 新数据条数:9
