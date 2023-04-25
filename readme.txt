@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-04-25 13:50:44
+date: 2023-04-26 00:30:43
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **霞谷**
 
-![](https://img.166.net/reunionpub/ds/kol/20230425/001814-vsm7hgsbw4.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230426/001617-w605zye3ln.jpg)
 
  **任务一：向一位朋友做个动作 0/1**
 
@@ -24,37 +24,59 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230425/000049-situdgco2s.jpg)
 
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+ **任务二：在暮土重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 圆梦村**
+ **位置：暮土 黑水港湾**
 
- **先祖：回旋大师 [动作]**
+ **先祖：行礼舰长 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230425/000211-lheyu8b0ik.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230426/000234-56om0jke12.jpg)
 
- **任务三：掀翻5只螃蟹 0/5**
+ **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+
+完成方法一：
+
+拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
+
+ **位置：雨林 密林遗迹（水母图）**
+
+ **1.密林遗迹入口亭子右侧**
+
+ **2.密林遗迹右侧矿洞前**
+
+ **注：共有两处随机拯救一只即可完成**
+
+![](https://img.166.net/reunionpub/ds/kol/20230426/000256-rql8ep9hmu.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230426/000304-au251ynk0r.jpeg)
+
+完成方法二：
+
+找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
+
+ **位置：雨林 风行网道**
+
+![](https://img.166.net/reunionpub/ds/kol/20230426/000314-mr4pj1b3gi.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230426/000321-olqaik7h1v.jpeg)
+
+ **任务四：收集红色光芒  0/1**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+靠近光芒即可完成
 
- **推荐地图：暮土 云野圣岛**
+ **位置：暮土  1.遗忘方舟 2.黑水港湾**
 
-![](https://img.166.net/reunionpub/ds/kol/20230425/000443-yd2biuwgjf.jpg)
+ ***注：此光芒共有两处位置任选其一完成即可**
 
- **任务四：在霞谷追逐散落的星光 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230426/000336-roms4vfcpn.jpeg)
 
-完成方法：
-
-靠近星光即可完成
-
- **位置：霞谷 滑冰场**
-
-![](https://img.166.net/reunionpub/ds/kol/20230425/000500-qbuyljwtf1.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230426/000344-fn3p642q1o.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
@@ -66,13 +88,35 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
- **无**
+ **暮土**
+
+ **冷却碎片 [黑石]**
+
+具体位置： **远古战场**
+
+坠落时间： **9、15、21小时** 的08分40秒左右～50分
+
+清理方式：净化黑石碎片周围黑暗植物即可
+
+获取货币：烛光 [普通蜡烛/白蜡烛]
+
+注：此坠落点 **不可完成  **[破晓季] 季节任务
+
+![](https://img.166.net/reunionpub/ds/kol/20230426/001147-0njys3cpws.png)
+
+或
+
+![](https://img.166.net/reunionpub/ds/kol/20230426/001155-vqof43lej5.jpeg)
+
+或
+
+![](https://img.166.net/reunionpub/ds/kol/20230426/001218-e7kzdhn5ba.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230313/005012-cdpy0kr1uq.png)
 
  **大蜡烛**
 
- **地图：雨林 暮土**
+ **地图：雨林 禁阁**
 
  **雨林**
 
@@ -92,29 +136,29 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230414/001316-7l6amydqhu.jpeg)
 
- **暮土**
+ **禁阁**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230425/001021-uszjtfo0ng.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230426/000523-540wpt3jlg.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230425/001029-if6ak5s1qj.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230426/000530-ds38jyovua.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230425/001035-johes15dl2.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230426/000537-376tuyq84b.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230425/001043-vs7gkspir8.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230426/000544-wlqycrg0j5.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **光能药剂x1**
+ **璀璨之星x1**
 
  **魔法商店：**
 
@@ -122,7 +166,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230425/001059-jghi6seszf.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230426/000617-38dho7ivzk.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
