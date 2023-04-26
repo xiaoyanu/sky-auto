@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-04-26 13:50:36
+date: 2023-04-27 00:31:10
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,33 +8,35 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-**每日任务 大蜡烛 免费魔法**
+**每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **4月25日 星期二**
+ **4月27日 星期四**
 
- **霞谷**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20230426/001617-w605zye3ln.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230427/001748-hc3t4zr059.jpg)
 
- **任务一：向一位朋友做个动作 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
+在 好友星盘¹ 接受好友赠送的 **爱心/心火** 即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20230425/000049-situdgco2s.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230427/000417-rli09t61bq.jpeg)
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 黑水港湾**
+ **位置：禁阁一层  **
 
- **先祖：行礼舰长 [动作]**
+ **先祖：祈祷圣徒 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230426/000234-56om0jke12.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230427/000200-s1cboigv68.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230427/000210-j4s73k1ris.jpeg)
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
@@ -64,19 +66,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230426/000321-olqaik7h1v.jpeg)
 
- **任务四：收集红色光芒  0/1**
+ **任务四：在禁阁追逐散落的星光 0/1**
 
 完成方法：
 
-靠近光芒即可完成
+靠近星光即可完成
 
- **位置：暮土  1.遗忘方舟 2.黑水港湾**
+ **位置：禁阁一层**
 
- ***注：此光芒共有两处位置任选其一完成即可**
-
-![](https://img.166.net/reunionpub/ds/kol/20230426/000336-roms4vfcpn.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230426/000344-fn3p642q1o.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230427/000343-n1m4dwpizo.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
@@ -88,77 +86,37 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
- **暮土**
-
- **冷却碎片 [黑石]**
-
-具体位置： **远古战场**
-
-坠落时间： **9、15、21小时** 的08分40秒左右～50分
-
-清理方式：净化黑石碎片周围黑暗植物即可
-
-获取货币：烛光 [普通蜡烛/白蜡烛]
-
-注：此坠落点 **不可完成  **[破晓季] 季节任务
-
-![](https://img.166.net/reunionpub/ds/kol/20230426/001147-0njys3cpws.png)
-
-或
-
-![](https://img.166.net/reunionpub/ds/kol/20230426/001155-vqof43lej5.jpeg)
-
-或
-
-![](https://img.166.net/reunionpub/ds/kol/20230426/001218-e7kzdhn5ba.png)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol/20230313/005012-cdpy0kr1uq.png)
 
  **大蜡烛**
 
- **地图：雨林 禁阁**
+ **地图：云野**
 
- **雨林**
-
-雨林大厅：
-
-![](https://img.166.net/reunionpub/ds/kol/20230414/001148-hjlc2pudag.jpeg)
-
-荧光森林：
-
-![](https://img.166.net/reunionpub/ds/kol/20230414/001239-onpdevbq9f.jpeg)
-
-密林遗迹
-
-![](https://img.166.net/reunionpub/ds/kol/20230414/001418-r2tcwjazgp.jpeg)
-
-秘密花园：
-
-![](https://img.166.net/reunionpub/ds/kol/20230414/001316-7l6amydqhu.jpeg)
-
- **禁阁**
+ **位置**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230426/000523-540wpt3jlg.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230427/000816-9sha8tyj3s.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230426/000530-ds38jyovua.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230427/000856-asu2m8spet.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230426/000537-376tuyq84b.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230427/000903-l043c6o18b.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230426/000544-wlqycrg0j5.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230427/000910-6gln1sz3j0.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法商店：**
 
@@ -166,7 +124,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230426/000617-38dho7ivzk.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230427/001232-z1n25qdiuy.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
