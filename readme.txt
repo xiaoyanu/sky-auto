@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-04-27 07:50:47
+date: 2023-04-27 13:24:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,15 +14,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20230427/001748-hc3t4zr059.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230427/105159-4it9v0zq56.jpg)
 
- **任务一：接受一位朋友的礼物 0/1**
+ **任务一：与4位玩家牵手组队 0/1**
 
-完成方法：
+完成方法一：
 
-在 好友星盘¹ 接受好友赠送的 **爱心/心火** 即可完成
+与4位玩家牵手即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20230427/000417-rli09t61bq.jpeg)
+注：自己也算其中的四分之一
+
+![](https://img.166.net/reunionpub/ds/kol/20230427/105512-5wa7omu4rd.jpeg)
+
+完成方法 二：
+
+前往 [ **圆梦村剧场** ] 重温剧情任务四 任意选择三位先祖牵手即可
+
+![](https://img.166.net/reunionpub/ds/kol/20230427/105522-c3z8w4omt6.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230427/105531-khq47pvd8a.jpeg)
 
  **任务二：在禁阁重温先祖的美好回忆 0/1**
 
@@ -30,57 +40,39 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：禁阁一层  **
+ **位置：禁阁四层  **
 
- **先祖：祈祷圣徒 [动作]**
+ **先祖：拳礼武僧 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230427/000200-s1cboigv68.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230427/105647-b5cgfwptv3.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230427/000210-j4s73k1ris.jpeg)
-
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
-
-完成方法一：
-
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
-
- **位置：雨林 密林遗迹（水母图）**
-
- **1.密林遗迹入口亭子右侧**
-
- **2.密林遗迹右侧矿洞前**
-
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/ds/kol/20230426/000256-rql8ep9hmu.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230426/000304-au251ynk0r.jpeg)
-
-完成方法二：
-
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
- **位置：雨林 风行网道**
-
-![](https://img.166.net/reunionpub/ds/kol/20230426/000314-mr4pj1b3gi.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230426/000321-olqaik7h1v.jpeg)
-
- **任务四：在禁阁追逐散落的星光 0/1**
+ **任务三：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-靠近星光即可完成
+点击人物头部长按大叫即可掀翻螃蟹
 
- **位置：禁阁一层**
+ **推荐地图：暮土 云野圣岛**
 
-![](https://img.166.net/reunionpub/ds/kol/20230427/000343-n1m4dwpizo.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230427/105712-zctkhso5i4.jpg)
+
+ **任务四：收集紫色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：禁阁一层 右侧隐藏图 [垂直迷宫]**
+
+![](https://img.166.net/reunionpub/ds/kol/20230427/105752-lfir47eshu.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **季节蜡烛**
 
- **无**
+位置：B组
+
+![](https://img.166.net/reunionpub/ds/kol/20230427/110329-e6cra40s8v.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221130/005912-5mvshq9nf3.png)
 
@@ -129,6 +121,16 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **音乐商店 [留影魔法指定地点兑换]：**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230423/235646-rs8ob3knfd.jpeg)
+
+ **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
+
+ **注解：**
+
+ **圆梦剧场**
+
+![](https://img.166.net/reunionpub/ds/kol/20230427/110604-n7qhm49ds2.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230427/110615-vwq7cj39si.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
 
