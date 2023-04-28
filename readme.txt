@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-04-29 00:28:27
+date: 2023-04-29 00:41:48
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -80,23 +80,43 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：云野 雨林 暮土**
+ **地图：云野 雨林 霞谷 暮土 禁阁**
 
  **云野**
 
-第一堆：
+云野大厅：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/002459-mlibh2awgp.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/002519-yt5jl2mida.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230428/232157-u0ykeirc2p.jpeg)
 
-第二堆：
+蝴蝶平原：
 
 ![](https://img.166.net/reunionpub/ds/kol/20230428/232204-dagsln5tfo.jpeg)
 
-第三堆：
+![](https://img.166.net/reunionpub/ds/kol/20230429/002616-ivu673fjnk.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230428/232212-twlfszqg1i.jpeg)
+幽光山洞：
 
-第四堆：
+![](https://img.166.net/reunionpub/ds/kol/20230429/002649-e9sq4yo0zd.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/002742-oqf3ks02l7.jpeg)
+
+云中仙乡：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/002845-brswfhukd4.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/002824-f2qntli9d6.jpeg)
+
+云顶浮石：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/002924-52gnqsz08w.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/002937-7eyhvt9pc2.jpeg)
+
+云野神殿：
 
 ![](https://img.166.net/reunionpub/ds/kol/20230428/232218-wca7vu40tp.jpeg)
 
@@ -129,6 +149,32 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 雨林神庙：
 
 ![](https://img.166.net/reunionpub/ds/kol/20230429/001306-chdjsbkf5s.jpeg)
+
+ **霞谷**
+
+霞谷大厅：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/003318-itf5hmlw6k.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/003406-onjlag09py.jpeg)
+
+滑冰场：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/003430-qv2if149el.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/003330-o269adqkwt.jpeg)
+
+霞光城：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/003338-w94r1jca2t.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/003509-yluh32d8vg.jpeg)
+
+竞技场：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/003345-tjw0f7s2de.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/003532-zhmljngi3o.jpeg)
 
  **暮土**
 
