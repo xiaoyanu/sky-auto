@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-04-29 00:41:48
+date: 2023-04-29 07:22:16
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -178,21 +178,65 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **暮土**
 
-第一堆：
+暮土大厅：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/003647-e7haz5psc1.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230428/232606-wuh2j7rpsk.jpeg)
 
-第二堆：
+![](https://img.166.net/reunionpub/ds/kol/20230429/003710-tpfs7gemqn.jpeg)
+
+边陲荒漠：
 
 ![](https://img.166.net/reunionpub/ds/kol/20230428/234022-fsngyv4s0d.jpeg)
 
-第三堆：
+![](https://img.166.net/reunionpub/ds/kol/20230429/003822-qrst7dj5ou.jpeg)
+
+巨兽荒原：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/003852-51daw03pjo.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230428/234031-l2iusa51h7.jpeg)
 
-第四堆：
+![](https://img.166.net/reunionpub/ds/kol/20230429/003916-eclsidb6hs.jpeg)
+
+黑水港湾：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/003945-wku2jc0b3l.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230428/234040-3kganbvj7t.jpeg)
+
+远古战场：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/004011-ufs2lstri8.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/004032-us2a9gifom.jpeg)
+
+ **禁阁**
+
+禁阁一层：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/004153-034cm1l9rn.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/004336-dso31l8a9i.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/004200-vsibmeqfpn.jpeg)
+
+禁阁二层：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/004428-aisg90ov3q.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/004208-d5e2vu904w.jpeg)
+
+禁阁四层：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/004522-iln3sjfu9z.jpeg)
+
+禁阁顶层：
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/004214-at0psz1qb3.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230429/004545-fsw3miu7r5.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
