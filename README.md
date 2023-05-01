@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-05-02 00:42:55
+date: 2023-05-02 07:23:57
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,77 +10,61 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **5月1日 星期一**
+ **5月2日 星期二**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20230501/001849-y0gmij71ov.png)
+![](https://img.166.net/reunionpub/ds/kol/20230502/053535-ndmsap08wl.png)
 
- **任务一：和朋友击掌 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
+接受好友赠送的 **爱心/心火** 即可完成
 
- **注：一级二级均可完成**
+![](https://img.166.net/reunionpub/ds/kol/20230502/053713-v9p0mqakst.jpeg)
 
-2.在 圆梦村剧场¹ [剧团团长]找到第一个魔法节点上方击掌，与 [剧团团长] 完成击掌即可
-
- **注：需要完成第一个[表演季]剧情任务**
-
-3.在大树屋找到并点击[集结向导]剧情节点 找到第一个剧情任务上方的击掌，与 [集结向导] 完成击掌即可
-
- **注：需要完成第一个[集结季]剧情任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20230501/002704-c4z9vqk6ji.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230501/002723-lmogdsicj3.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20230501/002739-l5piag9uy6.jpeg)
-
- **任务二：在暮土重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 黑水港湾 [沉船图]**
+ **位置：禁阁四层**
 
- **先祖：行礼舰长 [动作]**
+ **先祖：静光学者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230501/002934-crqy4vnops.png)
+![](https://img.166.net/reunionpub/ds/kol/20230502/053909-ss39tzphe2.png)
 
- **任务三：点燃20根蜡烛 0/20**
-
-完成方法：
-
-1.点燃一堆大蜡烛
-
-2.或点燃20根蜡烛即可完成
-
- **推荐地图：云野 霞谷 禁阁 遇境**
-
-![](https://img.166.net/reunionpub/ds/kol/20230501/003030-rmqgsf6uzi.jpeg)
-
- **任务四：在远古战场中央冥想 0/1**
+ **任务三：面对冥龙 0/1**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+被冥龙锁定变成红光即可完成
 
- **位置：暮土 远古战场 [三龙图]**
+ **推荐地图：暴风眼 暮土**
 
-![](https://img.166.net/reunionpub/ds/kol/20230501/003138-uf52w168g9.jpeg)
+ **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
-![](https://img.166.net/reunionpub/ds/kol/20230501/003129-6uadjw45q7.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230502/053959-so2lwfvibd.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230501/003249-fsmdly0ban.png)
+ **任务四：收集紫色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：禁阁 档案阁  **
+
+![](https://img.166.net/reunionpub/ds/kol/20230502/054221-psaf26u3t5.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置：暮土 B组
+位置：禁阁 A组
 
-![](https://img.166.net/reunionpub/ds/kol/20230501/003509-acunod6hmz.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230502/053412-vf7npbka15.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -254,7 +238,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
-浪漫烟花x1
+光能药剂x1
 
  **魔法商店：**
 
@@ -262,15 +246,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230501/004133-amfgsj1d74.png)
+![](https://img.166.net/reunionpub/ds/kol/20230502/053054-3lfaj95mdq.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/004054-96f0u7jsgy.png)
-
- **![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)**
-
-感谢观看
-
-\-----------网易大神：Sky孤独旅人
 
