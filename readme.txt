@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-05-01 07:50:28
+date: 2023-05-01 13:24:43
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -138,8 +138,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230119/215221-267evqy1is.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230119/215248-cte5ssz6fq.png)
-
 ![](https://img.166.net/reunionpub/ds/kol/20230119/215305-t2n6v75w13.jpeg)
 
 静谧庭院
@@ -152,19 +150,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230119/215411-4hcua7bmon.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230119/215438-l2ewufs1sp.png)
-
 秘密花园
 
 ![](https://img.166.net/reunionpub/ds/kol/20230119/215513-scs32lj4nd.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230119/215458-i1kvr75yls.jpeg)
-
 密林遗迹
 
 ![](https://img.166.net/reunionpub/ds/kol/20230119/215559-3u96ynqf0i.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20230119/215628-3boe64munz.png)
 
 雨林神庙内
 
