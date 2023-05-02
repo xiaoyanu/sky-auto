@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-05-02 13:50:33
+date: 2023-05-03 00:30:11
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,61 +10,63 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **5月2日 星期二**
+ **5月3日 星期三**
 
- **禁阁**
+ **云野**
 
-![](https://img.166.net/reunionpub/ds/kol/20230502/053535-ndmsap08wl.png)
+![](https://img.166.net/reunionpub/ds/kol/20230503/000925-8fewqtozca.jpg)
 
- **任务一：接受一位朋友的礼物 0/1**
+ **任务一：向一位朋友做个动作 0/1**
 
 完成方法：
 
-接受好友赠送的 **爱心/心火** 即可完成
+点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20230502/053713-v9p0mqakst.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230503/000113-qdjuw74c05.jpg)
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁四层**
+ **位置：云野 云顶浮石[右侧隐藏图]**
 
- **先祖：静光学者 [动作]**
+ **先祖：鸟语者 [叫声]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230502/053909-ss39tzphe2.png)
+![](https://img.166.net/reunionpub/ds/kol/20230503/000137-m2pq806oil.jpeg)
 
- **任务三：面对冥龙 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230503/000144-n9ofsuir3q.jpeg)
+
+ **任务三：点燃20根蜡烛 0/20**
+
+完成方法 **：**
+
+1.点燃一堆大蜡烛
+
+2.或点燃20根蜡烛即可完成
+
+ **推荐地图：云野 霞谷 禁阁 遇境**
+
+![](https://img.166.net/reunionpub/ds/kol/20230503/000217-5bhsoegrij.jpg)
+
+ **任务四：在幽光山洞里冥想 0/1**
 
 完成方法：
 
-被冥龙锁定变成红光即可完成
+点击坐下冥想并回答问题即可完成
 
- **推荐地图：暴风眼 暮土**
+ **位置：云野 幽光山洞 [左侧隐藏图]**
 
- **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
-
-![](https://img.166.net/reunionpub/ds/kol/20230502/053959-so2lwfvibd.png)
-
- **任务四：收集紫色光芒 0/1**
-
-完成方法：
-
-靠近光芒即可完成
-
- **位置：禁阁 档案阁  **
-
-![](https://img.166.net/reunionpub/ds/kol/20230502/054221-psaf26u3t5.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230503/000237-m45naiorvd.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置：禁阁 A组
+位置：云野 B组
 
-![](https://img.166.net/reunionpub/ds/kol/20230502/053412-vf7npbka15.png)
+![](https://img.166.net/reunionpub/ds/kol/20230502/235402-5gmqpufsje.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -238,7 +240,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
-光能药剂x1
+ **璀璨之星x1**
 
  **魔法商店：**
 
@@ -246,9 +248,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230502/053054-3lfaj95mdq.png)
+![](https://img.166.net/reunionpub/ds/kol/20230502/235700-u4s9b2ia6d.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/004054-96f0u7jsgy.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20230502/235738-ls601349yq.png)
+
+注解：
+
+幽光山洞
+
+![](https://img.166.net/reunionpub/ds/kol/20230503/000551-duv62yssfn.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230502/235738-ls601349yq.png)
+
+感谢观看
+
+\-----------网易大神：Sky孤独旅人
 
