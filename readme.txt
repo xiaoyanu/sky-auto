@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-05-04 00:42:36
+date: 2023-05-04 07:22:09
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -83,6 +83,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **伊甸之眼坠落碎片位置**
 
  **无**
+
+![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
+
+ **旅行先祖**
+
+追光季——随性拓荒者
+
+复刻时间：5/4早上6:00～5/8中午12:00
+
+ **位置：雨林 荧光森林**
+
+![](https://img.166.net/reunionpub/ds/kol/20230504/012615-1r5mbwdeot.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20230504/012636-3bnodifsul.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
