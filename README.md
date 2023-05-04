@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-05-04 13:50:45
+date: 2023-05-05 00:38:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,73 +10,63 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **5月4日 星期四**
+ **5月5日 星期五**
 
- **雨林**
+ **霞谷**
 
-![](https://img.166.net/reunionpub/ds/kol/20230504/001630-3wadpyc7z4.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230505/000814-ukztledbqy.jpg)
 
- **任务一：与4位玩家牵手组队 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
-完成方法一：
+完成方法：
 
-与4位玩家牵手即可完成
+接受好友赠送的 **爱心/心火** 即可完成
 
-注：自己也算其中的四分之一
+![](https://img.166.net/reunionpub/ds/kol/20230505/000259-btnro3kyqe.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230504/000443-mfdvhowsly.jpeg)
-
-完成方法 二：
-
-前往 [ **圆梦村剧场** ] 重温剧情任务四 任意选择三位先祖牵手即可
-
-![](https://img.166.net/reunionpub/ds/kol/20230504/000452-ph921deum0.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230504/000500-p2gaihz45j.jpeg)
-
- **任务二：在雨林重温先祖的美好回忆 0/1**
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：雨林 荧光森林  **
+ **位置：霞谷 滑冰场**
 
- **先祖：羞涩勘探者 [动作]**
+ **先祖：自信观光客 [站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230504/000541-wjvyqo71ts.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230505/000316-rnwg72j5o4.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230504/000548-t81sesd93a.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230505/000321-8d6sg3klsw.jpeg)
 
- **任务三：点燃20根蜡烛 0/20**
-
-完成方法 **：**
-
-1.点燃一堆大蜡烛
-
-2.或点燃20根蜡烛即可完成
-
- **推荐地图：云野 霞谷 禁阁 遇境**
-
-![](https://img.166.net/reunionpub/ds/kol/20230504/000609-cq0lfm7eip.jpg)
-
- **任务四：在秘密花园里冥想 0/1**
+ **任务三：净化10株黑暗植物 0/1**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+拿出心火光影燃烧10株黑暗植物即可完成
 
- **位置：雨林 秘密花园**
+ **推荐地图：暮土 雨林 云野圣岛  **
 
-![](https://img.166.net/reunionpub/ds/kol/20230504/000629-852e0vno7g.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230505/000338-e5nwzmgfay.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230505/000344-sg9i6zd7qa.jpeg)
+
+ **任务四：在霞谷追逐散落的星光 0/1**
+
+完成方法：
+
+靠近星光即可完成
+
+ **位置：霞谷 滑冰场**
+
+![](https://img.166.net/reunionpub/ds/kol/20230505/000405-s0pfteilyz.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置：雨林 B组
+位置：霞谷 B组
 
-![](https://img.166.net/reunionpub/ds/kol/20230503/235632-p5ovgk78sq.png)
+![](https://img.166.net/reunionpub/ds/kol/20230504/235726-27cl19fka8.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -266,7 +256,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+ **大只佬x1 小不点x1**
 
  **魔法商店：**
 
@@ -274,21 +264,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230503/235848-5q3z04re9t.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230505/000115-ds318mqc9p.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/004054-96f0u7jsgy.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20230502/235738-ls601349yq.png)
-
-注解：
-
-圆梦剧场
-
-![](https://img.166.net/reunionpub/ds/kol/20230504/001752-nv6eduic5l.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230504/001800-fpjk706dui.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/235738-ls601349yq.png)
 
