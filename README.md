@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-05-10 13:50:25
+date: 2023-05-11 00:37:54
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,61 +10,73 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **5月10日 星期三**
+ **5月11日 星期四**
 
- **霞谷**
+ **暮土**
 
-![](https://img.166.net/reunionpub/ds/kol/20230510/001107-kjd58w6g3v.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230511/001839-wtujfn5smc.jpg)
 
- **任务一：接受一位朋友的礼物 0/1**
+ **任务一：与4位玩家牵手组队 0/1**
 
-完成方法：
+完成方法一 **：**
 
-接受好友赠送的 **爱心/心火** 即可完成
+ **与4位玩家牵手即可完成**
 
-![](https://img.166.net/reunionpub/ds/kol/20230510/000305-4z8j9hym5s.jpeg)
+ **注：自己也算其中的四分之一**
 
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230511/000438-js8y6t7ucn.jpeg)
+
+完成方法 二：
+
+前往 [ **圆梦村剧场** ] 重温剧情任务四 任意选择三位先祖牵手即可
+
+![](https://img.166.net/reunionpub/ds/kol/20230511/000433-mfp8i4azyk.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230511/000446-i8hz6qgy29.jpeg)
+
+ **任务二：在暮土重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 霞光城**
+ **位置：暮土 黑水港湾**
 
- **先祖：倒立运动员 [动作]**
+ **先祖：蟹语者 [叫声]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230510/000344-ds7pktzhre.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230511/000537-zlmw6dk0se.jpeg)
 
- **任务三：收集30点烛光 0/30**
+ **任务三：面对冥龙 0/1**
 
 完成方法：
 
-1.领取任务
+被冥龙锁定变成红光即可完成
 
-2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
+ **推荐地图：暴风眼 暮土 ——藏宝岛礁/巨兽荒原(四龙图)/远古战场(三龙图)/遗忘方舟等**
 
-![](https://img.166.net/reunionpub/ds/kol/20230510/000429-w90nh1flys.jpg)
+ **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
- **任务四：在霞光城拱门上冥想 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230511/000633-snvi42co07.jpeg)
+
+ **任务四：在远古战场中央冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：霞谷 霞光城**
+ **位置：暮土 远古战场 [三龙图]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230510/000501-73mqebiltj.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230511/000657-e1s6jal9ft.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230510/000508-i4nhw1tszp.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230511/000705-3m8fukiyzn.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置： **霞谷** A组
+位置： **暮土**  B组
 
-![](https://img.166.net/reunionpub/ds/kol/20230509/235209-7ib6hfeq3k.png)
+![](https://img.166.net/reunionpub/ds/kol/20230510/235716-7idsbg1l9j.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -76,31 +88,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
  **位置**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230509/235344-q6c3si0sdl.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230510/235911-41gdfcsh63.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230509/235353-bsi8ma4w0u.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230510/235919-wlp74kmhjq.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230509/235401-z90unks76h.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230510/235926-4cptzu97dn.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230509/235407-9tqc4fhgwr.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230510/235932-ciodrjkh0w.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法商店：**
 
@@ -108,11 +120,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230509/235452-5fruqzkgcb.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230511/000026-t27cp463ju.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230508/001449-vya209klqf.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230502/235738-ls601349yq.png)
+
+注解：
+
+圆梦剧场
+
+![](https://img.166.net/reunionpub/ds/kol/20230511/001537-jfgmsy29pk.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230511/001546-4jf2hm10vy.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/235738-ls601349yq.png)
 
