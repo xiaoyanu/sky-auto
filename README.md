@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-05-23 00:29:24
+date: 2023-05-23 00:41:57
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -76,13 +76,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230523/000914-e97jw8lqmb.jpeg)
 
+完成方法三：
+
+ **清理圣岛被污染的漩涡的第一步**
+
+ **位置：云野 圣岛**
+
+注： **仅在海洋节活动时有效**
+
+![](https://img.166.net/reunionpub/ds/kol/20230523/003702-ce3s7n0uq4.jpeg)
+
+  
+
  **任务四：在仙乡的金塔下冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：云野 云中仙乡   【三塔图】**
+ **位置：云野 云中仙乡  【三塔图】**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230523/001009-tgon2erlk9.jpg)
 
