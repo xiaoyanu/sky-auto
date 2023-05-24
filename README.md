@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-05-24 13:50:49
+date: 2023-05-25 00:30:00
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,109 +10,79 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **5月24日 星期三**
+ **5月25日 星期四**
 
- **雨林**
+ **霞谷**
 
-![](https://img.166.net/reunionpub/ds/kol/20230524/001627-cwkqg198mu.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230525/001640-ipyfsztorl.jpg)
 
- **任务一：向一位朋友招手 0/1**
+ **任务一：清理圣岛被污染的漩涡**
 
-完成方法：
+完成方法
 
-点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成即可
+ **跟随光之生物清理漩涡**
 
- **注：1～6级动作均可完成**
+注： **在遇境向导处可直接传送至小岛**
 
-![](https://img.166.net/reunionpub/ds/kol/20230524/000108-ge8hcpnq5s.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230525/000030-iqf5dm2gev.jpg)
 
- **任务二：在雨林重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230524/235845-vlk436jyei.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230524/235924-ynszbrg1o3.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230524/235935-5cdues0j98.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230524/235942-nrlf7o60yt.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230524/235954-krsyf0h8gn.jpg)
+
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：雨林 荧光森林**
+ **位置：霞谷 霞光城**
 
- **先祖：正步冒险家 [动作]**
+ **先祖：倒立运动员 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230524/000311-r0ps8hqcd3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230525/000620-w30pmoby9k.jpeg)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
-
-完成方法一：
-
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
-
- **位置：雨林 密林遗迹（水母图）**
-
- **1.密林遗迹入口亭子右侧**
-
- **2.密林遗迹右侧矿洞前**
-
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/ds/kol/20230524/000343-qhs9d6gkre.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230524/000351-0uzky4cgd1.jpeg)
-
-完成方法二：
-
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
- **位置：雨林 风行网道**
-
-![](https://img.166.net/reunionpub/ds/kol/20230524/000358-ivs97me23c.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230524/000408-pa1l32zos5.jpeg)
-
-完成方法三：
-
- **清理圣岛被污染的漩涡的第一步**
-
- **位置：云野 圣岛**
-
-注： **仅在海洋节活动时有效**
-
-![](https://img.166.net/reunionpub/ds/kol/20230524/000417-e6os4ijtyl.jpeg)
-
- **任务四：在荧光森林冥想 0/1**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+1.点燃一堆大蜡烛
 
- **位置：雨林 荧光森林**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20230524/000438-5dowerq2fs.jpg)
+ **推荐地图：云野 霞谷 禁阁 遇境**
+
+![](https://img.166.net/reunionpub/ds/kol/20230525/000220-yc5krgm4qj.jpg)
+
+ **任务四：收集蓝色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：霞谷 滑冰场**
+
+![](https://img.166.net/reunionpub/ds/kol/20230525/000256-h80aqjkdss.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置： **雨林 B** 组
+位置： **霞谷 B** 组
 
-![](https://img.166.net/reunionpub/ds/kol/20230523/235502-pjavmtl5re.png)
+![](https://img.166.net/reunionpub/ds/kol/20230525/000901-jmt48s2vsq.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
  **伊甸之眼坠落碎片位置**
 
- **雨林**
-
- **冷却碎片 [黑石]**
-
-具体位置： **密林遗迹**
-
-坠落时间： **9、15、21小时** 的08分40秒左右～50分
-
-清理方式：净化黑石碎片周围黑暗植物即可
-
-获取货币：烛光 [普通蜡烛/白蜡烛]
-
-注：此坠落点 **不可完成  **[破晓季] 季节任务
-
-![](https://img.166.net/reunionpub/ds/kol/20230524/001319-gck6q3mi08.jpeg)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -126,31 +96,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230523/235646-e3kg8q4a0y.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230525/001030-qw7u28gryb.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230523/235654-sd6grwtsni.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230525/001056-ae6d85mg2t.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230523/235701-jsw0iypdag.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230525/001102-z1a847tqko.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230523/235708-hmucsobevi.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230525/001109-pq5csv82sk.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **海洋节活动额外免费魔法：放生海龟魔法x1 海龟斗篷魔法x1 自然之声魔法x1 绿芽斗篷魔法x1（每日更新后领取）**
 
@@ -160,7 +130,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230523/235745-7f0ybeu5c3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230525/001141-i24nc1odyg.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230520/024526-niy97hflvp.jpeg)
 
