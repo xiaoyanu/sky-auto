@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-05-31 13:50:46
+date: 2023-06-01 00:29:08
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,63 +10,99 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **5月31日 星期三**
+ **6月1日 星期四**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20230531/001230-vn2zelgcs3.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230601/001112-7n4sq10cew.jpg)
 
- **任务一：向一位朋友招手 0/1**
+ **任务一：清理圣岛被污染的漩涡**
 
-完成方法：
+完成方法
 
-点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成即可
+ **跟随光之生物清理漩涡**
 
- **注：1～6级动作均可完成**
+注： **在遇境向导处可直接传送至小岛**
 
-![](https://img.166.net/reunionpub/ds/kol/20230531/000305-ri4s7njgq9.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230531/235414-5cwiputdsy.jpg)
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230531/235423-g95j7msacu.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230531/235430-sfm13d8l9k.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230531/235438-qs5pa9v2t7.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230531/235500-lfsavncqzd.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230531/235508-8j0ul43esz.jpg)
+
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 一龙图**
+ **位置：禁阁一层   右侧隐藏图 [档案阁]**
 
- **先祖：敬礼护卫[动作]**
+ **先祖：智慧长者[站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230531/000500-zayns5ilvh.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230601/000521-opvq8kewjy.jpeg)
 
- **任务三：收集30点烛光 0/30**
+ **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+
+完成方法一：
+
+拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
+
+ **位置：雨林 密林遗迹（水母图）**
+
+ **1.密林遗迹入口亭子右侧**
+
+ **2.密林遗迹右侧矿洞前**
+
+ **注：共有两处随机拯救一只即可完成**
+
+![](https://img.166.net/reunionpub/ds/kol/20230601/000127-n6ih2bwzm7.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230601/000135-83n0urmdae.jpeg)
+
+完成方法二：
+
+找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
+
+ **位置：雨林 风行网道**
+
+![](https://img.166.net/reunionpub/ds/kol/20230601/000143-vn264a51s0.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230601/000149-sh19lojmyn.jpeg)
+
+完成方法三：
+
+ **清理圣岛被污染的漩涡的第一步**
+
+ **位置：云野 圣岛**
+
+注： **仅在海洋节活动时有效**
+
+![](https://img.166.net/reunionpub/ds/kol/20230601/000156-bc38jl7kw1.jpeg)
+
+ **任务四：收集紫色光芒 0/1**
 
 完成方法：
 
-1.领取任务
+靠近光芒即可完成
 
-2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
+ **位置：禁阁一层 右侧隐藏图 [垂直迷宫]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230531/000609-outrbsil2h.jpg)
-
- **任务四：在远古战场中央冥想 0/1**
-
-完成方法：
-
-点击坐下冥想并回答问题即可完成
-
- **位置：暮土 远古战场 [三龙图]**
-
-![](https://img.166.net/reunionpub/ds/kol/20230531/000631-bn6rsd35ti.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230531/000638-mhesflwsyr.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230601/000217-6k2i4shnrb.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置： **暮土 B** 组
+位置： **禁阁 A** 组
 
-![](https://img.166.net/reunionpub/ds/kol/20230530/235910-g1uad64izb.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230531/235247-i92kzqfljm.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -86,31 +122,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230531/000102-g1wcs2dv4o.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230531/235546-sawyc3gr8p.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230531/000125-9pay2dv5nm.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230531/235553-i15o8y4lwf.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230531/000132-adic7203ze.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230531/235600-pgjezn1usq.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230531/000139-yr7nfzjw83.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230531/235607-ludsica8th.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **海洋节活动额外免费魔法：放生海龟魔法x1 海龟斗篷魔法x1 自然之声魔法x1 绿芽斗篷魔法x1（每日更新后领取）**
 
@@ -120,7 +156,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230531/000212-091ke7q63c.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230531/235710-8mahqvsfyd.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230520/024526-niy97hflvp.jpeg)
 
