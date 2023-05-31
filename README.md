@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-01 00:29:08
+date: 2023-06-01 00:41:34
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -111,6 +111,20 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 无
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
+
+ **旅行先祖**
+
+ **预言季——火先知**
+
+复刻时间：6/1早上6:00～6/5中午12:00
+
+ **位置：晨岛 预言山谷-火之试炼入口处**
+
+![](https://img.166.net/reunionpub/ds/kol/20230601/003149-9nrhui2m03.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20230601/003246-cgqy4r9nsa.jpg)﻿![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
  **海洋节活动先祖兑换图**
 
