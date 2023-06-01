@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-01 13:50:45
+date: 2023-06-02 00:32:31
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -78,7 +78,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法三：
 
- **清理圣岛被污染的漩涡的第一步**
+清理圣岛被污染的漩涡的第一步
 
  **位置：云野 圣岛**
 
@@ -124,7 +124,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 兑换图
 
-![](https://img.166.net/reunionpub/ds/kol/20230601/003246-cgqy4r9nsa.jpg)﻿![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
+![](https://img.166.net/reunionpub/ds/kol/20230601/003246-cgqy4r9nsa.jpg)![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
  **海洋节活动先祖兑换图**
 
