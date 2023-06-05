@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-05 13:50:47
+date: 2023-06-06 00:29:46
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,85 +10,81 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **6月5日 星期一**
+ **6月6日 星期二**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20230605/001622-maly85jdn7.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230606/001835-7i89uwm3gk.jpg)
 
- **任务一：向一位朋友做个动作 0/1**
+ **任务一：清理圣岛被污染的漩涡**
 
-完成方法：
+完成方法
 
-点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
+ **跟随光之生物清理漩涡**
 
-![](https://img.166.net/reunionpub/ds/kol/20230605/000450-ue3pbtgovs.jpg)
+注： **在遇境向导处可直接传送至小岛**
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230606/000647-9nqgzihjor.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230606/000653-qezss9y62m.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230606/000659-ihs7ptq6jz.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230606/000706-5qsy3ehz9v.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230606/000712-bp32ymkf9h.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230606/000718-lnduj9pe5c.jpg)
+
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 巨兽荒原[四龙图]**
+ **位置：禁阁四层**
 
- **先祖：隐秘幸存者 [站姿]**
+ **先祖：修禅院士 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230605/000415-i9dwn0pfyq.jpeg)
+ **注：重温此先祖需点燃石碑周围光影并进行祈祷**
 
- **任务三：掀翻5只螃蟹 0/5**
+![](https://img.166.net/reunionpub/ds/kol/20230606/000807-t9gzi1cnbs.jpeg)
+
+ **任务三：面对冥龙 0/1**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+被冥龙锁定变成红光即可完成
 
- **推荐地图：暮土 云野圣岛**
+ **推荐地图：暴风眼 暮土 ——藏宝岛礁/巨兽荒原(四龙图)/远古战场(三龙图)/遗忘方舟等**
 
-![](https://img.166.net/reunionpub/ds/kol/20230605/000428-qz6s9n5lbr.jpg)
+ **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
- **任务四：在巨兽荒原的神坛旁冥想 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230606/000840-tjkmv8zr4p.jpg)
+
+ **任务四：在禁阁底层冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 巨兽荒原 [四龙图]**
+ **位置：禁阁一层/禁阁大厅 右侧平台**
 
-![](https://img.166.net/reunionpub/ds/kol/20230605/000511-4b8y6i3ohp.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230605/000520-tq6l53nhe7.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230605/000526-otdn7gpwih.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230606/000929-0coau8lq4f.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置： **暮土 A** 组
+位置： **禁阁 B** 组
 
-![](https://img.166.net/reunionpub/ds/kol/20230605/000237-y3qko4cltz.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230606/001237-vwnscaf05j.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
-
-![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
-
- **旅行先祖**
-
- **预言季——火先知**
-
-复刻时间：6/1早上6:00～6/5中午12:00
-
- **位置：晨岛 预言山谷-火之试炼入口处**
-
-![](https://img.166.net/reunionpub/ds/kol/20230601/003149-9nrhui2m03.jpeg)
-
-兑换图
-
-![](https://img.166.net/reunionpub/ds/kol/20230601/003246-cgqy4r9nsa.jpg)![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
+无![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
  **海洋节活动先祖兑换图**
 
@@ -100,31 +96,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
  **位置**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230605/001101-ig9sy5d0tv.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230606/001509-vl5ft68rks.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230605/001110-2z4lgahy36.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230606/001516-p2em6gbwvt.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230605/001116-zy0tmf3qlj.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230606/001523-aus3imnwf1.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230605/001123-g618lpmd9s.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230606/001531-2rp3j4c7v0.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **海洋节活动额外免费魔法：放生海龟魔法x1 海龟斗篷魔法x1 自然之声魔法x1 绿芽斗篷魔法x1（每日更新后领取）**
 
@@ -134,7 +130,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230605/001237-u42flsvs19.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230606/001608-2psqtrwa0m.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230520/024526-niy97hflvp.jpeg)
 
