@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-10 07:50:43
+date: 2023-06-10 13:24:04
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -68,7 +68,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **季节蜡烛**
 
-位置： **暮土 B** 组
+位置： **暮土 A** 组
 
 ![](https://img.166.net/reunionpub/ds/kol/20230609/235611-oqa7ub9gnz.jpeg)
 
@@ -98,11 +98,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
- **海洋节活动先祖兑换图**
+ **预言季活动先祖兑换图**
 
-![](https://img.166.net/reunionpub/ds/kol/20230520/040300-zap2jkovds.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230610/094842-n3oplyifq5.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230520/040310-ofs4cbrjhq.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230610/094856-ic3ykbfqvn.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230610/094906-97nzhr8oi2.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -180,8 +182,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **返老还童x1 长大成人x1**
 
- **海洋节活动额外免费魔法：放生海龟魔法x1 海龟斗篷魔法x1 自然之声魔法x1 绿芽斗篷魔法x1（每日更新后领取）**
-
  **魔法商店：**
 
 注：开启 魔法商店 需完成 [魔法季] 全部剧情
@@ -189,8 +189,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230609/235938-58mbwrhlk3.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230520/024526-niy97hflvp.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
