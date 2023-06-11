@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-12 00:53:03
+date: 2023-06-12 07:22:19
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -39,6 +39,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **先祖：放松日浴者 [动作]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230612/002817-24juervg78.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230612/014827-pi5fegs60b.jpg)
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
