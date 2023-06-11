@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-12 00:28:04
+date: 2023-06-12 00:40:25
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,95 +10,89 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **6月11日 星期日**
+ **6月12日 星期一**
 
- **禁阁**
+ **云野**
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/002256-z94pumlqkn.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/001855-jvmsrqdpcy.jpg)
 
- **任务一：向一位朋友招手 0/1**
+ **任务一：2人合力开启一道门 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成即可
+两位玩家协力开启一道门即可完成
 
- **注：1～6级动作均可完成**
+![](https://img.166.net/reunionpub/ds/kol/20230612/000422-cuq16bsolw.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/000515-1502678w3t.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/000434-y2runq8mgz.jpg)
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20230612/000442-ntksb5gov8.jpg)
+
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁一层   右侧隐藏图 [档案阁]**
+ **位置：云野 圣岛**
 
- **先祖：智慧长者[站姿]**
+ **先祖：放松日浴者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/000733-b8zhlsy6tn.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/002817-24juervg78.jpg)
 
- **任务三：点燃20根蜡烛 0/20**
+ **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+
+完成方法一：
+
+拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
+
+ **位置：雨林 密林遗迹（水母图）**
+
+ **1.密林遗迹入口亭子右侧**
+
+ **2.密林遗迹右侧矿洞前**
+
+ **注：共有两处随机拯救一只即可完成**
+
+![](https://img.166.net/reunionpub/ds/kol/20230612/002859-6yvgh3btsm.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230612/002905-3zvgj0b5rs.jpeg)
+
+完成方法二：
+
+找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
+
+ **位置：雨林 风行网道**
+
+![](https://img.166.net/reunionpub/ds/kol/20230612/002912-gp7uorviyf.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230612/002918-0p36mdsoy8.jpeg)
+
+ **任务四：在云顶浮石上冥想 0/1**
 
 完成方法：
 
-1.点燃一堆大蜡烛
+点击坐下冥想并回答问题即可完成
 
-2.或点燃20根蜡烛即可完成
+ **位置：云野 云顶浮石 [右侧隐藏图]**
 
- **推荐地图：云野 霞谷 禁阁 遇境**
+![](https://img.166.net/reunionpub/ds/kol/20230612/002937-5v936ngmqy.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/000801-cgw9z4bfip.jpg)
-
- **任务四：收集紫色光芒 0/1**
-
-完成方法：
-
-靠近光芒即可完成
-
- **位置：禁阁一层 右侧隐藏图 [档案阁/]**
-
-![](https://img.166.net/reunionpub/ds/kol/20230611/000813-ud9pr02lm3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/002943-f87bcvnkas.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置： **禁阁 A** 组
+位置： **云野 B** 组
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/000857-e6zmnwys8t.png)
+![](https://img.166.net/reunionpub/ds/kol/20230611/235752-oz1fyp95em.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
  **伊甸之眼坠落碎片位置**
 
- **暮土**
-
- **灼热碎片 [红石]：**
-
- **具体位置：失落方舟**
-
- **坠落时间：7** 、13、19小时的08分40秒左右～50分
-
- **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币：** 升华蜡烛
-
- **注：此坠落点可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20230611/001007-0dnws3fkrz.jpeg)
-
-或
-
-![](https://img.166.net/reunionpub/ds/kol/20230611/001017-epl6zdokuq.jpg)
-
-或
-
-![](https://img.166.net/reunionpub/ds/kol/20230611/001033-ibezgssu4v.jpeg)
-
-或
-
-![](https://img.166.net/reunionpub/ds/kol/20230611/001045-8vlf24uehz.jpeg)
+ **无**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -114,79 +108,49 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：雨林 暮土 禁阁**
+ **地图：雨林 霞谷**
 
  **雨林**
 
-雨林大厅：
-
-![](https://img.166.net/reunionpub/ds/kol/20230610/004942-c6kebswl05.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230611/001257-5j8e7f4tpm.jpeg)
-
-静谧庭院：
-
-![](https://img.166.net/reunionpub/ds/kol/20230611/001321-sprbg28nvl.jpeg)
-
-荧光森林：
-
-![](https://img.166.net/reunionpub/ds/kol/20230610/005017-l8a45imnzh.jpeg)
-
-密林遗迹：
-
-![](https://img.166.net/reunionpub/ds/kol/20230611/001345-jfakwpct06.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230610/005040-ysw3kig9pa.jpeg)
-
-秘密花园：
-
-![](https://img.166.net/reunionpub/ds/kol/20230610/005051-w3zsua2vpq.jpeg)
-
-雨林神庙
-
-![](https://img.166.net/reunionpub/ds/kol/20230611/001421-fhkez3toms.jpeg)
-
- **暮土**
-
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/001624-ewqji6at5d.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/000213-6wufv1jtd7.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/001631-4ynclrjsqz.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/000233-rglyfwtshc.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/001636-vso5e084wh.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/000240-7ghu10yd5k.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/001643-dum4yc837g.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/000246-5othln9mi0.jpeg)
 
- **禁阁**
+ **霞谷**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/001744-3ub7kj2sw9.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/000330-cpmhqdnsu4.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/001751-ny3ilophru.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/000336-4mlhv2ywf8.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/001759-bi7u4f8cgq.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/000346-6l41pvcnbt.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/001805-2igfl48qu0.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/000352-wnt501kz8u.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **体型重塑x1 绚丽彩虹x1**
+ **浪漫烟花x1**
 
  **魔法商店：**
 
@@ -194,11 +158,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230611/001846-0qdu659rvs.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/000032-e1dg649ins.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
-![](https://img.166.net/reunionpub/ds/kol/20230609/235955-ulfrvm74p6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230612/000050-ki6vo1pyta.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/235738-ls601349yq.png)
 
