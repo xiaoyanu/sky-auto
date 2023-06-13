@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-14 00:30:25
+date: 2023-06-14 00:42:55
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -34,7 +34,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：霞谷 竞技场**
+ **位置：霞谷 竞技场（神殿内左侧隐藏门内）**
 
  **先祖：火花家长[动作]**
 
