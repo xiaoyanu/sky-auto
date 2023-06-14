@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-14 07:48:05
+date: 2023-06-14 13:25:14
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -38,7 +38,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：火花家长[动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230614/001031-deg92m0v3y.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230614/124309-be1oz3vhum.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230614/124321-jtvwnkhrim.jpeg)
 
  **任务三：面对冥龙 0/1**
 
