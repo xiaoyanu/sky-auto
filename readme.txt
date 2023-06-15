@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-16 00:41:49
+date: 2023-06-16 07:22:26
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -93,6 +93,24 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 或
 
 ![](https://img.166.net/reunionpub/ds/kol/20230616/001137-t3l279vphc.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
+
+ **旅行先祖**
+
+魔法季——情绪草药师
+
+复刻时间：06/15早上6:00～06/19中午12:00
+
+位置： **失落方舟-沉船旁**
+
+![](https://img.166.net/reunionpub/ds/kol/20230616/003919-pq5bmkf7s2.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230616/004126-sdojk2w19v.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20230616/004150-2v7639m5ar.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
