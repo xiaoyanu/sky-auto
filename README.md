@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-21 00:42:59
+date: 2023-06-21 07:22:59
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -100,6 +100,26 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
+ **周年庆活动-兑换**
+
+![](https://img.166.net/reunionpub/ds/kol/20230621/022335-124cegji5h.jpg)
+
+ **目前已发现的兑换卡：4 张**
+
+办公室屋顶：舞台左侧角射灯旁一张，正对舞台有饮料的桌子上一张
+
+![](https://img.166.net/reunionpub/ds/kol/20230621/031531-v2k7irmbgt.jpg)
+
+办公室内：进门左侧小屋内桌子上一张，最里边屋顶透光窗悬浮一张
+
+![](https://img.166.net/reunionpub/ds/kol/20230621/031547-ekv94r6dfu.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230621/031558-u6zanmoykd.jpg)
+
+ **如果发现其他有兑换卡的位置-可以评论区留言**
+
+![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
+
  **大蜡烛**
 
  **地图：禁阁**
@@ -128,6 +148,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **璀璨之星x1**
 
+ **周年庆活动免费魔法**
+
  **魔法商店：**
 
 注：开启 魔法商店 需完成 [魔法季] 全部剧情
@@ -135,6 +157,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230621/001421-4yikssmp1b.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230621/022455-efjp2306hd.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
