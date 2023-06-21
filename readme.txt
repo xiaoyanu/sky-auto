@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-21 07:51:10
+date: 2023-06-21 13:25:35
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -78,7 +78,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **冷却碎片 [黑石]**
 
-具体位置： **滑冰场**
+具体位置： **远古战场**
 
 坠落时间： **9、15、21小时** 的08分40秒左右～50分
 
@@ -104,19 +104,59 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230621/022335-124cegji5h.jpg)
 
- **目前已发现的兑换卡：4 张**
+ **杯子蛋糕代币获取方式：**
 
-办公室屋顶：舞台左侧角射灯旁一张，正对舞台有饮料的桌子上一张
+方式一：舞台前获取，代币会在员工表演前每小时的0分，10分，20分，30分进行刷新
 
-![](https://img.166.net/reunionpub/ds/kol/20230621/031531-v2k7irmbgt.jpg)
+ **注：每天领取有上限**
 
-办公室内：进门左侧小屋内桌子上一张，最里边屋顶透光窗悬浮一张
+刷新位置：
+
+![](https://img.166.net/reunionpub/ds/kol/20230621/112614-v4ge6dainj.jpg)
+
+方式二：秘密基地各个位置获取  
+
+ **注：每天位置不固定 轮换交替**
+
+今日位置：
+
+第一张：舞台前饮料桌子上
+
+![](https://img.166.net/reunionpub/ds/kol/20230621/113627-febz0jtaki.jpg)
+
+第二张：去往办公室二楼的楼梯转角处
+
+![](https://img.166.net/reunionpub/ds/kol/20230621/104926-jbhwksr45p.jpg)
+
+第三张：进门左侧小屋内桌子上
 
 ![](https://img.166.net/reunionpub/ds/kol/20230621/031547-ekv94r6dfu.jpg)
 
+第四张：最里边屋顶透光窗悬浮处
+
 ![](https://img.166.net/reunionpub/ds/kol/20230621/031558-u6zanmoykd.jpg)
 
- **如果发现其他有兑换卡的位置-可以评论区留言**
+方式三：秘密基地魔法商店处兑换
+
+ **注：每周限额7张   周末刷新**
+
+位置：秘密基地顶楼沙发处
+
+![](https://img.166.net/reunionpub/ds/kol/20230621/115039-ny0aib1up9.jpg)
+
+方式四：每周五，六，日基地额外奖励
+
+位置：后续更新
+
+方式五：兑换商店兑换获取
+
+方法：收集音符兑换代币
+
+ **注：进入精灵处点开活动**
+
+![](https://img.166.net/reunionpub/ds/kol/20230621/123136-c6n14ks2du.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230621/123156-yrze1wsl4c.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
