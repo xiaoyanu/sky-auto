@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-22 07:50:34
+date: 2023-06-22 13:25:15
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -84,11 +84,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 方式一：舞台前获取，代币会在员工表演前每小时的0分，10分，20分，30分进行刷新
 
- **注：每天领取上限4张**
+ **注：每天领取有上限**
 
 刷新位置：
 
-![](https://img.166.net/reunionpub/ds/kol/20230621/112614-v4ge6dainj.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230622/094452-skuzagc07r.jpg)
 
 方式二：秘密基地各个位置获取  
 
