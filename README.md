@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-23 00:52:59
+date: 2023-06-23 07:26:20
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -34,7 +34,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：白日梦森林人 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230623/000944-vw9so42pzi.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230623/020347-sjg2w1dhk7.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230623/022009-g1eq4zukof.jpeg)
 
  **任务三：收集30点烛光 0/30**
 
@@ -128,15 +130,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：每天位置不固定 轮换交替**
 
-今日位置：稍后更新
+今日位置：
 
 第一张：舞台后侧音箱上
 
+![](https://img.166.net/reunionpub/ds/kol/20230623/011242-d01h8lq4vm.jpg)
+
 第二张：兑换沙发桌子上
+
+![](https://img.166.net/reunionpub/ds/kol/20230623/011423-zbagoe9i7k.jpg)
 
 第三张：一楼门右边楼梯拐角处
 
+![](https://img.166.net/reunionpub/ds/kol/20230623/011501-7ez3prtj5m.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230623/011509-mpnbwts02c.jpg)
+
 第四张：一楼厨房餐桌上
+
+![](https://img.166.net/reunionpub/ds/kol/20230623/011520-5amnocz0er.jpg)
 
 方式三：秘密基地魔法商店处兑换
 
@@ -148,7 +160,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 方式四：每周五，六，日基地额外奖励
 
-位置：稍后更新
+位置：二楼陈列室内
+
+![](https://img.166.net/reunionpub/ds/kol/20230623/005400-26h1er0om8.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230623/005409-snbd865io0.jpg)
 
 方式五：兑换商店兑换获取
 
@@ -158,7 +174,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230621/123136-c6n14ks2du.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230621/123156-yrze1wsl4c.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230623/011606-n7c0w3em8u.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
