@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-23 00:40:46
+date: 2023-06-23 00:52:59
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,35 +10,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **6月22日 星期四**
+ **6月23日 星期五**
 
- **云野**
+ **雨林**
 
-![](https://img.166.net/reunionpub/ds/kol/20230622/001151-8p4a5c13qt.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230623/001754-ctqw6851yv.jpg)
 
- **任务一：向一位玩家鞠躬 0/1**
+ **任务一：向一位朋友做个动作 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
+点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
 
- **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
+![](https://img.166.net/reunionpub/ds/kol/20230623/000722-tyk2jq8suf.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230622/000158-s46c2velpq.jpg)
-
- **任务二：在云野重温先祖的美好回忆 0/1**
+ **任务二：在雨林重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：云野 圣岛**
+ **位置：雨林 密林遗迹 [大树屋旁]**
 
- **先祖：放松日浴者 [动作]**
+ **先祖：白日梦森林人 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230622/000307-z4te5fo3au.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230622/000807-iwf27d5zvk.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230623/000944-vw9so42pzi.jpeg)
 
  **任务三：收集30点烛光 0/30**
 
@@ -48,31 +44,51 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
-![](https://img.166.net/reunionpub/ds/kol/20230622/000534-l0nqcjv9t1.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230623/001033-5p71b0zldq.jpg)
 
- **任务四：在幽光山洞里冥想 0/1**
+ **任务四：在密林遗迹冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：云野 幽光山洞 [左侧隐藏图]**
+ **位置：雨林 密林遗迹**
 
-![](https://img.166.net/reunionpub/ds/kol/20230622/000549-d4ft1uky92.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230623/001052-tqm0lp4niv.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230623/001100-2mzrhybjeu.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置： **云野**  B组
+位置： **雨林** B组
 
-![](https://img.166.net/reunionpub/ds/kol/20230622/001316-7zy8s1sfab.png)
+![](https://img.166.net/reunionpub/ds/kol/20230623/001917-5q0l9zci67.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
+云野
+
+ **灼热碎片 [红石]：**
+
+ **具体位置：云顶浮石**
+
+ **坠落时间：11** 、17、23小时的08分40秒左右～50分
+
+ **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币：** 升华蜡烛
+
+ **注：此坠落点可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol/20230623/002159-k5g2hmawqb.png)
+
+或
+
+![](https://img.166.net/reunionpub/ds/kol/20230623/002215-u08ps1evk2.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -112,27 +128,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：每天位置不固定 轮换交替**
 
-今日位置：
+今日位置：稍后更新
 
-第一张：舞台后
+第一张：舞台后侧音箱上
 
-![](https://img.166.net/reunionpub/ds/kol/20230622/012508-fkt1zbg68o.jpg)
+第二张：兑换沙发桌子上
 
-第二张：二楼走廊
+第三张：一楼门右边楼梯拐角处
 
-![](https://img.166.net/reunionpub/ds/kol/20230622/012536-7d0kyga8wb.jpg)
-
-第三张：一楼进门左边小屋内
-
-![](https://img.166.net/reunionpub/ds/kol/20230622/012613-9sgniw8b1a.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230622/012621-a60qyiuzre.jpg)
-
-第四张：二楼进门右侧
-
-![](https://img.166.net/reunionpub/ds/kol/20230622/012704-pojfmc6zeg.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230622/012713-uhf3ylbtnd.jpg)
+第四张：一楼厨房餐桌上
 
 方式三：秘密基地魔法商店处兑换
 
@@ -144,7 +148,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 方式四：每周五，六，日基地额外奖励
 
-位置：后续更新
+位置：稍后更新
 
 方式五：兑换商店兑换获取
 
@@ -322,7 +326,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+ **大只佬x1 小不点x1**
 
  **周年庆活动免费魔法**
 
@@ -332,7 +336,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230622/003841-l4g1sfdh8e.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230623/002534-fwlckishtm.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230621/022455-efjp2306hd.jpeg)
 
