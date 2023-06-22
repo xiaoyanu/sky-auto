@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-22 13:50:34
+date: 2023-06-23 00:27:57
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -76,6 +76,24 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
+ **旅行先祖**
+
+ **音韵季——杂耍演员**
+
+复刻时间：6/22早上6:00～6/26中午12:00
+
+ **位置：霞谷 滑冰场**
+
+![](https://img.166.net/reunionpub/ds/kol/20230622/234259-9frecy7bv6.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230622/234307-jy8hf3sdt0.jpg)
+
+兑换图：
+
+![](https://img.166.net/reunionpub/ds/kol/20230622/234503-vzeoqu8yar.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
+
  **周年庆活动-兑换**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230621/022335-124cegji5h.jpg)
@@ -84,7 +102,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 方式一：舞台前获取，代币会在员工表演前每小时的0分，10分，20分，30分进行刷新
 
- **注：每天领取有上限**
+ **注：每天领取有上限: 8张**
 
 刷新位置：
 
