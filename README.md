@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-24 00:49:38
+date: 2023-06-24 07:24:51
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -116,7 +116,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 方式一：舞台前获取，代币会在员工表演前每小时的0分，10分，20分，30分进行刷新
 
- **注：每天领取有上限: 4-8张（端午节当天领了8张，其他时间只领了4张，不用纠结，一切都以国服活动当天实际为准）**
+ **注：每天领取有上限:
+至少4张最高也不会超过8张，看你运气了（今天又领取了超过8次，看来是BUG，一开始没有发现，当超过6张以后，张数不在上涨，又继续领了几次，也没涨，这个时候去兑换旁边的气球帽，张数也不减少，可以趁机完成气球帽子任务，不用纠结，一切都以国服当天活动实际为准）**
 
 刷新位置：
 
@@ -130,21 +131,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一张：舞台前饮料桌子上
 
-![每日任务 大蜡烛 季节蜡烛 免费魔法_光·遇 |
-大神](https://img.166.net/reunionpub/ds/kol/20230621/113627-febz0jtaki.jpg?imageView&tostatic=0&thumbnail=1500x0)
+![](https://img.166.net/reunionpub/ds/kol/20230624/014136-fs56c7edrz.jpg)
 
-第二张：去往办公室二楼的楼梯转角处
+第二张：舞台后天台处
 
-![每日任务 大蜡烛 季节蜡烛 免费魔法_光·遇 |
-大神](https://img.166.net/reunionpub/ds/kol/20230621/104926-jbhwksr45p.jpg?imageView&tostatic=0&thumbnail=1500x0)
+![](https://img.166.net/reunionpub/ds/kol/20230624/014322-p4oh3t2kms.jpg)
 
-第三张：进门左侧小屋内桌子上
+第三张：去往二楼楼梯拐角处
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/001704-n3zj9i16sm.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230624/014430-du0si3mr98.jpg)
 
-第四张：最里边屋顶透光窗悬浮处
+第四张：一楼进门会议室桌子上
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/001718-i2b3w8j5zp.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230624/014609-7gosia0wf1.jpg)
 
 方式三：秘密基地魔法商店处兑换
 
@@ -156,7 +155,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 方式四：每周五，六，日基地额外奖励
 
-位置：一楼厨房灶台旁
+周六位置：一楼厨房灶台旁
+
+![](https://img.166.net/reunionpub/ds/kol/20230624/005743-7or1jla2p4.jpg)
 
  **注：一块披萨=两张杯子蛋糕代币**
 
