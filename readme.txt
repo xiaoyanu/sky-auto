@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-24 07:51:19
+date: 2023-06-24 13:27:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -157,9 +157,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 周六位置：一楼厨房灶台旁
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/005743-7or1jla2p4.jpg)
-
  **注：一块披萨=两张杯子蛋糕代币**
+
+![](https://img.166.net/reunionpub/ds/kol/20230624/005743-7or1jla2p4.jpg)
 
 方式五：兑换商店兑换获取
 
