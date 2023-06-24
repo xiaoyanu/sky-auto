@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-24 13:52:26
+date: 2023-06-25 00:33:01
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,83 +10,87 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **6月24日 星期六**
+ **6月25日 星期日**
 
- **霞谷**
+ **暮土**
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/001147-k71oay3it9.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/001515-jubl9w0fgy.jpg)
 
- **任务一：和朋友击掌 0/1**
+ **任务一：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
+和陌生玩家一起坐在石凳上即可完成
 
- **注：一级二级都可以完成**
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
-2.点击[集结向导]剧情节点 找到第一个剧情任务上方的击掌，与[向导]完成击掌即可
+![](https://img.166.net/reunionpub/ds/kol/20230625/001035-z04slvjkae.jpg)
 
- **注：需要完成第一个[集结季]剧情任务**
-
-3.靠近遇境[剧团团长]找到第一个魔法节点上方击掌，与[剧团团长]完成击掌即可
-
- **注：需要完成第一个[表演季]剧情任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20230624/000259-szyfekg54v.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230624/000307-0eih5nb4z8.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230624/000314-1nc2kpuat3.jpeg)
-
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+ **任务二：在暮土重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 圆梦村**
+ **位置：暮土 边陲荒漠**
 
- **先祖：偷窥邮差 [动作]**
+ **先祖：惊恐难民 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/000400-nj7013oq9a.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/001053-uevf3p21an.jpeg)
 
- **任务三：点燃20根蜡烛 0/20**
+ **任务三：净化10株黑暗植物 0/1**
 
 完成方法：
 
-1.点燃一堆大蜡烛
+拿出心火光影燃烧10株黑暗植物即可完成
 
-2.或点燃20根蜡烛即可完成
+ **推荐地图：暮土 雨林 云野圣岛   净化红黑石碎片周围黑暗植物通用**
 
- **推荐地图：云野 霞谷 禁阁 遇境**
+![](https://img.166.net/reunionpub/ds/kol/20230625/001106-mnr01dauoy.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/000436-18i6asykbe.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/001112-4fqjucdps7.jpeg)
 
- **任务四：在霞光城上层冥想 0/1**
+ **任务四：在巨兽荒原的神坛旁冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：霞谷 霞光城**
+ **位置：暮土 巨兽荒原 [四龙图]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/000451-flzicophn1.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/001130-qhy3smwgnk.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/000458-ogymsw0h4c.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/001136-sh9ospv2zw.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230625/001142-3faszk1g4v.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置： **霞谷** B组
+位置： **暮土** B组
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/001153-p2csy1zdj9.png)
+![](https://img.166.net/reunionpub/ds/kol/20230625/001020-n1q3ftvsp2.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **霞谷**
+
+ **灼热碎片 [红石]：**
+
+ **具体位置：** 雪隐峰
+
+ **坠落时间：7** 、13、19小时的08分40秒左右～50分
+
+ **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币：** 升华蜡烛
+
+ **注：此坠落点可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol/20230625/001657-imaqsy7vej.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -129,21 +133,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 今日位置：
 
-第一张：舞台前饮料桌子上
+第一张：舞台后
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/014136-fs56c7edrz.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/002043-0y4sw6e9mz.jpg)
 
-第二张：舞台后天台处
+第二张：二楼走廊
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/014322-p4oh3t2kms.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/002051-8s3q62wbzf.jpg)
 
-第三张：去往二楼楼梯拐角处
+第三张：一楼进门左边小屋内
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/014430-du0si3mr98.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/002117-4ymnewpqb9.jpg)
 
-第四张：一楼进门会议室桌子上
+![](https://img.166.net/reunionpub/ds/kol/20230625/002127-1ozmb390sh.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/014609-7gosia0wf1.jpg)
+第四张：二楼进门右侧
+
+![](https://img.166.net/reunionpub/ds/kol/20230625/002135-69j1z2a54w.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230625/002142-ngeqkomh3f.jpg)
 
 方式三：秘密基地魔法商店处兑换
 
@@ -155,11 +163,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 方式四：每周五，六，日基地额外奖励
 
-周六位置：一楼厨房灶台旁
+周日位置：二楼陈列室沙发上
 
  **注：一块披萨=两张杯子蛋糕代币**
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/005743-7or1jla2p4.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/002508-oivm7cps3k.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230625/002514-g5pkly104h.jpg)
 
 方式五：兑换商店兑换获取
 
@@ -337,7 +347,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **返老还童x1 长大成人x1**
+ **体型重塑x1 绚丽彩虹x1**
 
  **周年庆活动免费魔法**
 
@@ -347,7 +357,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230624/001833-slvepz18n4.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/001754-t40ejgra9b.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230621/022455-efjp2306hd.jpeg)
 
