@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-25 00:33:01
+date: 2023-06-25 00:48:13
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -139,7 +139,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第二张：二楼走廊
 
-![](https://img.166.net/reunionpub/ds/kol/20230625/002051-8s3q62wbzf.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/003837-tom60jcbsd.jpg)
 
 第三张：一楼进门左边小屋内
 
@@ -151,7 +151,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230625/002135-69j1z2a54w.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230625/002142-ngeqkomh3f.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/004244-hpvkg0dbof.jpg)
 
 方式三：秘密基地魔法商店处兑换
 
@@ -169,7 +169,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230625/002508-oivm7cps3k.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230625/002514-g5pkly104h.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230625/004437-g5isrw07l1.jpg)
 
 方式五：兑换商店兑换获取
 
