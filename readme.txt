@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-06-30 00:48:06
+date: 2023-06-30 07:24:24
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -95,6 +95,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 或
 
 ![](https://img.166.net/reunionpub/ds/kol/20230630/002036-sgs6coftrk.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
+
+ **旅行先祖**
+
+小王子季——呼风唤雨的统治者
+
+复刻时间：06/29早上6:00～07/03中午12:00
+
+位置： **禁阁-星光沙漠**
+
+![](https://img.166.net/reunionpub/ds/kol/20230630/011218-sske1zg7p9.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20230630/011230-1tmgbdjirc.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
