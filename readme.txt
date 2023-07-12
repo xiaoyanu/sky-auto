@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-13 00:48:15
+date: 2023-07-13 07:23:51
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -13,6 +13,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **7月13日 星期四**
 
  **雨林**
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/013322-s6hpv0ul7a.jpg)
 
  **任务一：和陌生人一起坐在长凳上 0/1**
 
@@ -104,6 +106,66 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
+ **缤纷飞行日活动-兑换**
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/014857-dlmstswin1.jpeg)
+
+ **单抹彩虹代币获取方式：**
+
+方式一：每日彩虹任务点领取
+
+今日位置：雨林-静谧庭院外树林处
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/020536-yiz4fb67cl.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/022029-hut3ps1wrd.jpg)
+
+方式二：中央神坛各各角落  
+
+ **注：每天位置不固定 轮换交替**
+
+今日位置：
+
+第一张：
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/025833-za327s4os6.jpg)
+
+第二张：
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/021515-hjz5sgftds.jpg)
+
+第三张：
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/025148-7cgupo2n1e.jpg)
+
+第四张：
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/031036-qysomd1r9c.jpg)
+
+方式三：圣坛中央祭台处领取
+
+ **注：彩虹降落时出现**
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/024035-phntvjkqdo.jpg)
+
+方式四：先祖旁魔法商店处兑换
+
+位置：神坛先祖旁的小方盒
+
+ **注：限额7张   周末刷新**
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/033315-nm7t0rs534.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/033324-s09z57av3g.jpg)
+
+方式五：周末额外领取奖励
+
+位置：雨林-荧光森林-石碑处
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/033553-7fh3edsapl.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/004756-72in0s1sat.png)
+
  **大蜡烛**
 
  **地图：云野**
@@ -132,6 +194,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **漂浮魔法x1**
 
+ **缤纷飞行日活动免费魔法**
+
  **魔法商店：**
 
 注：开启 魔法商店 需完成 [魔法季] 全部剧情
@@ -139,6 +203,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230712/235114-04ysh2cep8.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/034722-t83941abyu.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
