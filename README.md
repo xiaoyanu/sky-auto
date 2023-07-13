@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-13 13:52:50
+date: 2023-07-14 00:32:13
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -196,7 +196,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+ **漂浮魔法x1 额外活动奖励：绚丽彩虹x2 暗彩装扮x1**
 
  **缤纷飞行日活动免费魔法**
 
@@ -206,7 +206,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230712/235114-04ysh2cep8.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230713/222355-q7inh9wm8s.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230713/034722-t83941abyu.jpeg)
 
