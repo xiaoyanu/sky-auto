@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-14 00:48:05
+date: 2023-07-14 07:24:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -108,6 +108,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230714/002347-6t2lyuobhk.jpg)
 
+![](https://img.166.net/reunionpub/ds/kol/20230714/015013-1soznu98vh.jpg)
+
 方式二：神坛各各角落获取  **[境遇传送至八人门图]**
 
  **注：每天位置不固定 轮换交替**
@@ -116,23 +118,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一张：
 
-![](https://img.166.net/reunionpub/ds/kol/20230714/001905-ahj843pudb.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230714/023754-2cefns5ajp.jpg)
 
 第二张：
 
-![](https://img.166.net/reunionpub/ds/kol/20230714/001913-c40qip52gm.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230714/023803-6t47i5szwb.jpg)
 
 第三张：
 
-![](https://img.166.net/reunionpub/ds/kol/20230714/001921-y32wlizf4p.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230714/023809-a8zwrl7evs.jpg)
 
 第四张：
 
-![](https://img.166.net/reunionpub/ds/kol/20230714/001931-eio2ktfdh9.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230714/023816-cjflgsyize.jpg)
 
 方式三：圣坛中央祭台处领取
 
  **注：彩虹降落时出现**
+
+![](https://img.166.net/reunionpub/ds/kol/20230714/014701-96rvho1043.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230713/024035-phntvjkqdo.jpg)
 
@@ -150,7 +154,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置：雨林-荧光森林-石碑处
 
-![](https://img.166.net/reunionpub/ds/kol/20230713/033553-7fh3edsapl.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230714/021120-k6l9end3ss.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230714/021128-vnul7eo5s6.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230714/021149-zdrocg2j3e.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230713/004756-72in0s1sat.png)
 
