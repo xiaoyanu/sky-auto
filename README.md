@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-13 07:51:03
+date: 2023-07-13 13:27:43
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -98,17 +98,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁 星光沙漠**
 
+![](https://img.166.net/reunionpub/ds/kol/20230713/111348-jgtv6a82hl.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230713/111451-gqnmel8fra.png)
+
 ![](https://img.166.net/reunionpub/ds/kol/20230712/001753-zr3og9y4h6.jpeg)
 
 兑换图
 
-![](https://img.166.net/reunionpub/ds/kol/20230712/010226-v2zp90e1u6.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230713/111255-1dvpa8qils.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
  **缤纷飞行日活动-兑换**
 
-![](https://img.166.net/reunionpub/ds/kol/20230713/014857-dlmstswin1.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230713/104716-8vgo39iztq.jpg)
 
  **单抹彩虹代币获取方式：**
 
@@ -118,9 +122,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230713/020536-yiz4fb67cl.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230713/022029-hut3ps1wrd.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230713/112225-dh8fjnskme.jpg)
 
-方式二：中央神坛各各角落  
+方式二：神坛各各角落获取  **[境遇传送至八人门图]**
 
  **注：每天位置不固定 轮换交替**
 
@@ -158,7 +162,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230713/033324-s09z57av3g.jpg)
 
-方式五：周末额外领取奖励
+方式五：周五-周六-周日额外领取奖励
 
 位置：雨林-荧光森林-石碑处
 
