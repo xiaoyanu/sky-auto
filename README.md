@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-16 13:26:42
+date: 2023-07-16 13:39:09
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -158,7 +158,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 方式三：圣坛中央祭台处领取
 
- **注：彩虹降落时出现**
+ **注：彩虹降落时出现[需穿对应颜色斗篷站对应位置，助彩虹充满出现代币]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230715/014217-rs3ldmt27n.jpg)
 
@@ -170,7 +170,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 方式四：先祖旁魔法商店处兑换
 
-位置：神坛先祖旁的小方盒
+位置：神坛向导旁的颜料盒
 
  **注：限额7张   周末刷新**
 
