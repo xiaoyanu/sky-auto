@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-17 13:40:42
+date: 2023-07-18 00:33:39
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,33 +10,53 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **7月17日 星期一**
+ **7月18日 星期二**
 
- **云野**
+ **雨林**
 
-![](https://img.166.net/reunionpub/ds/kol/20230717/001833-jmflc5sq8y.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/002240-s7ica5jtdw.jpg)
 
- **任务一：和陌生人一起坐在长凳上 0/1**
-
-完成方法：
-
-和陌生玩家一起坐在石凳上即可完成
-
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
-
-![](https://img.166.net/reunionpub/ds/kol/20230717/001004-bd95mue2is.jpg)
-
- **任务四：在云野重温先祖的美好回忆 0/1**
+ **任务一：和朋友击掌 0/1**
 
 完成方法：
 
-点燃先祖重温回忆
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
- **位置：云野 云中仙乡[三塔图]**
+ **注：一级二级都可以完成**
 
- **先祖：挥手钟匠[动作]**
+2.点击[集结向导]剧情节点 找到第一个剧情任务上方的击掌，与[向导]完成击掌即可
 
-![](https://img.166.net/reunionpub/ds/kol/20230717/001032-tnqjed1793.jpeg)
+ **注：需要完成第一个[集结季]剧情任务**
+
+3.靠近遇境[剧团团长]找到第一个魔法节点上方击掌，与[剧团团长]完成击掌即可
+
+ **注：需要完成第一个[表演季]剧情任务**
+
+4.点击[追忆向导]剧情节点 找到第二个剧情任务上方的击掌，与[向导]完成击掌即可
+
+ **注：需要完成第二个[追忆季]剧情任务**
+
+![](https://img.166.net/reunionpub/ds/kol/20230718/000457-2s0ladvb1q.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230718/000503-irmhjkau96.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230718/000511-pfrct52607.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230718/001512-96q7kiu4f8.jpeg)
+
+ **任务二：在荧光小菇旁恢复能量 0/1**
+
+完成方法：
+
+1.将斗篷能量全部消耗
+
+2.靠近荧光小菇恢复能量即可完成
+
+ **位置：雨林 荧光森林 密林遗迹等**
+
+![](https://img.166.net/reunionpub/ds/kol/20230718/000631-241ige0q7c.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230718/000637-s2lnp5mwg6.jpeg)
 
  **任务三：收集30点烛光 0/30**
 
@@ -46,25 +66,27 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
-![](https://img.166.net/reunionpub/ds/kol/20230717/001155-np0fmijh7s.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/000653-6t3oc7wgeh.jpg)
 
- **任务四：找到云野的彩虹下的蜡烛 0/1**
+ **任务四：在风行网道观赏彩虹0/60**
 
 完成方法：
 
-靠近彩虹下的大蜡烛即可完成
+站在彩虹下待够60秒即可完成任务
 
- **位置：云野 幽光山洞**
+ **地图：雨林 风行网道**
 
-![](https://img.166.net/reunionpub/ds/kol/20230717/001238-ikbnjav5l6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/000728-ptms14835z.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230718/000736-h185dyzmsr.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置： **云野**  A组
+位置： **雨林** A组
 
-![](https://img.166.net/reunionpub/ds/kol/20230716/234013-mwdg1fk4ss.png)
+![](https://img.166.net/reunionpub/ds/kol/20230717/235946-u6i4os7era.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -74,31 +96,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
- **旅行先祖**
-
- **小王子季——星光收藏家**
-
-复刻时间：7/13早上6:00～7/17中午12:00
-
- **位置：禁阁 星光沙漠**
-
-![](https://img.166.net/reunionpub/ds/kol/20230713/111348-jgtv6a82hl.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230713/111451-gqnmel8fra.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20230712/001753-zr3og9y4h6.jpeg)
-
-兑换图
-
-![](https://img.166.net/reunionpub/ds/kol/20230713/111255-1dvpa8qils.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
-
  **有友日活动-兑换**
 
  **国服特有活动：完成有友旅行手账任务积攒向日葵成长值即可兑换  向日葵发饰 有友向日葵**
 
- **活动日期：2023-07-17至2023-07-26[后续更新]**
+ **活动日期：2023-07-17至2023-07-26**
+
+ **活动期间每日进行签到浇水可增加2点向日葵成长值**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230717/085621-tcvd5hzkeo.jpg)
 
@@ -134,11 +138,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 方式一：每日彩虹任务点领取
 
-今日位置：云野-幽光山洞
+今日位置：雨林 风行网道
 
-![](https://img.166.net/reunionpub/ds/kol/20230716/234129-q5rvy2ss31.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/002009-sc942o5unf.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230717/011626-ck0a452h7q.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/002016-vnjlsou3iz.jpeg)
 
 方式二：神坛各各角落获取  **[境遇传送至八人门图]**
 
@@ -148,19 +152,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一张：
 
-![](https://img.166.net/reunionpub/ds/kol/20230716/234226-p5yh1vd3jw.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/001626-prssn0i28b.jpg)
 
 第二张：
 
-![](https://img.166.net/reunionpub/ds/kol/20230716/234234-wgj1k6uodz.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/001633-0dmuweti1l.jpg)
 
 第三张：
 
-![](https://img.166.net/reunionpub/ds/kol/20230716/234241-u3a9bkfvgc.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/001639-e594qgn68v.jpg)
 
 第四张：
 
-![](https://img.166.net/reunionpub/ds/kol/20230716/234248-1tb76uoma4.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/001646-netj6ck5id.jpg)
 
 方式三：圣坛中央祭台处领取
 
@@ -200,31 +204,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
  **位置**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230717/001510-9s4wrnhp7b.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/001739-mb0qlo7z6i.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230717/001518-bafvwd4cpi.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/001747-3wosadb4fm.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230717/001526-jrt057sia6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/001753-t120rqswhv.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230717/001533-7pz1bfjgar.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/001758-ysutsa3re8.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  ****
 
@@ -236,7 +240,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230716/234417-rlzg0otd74.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230718/001830-wid2465a7s.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230713/034722-t83941abyu.jpeg)
 
