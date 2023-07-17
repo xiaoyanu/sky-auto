@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-17 07:50:56
+date: 2023-07-17 13:28:17
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -99,6 +99,30 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **国服特有活动：完成有友旅行手账任务积攒向日葵成长值即可兑换  向日葵发饰 有友向日葵**
 
  **活动日期：2023-07-17至2023-07-26[后续更新]**
+
+![](https://img.166.net/reunionpub/ds/kol/20230717/085621-tcvd5hzkeo.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230717/085629-i5l6p40ud7.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230717/085637-82p0mvqdhr.jpeg)
+
+活动场景中会出现四株双盘向日葵：可获得烛火并概率向日葵花盘装扮魔法
+
+第一株：
+
+![](https://img.166.net/reunionpub/ds/kol/20230717/101702-tf7dbvij2a.jpg)
+
+第二株：
+
+![](https://img.166.net/reunionpub/ds/kol/20230717/101726-ip42bnj9l5.jpg)
+
+第三株：
+
+![](https://img.166.net/reunionpub/ds/kol/20230717/101901-ld790rk25c.jpg)
+
+第四株：
+
+![](https://img.166.net/reunionpub/ds/kol/20230717/101914-b8elfcson9.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
