@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-19 00:48:04
+date: 2023-07-19 07:21:34
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -130,6 +130,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230718/231102-hu0jmq3ys4.jpeg)
 
+![](https://img.166.net/reunionpub/ds/kol/20230719/012004-zm6igdpc9h.jpg)
+
 方式二：神坛各各角落获取  **[境遇传送至八人门图]**
 
  **注：每天位置不固定 轮换交替**
@@ -167,6 +169,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20230717/011834-lhs3ew7cmd.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230718/011128-ukhn0tvqyi.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230719/012126-fhos7lyer9.jpg)
 
 方式四：先祖旁魔法商店处兑换
 
