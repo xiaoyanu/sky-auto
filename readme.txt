@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-19 07:50:30
+date: 2023-07-19 13:24:43
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -48,7 +48,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230718/231141-lqowdg4f5k.jpeg)
 
-  
+ **任务四：在滑冰场旁冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：霞谷 滑冰场**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230719/001149-67gkjnu3st.jpg)
 
