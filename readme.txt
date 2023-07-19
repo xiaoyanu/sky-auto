@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-20 00:29:51
+date: 2023-07-20 00:42:39
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -11,6 +11,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 **每日任务 大蜡烛 免费魔法**
 
  **7月20日 星期四**
+
+![](https://img.166.net/reunionpub/ds/kol/20230720/003808-g7vuhn9km4.jpg)
 
  **任务一：向一位玩家鞠躬 0/1**
 
@@ -58,7 +60,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
-**伊甸之眼坠落碎片位置**
+  
+
+ **伊甸之眼坠落碎片位置**
 
 无
 
