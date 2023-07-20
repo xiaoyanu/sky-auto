@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-21 00:42:38
+date: 2023-07-21 07:21:43
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -135,6 +135,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20230721/001608-5fhsepzt1d.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230721/001615-29yvdlb08j.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230721/024207-zltq1sh42u.jpg)
 
 方式二：神坛各各角落获取  **[境遇传送至八人门图]**
 
