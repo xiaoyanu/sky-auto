@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-24 00:52:29
+date: 2023-07-24 07:21:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,9 +10,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 免费魔法**
 
- **7月24日 星期日**
+ **7月24日 星期一**
 
  **霞谷**
+
+![](https://img.166.net/reunionpub/ds/kol/20230724/020238-b317wovac2.jpg)
 
  **任务一：和朋友击掌 0/1**
 
@@ -126,7 +128,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 方式一：每日彩虹任务点领取
 
-今日位置：霞谷  霞光城
+今日位置：霞谷 霞光城
 
 ![](https://img.166.net/reunionpub/ds/kol/20230724/001157-m86lywtu7z.jpg)
 
