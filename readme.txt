@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-27 00:28:36
+date: 2023-07-27 00:41:06
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,75 +8,83 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-**每日任务 大蜡烛 免费魔法**
+**每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **7月26日 星期三**
+ **7月27日 星期四**
 
- **禁阁**
+ **云野**
 
-![](https://img.166.net/reunionpub/ds/kol/20230726/001444-0bzqvd92jl.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230727/003259-kp2uz0j1h3.jpg)
 
- **任务一：和陌生人一起坐在长凳上 0/1**
+ **任务一：向一位朋友招手 0/1**
 
 完成方法：
 
-和陌生玩家一起坐在石凳上即可完成
+点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成即可
 
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
+ **注：1～6级动作均可完成**
 
-![](https://img.166.net/reunionpub/ds/kol/20230726/000123-il6fsy5qas.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230727/001415-h0ofvlekm6.jpeg)
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁三层**
+ **位置：云野 圣岛**
 
- **先祖：礼貌学士 [站姿]**
+ **先祖：内秀书虫 [站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230726/000203-9l6ifjoeyp.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230727/001548-3jkts8farb.jpg)
 
- **任务三：找到禁阁的彩虹下的蜡烛 0/1**
-
-完成方法：
-
-靠近彩虹下的大蜡烛即可完成
-
- **位置：禁阁 禁阁四层**
-
-![](https://img.166.net/reunionpub/ds/kol/20230726/000226-iwsjbq932a.jpeg)
-
- **任务四：在禁阁追逐散落的星光 0/1**
+ **任务三：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-靠近星光即可完成
+点击人物头部长按大叫即可掀翻螃蟹
 
- **位置：禁阁一层**
+ **推荐地图：暮土 云野圣岛**
 
-![](https://img.166.net/reunionpub/ds/kol/20230726/000251-1jsyf3es4p.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230727/001642-olmnitu8sc.jpg)
+
+ **任务四：在幽光山洞里冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：云野 幽光山洞 [左侧隐藏图]**
+
+![](https://img.166.net/reunionpub/ds/kol/20230727/001701-hgmbrsw90v.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
+
+ **季节蜡烛**
+
+位置： **云野**  
+
+第一堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230727/001924-7udsiso2ky.jpg)
+
+第二堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230727/002011-r7dkil3gzp.jpeg)
+
+第三堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230727/002019-30tasip8qv.jpeg)
+
+第四堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230727/002028-3j6ulsfoae.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **伊甸之眼坠落碎片位置**
 
-暮土
-
- **冷却碎片 [黑石]**
-
-具体位置：远古战场
-
-坠落时间： **9、15、21小时** 的08分40秒左右～50分
-
-清理方式：净化黑石碎片周围黑暗植物即可
-
-获取货币：烛光 [普通蜡烛/白蜡烛]
-
-注：此坠落点 **不可完成  **[破晓季] 季节任务
-
-![](https://img.166.net/reunionpub/ds/kol/20230726/001315-8vwmsf39yl.png)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -132,31 +140,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 位置
 
-第一堆：禁阁一层
+第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230726/205651-zeubmi4pw9.png)
+![](https://img.166.net/reunionpub/ds/kol/20230726/222703-a6v4y9i0sp.jpeg)
 
-第二堆：禁阁一层
+第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230726/205701-fknq2w7ht5.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230726/222710-dt9fmwyrq0.jpeg)
 
-第三堆：禁阁二层
+第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230726/205722-4n30ytrids.png)
+![](https://img.166.net/reunionpub/ds/kol/20230726/222717-qj89s5w1l4.jpeg)
 
-第四堆：禁阁顶层
+第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230726/205757-kg2cdq35bf.png)
+![](https://img.166.net/reunionpub/ds/kol/20230726/222724-0j1erhf869.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  ****
 
@@ -166,7 +174,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230725/235254-2pqmo4n895.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230727/003050-jwsi2pkn71.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
