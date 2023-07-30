@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-07-30 07:48:15
+date: 2023-07-30 13:23:18
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -142,6 +142,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 活动场景中会出现四株双盘向日葵：可获得烛火并概率向日葵花盘装扮魔法
 
+ **2023-07-17至2023-07-26** 四株双盘向日葵分布位置：云野 八人门内[ **隐藏地图** ]
+
 第一株：
 
 ![](https://img.166.net/reunionpub/ds/kol/20230717/101702-tf7dbvij2a.jpg)
@@ -157,6 +159,12 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 第四株：
 
 ![](https://img.166.net/reunionpub/ds/kol/20230717/101914-b8elfcson9.jpg)
+
+ **2023-07-29至2023-08-09** 四株双盘向日葵分布位置：云野大厅
+
+![](https://img.166.net/reunionpub/ds/kol/20230730/113036-fcr1n5zwo8.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230730/113043-jyuqweam6c.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
