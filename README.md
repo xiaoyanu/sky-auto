@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-01 00:42:51
+date: 2023-08-01 07:21:25
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -24,7 +24,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
-![](https://img.166.net/reunionpub/ds/kol/20230801/000353-s8462pwm93.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230801/004921-cje0l71nwf.jpg)
 
  **任务二：在云野重温先祖的美好回忆 0/1**
 
@@ -35,6 +35,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **位置：云野 圣岛**
 
  **先祖：母语者[叫声]**
+
+![](https://img.166.net/reunionpub/ds/kol/20230801/004957-7ndt0lgf8r.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230801/001211-izl7tsukan.jpg)
 
