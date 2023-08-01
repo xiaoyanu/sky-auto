@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-01 07:50:32
+date: 2023-08-01 13:24:57
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -16,7 +16,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230801/001902-4tyjvacnrk.jpg)
 
- **任务一：与一名玩家在长凳上一起听音乐 0/1**
+ **任务一：与一名玩家在长凳上一起听歌 0/1**
 
 完成方法：
 
