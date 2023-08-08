@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-09 00:29:49
+date: 2023-08-09 00:42:56
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -108,10 +108,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
-  
-
-![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
-
  **有友日活动-兑换**
 
  **国服特有活动：完成有友旅行手账任务积攒向日葵成长值即可兑换  向日葵发饰 有友向日葵**
@@ -159,6 +155,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20230730/113036-fcr1n5zwo8.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230730/113043-jyuqweam6c.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
+
+复刻先祖：白日梦森林人
+
+复刻时间：8月10日上午6:00～8月14日中午12:00
+
+位置：雨林 密林遗迹
+
+![](https://img.166.net/reunionpub/ds/kol/20230809/003024-s9rm0k6gt2.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230809/003033-plebassc9o.jpeg)
+
+兑换图：
+
+![](https://img.166.net/reunionpub/ds/kol/20230809/003551-gjhmqpsucz.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
