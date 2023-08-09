@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-10 00:48:30
+date: 2023-08-10 07:21:15
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -100,6 +100,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **畅游音乐：2023-07-29至2023-08-09**
 
+ **一起奏响旋律：2023-08-10至2023-08-23**
+
  **活动期间每日进行签到浇水可增加2点向日葵成长值**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230717/085621-tcvd5hzkeo.jpg)
@@ -113,6 +115,12 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20230729/234509-ceb967pyod.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230729/234528-uqwmfi40b9.jpeg)
+
+ **一起奏响旋律：2023-08-10至2023-08-23**
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/023358-erudf69wlm.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/023405-p63wnkbdgj.jpeg)
 
 活动场景中会出现四株双盘向日葵：可获得烛火并概率向日葵花盘装扮魔法
 
@@ -139,6 +147,81 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20230730/113036-fcr1n5zwo8.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230730/113043-jyuqweam6c.jpg)
+
+ **2023-08-10至2023-08-23 新增音符代币及位置：[陆续更新]**
+
+ **由遇境向导传送至音乐大厅**
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/043849-wl7e1grmzn.jpg)
+
+音符代币 **每天** 在音乐大厅各各角落刷新，共有 **三组位置** 轮换
+
+每天奖励：音乐大厅散落 **5枚音符代币，** 翻找隐藏乐器 **6枚音符代币，** 大厅一楼挑战一次乐谱可获得 **2枚音符代币，** 每天总计
+**13枚音符代币**
+
+音乐大厅散落 **5枚音符代币** 位置：
+
+第一处
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/034944-dk8mq0sf4j.jpg)
+
+第二处
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/034958-2aks3uvl5w.jpg)
+
+第三处
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/035012-ou3cvfdt16.jpg)
+
+第四处
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/035025-dmutcyseos.jpg)
+
+第五处
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/035041-6zu52ys9bl.jpg)
+
+隐藏于乐器中的 **6枚音符代币** 位置：
+
+ **注：点开乐器后关闭就会出现，具体哪个乐器每天随机更新，总之运气好一下就能点到，运气差就都点开**
+
+第一处
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/042828-0pck13owlb.jpg)
+
+第二处
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/043319-9sacsnihuq.jpg)
+
+第三处
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/043334-acw5m4h71p.jpg)
+
+第四处
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/043347-l7apjh41mc.jpg)
+
+第五处
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/043401-rnswoh6pcs.jpg)
+
+第六处
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/043417-ok0ve69zdi.jpg)
+
+挑战一次乐谱位置：
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/035751-wkai4o185z.jpg)
+
+额外奖励：每周五六日会增加两处 **音符代币位置**
+
+ **第一处**
+
+ **第二处**
+
+兑换代币：每周大厅兑换上限 **7枚音符代币**
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/040024-1kw6gboaez.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -215,6 +298,10 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20230810/000920-baypr8m35k.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
+
+活动额外免费奖励：
+
+![](https://img.166.net/reunionpub/ds/kol/20230810/024709-uess57dirj.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230807/003618-mt1suzi74w.jpeg)
 
