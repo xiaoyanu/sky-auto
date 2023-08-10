@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-11 00:42:19
+date: 2023-08-11 07:20:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -181,13 +181,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一处
 
+![](https://img.166.net/reunionpub/ds/kol/20230811/012219-2ygb09s3nu.jpg)
+
 第二处
+
+![](https://img.166.net/reunionpub/ds/kol/20230811/012227-z4gkem50qj.jpg)
 
 第三处
 
+![](https://img.166.net/reunionpub/ds/kol/20230811/012234-7bktwv2mfr.jpg)
+
 第四处
 
+![](https://img.166.net/reunionpub/ds/kol/20230811/012241-ykjqhbfvpr.jpg)
+
 第五处
+
+![](https://img.166.net/reunionpub/ds/kol/20230811/012248-j4ruz36d2v.jpg)
 
 隐藏于乐器中的 **6枚音符代币** 位置：
 
@@ -217,15 +227,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230810/043417-ok0ve69zdi.jpg)
 
-挑战一次乐谱位置：
+ **挑战** 一次乐谱位置：
+
+![](https://img.166.net/reunionpub/ds/kol/20230811/013707-vobthyafs6.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230810/035751-wkai4o185z.jpg)
 
-额外奖励：每周五六日会增加两处 **音符代币位置**
+额外奖励：每周五六日会增加两处 **音符代币位置[每处两枚音符代币]**
 
- **第一处：**
+ **第一处：霞谷-圆梦村入口处**
 
- **第二处：**
+![](https://img.166.net/reunionpub/ds/kol/20230811/010541-4iynd3skae.jpg)
+
+ **第二处：霞谷-音乐大厅入口处**
+
+![](https://img.166.net/reunionpub/ds/kol/20230811/010750-ks8rj79gnh.jpg)
 
 兑换代币：每周大厅兑换上限 **7枚音符代币**
 
