@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-10 07:50:45
+date: 2023-08-10 13:25:13
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20230810/002448-8twpcd43si.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230810/090024-i4pm2tsg1r.jpg)
 
  **任务一：和陌生人一起坐在长凳上 0/1**
 
