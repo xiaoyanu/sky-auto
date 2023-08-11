@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-12 00:51:54
+date: 2023-08-12 07:20:13
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -213,13 +213,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一处
 
+![](https://img.166.net/reunionpub/ds/kol/20230812/012448-cekdvsiqf7.jpg)
+
 第二处
+
+![](https://img.166.net/reunionpub/ds/kol/20230812/012457-6jn3qpu7sv.jpg)
 
 第三处
 
+![](https://img.166.net/reunionpub/ds/kol/20230812/012503-ze3mf4i6td.jpg)
+
 第四处
 
+![](https://img.166.net/reunionpub/ds/kol/20230812/012511-4q2i6fb8dy.jpg)
+
 第五处
+
+![](https://img.166.net/reunionpub/ds/kol/20230812/012517-qn7m6g43bk.jpg)
 
 隐藏于乐器中的 **6枚音符代币** 位置：
 
