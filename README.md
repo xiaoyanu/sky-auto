@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-17 13:50:54
+date: 2023-08-18 00:28:30
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -87,36 +87,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 无
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
-
- **有友日活动-兑换**
-
- **国服特有活动：完成有友旅行手账任务积攒向日葵成长值即可兑换  向日葵发饰 有友向日葵**
-
- **活动日期：2023-07-17至2023-07-26**
-
- **畅游音乐：2023-07-29至2023-08-09**
-
- **一起奏响旋律：2023-08-10至2023-08-23**
-
- **活动期间每日进行签到浇水可增加2点向日葵成长值**
-
-![](https://img.166.net/reunionpub/ds/kol/20230717/085621-tcvd5hzkeo.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230717/085629-i5l6p40ud7.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230717/085637-82p0mvqdhr.jpeg)
-
- **畅游音乐：2023-07-29至2023-08-09**
-
-![](https://img.166.net/reunionpub/ds/kol/20230729/234509-ceb967pyod.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230729/234528-uqwmfi40b9.jpeg)
-
- **一起奏响旋律：2023-08-10至2023-08-23**
-
-![](https://img.166.net/reunionpub/ds/kol/20230810/023358-erudf69wlm.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230810/023405-p63wnkbdgj.jpeg)
 
  **2023-08-10至2023-08-23 新增音符代币及位置：**
 
