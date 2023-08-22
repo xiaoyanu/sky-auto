@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-23 00:28:42
+date: 2023-08-23 00:41:15
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -13,6 +13,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **8月23日 星期三**
 
  **霞谷**
+
+![](https://img.166.net/reunionpub/ds/kol/20230823/002928-hjslc94uym.jpg)
 
  **任务一：向一位朋友招手 0/1**
 
@@ -88,7 +90,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **冷却碎片 [黑石]**
 
-具体位置：仙乡
+具体位置：云中仙乡
 
 坠落时间： **9、15、21小时** 的08分40秒左右～50分
 
