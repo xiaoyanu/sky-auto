@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-24 00:42:05
+date: 2023-08-24 07:20:47
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -128,25 +128,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：雨林 云野**
-
-雨林
-
-雨林大厅：
-
-![](https://img.166.net/reunionpub/ds/kol/20230818/000320-oy5b4rjznf.png)
-
-荧光森林
-
-![](https://img.166.net/reunionpub/ds/kol/20230821/222452-k3hrts1f6d.png)
-
-密林遗迹：
-
-![](https://img.166.net/reunionpub/ds/kol/20230821/222518-t1jyvmunz8.png)
-
-秘密花园
-
-![](https://img.166.net/reunionpub/ds/kol/20230821/222536-u7d4vgcmk2.jpeg)
+ **地图： 云野**
 
 云野
 
