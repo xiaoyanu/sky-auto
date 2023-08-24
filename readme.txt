@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-24 07:50:35
+date: 2023-08-24 13:24:00
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -106,23 +106,51 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 音符代币 **每天** 在 **竞技场** 各各角落刷新，共有 **三组位置** 轮换
 
-每天奖励： **竞技场** 散落 **4枚音乐之旅代币，** 参加小游戏获得 **1枚音乐之旅代币，**
+每天奖励： **竞技场** 散落 **4枚音乐之旅代币，** 参与互动节目获得 **1枚音乐之旅代币，**
 
  **竞技场** 散落 **4枚音乐之旅代币** 位置：
 
 第一处
 
+![](https://img.166.net/reunionpub/ds/kol/20230824/112142-heaoqsvd4t.jpg)
+
 第二处
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/112448-mo8fp0s4zc.jpg)
 
 第三处
 
+![](https://img.166.net/reunionpub/ds/kol/20230824/112201-ruhynav0s6.jpg)
+
 第四处
 
-参加小游戏获得 **1枚音乐之旅代币**
+![](https://img.166.net/reunionpub/ds/kol/20230824/112220-psqa19b3de.jpg)
 
-额外奖励：观看音乐会获得 **10枚音乐之旅代币（仅一次）**
+参与互动节目获得 **1枚音乐之旅代币**
 
- **2023-08-24至2023-09-04 四株双盘向日葵位置**
+1.任意参与一个互动节目
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/105839-kg6hdj1srv.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/105846-yo4dmsn1ig.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/105855-gu1jy9d7qt.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/105902-d1qj86bsir.jpeg)
+
+2.然后领取
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/105927-f3s5n04et6.jpg)
+
+额外奖励：观看音乐会获后得 **10枚音乐之旅代币（仅一次）**
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/112406-9ipkbmh3on.jpg)
+
+ **2023-08-24至2023-09-04 四株双盘向日葵位置：** 竞技场神庙门口两侧
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/101240-y9c1blfqmu.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/101247-gjsov48hal.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -154,6 +182,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **漂浮魔法x1**
 
+ **欧若拉音乐返场活动期间-竞技场商船免费魔法**
+
  ****
 
 **魔法商店：**
@@ -163,6 +193,14 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230823/234852-8rezs5ga37.jpeg)
+
+ **8月24日-9月4日欧若拉音乐返场活动期间-竞技场商船免费魔法**
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/102740-ko0cfl9hnr.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/102746-uzh3w6dym2.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/102752-j0s78bfvlz.jpg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
