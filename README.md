@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-24 13:50:46
+date: 2023-08-25 00:28:44
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -90,6 +90,20 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
+复刻先祖：冷漠术士
+
+复刻时间：8月24日上午6:00～8月28日中午12:00
+
+位置：暮土- 失落方舟
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/185157-f82ybjasod.jpg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20230824/185457-zgfo3sm45n.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
+
  **2023-08-23至2023-09-04** 新增 **欧若拉音乐会返场 音乐之旅代币及位置：（陆续更新）**
 
 欧若拉音乐会演出时间：
@@ -104,7 +118,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **由遇境欧若拉向导传送至 霞谷-竞技场**
 
-音符代币 **每天** 在 **竞技场** 各各角落刷新，共有 **三组位置** 轮换
+音乐之旅代币﻿ **每天** 在 **竞技场** 各各角落刷新，共有 **三组位置** 轮换
 
 每天奖励： **竞技场** 散落 **4枚音乐之旅代币，** 参与互动节目获得 **1枚音乐之旅代币，**
 
