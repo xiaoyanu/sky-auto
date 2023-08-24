@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-25 00:41:22
+date: 2023-08-25 07:21:00
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -182,11 +182,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一处
 
+![](https://img.166.net/reunionpub/ds/kol/20230825/011728-3d87v1c0j2.jpg)
+
 第二处
+
+![](https://img.166.net/reunionpub/ds/kol/20230825/011742-1k4i7z6jhn.jpg)
 
 第三处
 
+![](https://img.166.net/reunionpub/ds/kol/20230825/011752-ue9ljtbkv6.jpg)
+
 第四处
+
+![](https://img.166.net/reunionpub/ds/kol/20230825/011802-auvnsh7pd8.jpg)
 
 参与互动节目获得 **1枚音乐之旅代币**
 
