@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-08-26 00:41:45
+date: 2023-08-26 07:21:18
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -152,15 +152,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一处
 
+![](https://img.166.net/reunionpub/ds/kol/20230826/012606-89t6gsja4v.jpg)
+
 第二处
+
+![](https://img.166.net/reunionpub/ds/kol/20230826/012618-i1shzmv2db.jpg)
 
 第三处
 
+![](https://img.166.net/reunionpub/ds/kol/20230826/012625-noqj9zr85u.jpg)
+
 第四处
+
+![](https://img.166.net/reunionpub/ds/kol/20230826/012634-q0ouim6dbg.jpg)
 
 参与互动节目获得 **1枚音乐之旅代币**
 
 1.任意参与一个互动节目
+
+![](https://img.166.net/reunionpub/ds/kol/20230826/032359-q09k2ti5vy.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230824/105839-kg6hdj1srv.jpeg)
 
@@ -172,11 +182,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 2.然后领取
 
-![](https://img.166.net/reunionpub/ds/kol/20230824/105927-f3s5n04et6.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230826/015910-halw5eco3g.jpg)
 
-额外奖励：观看音乐会获后得 **10枚音乐之旅代币（仅一次）**
+额外奖励：完整观看一次音乐会后获得 **10枚音乐之旅代币 [活动期间仅一次，意思就是你第一次看完给，之后再看完就不给了]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230824/112406-9ipkbmh3on.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230826/015611-sjvo7galmz.jpg)
 
  **2023-08-24至2023-09-04 四株双盘向日葵位置：** 竞技场神庙门口两侧
 
