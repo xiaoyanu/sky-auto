@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-09-07 00:41:20
+date: 2023-09-07 07:20:39
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -146,6 +146,60 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
+ **2023-09-07至2023-09-20新增夏日狂欢活动**
+
+ **1.** 活动期间在 **雨林-秘密花园** 体验一次水滑梯，可领取 **篝火点心魔法x2**
+
+ **2.** 活动期间使用一次夏日冲浪魔法，可领取 **夏日冲浪魔法x2**
+
+ **3.** 活动期间从夏之日先祖处兑换任意一件夏之日道具，可领取 **沙滩弹球x2**
+
+ **4.** 活动期间累计登录游戏 **5天，** 可领取 **爱心x2**
+
+ **5.** 活动期间收集一定数量夏日雪糕代币可以额外获得对应奖励
+
+  累计收集10夏日雪糕代币，可获得 **蜡烛X1**
+
+   累计收集20夏日雪糕代币，可获得 **秋千魔法X1**
+
+   累计收集30夏日雪糕代币，可获得 **体型重塑魔法X2**
+
+ **6.夏日雪糕代币获得方式：**
+
+ **一.** 每天完成所有每日任务 可获得 **夏日雪糕代币X1**
+
+ **二.** 在 **雨林-秘密花园** 固定位置三组 **，每天轮换**
+
+ **  第一枚：**飘荡的小水母上可获得 **夏日雪糕代币X1 ，**
+
+![](https://img.166.net/reunionpub/ds/kol/20230907/011841-av4fwqzcgn.jpg)
+
+ **第二枚：** 树屋窗口处可获得 **夏日雪糕代币X1**
+
+![](https://img.166.net/reunionpub/ds/kol/20230907/022030-kysqgcisnf.jpg)
+
+ **第三枚：** 水滑梯高处，可借助盘旋的蝴蝶助你[大叫]
+
+![](https://img.166.net/reunionpub/ds/kol/20230907/025827-u96b1aed3f.jpg)
+
+ **第四枚：** 桥头处
+
+![](https://img.166.net/reunionpub/ds/kol/20230907/025836-kwarb63sfv.jpg)
+
+ **三.连续** 玩两次水滑梯可获得两枚 **夏日雪糕代币X2 [总计两枚]**
+
+![](https://img.166.net/reunionpub/ds/kol/20230907/015542-euzl736o5i.jpg)
+
+滑后领取
+
+![](https://img.166.net/reunionpub/ds/kol/20230907/022909-68biz3jl0t.jpg)
+
+夏日雪糕代币可兑换
+
+![](https://img.166.net/reunionpub/ds/kol/20230907/012514-ko8jyg4w17.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
+
  **大蜡烛**
 
  **地图： 云野**
@@ -174,6 +228,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **漂浮魔法x1**
 
+ **2023-09-07至2023-09-20夏日狂欢活动免费魔法**
+
  ****
 
 **魔法商店：**
@@ -183,6 +239,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230906/235027-4dpv19sgj6.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230907/012822-gt5wu1isbl.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
