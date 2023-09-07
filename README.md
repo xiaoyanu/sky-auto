@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-09-07 07:50:50
+date: 2023-09-07 13:24:33
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -142,7 +142,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 兑换图
 
-![](https://img.166.net/reunionpub/ds/kol/20230906/233839-usypc6afbs.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230907/092345-g2szfblwtp.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
