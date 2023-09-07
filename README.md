@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-09-07 13:50:38
+date: 2023-09-08 00:28:12
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,117 +10,79 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **9月7日 星期四**
+ **9月8日 星期五**
 
- **霞谷**
+ **暮土**
 
-![](https://img.166.net/reunionpub/ds/kol/20230907/002016-bzjker4lgf.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230908/001851-y69latcik7.jpg)
 
- **任务一：和朋友击掌 0/1**
+ **任务一：向一位朋友做个动作 0/1**
 
 完成方法：
 
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
+点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
 
- **注：一级二级都可以完成**
+![](https://img.166.net/reunionpub/ds/kol/20230908/001345-v3t2qbcn6i.png)
 
-2.点击[集结向导]剧情节点 找到第一个剧情任务上方的击掌，与[向导]完成击掌即可
-
- **注：需要完成第一个[集结季]剧情任务**
-
-3.靠近遇境[剧团团长]找到第一个魔法节点上方击掌，与[剧团团长]完成击掌即可
-
- **注：需要完成第一个[表演季]剧情任务**
-
-4.点击[追忆向导]剧情节点 找到第二个剧情任务上方的击掌，与[向导]完成击掌即可
-
- **注：需要完成第二个[追忆季]剧情任务**
-
-5.点击[拾光季向导]剧情节点 找到第二个剧情任务上方的击掌，与[向导]完成击掌即可
-
- **注：需要完成第二个[拾光季]剧情任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20230907/001225-862smi4nyk.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230907/001231-vqfna7bse0.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230907/001242-0dsw7zjio6.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20230907/001253-5ewvbczfo7.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230907/001304-51lvkgf2po.jpg)
-
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+ **任务二：在暮土重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 圆梦村**
+ **位置：暮土 巨兽荒原[四龙图]**
 
- **先祖：偷窥邮差 [动作]**
+ **先祖：隐秘幸存者 [站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230907/001345-7mco3zisv0.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230908/001413-g5398tlpy1.png)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+ **任务三：收集30点烛光 0/30**
 
-完成方法一：
+完成方法：
 
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
+1.领取任务
 
- **位置：雨林 密林遗迹（水母图）**
+2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
- **1.密林遗迹入口亭子右侧**
+![](https://img.166.net/reunionpub/ds/kol/20230908/001431-a6ieqprcku.jpeg)
 
- **2.密林遗迹右侧矿洞前**
-
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/ds/kol/20230907/001439-usrl0mpbhe.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20230907/001502-dsjq6rkmwc.jpg)
-
-完成方法二：
-
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
-![](https://img.166.net/reunionpub/ds/kol/20230907/001519-ypu248b7g6.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230907/001551-58gi9enla3.png)
-
- **任务四：在霞光城上层冥想 0/1**
+ **任务四：在远古战场中央冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：霞谷 霞光城**
+ **位置：暮土 远古战场 [三龙图]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230907/001616-wql02v1ruh.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230908/001455-ofnla4736m.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230907/001622-zh2oqy8s4i.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230908/001502-sbc1qj9yrg.jpeg)
+
+  
+
+  
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置： **霞谷**
+位置：暮土
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230906/234423-62sb30r4a1.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230908/001152-jm94irq3ez.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230906/234432-8wfcyievb6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230908/001200-a7w8j9ckq3.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230906/234438-5kbymq760n.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230908/001207-amqsgb7c5p.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230906/234444-qw5vr0ysuj.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230908/001214-iv0c91hmf6.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
@@ -170,21 +132,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **二.** 在 **雨林-秘密花园** 固定位置三组 **，每天轮换**
 
- **  第一枚：**飘荡的小水母上可获得 **夏日雪糕代币X1 ，**
+ **第一枚：** 飘荡的小水母上可获得 **夏日雪糕代币X1**
 
-![](https://img.166.net/reunionpub/ds/kol/20230907/011841-av4fwqzcgn.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230907/235737-bptho4fanl.jpg)
 
- **第二枚：** 树屋窗口处可获得 **夏日雪糕代币X1**
+ ****
 
-![](https://img.166.net/reunionpub/ds/kol/20230907/022030-kysqgcisnf.jpg)
+**第二枚：** 礼包购买处上方可获得 **夏日雪糕代币X1**
 
- **第三枚：** 水滑梯高处，可借助盘旋的蝴蝶助你[大叫]
+![](https://img.166.net/reunionpub/ds/kol/20230907/235749-dgrk59wu0b.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230907/025827-u96b1aed3f.jpg)
+ **第三枚：** 树屋壁炉处可获得 **夏日雪糕代币X1**
 
- **第四枚：** 桥头处
+![](https://img.166.net/reunionpub/ds/kol/20230907/235756-tiqyl6v7aw.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230907/025836-kwarb63sfv.jpg)
+ **第四枚：** 桥头右侧可获得 **夏日雪糕代币X1**
+
+![](https://img.166.net/reunionpub/ds/kol/20230907/235809-l2ahb9t50y.jpg)
 
  **三.连续** 玩两次水滑梯可获得两枚 **夏日雪糕代币X2 [总计两枚]**
 
@@ -202,31 +166,71 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图： 云野**
+ **地图： 云野 雨林 霞谷**
 
-位置
+云野
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230906/234849-8pcn1jlwdv.png)
+![](https://img.166.net/reunionpub/ds/kol/20230908/000013-6cq7oj5pk0.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230906/234902-oatesu78hj.png)
+![](https://img.166.net/reunionpub/ds/kol/20230908/000040-nsaljrmh2t.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20230908/000053-wm2n0esz4o.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230906/234912-g0ksnmiabq.png)
+![](https://img.166.net/reunionpub/ds/kol/20230908/000102-0otdisj3ra.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230906/234922-jscy3lqpzg.png)
+![](https://img.166.net/reunionpub/ds/kol/20230908/000118-5kero1q0f4.png)
+
+雨林
+
+第一堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230908/000212-aclk8si5ry.jpeg)
+
+第二堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230908/000235-4deg09avou.jpeg)
+
+第三堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230908/000242-fnr5ga7set.jpeg)
+
+第四堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230908/000249-ty6w74okni.jpeg)
+
+霞谷
+
+第一堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230908/000310-ak924ucfj7.png)
+
+第二堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230908/000327-ytss83c0il.png)
+
+第三堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230908/000405-pqc2ur9ssh.png)
+
+第四堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230908/000418-6y13w9tard.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+ **大只佬x1 小不点x1**
+
+ **活动额外免费魔法 ：大伞魔法X1 贝壳发饰魔法X1**
 
  **2023-09-07至2023-09-20夏日狂欢活动免费魔法**
 
@@ -238,7 +242,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230906/235027-4dpv19sgj6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230908/001002-3g6f9p7ray.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230907/012822-gt5wu1isbl.jpeg)
 
