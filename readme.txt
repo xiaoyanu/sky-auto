@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-09-08 00:28:12
+date: 2023-09-08 00:40:29
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -142,7 +142,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230907/235749-dgrk59wu0b.jpg)
 
- **第三枚：** 树屋壁炉处可获得 **夏日雪糕代币X1**
+ **第三枚：** 树屋长桌中间正上方处可获得 **夏日雪糕代币X1**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230907/235756-tiqyl6v7aw.jpg)
 
@@ -242,7 +242,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230908/001002-3g6f9p7ray.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230908/002805-wv4fbo9zrh.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230907/012822-gt5wu1isbl.jpeg)
 
