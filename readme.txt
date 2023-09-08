@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-09-08 07:50:34
+date: 2023-09-08 13:24:33
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -133,6 +133,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **二.** 在 **雨林-秘密花园** 固定位置三组 **，每天轮换**
 
  **第一枚：** 飘荡的小水母上可获得 **夏日雪糕代币X1**
+
+ **              注：小水母围绕着池塘边转圈扫视一下就能看到**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230907/235737-bptho4fanl.jpg)
 
