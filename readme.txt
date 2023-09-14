@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-09-14 13:50:46
+date: 2023-09-15 00:29:39
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,79 +10,75 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **9月14日 星期四**
+ **9月15日 星期五**
 
- **禁阁**
+ **云野**
 
-![](https://img.166.net/reunionpub/ds/kol/20230914/001121-eah0r83ugo.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230915/000916-ss5l6oeiqk.jpg)
 
- **任务一：2人合力开启一道门 0/1**
+ **任务一：向一位朋友做个动作 0/1**
 
 完成方法：
 
-两位玩家协力开启一道门即可完成
+点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20230914/000218-f1jkbrewqm.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230915/000218-0idv2549e7.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230914/000209-1bizd9oaeh.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230914/000231-8gp72ac0sf.jpeg)
-
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁四层**
+ **位置：云野 云中仙乡[三塔图]**
 
- **先祖：静光学者[动作]**
+ **先祖：挥手钟匠[动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20230914/000421-sbmck4lnpd.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230915/000246-b76nilcmhj.jpeg)
 
- **任务三：净化10株黑暗植物 0/1**
-
-完成方法：
-
-拿出心火光影燃烧10株黑暗植物即可完成
-
- **推荐地图：暮土 雨林 云野圣岛**
-
-![](https://img.166.net/reunionpub/ds/kol/20230914/000441-e4whouyvjr.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230914/000446-fp95o6a723.jpeg)
-
- **任务四：在禁阁追逐散落的星光 0/1**
+ **任务三：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-靠近星光即可完成
+点击人物头部长按大叫即可掀翻螃蟹
 
- **位置：禁阁一层**
+ **推荐地图：暮土 云野圣岛**
 
-![](https://img.166.net/reunionpub/ds/kol/20230914/000520-13upscqzs6.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230915/000305-hsw9pf7k85.jpeg)
+
+ **任务四：在云顶浮石上冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：云野 云顶浮石 [右侧隐藏图]**
+
+![](https://img.166.net/reunionpub/ds/kol/20230915/000326-jy32vpidwt.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230915/000333-zfms3ciknu.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置： **禁阁**
+位置： **云野**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230913/234446-el0dnb7gf1.png)
+![](https://img.166.net/reunionpub/ds/kol/20230914/233932-jpm56cksgh.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230913/234453-uij1dvmrw2.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230914/233944-8yknes74vh.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230913/234458-ktvg3fn8u6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230914/233956-yi9k6qvazj.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230913/234504-vpcys9rekf.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230914/234002-4jqivdughc.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
@@ -124,17 +120,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  ****
 
-**第二枚：** 礼包购买处上方可获得 **夏日雪糕代币X1**
+**第二枚：** 礼包购买处可获得 **夏日雪糕代币X1**
 
-![](https://img.166.net/reunionpub/ds/kol/20230913/234626-vok6lqw142.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230914/234157-584p976ny1.jpg)
 
- **第三枚：** 树屋长桌中间正上方处可获得 **夏日雪糕代币X1**
+ **第三枚：** 岸边钓鱼处可获得 **夏日雪糕代币X1**
 
-![](https://img.166.net/reunionpub/ds/kol/20230913/234634-qum52sfdhj.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230914/234204-4gfi8ejkp5.jpg)
 
- **第四枚：** 桥头右侧可获得 **夏日雪糕代币X1**
+ **第四枚：** 树屋后上方可获得 **夏日雪糕代币X1**
 
-![](https://img.166.net/reunionpub/ds/kol/20230913/234641-6uz0qoncy9.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230914/234211-m8ssyap9lo.jpg)
 
  **三.连续** 玩两次水滑梯可获得两枚 **夏日雪糕代币X2 [总计两枚]**
 
@@ -152,31 +148,67 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：云野**
+ **地图：云野 雨林 霞谷**
 
-位置
+ **云野**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230913/234751-fpuq98ilnj.png)
+![](https://img.166.net/reunionpub/ds/kol/20230914/234336-empz2ntsiq.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230913/234828-1sr26zalkn.png)
+![](https://img.166.net/reunionpub/ds/kol/20230914/234402-dhwujfoe9m.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230913/234838-2ujz8l6wtg.png)
+![](https://img.166.net/reunionpub/ds/kol/20230914/234414-w4s32eaflp.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230913/234848-8iryvfzs06.png)
+![](https://img.166.net/reunionpub/ds/kol/20230914/234429-shzbjwpm69.png)
+
+ **雨林**
+
+第一堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230914/234505-r580h4zin9.jpeg)
+
+第二堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230914/234514-ug92a85swk.jpeg)
+
+第三堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230914/234524-fdnecz0jh7.jpeg)
+
+第四堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230914/234531-uq083sb4en.jpeg)
+
+ **霞谷**
+
+第一堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230914/234606-9atw2mki4r.png)
+
+第二堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230914/234622-m3j4icsz6n.png)
+
+第三堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230914/234636-52t1s0h9au.png)
+
+第四堆：
+
+![](https://img.166.net/reunionpub/ds/kol/20230914/234649-n4swljitvb.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+ **大只佬x1 小不点x1**
 
  **活动额外免费魔法 ：夏日阳伞魔法X1 贝壳发饰魔法X1**
 
@@ -190,7 +222,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230913/234929-fq87kc1y0u.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230914/234709-5lz0if4r2m.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230907/012822-gt5wu1isbl.jpeg)
 
