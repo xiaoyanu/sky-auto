@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-09-20 07:51:01
+date: 2023-09-20 13:24:41
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -66,7 +66,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：云野 云中仙乡   [三塔图]**
+ **位置：云野 云中仙乡  [三塔图]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230920/000604-478ot1zdl5.jpeg)
 
@@ -131,6 +131,12 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 兑换图
 
 ![](https://img.166.net/reunionpub/ds/kol/20230919/232808-9cta8zq7rv.jpg)
+
+ **多先祖返场**
+
+9月21日00:00:00-9月27日23:59:59期间
+
+四位先祖前往 **云峰** 观光，一同重返天空王国
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
