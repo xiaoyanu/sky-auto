@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-09-21 07:50:50
+date: 2023-09-21 13:24:51
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -48,7 +48,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230921/000233-d0nmzao3qs.jpg)
 
- **任务二：和云峰的固执登山者一起自拍   0/1**
+ **任务二：和云峰的固执登山者一起自拍  0/1**
 
 完成方法：
 
@@ -131,6 +131,46 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 9月21日00:00:00-9月27日23:59:59期间
 
 四位先祖前往 **云峰** 观光，一同重返天空王国
+
+音韵凛冬季—晨岛—迎宾侍者
+
+返场位置：云野 云峰入口处
+
+![](https://img.166.net/reunionpub/ds/kol/20230921/082553-hg8imewu7l.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20230921/082720-crmkas2vsd.jpg)
+
+圣岛季—圣岛—固执登山者
+
+返场位置：云野 云峰
+
+![](https://img.166.net/reunionpub/ds/kol/20230921/083200-p85bjlawsf.jpg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20230921/083316-7fy4hpqu0v.jpg)
+
+潜海季-藏宝岛礁-嬉笑炮手
+
+返场位置：云野 云峰
+
+![](https://img.166.net/reunionpub/ds/kol/20230921/084818-0a5zonwpkr.jpg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20230921/094338-m6uhenzgsd.jpg)
+
+追光季-黑水港湾-蟹语者
+
+返场位置：云野 云峰最里边瀑布下
+
+![](https://img.166.net/reunionpub/ds/kol/20230921/085026-zwhof5rauq.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20230921/085056-gn2los5k3v.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
