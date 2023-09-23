@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-09-24 00:26:41
+date: 2023-09-24 00:39:45
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -39,6 +39,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **位置：云野-云峰入口处**
 
 ![](https://img.166.net/reunionpub/ds/kol/20230923/235927-mcuk0waj7i.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230924/003036-2zln07jg35.jpg)
 
  **任务三：收集30点烛光 0/30**
 
