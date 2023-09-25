@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-09-25 13:51:00
+date: 2023-09-26 00:30:06
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,33 +10,41 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **9月25日 星期一**
+ **9月26日 星期二**
 
-云野
+雨林
 
-![](https://img.166.net/reunionpub/ds/kol/20230925/001209-vicrto7fz5.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230926/001443-adfnubrzv5.jpg)
 
- **任务一：向一位玩家鞠躬 0/1**
+ **任务一：与4位玩家牵手组队 0/1**
+
+完成方法一 **：**
+
+与4位玩家牵手即可完成
+
+ **注：自己也算其中的四分之一**
+
+![](https://img.166.net/reunionpub/ds/kol/20230926/001107-53h9wrty64.png)
+
+完成方法 二：
+
+前往 [ **圆梦村剧场** ] 重温剧情任务四 任意选择三位先祖牵手即可
+
+![](https://img.166.net/reunionpub/ds/kol/20230926/001134-bigse0tsar.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20230926/001144-i9fu421s0l.jpeg)
+
+ **任务二：和在云峰的嬉笑炮手一起自拍  0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
-
- **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
-
-![](https://img.166.net/reunionpub/ds/kol/20230925/000746-f1m6spva7h.jpg)
-
- **任务二：和在云峰的固执登山者一起自拍  0/1**
-
-完成方法：
-
-遇境通过拾光季向导传送至云峰 找到 **固执登山者** 和他一起自拍即可
+遇境通过拾光季向导传送至云峰 找到 **嬉笑炮手** 和他一起自拍即可
 
  **位置：云野-云峰**
 
-![](https://img.166.net/reunionpub/ds/kol/20230924/235929-ju0q2b5pir.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230926/000210-eanhk9c2d6.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230924/235936-d3lz68nmh7.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230926/000217-eu7ksaz024.jpg)
 
  **任务三：掀翻5只螃蟹 0/5**
 
@@ -48,37 +56,37 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230925/000821-8b41gs76oa.jpeg)
 
- **任务四：在云野追逐散落的星光 0/1**
+ **任务四：在秘密花园里冥想 0/1**
 
 完成方法：
 
-靠近星光即可完成
+点击坐下冥想并回答问题即可完成
 
- **位置：云野 蝴蝶平原**
+ **位置：雨林 秘密花园**
 
-![](https://img.166.net/reunionpub/ds/kol/20230925/000839-k4m6ts7580.png)
+![](https://img.166.net/reunionpub/ds/kol/20230926/000241-z48gyd7smh.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
  **季节蜡烛**
 
-位置：云野
+位置：雨林
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230925/000102-k4y0jbpzam.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230926/000409-2pznd9i1bf.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230925/000109-6eqdb9lig5.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230926/000418-m0j1ba3tfr.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230925/000123-kz37fmbh8w.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230926/000427-76shtgru91.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230925/000159-h95027mlt4.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230926/000435-2v6jqyhp13.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
 
@@ -88,19 +96,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
-复刻先祖： **小王子季-打喷嚏的物理学家**
-
-复刻时间：9月21日上午6:00～9月25日中午12:00
-
-位置：禁阁- **星光沙漠**
-
-![](https://img.166.net/reunionpub/ds/kol/20230919/230142-pi9bvlaud2.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230919/230153-8cjf2o5n6l.jpeg)
-
-兑换图
-
-![](https://img.166.net/reunionpub/ds/kol/20230919/232808-9cta8zq7rv.jpg)
+复刻先祖：
 
  **多先祖返场**
 
@@ -152,7 +148,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图： 雨林 霞谷**
+ **地图： 雨林 暮土**
 
  **雨林**
 
@@ -176,25 +172,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230925/000502-wqzg5f4oyd.png)
+![](https://img.166.net/reunionpub/ds/kol/20230926/000642-u5jg6kmhsy.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230925/000518-n2dj64gubs.png)
+![](https://img.166.net/reunionpub/ds/kol/20230926/000811-5p86uz29ma.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230925/000532-sitalun14m.png)
+![](https://img.166.net/reunionpub/ds/kol/20230926/000839-7zumgdtc6h.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20230925/000551-0aweg75f3z.png)
+![](https://img.166.net/reunionpub/ds/kol/20230926/000852-4enfcvtsbq.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  ****
 
@@ -204,7 +200,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20230925/000639-fc7s6h59uo.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230926/000710-pqycz51eu9.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
@@ -214,5 +210,5 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 感谢观看
 
-\-----------网易大神：Sky孤独旅
+\-----------网易大神：Sky孤独人
 
