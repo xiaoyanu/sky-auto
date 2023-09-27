@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-09-28 00:42:49
+date: 2023-09-28 07:21:17
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -174,6 +174,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **漂浮魔法x1**
 
+ **秋宵节活动** 9月28-9月30日 **免费魔法[** 遇境活动先祖旁的 **礼盒内]**
+
  ****
 
 **魔法商店：**
@@ -183,6 +185,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230928/001216-zyv2798c1o.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230928/005151-w4k3jlcpo0.jpg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
