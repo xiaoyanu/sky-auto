@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-09-30 13:50:48
+date: 2023-10-01 00:26:53
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -106,25 +106,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230929/215746-5ijgrfyloe.jpg)
 
-兑换图：
+兑换图
 
-![](https://img.166.net/reunionpub/ds/kol/20230929/215819-ir0pefbmsq.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20230502/053253-tkp31d0r2j.png)
-
- **中秋节和国庆节活动**
-
- **秋宵节：9月28日-9月30日** 遇境活动先祖旁的 **礼盒中** 领取 **玉兔试穿拖鞋魔法**
-
- **活动一.9月28日-10月6日 签到奖励 [每日游戏内精灵签到即可获得对应奖励]**
-
- **活动二：国庆节期间10月1日-10月6日，全图开发大蜡烛，期间收集50根大蜡烛领取额外奖励**
-
- **活动三：时装节活动**
-
-活动时间：2023年10月1日-2023年10月14日
-
-新增礼帽代币后续更新
+![](https://img.166.net/reunionpub/ds/kol/20230930/171021-zuehk6af13.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
@@ -188,11 +172,27 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
 
+ **“一起听”**
+
+ **位置：**
+
+1.云野 圣岛
+
+![](https://img.166.net/reunionpub/ds/kol/20230930/195037-zym5lhiwf4.jpeg)
+
+2.音乐商店二楼
+
+![](https://img.166.net/reunionpub/ds/kol/20230930/195103-l62ui7s40q.jpeg)
+
+3.禁阁 星光沙漠
+
+![](https://img.166.net/reunionpub/ds/kol/20230930/195130-uc601q4brw.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20221018/100256-wzutnocka0.png)
+
  **今日免费魔法**
 
  **返老还童x1 长大成人x1**
-
- **秋宵节活动** 9月28-9月30日 **免费魔法[** 遇境活动先祖旁的 **礼盒内]**
 
  ****
 
@@ -204,15 +204,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230929/235338-sr65kcglsw.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20230928/005151-w4k3jlcpo0.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20230930/171510-4m29s8dn1z.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
-![](https://img.166.net/reunionpub/ds/kol/20230929/235401-5retgp34lf.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20230930/171156-m8r6slc0jt.png)
+
+ **球玩魔法：**
+
+![](https://img.166.net/reunionpub/ds/kol/20230930/171334-wa2h91jfss.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230502/235738-ls601349yq.png)
 
 感谢观看
 
-\-----------网易大神：Sky孤独人
+\-----------网易大神：Sky孤独旅人
 
