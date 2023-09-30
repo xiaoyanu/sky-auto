@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-01 00:51:54
+date: 2023-10-01 07:20:05
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -26,13 +26,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231001/003222-2sqoncmebu.png)
 
- **任务三：净化10株黑暗植物 0/1**
+ **任务二：在荧光小菇旁恢复能量 0/1**
 
 完成方法：
 
-拿出心火光影燃烧10株黑暗植物即可完成
+1.将斗篷能量全部消耗
 
- **推荐地图：暮土 雨林 云野圣岛**
+2.靠近荧光小菇恢复能量即可完成
+
+ **位置：雨林 荧光森林 密林遗迹等**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231001/003241-4lt6evg2rs.jpeg)
 
@@ -136,17 +138,29 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
-时装节-礼帽代币收集
+ **时装节-礼帽代币收集**
 
-收集方式一：秀台附近
+ **收集方式一** ：秀台附近
 
-1.活动地点位置每两天更新，通过遇境先祖传送[注:先和先祖互动才能传送]
+1.活动地点位置每两天更新，通过遇境时装节向导传送
 
 2.礼帽代币位置均在秀台附件
 
-位置：
+ **位置** ：
 
-收集方式二：完整观看他人秀台留影
+![](https://img.166.net/reunionpub/ds/kol/20231001/010714-vs2hr4gjdl.jpg)
+
+ **收集方式二** ：完整观看他人秀台留影即可获得一枚礼帽代币
+
+![](https://img.166.net/reunionpub/ds/kol/20231001/011748-9v81oh7lsz.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231001/010826-293p85fqat.jpg)
+
+ **礼帽代币** 可在遇境时装节向导处 **兑换** 相应 **物品**
+
+![](https://img.166.net/reunionpub/ds/kol/20231001/012837-zmk9jo37ia.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
  **大蜡烛**
 
