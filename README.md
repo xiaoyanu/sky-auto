@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-02 13:51:07
+date: 2023-10-03 00:28:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -34,7 +34,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：自豪冠军 [站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231002/000940-e8w92ga7fj.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231002/184710-ip9wryj8n4.png)
+
+  
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
@@ -42,7 +44,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：雨林 密林遗迹**
 
  **1.密林遗迹入口亭子右侧**
 
@@ -338,7 +340,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231001/234008-3bfzrs5q0u.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231002/192954-erscsmulif.png)
+
+  
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
