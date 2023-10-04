@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-04 07:50:38
+date: 2023-10-04 13:25:07
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,7 +12,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **10月4日 星期三**
 
-禁阁
+ **禁阁**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231004/001321-uas3yi1gse.jpg)
 
@@ -32,9 +32,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁四层**
 
- **先祖：静光学者[动作]**
+ **先祖：静光学者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231004/000336-kvaz50swi4.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231004/112630-gbkch36vmn.png)
 
  **任务三：面对冥龙 0/1**
 
@@ -42,7 +42,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 被冥龙锁定变成红光即可完成
 
- **推荐地图：暴风眼 暮土 ——藏宝岛礁/巨兽荒原(四龙图)/远古战场(三龙图)/遗忘方舟等**
+ **推荐地图：暴风眼 暮土**
 
  **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
@@ -92,11 +92,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **代币位置** ：
 
-![](https://img.166.net/reunionpub/ds/kol/20231003/003124-d20nrqs14f.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231004/112721-jibh57cm8f.png)
 
  **收集方式二** ：完整观看他人秀台留影即可获得一枚礼帽代币
 
-![](https://img.166.net/reunionpub/ds/kol/20231003/003207-4uj2y7gnhz.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231004/112804-vsdb2ml097.png)
 
  **时装节向导兑换图**
 
@@ -298,9 +298,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231003/235948-y2sw0a9t87.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231004/001439-lv9r8ofbnh.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231004/112944-hjieo5y31s.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
