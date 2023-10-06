@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-06 07:50:38
+date: 2023-10-06 13:24:55
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,7 +12,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **10月6日 星期五**
 
-雨林
+ **雨林**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231006/001604-1hf56psaqe.jpg)
 
@@ -68,8 +68,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：云野-云峰 [目前遇境拾光季向导传送即到]**
 
- **注：沙滩上的仔哪只都可以**
-
 ![](https://img.166.net/reunionpub/ds/kol/20231006/000851-pm9d640tlv.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231006/000900-pu9q6n73cs.jpg)
@@ -114,17 +112,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230501/003537-boqnslm12s.png)
 
-复刻先祖
+ **旅行﻿先祖**
 
-梦想季-偷窥邮差
+梦想季——偷窥邮差
 
-复刻时间：2023年10月5日06:00-2023年10月9日12:00
+复刻时间：10/5早上6:00～10/9中午12:00
 
 位置：
 
 ![](https://img.166.net/reunionpub/ds/kol/20231005/223616-f4o5duy7rw.jpg)
 
-兑换图
+ **兑换图**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231005/224005-ka9jfs3sul.jpg)
 
@@ -134,11 +132,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **代币位置** ：
 
-![](https://img.166.net/reunionpub/ds/kol/20231005/223141-4erwiq1tcv.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231006/084038-by3ugsl9d0.jpeg)
 
  **收集方式二** ：完整观看他人秀台留影即可获得一枚礼帽代币
 
-![](https://img.166.net/reunionpub/ds/kol/20231005/223153-67sh25908i.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231006/084050-cpgsq16nrs.jpeg)
 
  **时装节向导兑换图**
 
@@ -150,7 +148,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图： 云野 雨林 霞谷 墓土 禁阁**
 
-云野
+ **云野**
 
 云野大厅：
 
@@ -188,7 +186,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231001/154305-dwijl59ksn.png)
 
-雨林
+ **雨林**
 
 雨林大厅：
 
@@ -218,7 +216,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230930/234645-6pqh7s095i.png)
 
-霞谷
+ **霞谷**
 
 霞谷大厅
 
@@ -244,9 +242,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230930/235909-pkw6iftrlz.png)
 
-暮土
+ **暮土**
 
-暮土大厅：
+暮土大厅
 
 ![](https://img.166.net/reunionpub/ds/kol/20230930/234852-3ge4u8or6p.png)
 
@@ -254,13 +252,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230930/235054-jy86pek73b.png)
 
-边陲荒漠：
+边陲荒漠
 
 ![](https://img.166.net/reunionpub/ds/kol/20231001/154852-e3c5s9zrlv.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230930/234926-ci07ro283m.png)
 
-巨兽荒原：
+巨兽荒原
 
 ![](https://img.166.net/reunionpub/ds/kol/20231001/155017-4pnt0si5gf.png)
 
@@ -268,21 +266,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20230930/235134-804wvzjdqn.png)
 
-黑水港湾：
+黑水港湾
 
 ![](https://img.166.net/reunionpub/ds/kol/20230930/235159-15r0we3sus.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231001/155058-k7v6ago5s2.png)
 
-远古战场：
+远古战场
 
 ![](https://img.166.net/reunionpub/ds/kol/20230930/235429-zadbm8w540.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20230930/235024-knq0is79yw.png)
 
-禁阁
+ **禁阁**
 
-禁阁一层：
+禁阁一层
 
 ![](https://img.166.net/reunionpub/ds/kol/20231001/000009-p0t8cdu2n9.png)
 
@@ -290,17 +288,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231001/000047-iqjstelyu6.jpeg)
 
-禁阁二层：
+禁阁二层
 
 ![](https://img.166.net/reunionpub/ds/kol/20231001/000627-vfibq52wpy.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231001/000300-p17s5cwe6r.png)
 
-禁阁四层;
+禁阁四层
 
 ![](https://img.166.net/reunionpub/ds/kol/20231001/000655-dg3silvtqw.png)
 
-禁阁顶层：
+禁阁顶层
 
 ![](https://img.166.net/reunionpub/ds/kol/20231001/000457-yzmk016qth.png)
 
@@ -328,9 +326,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **大只佬x1 小不点x1**
-
- **活动额外免费魔法**
+小不点×1 大只佬×1
 
  ****
 
@@ -340,9 +336,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231005/234831-rg4bpy8ukw.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231004/001439-lv9r8ofbnh.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231006/084657-k49iucbqsp.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
