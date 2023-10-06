@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-07 07:20:44
+date: 2023-10-07 07:38:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,7 +12,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **10月7日 星期六**
 
-霞谷
+ **霞谷**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231007/000833-pu78olmvdb.jpg)
 
@@ -94,7 +94,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **具体位置：** 星光沙漠
 
- **坠落时间：10** 、14、22小时的08分40秒左右～50分
+ **坠落时间：** 10、14、22小时的08分40秒左右～50分
 
  **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
 
@@ -103,8 +103,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **注：此坠落点可完成  [破晓季] 季节任务**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231007/001001-yh6k4ptndl.jpg)
-
-或
 
 ![](https://img.166.net/reunionpub/ds/kol/20231007/001019-9acjgd07tq.jpeg)
 
@@ -130,11 +128,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **代币位置** ：
 
-![](https://img.166.net/reunionpub/ds/kol/20231007/003820-hqst60i5fm.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231007/072042-vqpbi5gdoh.jpeg)
 
  **收集方式二** ：完整观看他人秀台留影即可获得一枚礼帽代币
 
-![](https://img.166.net/reunionpub/ds/kol/20231007/003842-lmzef6w3k5.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231007/072732-i4y97hew15.png)
 
  **时装节向导兑换图**
 
@@ -334,9 +332,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231006/235522-c15obzmfql.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231006/235546-vtr6fmu2oy.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231007/072155-gl9vn2ks1h.jpeg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
