@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-08 00:39:42
+date: 2023-10-08 00:52:03
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -160,7 +160,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图： 雨林   墓土 禁阁**
+ **地图： 雨林  墓土 禁阁**
 
 雨林
 
@@ -242,9 +242,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231008/000238-w3vl16ogd5.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231008/000306-pbu5i1476o.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231008/003434-sqizte0jyl.jpg)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
