@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-09 00:26:36
+date: 2023-10-09 00:39:18
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -110,11 +110,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **代币位置** ：
 
-![](https://img.166.net/reunionpub/ds/kol/20231007/072042-vqpbi5gdoh.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231009/002638-218qu5srpt.jpg)
 
  **收集方式二** ：完整观看他人秀台留影即可获得一枚礼帽代币
 
-![](https://img.166.net/reunionpub/ds/kol/20231007/072732-i4y97hew15.png)
+![](https://img.166.net/reunionpub/ds/kol/20231009/002647-erfjb9dham.jpg)
 
  **时装节向导兑换图**
 
