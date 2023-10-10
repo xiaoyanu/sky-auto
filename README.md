@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-11 00:43:29
+date: 2023-10-11 07:21:49
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -16,8 +16,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231011/000915-s5e2g7a9hs.jpg)
 
-  
-
  **任务一：和朋友击掌 0/1**
 
 完成方法：
@@ -26,21 +24,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：一级二级都可以完成**
 
-2.点击[集结向导]剧情节点 找到第一个剧情任务上方的击掌，与[向导]完成击掌即可
+2.找到对应季节向导，与季节向导完成击掌即可
 
- **注：需要完成第一个[集结季]剧情任务**
-
-3.靠近遇境[剧团团长]找到第一个魔法节点上方击掌，与[剧团团长]完成击掌即可
-
- **注：需要完成第一个[表演季]剧情任务**
-
-4.点击[追忆向导]剧情节点 找到第二个剧情任务上方的击掌，与[向导]完成击掌即可
-
- **注：需要完成第二个[追忆季]剧情任务**
-
-5.点击[拾光季向导]剧情节点 找到第二个剧情任务上方的击掌，与[向导]完成击掌即可
-
- **注：需要完成第二个[拾光季]剧情任务**
+ **注：部分向导需完成前置季节任务**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231011/000120-7m0zahwk3p.jpeg)
 
@@ -186,11 +172,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20221018/100559-oibznvdtus.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231010/235933-8q1do4nuti.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231011/063120-6vflkmi0pz.png)
 
  **音乐商店 [留影魔法指定地点兑换]：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231009/000345-yekc64b5jv.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231011/063000-kfpojucv81.png)
 
  **球玩魔法：**
 
