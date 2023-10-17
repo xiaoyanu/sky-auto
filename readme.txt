@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-18 00:42:53
+date: 2023-10-18 07:21:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **暮土**
 
-![](https://img.166.net/reunionpub/ds/kol/20231018/001037-vc01ur3oay.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231018/012656-yjsiegld18.jpg)
 
  **任务一：和陌生人一起坐在长凳上 0/1**
 
@@ -55,6 +55,16 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20231018/000422-c8pn7jqsky.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231018/000440-zn67wjdyte.png)
+
+完成方法三：
+
+接触沙滩上的鲲鳐幼仔即可完成
+
+ **位置：云野-云峰**
+
+![](https://img.166.net/reunionpub/ds/kol/20231018/012507-9yksw4oan3.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231018/012236-24wh3a5j9c.jpg)
 
 完成方法二：
 
@@ -99,6 +109,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 或
 
 ![](https://img.166.net/reunionpub/ds/kol/20231018/000955-sp8oqhrydm.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
+
+ **旅行﻿先祖**
+
+梦想季——跳舞艺人
+
+复刻时间：10/19早上6:00～10/23中午12:00
+
+位置：
+
+![](https://img.166.net/reunionpub/ds/kol/20231018/012040-asvbfduwqo.jpg)
+
+兑换图：
+
+![](https://img.166.net/reunionpub/ds/kol/20231018/012058-cdeiwsyv1j.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
