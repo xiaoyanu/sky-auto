@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-19 00:43:23
+date: 2023-10-19 07:21:47
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,7 +8,7 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-**每日任务 大蜡烛 季节蜡烛 免费魔法**
+**每日任务 大蜡烛 免费魔法**
 
  **国服10月19日 星期四**
 
@@ -36,13 +36,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：禁阁一层   右侧隐藏图 [档案阁]**
+ **位置：禁阁 档案阁**
 
- **先祖：智慧长者[站姿]**
+ **先祖：智慧长者 [站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231019/000409-a4qgd95ylt.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231019/000416-jnvpufqbt2.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231019/010853-7p5w9adyis.jpeg)
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
@@ -86,45 +84,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 靠近光芒即可完成
 
- **位置：禁阁一层 右侧隐藏图 [垂直迷宫]**
+ **位置：禁阁一层 右侧隐藏图 [档案阁]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231019/000656-j8kvioudmf.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
-
- **季节蜡烛**
-
-位置： **禁阁**
-
-第一堆：
-
-第二堆：
-
-第三堆：
-
-第四堆：
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **伊甸之眼坠落碎片位置**
 
 无
-
-![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
-
- **旅行﻿先祖**
-
-梦想季——跳舞艺人
-
-复刻时间：10/19早上6:00～10/23中午12:00
-
-位置：
-
-![](https://img.166.net/reunionpub/ds/kol/20231018/074356-lc089pasfn.jpg)
-
-兑换图：
-
-![](https://img.166.net/reunionpub/ds/kol/20231018/074417-l2b8amisor.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -184,9 +152,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  ****
 
-留影魔法：
+**留影魔法：**
 
- **位置：音乐商店**
+位置：音乐商店
+
+  * 注：开启 音乐商店 需完成 [表演季] 剧情任务四
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004941-6k9cb1yuv0.png)
 
