@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-19 13:50:33
+date: 2023-10-20 00:29:44
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -81,6 +81,20 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **伊甸之眼坠落碎片位置**
 
 无
+
+![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
+
+梦想季——跳舞艺人
+
+复刻时间：10/19早上6:00～10/23中午12:00
+
+位置：
+
+![](https://img.166.net/reunionpub/ds/kol/20231019/235429-yogcfwrs0p.jpg)
+
+兑换图：
+
+![](https://img.166.net/reunionpub/ds/kol/20231019/235406-45qrsdc3nt.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
