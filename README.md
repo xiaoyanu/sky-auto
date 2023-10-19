@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-19 07:50:52
+date: 2023-10-19 13:25:17
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,85 +8,73 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-**每日任务 大蜡烛 免费魔法**
+**每日任务 大蜡烛 季节蜡烛 免费魔法**
 
  **国服10月19日 星期四**
 
- **禁阁**
+ **雨林**
 
-![](https://img.166.net/reunionpub/ds/kol/20231019/001235-c1437rb9ud.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231019/130002-dgyfvubh83.png)
 
- **任务一：给一位朋友送礼 0/1**
+ **任务一：和朋友击掌 0/1**
 
 完成方法：
 
-1.点击好友 找到击掌右边的礼物 花费3跟蜡烛并送给对方爱心后即可完成
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
-2.在星盘上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3跟蜡烛完成送礼即可
+ **注：一级二级都可以完成**
 
- **注：第一种 二种任选其一即可完成**
+2.找到对应季节向导，与季节向导完成击掌即可
 
-![](https://img.166.net/reunionpub/ds/kol/20231019/000238-y7oanrsp0t.png)
+ **注：需要完成前置的剧情任务**
 
-![](https://img.166.net/reunionpub/ds/kol/20231019/000245-gm9os8z6ub.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231019/121213-8g1469qmdr.jpeg)
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20231019/121222-gqjhzlfm0b.jpeg)
+
+ **任务二：在雨林重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁 档案阁**
+ **位置：雨林 荧光森林**
 
- **先祖：智慧长者 [站姿]**
+ **先祖：正步冒险家 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231019/010853-7p5w9adyis.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231019/130159-2yvdhjrzeq.png)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+ **任务三：点燃20根蜡烛 0/1**
 
-完成方法一：
+完成方法：
 
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
+1.点燃一堆大蜡烛
 
- **位置：雨林 密林遗迹（水母图）**
+2.或点燃20根蜡烛即可完成
 
- **1.密林遗迹入口亭子右侧**
+ **推荐地图：云野 霞谷 禁阁 遇境 云巢**
 
- **2.密林遗迹右侧矿洞前**
+![](https://img.166.net/reunionpub/ds/kol/20231019/123005-vuzelj0mk4.jpeg)
 
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/ds/kol/20231019/000516-795qw42jhg.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20231019/000529-jl2c875ezk.png)
-
-完成方法二：
-
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
-![](https://img.166.net/reunionpub/ds/kol/20231019/000541-9zkptqysng.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231019/000610-cz7jdaos9q.png)
-
-完成方法三：
-
-接触沙滩上的鲲鳐幼仔即可完成
-
- **位置：云野-云峰**
-
-![](https://img.166.net/reunionpub/ds/kol/20231019/000622-l7hu61tcve.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231019/000628-ng4jelo1w0.jpg)
-
- **任务四：收集紫色光芒 0/1**
+ **任务四：在雨林追逐散落的星光 0/1**
 
 完成方法：
 
 靠近光芒即可完成
 
- **位置：禁阁一层 右侧隐藏图 [档案阁]**
+ **位置：雨林 静谧庭院**
 
-![](https://img.166.net/reunionpub/ds/kol/20231019/000656-j8kvioudmf.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231019/122632-gynsawei73.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
+
+ **季节蜡烛**
+
+ **地图：禁阁**
+
+ **位置：A组**
+
+![](https://img.166.net/reunionpub/ds/kol/20231019/122358-g5blypw841.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -148,7 +136,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231018/234948-8u0qncosim.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231019/122502-hldwb3n47t.png)
 
  ****
 
@@ -156,13 +144,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置：音乐商店
 
-  * 注：开启 音乐商店 需完成 [表演季] 剧情任务四
+注：开启 音乐商店 需完成 [表演季] 剧情任务四
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004941-6k9cb1yuv0.png)
 
-球玩魔法：
+ **球玩魔法：**
 
- **位置：圆梦村**
+位置：圆梦村
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/005022-4hnlvzm7iu.png)
 
