@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-20 13:38:20
+date: 2023-10-20 13:51:09
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -46,9 +46,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
- **完成方法一：**
+完成方法一：
 
- **拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成**
+拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
  **位置：雨林 密林遗迹（水母图）**
 
@@ -74,7 +74,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 接触沙滩上的鲲鳐幼仔即可完成
 
- **位置：云野-云峰**
+ **位置：云野 云峰**
 
  **![](https://img.166.net/reunionpub/ds/kol/20231019/000622-l7hu61tcve.jpg)**
 
@@ -112,7 +112,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **具体位置：** 圆梦村
 
- **坠落时间：11** 、17、23小时的08分40秒左右～50分
+ **坠落时间** ：11、17、23小时的08分40秒左右～50分
 
  **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
 
@@ -122,8 +122,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231020/002932-f43subnyet.png)
 
-或
-
 ![](https://img.166.net/reunionpub/ds/kol/20231020/002953-cn4h3ukrls.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
@@ -131,10 +129,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 梦想季——跳舞艺人
 
 复刻时间：10/19早上6:00～10/23中午12:00
-
-位置：
-
-![](https://img.166.net/reunionpub/ds/kol/20231019/235429-yogcfwrs0p.jpg)
 
 兑换图：
 
@@ -230,7 +224,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231020/002709-h0fcsen5im.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231020/134548-eor286hwag.png)
 
  ****
 
