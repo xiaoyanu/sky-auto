@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-24 00:42:06
+date: 2023-10-24 07:22:12
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -99,6 +99,66 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **伊甸之眼坠落碎片位置**
 
 无
+
+![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
+
+ **10月24日-11月6日新增恶作剧之日活动-螃蟹的恶搞派对**
+
+获得一次螃蟹祝福可获得 **蜡烛恶作剧*2**
+
+面对巨大螃蟹可获得 **螃蟹恶作剧*2**
+
+使用糖果代币兑换一件活动外观可获得 **糖果恶作剧*2**
+
+累计获取30个糖果代币可获得 **爱心*2**
+
+此外在活动期间 **每日签到** ，可获得以下额外 **随机** 奖励: **螃蟹恶作剧*1** ， **蜡烛恶作剧*1** ， **糖果恶作剧*1** ，
+**冥龙克星*1**
+
+ **糖果代币位置**
+
+ **第一枚：**
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/013823-i790szjknd.jpg)
+
+ **第二枚：**
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/013920-w95sskabut.jpg)
+
+ **第三枚：**
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/013928-ntwcemahlj.jpg)
+
+ **第四枚：**
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/014020-o7prbe3gu2.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/014029-3b4stu9oa7.jpg)
+
+ **方式二：互动领取**
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/014044-3qos721g8s.jpg)
+
+额外两组大蜡烛记得领取
+
+ **第一堆：蜘蛛洞内**
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/014553-potijg8f9q.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/014615-vp05f6yiu3.jpg)
+
+ **第二堆：螃蟹洞内
+一直往里过场两道门同时落下然后有水灌满，在水道中间位置浮到上一层就是，或者从猫洞过去要经过喷火翻板，总之猫洞和螃蟹洞是互通的，要么过水要么过火，就能领到了**
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/020614-32wb5icoau.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/020624-ljuzfschre.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/015156-j8gbnivp4a.jpeg)
+
+或
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/020847-tas7mgyv95.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
