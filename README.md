@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-23 13:50:55
+date: 2023-10-24 00:29:05
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,67 +10,89 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **国服10月23日 星期一**
+ **国服10月24日 星期二**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20231023/000719-uc6mwk2hnr.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231024/000943-75ds4igbzr.jpg)
 
- **任务一：和陌生人一起坐在长凳上 0/1**
+ **任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-和陌生玩家一起坐在石凳上即可完成
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/ds/kol/20231023/000127-jsizd9vbl2.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231024/000134-1qykbf7rli.jpg)
 
- **任务二：在暮土谷重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 巨兽荒原 [四龙图]**
+ **位置：禁阁 档案阁**
 
- **先祖：致敬钢琴家[动作]**
+ **先祖：智慧长者 [站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231023/000232-e0imj8na7v.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231024/000212-a3t6wkje28.jpg)
 
- **任务三：点燃20根蜡烛 0/20**
+ **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
-完成方法：
+完成方法一：
 
-1.点燃一堆大蜡烛
+拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
-2.或点燃20根蜡烛即可完成
+ **位置：雨林 密林遗迹（水母图）**
 
- **推荐地图：云野 霞谷 禁阁 遇境**
+ **1.密林遗迹入口亭子右侧**
 
-![](https://img.166.net/reunionpub/ds/kol/20231023/000303-twv5c6zdbk.jpeg)
+ **2.密林遗迹右侧矿洞前**
 
- **任务四：在远古战场中央冥想 0/1**
+ **注：共有两处随机拯救一只即可完成**
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/000304-9tf62ack70.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/000314-3h9mnqzku0.png)
+
+完成方法二：
+
+找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/000323-br1cu6lp0g.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/000349-kzsitf7p3m.png)
+
+完成方法三：
+
+接触沙滩上的鲲鳐幼仔即可完成
+
+ **位置：云野 云峰**
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/000405-sb4jymgh5v.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/000415-fr4atnv5wo.jpg)
+
+ **任务四：在禁阁底层冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 远古战场 [三龙图]**
+ **位置：禁阁一层/禁阁大厅 右侧平台**
 
-![](https://img.166.net/reunionpub/ds/kol/20231023/000322-pkeucysqb9.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231023/000328-uk9jbmq84h.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231024/000455-2qubpvkydh.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
- **位置：A组**
+ **位置：B组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231022/235328-82qslz73ri.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231023/234609-u4cyh65z78.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -80,37 +102,27 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
-梦想季——跳舞艺人
-
-复刻时间：10/19早上6:00～10/23中午12:00
-
-兑换图：
-
-![](https://img.166.net/reunionpub/ds/kol/20231019/235406-45qrsdc3nt.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
-
  **大蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231022/235549-osdan61srt.png)
+![](https://img.166.net/reunionpub/ds/kol/20231023/234802-s3tqfusoe7.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231022/235603-9l8cjv1u3d.png)
+![](https://img.166.net/reunionpub/ds/kol/20231023/234814-1ntwqs4lrd.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231022/235615-18rqvz6m93.png)
+![](https://img.166.net/reunionpub/ds/kol/20231023/234825-ythw03q7gj.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231022/235627-1dvpkcbf7l.png)
+![](https://img.166.net/reunionpub/ds/kol/20231023/234834-m49gtyc8w7.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003005-dok0cb2fuz.png)
 
@@ -134,7 +146,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法商店：**
 
@@ -142,7 +154,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231023/000032-kci1uh7rog.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231023/234858-zib6nmjsu8.jpeg)
 
  ****
 
@@ -152,7 +164,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 剧情任务四
 
-![](https://img.166.net/reunionpub/ds/kol/20231014/004941-6k9cb1yuv0.png)
+![](https://img.166.net/reunionpub/ds/kol/20231023/234959-gh1b8zwko3.jpeg)
 
  **球玩魔法：**
 
