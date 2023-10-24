@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-25 00:42:33
+date: 2023-10-25 07:21:22
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -84,7 +84,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：云野 云中仙乡   [三塔图]**
+ **位置：云野 云中仙乡  [三塔图]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231025/000608-h2yzqemnjf.jpeg)
 
@@ -141,21 +141,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **第一枚：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231024/013823-i790szjknd.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231025/004856-rkoh980efc.jpg)
 
  **第二枚：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231024/013920-w95sskabut.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231025/004904-vf0uts81hq.jpg)
 
  **第三枚：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231024/013928-ntwcemahlj.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231025/005103-ke5tfz80sl.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231025/005119-i70qbrku8m.jpg)
 
  **第四枚：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231024/014020-o7prbe3gu2.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231024/014029-3b4stu9oa7.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231025/005128-s4repbdz1s.jpg)
 
  **方式二：互动领取**
 
@@ -187,6 +187,14 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 或
 
 ![](https://img.166.net/reunionpub/ds/kol/20231024/020847-tas7mgyv95.jpg)
+
+搞怪员工兑换处： **兑换礼品**
+
+![](https://img.166.net/reunionpub/ds/kol/20231025/005237-zvrua9sw48.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231025/005303-d10y9ian4m.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231025/005456-fa3rgyev07.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
