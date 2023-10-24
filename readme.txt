@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-24 07:50:48
+date: 2023-10-24 13:24:50
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -138,6 +138,10 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **方式二：互动领取**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231024/014044-3qos721g8s.jpg)
+
+ **方式三：与大螃蟹对视**
+
+![](https://img.166.net/reunionpub/ds/kol/20231024/095212-p4qi9mvw2u.jpg)
 
 额外两组大蜡烛记得领取
 
