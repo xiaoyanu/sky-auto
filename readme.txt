@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-26 00:40:38
+date: 2023-10-26 07:21:28
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,7 +10,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **国服10月25日 星期三**
+ **国服10月26日 星期四**
 
  **雨林**
 
