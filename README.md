@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-28 00:41:18
+date: 2023-10-28 07:20:38
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -142,11 +142,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 搞怪员工兑换处： **兑换礼品**
 
+ **10月28日0:00:00-11月13日23:59:59新增返场兑换物品：女巫长发** 、 **枯叶斗篷** 、 **枯木桌椅**
+
 ![](https://img.166.net/reunionpub/ds/kol/20231025/005237-zvrua9sw48.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231025/005303-d10y9ian4m.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231025/005456-fa3rgyev07.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231028/005524-z91tmc3rl4.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231028/005534-ljv05iswe8.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -234,6 +240,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **万圣节活动免费魔法**
 
+ **10月28日0:00:00-11月13日23:59:59新增返场免费魔法：南瓜帽** 、 **漆黑蝠翼** 、 **女巫帽** 、 **蛛网斗篷**
+、 **巫术犄角** 、 **疯女巫长裙** 、 **蛛网朋克** 、 **冥龙 南瓜**
+
  **魔法商店：**
 
 注：开启 魔法商店 需完成 [魔法季] 全部剧情
@@ -245,6 +254,10 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20231027/003242-61yviufo5q.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231027/003248-4cju6y23bh.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231028/004729-iapocejbks.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231028/004736-16452sot9f.jpg)
 
  ****
 
