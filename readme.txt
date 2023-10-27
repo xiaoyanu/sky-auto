@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-27 13:50:51
+date: 2023-10-28 00:28:39
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,97 +10,69 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **国服10月27日 星期五**
+ **国服10月28日 星期六**
 
- **霞谷**
+ **暮土**
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/002501-2uzwl8kro9.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231028/001150-l6pson0bgu.jpg)
 
- **任务一：和朋友击掌 0/1**
+ **任务一：向一位朋友招手 0/1**
 
 完成方法：
 
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
+点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
 
- **注：一级二级都可以完成**
+ **注：1～6级招手动作均可完成**
 
-2.找到对应季节向导，与季节向导完成击掌即可
+![](https://img.166.net/reunionpub/ds/kol/20231028/000141-dhsn5cpk9v.png)
 
- **注：需要完成前置的剧情任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20231027/002513-l179r8o0cg.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231027/002529-u7rs0o9lhn.jpeg)
-
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+ **任务二：在暮土谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 圆梦村**
+ **位置：暮土 一龙图**
 
- **先祖：熊抱雪人 [动作]**
+ **先祖：敬礼护卫[动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/002616-o1pdwhuvym.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231028/000348-jiqda4sky2.jpg)
 
- **任务三：点燃20根蜡烛 0/20**
-
-完成方法：
-
-1.点燃一堆大蜡烛
-
-2.或点燃20根蜡烛即可完成
-
- **推荐地图：云野 霞谷 禁阁 遇境**
-
-![](https://img.166.net/reunionpub/ds/kol/20231027/002637-i28gzcqsde.jpeg)
-
- **任务四：在滑冰场旁冥想 0/1**
+ **任务三：收集30点烛光 0/30**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+1.领取任务
 
- **位置：霞谷 滑冰场**
+2.靠近地图当中点燃的 **蜡烛上方的烛光/净化黑暗植物后的烛光**  收集30滴即可
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/002655-oul6yid1nh.png)
+![](https://img.166.net/reunionpub/ds/kol/20231028/000419-6alqp1vg4s.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/002703-1f65m7elrh.jpeg)
+ **任务四：在暮土追逐散落的星光 0/1**
+
+完成方法：
+
+靠近星光即可完成
+
+ **位置：暮土 边陲荒漠**
+
+![](https://img.166.net/reunionpub/ds/kol/20231028/000452-io4gdvlzyn.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
  **位置：B组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231026/235930-hds0t7rges.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231027/234524-kpcijgbfze.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **伊甸之眼坠落碎片位置**
 
-禁阁
-
- **灼热碎片 [红石]：**
-
- **具体位置：** 星光沙漠
-
- **坠落时间：11** 、17、23小时的08分40秒左右～50分
-
- **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币：** 升华蜡烛
-
- **注：此坠落点可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20231027/002935-ot5qgen8c2.jpeg)
-
-或
-
-![](https://img.166.net/reunionpub/ds/kol/20231027/002944-95sbzmvju2.jpg)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -121,19 +93,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **第一枚：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/002356-lazh6cpbgq.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231028/001018-ov95nphur1.jpg)
 
  **第二枚：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/002404-indswhgtq9.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231028/001026-sio3ut7a2p.jpg)
 
  **第三枚：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/002409-hsjwlipa5m.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231028/001032-bl1y2p0rhi.jpg)
 
  **第四枚：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/092512-qr0eip7flj.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231028/001040-dgpyowh490.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231028/001231-1lnqrm6c28.jpg)
 
  **方式二：互动领取**
 
@@ -178,25 +152,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：云野 雨林 霞谷**
+ **地图：云野 雨林 暮土**
 
 云野
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/000037-hvta8b3zys.png)
+![](https://img.166.net/reunionpub/ds/kol/20231027/234702-pjv4flqz2e.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/000135-dsfzklv5ae.png)
+![](https://img.166.net/reunionpub/ds/kol/20231027/234714-qlzv61sjow.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/000148-2i096mtsol.png)
+![](https://img.166.net/reunionpub/ds/kol/20231027/234725-y1n0dsapz2.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/000201-szpihy2jr6.png)
+![](https://img.166.net/reunionpub/ds/kol/20231027/234741-sm0g57hu8w.png)
 
 雨林
 
@@ -216,23 +190,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231027/000249-r3wyssedcp.jpeg)
 
-霞谷
+暮土
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/000321-ysuwlt3hbr.png)
+![](https://img.166.net/reunionpub/ds/kol/20231027/234902-gqd109v7e4.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/000347-nam09qjicr.png)
+![](https://img.166.net/reunionpub/ds/kol/20231027/234914-iv6psdnukg.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/000358-e3bu7sva5p.png)
+![](https://img.166.net/reunionpub/ds/kol/20231027/234925-hycf0ipa9j.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/000408-qtk0vss1ao.png)
+![](https://img.166.net/reunionpub/ds/kol/20231027/234941-6p5ahlri1d.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003005-dok0cb2fuz.png)
 
@@ -256,7 +230,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **大只佬x1 小不点x1**
+ **返老还童x1 长大成人x1**
 
  **万圣节活动免费魔法**
 
@@ -266,7 +240,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231027/000429-mtn0l2rfdu.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231027/235042-m9us7jgbc4.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231027/003242-61yviufo5q.jpg)
 
