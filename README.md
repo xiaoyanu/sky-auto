@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-29 00:52:35
+date: 2023-10-29 07:20:14
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -256,6 +256,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **万圣节活动免费魔法**
 
+ **小螃蟹洞领免费魔法**
+
  **10月28日0:00:00-11月13日23:59:59新增返场免费魔法：南瓜帽** 、 **漆黑蝠翼** 、 **女巫帽** 、 **蛛网斗篷**
 、 **巫术犄角** 、 **疯女巫长裙** 、 **蛛网朋克** 、 **冥龙 南瓜**
 
@@ -266,6 +268,12 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231028/235432-k26y3swbqn.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231029/005358-81tbi9e6jp.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231029/005410-qgme034a2z.jpg)
+
+ **新增返场免费魔法** ：
 
 ![](https://img.166.net/reunionpub/ds/kol/20231028/175652-7yfhk4jcva.jpg)
 
