@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-30 13:50:49
+date: 2023-10-31 00:29:49
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,35 +10,35 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **国服10月30日 星期一**
+ **国服10月31日 星期二**
 
- **云野**
+雨林
 
-![](https://img.166.net/reunionpub/ds/kol/20231030/000921-e2gtivuprq.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231031/001248-9b1y3ov7gm.jpg)
 
- **任务一：向一位朋友招手 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
+接受好友赠送的 **爱心/心火** 即可完成
 
- **注：1～6级招手动作均可完成**
+![](https://img.166.net/reunionpub/ds/kol/20231031/000716-16vw0f48zq.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231029/000206-0sev1sqdc7.png)
+![](https://img.166.net/reunionpub/ds/kol/20231031/000732-lbamqspcfy.jpeg)
 
- **任务二：在云野重温先祖的美好回忆 0/1**
+ **任务二：在雨林重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：云野 圣岛**
+ **位置：雨林 密林遗迹 [大树屋旁]**
 
- **先祖：热血运动员 [动作]**
+ **先祖：白日梦森林人 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231030/000509-2rey0knzwm.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231031/000752-z3g7ysbm90.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231030/000521-obc2su4twa.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231031/000757-4rsj7om0ty.jpeg)
 
  **任务三：净化10株黑暗植物 0/1**
 
@@ -52,25 +52,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231030/000622-jd4kuhvop7.jpeg)
 
- **任务四：在云野追逐散落的星光 0/1**
+ **任务四：在静谧庭院外冥想 0/1**
 
 完成方法：
 
-靠近星光即可完成
+点击坐下冥想并回答问题即可完成
 
- **位置：云野 蝴蝶平原**
+ **位置：雨林 静谧庭院**
 
-![](https://img.166.net/reunionpub/ds/kol/20231030/000655-0jic64vblo.png)
+![](https://img.166.net/reunionpub/ds/kol/20231031/000819-weircts1py.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
  **位置：B组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231029/233932-jz8wkuvyi0.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231030/235604-vjgkwdh1i2.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -93,25 +93,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 此外在活动期间 **每日签到** ，可获得以下额外 **随机** 奖励: **螃蟹恶作剧*1** ， **蜡烛恶作剧*1** ， **糖果恶作剧*1** ，
 **冥龙克星*1**
 
- **糖果代币位置**
+ **糖果代币位置   **
 
  **第一枚：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231029/234050-4q83ima02k.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231031/002135-i8alckqswe.jpg)
 
  **第二枚：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231029/234101-njs483emo6.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231031/002141-ymn150pgse.jpg)
 
  **第三枚：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231029/234109-sqlvs8o4re.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231029/234116-d10cbsi5u3.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231031/002147-5f9ldngt4u.jpg)
 
  **第四枚：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231029/234138-avbmg1ikes.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231031/002155-yoant9kw7l.jpg)
 
  **方式二：互动领取**
 
@@ -158,25 +156,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231029/234436-dawukzbe48.png)
+![](https://img.166.net/reunionpub/ds/kol/20231030/235755-5tkacgmb4q.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231029/234448-7lth2j5d1o.png)
+![](https://img.166.net/reunionpub/ds/kol/20231030/235808-sh013crzd7.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231029/234504-ak61psvng4.png)
+![](https://img.166.net/reunionpub/ds/kol/20231030/235815-w0kzagncst.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231029/234518-8aqh7fdesp.png)
+![](https://img.166.net/reunionpub/ds/kol/20231030/235824-132osbsuyl.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003005-dok0cb2fuz.png)
 
@@ -200,7 +198,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **万圣节活动免费魔法**
 
@@ -215,7 +213,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231030/094458-m017pujwd8.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231030/235906-q158ans0ud.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231029/005358-81tbi9e6jp.jpg)
 
