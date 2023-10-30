@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-10-31 00:42:50
+date: 2023-10-31 07:21:15
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -111,9 +111,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231031/002155-yoant9kw7l.jpg)
 
- **方式二：互动领取**
+ **方式二：互动领取  **
 
-![](https://img.166.net/reunionpub/ds/kol/20231024/014044-3qos721g8s.jpg)
+ **从10月31日开始，入口不在有互动向导，改为大螃蟹洞内，与戴帽螃蟹互动**
+
+![](https://img.166.net/reunionpub/ds/kol/20231031/010851-l4dhqvzmr3.jpg)
+
+互动时戴帽螃蟹会变成先祖，先祖会施法把你变成螃蟹。
+
+![](https://img.166.net/reunionpub/ds/kol/20231031/010903-rnhdiu9gc2.jpg)
 
  **方式三：与大螃蟹对视**
 
