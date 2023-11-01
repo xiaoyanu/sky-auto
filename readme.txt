@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-01 13:50:59
+date: 2023-11-02 00:29:56
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,91 +10,67 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **国服11月1日 星期三**
+ **国服11月2日 星期四**
 
-霞谷
+暮土
 
-![](https://img.166.net/reunionpub/ds/kol/20231101/001038-zdgbnmhqlr.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231102/000659-g0mwhvuc89.jpg)
 
- **任务一：和陌生人一起坐在长凳上 0/1**
+ **任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-和陌生玩家一起坐在石凳上即可完成
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/ds/kol/20231101/000144-wu9b48fvc0.png)
+![](https://img.166.net/reunionpub/ds/kol/20231102/000202-3wqp1ssvo0.jpg)
 
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+ **任务二：在暮土谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 滑冰场**
+ **位置：暮土 远古战场 [三龙图]**
 
- **先祖：自信观光客 [站姿]**
+ **先祖：望远哨兵[动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231101/000245-67khtim8yv.png)
+![](https://img.166.net/reunionpub/ds/kol/20231102/000229-slsu29rzg0.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231101/000253-v4n8ss73yh.png)
+![](https://img.166.net/reunionpub/ds/kol/20231102/000234-p3to9qs18a.jpeg)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
-
-完成方法一：
-
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
-
- **位置：雨林 密林遗迹（水母图）**
-
- **1.密林遗迹入口亭子右侧**
-
- **2.密林遗迹右侧矿洞前**
-
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/ds/kol/20231101/000327-yzkr5c3jbt.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20231101/000339-6qmp2so9ez.png)
-
-完成方法二：
-
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
-![](https://img.166.net/reunionpub/ds/kol/20231101/000350-5uka2vlt61.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231101/000414-cwioqbjm63.png)
-
-完成方法三：
-
-接触沙滩上的鲲鳐幼仔即可完成
-
- **位置：云野 云峰**
-
-![](https://img.166.net/reunionpub/ds/kol/20231101/000424-4ghb85ac67.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231101/000436-y2zt4oslc9.jpeg)
-
- **任务四：在霞谷追逐散落的星光 0/1**
+ **任务三：收集30点烛光 0/30**
 
 完成方法：
 
-靠近星光即可完成
+1.领取任务
 
- **位置：霞谷 滑冰场**
+2.靠近地图当中点燃的 **蜡烛上方的烛光/净化黑暗植物后的烛光**  收集30滴即可
 
-![](https://img.166.net/reunionpub/ds/kol/20231101/000503-r2hv14yide.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231102/000247-1wf9rt5qdb.jpeg)
+
+ **任务四：在黑水港湾的沉船上冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：暮土 黑水港湾 [沉船图]**
+
+![](https://img.166.net/reunionpub/ds/kol/20231102/000304-dpbznyse7l.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231102/000309-5undtehov2.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
  **位置：A组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231031/234937-7zgbt6qeh2.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231102/000010-7ghrpjdb1a.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -188,25 +164,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231031/235234-np3f7dojb8.png)
+![](https://img.166.net/reunionpub/ds/kol/20231102/000901-nka8ucopbg.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231031/235242-clgd4sjwu8.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231102/000952-isvk2d6wh5.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231031/235253-crof53snb7.png)
+![](https://img.166.net/reunionpub/ds/kol/20231102/001005-acwsqbg93s.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231031/235313-8movk796lf.png)
+![](https://img.166.net/reunionpub/ds/kol/20231102/001015-zd3h4y9v28.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003005-dok0cb2fuz.png)
 
@@ -230,7 +206,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **万圣节活动免费魔法**
 
@@ -245,7 +221,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231031/235356-4v7ut59s2o.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231102/001051-4fc8pk1eas.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231029/005358-81tbi9e6jp.jpg)
 
@@ -267,7 +243,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 剧情任务四
 
-![](https://img.166.net/reunionpub/ds/kol/20231028/175721-solq4dbe3h.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231102/001108-v5rcdipz67.jpeg)
 
  **球玩魔法：**
 
