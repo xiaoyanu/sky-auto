@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-02 13:50:55
+date: 2023-11-03 00:30:43
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -77,6 +77,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **伊甸之眼坠落碎片位置**
 
 无
+
+![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
+
+ **旅行﻿先祖**
+
+风行季——风铃修补匠
+
+复刻时间：11/2早上6:00～10/6中午12:00
+
+位置：
+
+![](https://img.166.net/reunionpub/ds/kol/20231102/235143-erqzbs5y19.jpeg)
+
+兑换图：
+
+![](https://img.166.net/reunionpub/ds/kol/20231103/001310-nvurciqote.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
