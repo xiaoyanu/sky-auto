@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-06 13:51:16
+date: 2023-11-07 00:30:37
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,39 +10,33 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **国服11月6日 星期一**
+ **国服11月7日 星期二**
 
-霞谷
+暮土
 
-![](https://img.166.net/reunionpub/ds/kol/20231106/001027-2hwn09sdc5.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231107/000813-qnjw9u4kv0.jpg)
 
- **任务一：和朋友击掌 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
+接受好友赠送的 **爱心/心火** 即可完成
 
- **注：一级二级都可以完成**
+![](https://img.166.net/reunionpub/ds/kol/20231107/000216-fbenk0c93s.png)
 
-2.找到对应季节向导，与季节向导完成击掌即可
+![](https://img.166.net/reunionpub/ds/kol/20231107/000226-typl6rdsm5.jpeg)
 
- **注：需要完成前置的剧情任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20231106/000244-qlv9n7y5ta.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231106/000252-r7yhis8kcv.jpeg)
-
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+ **任务二：在暮土谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 圆梦村**
+ **位置：暮土 巨兽荒原 [四龙图]**
 
- **先祖：跳舞艺人 [动作]**
+ **先祖：不舍家长[动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231106/000345-5nvau71bsg.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231107/000249-dbnej17l6i.jpg)
 
  **任务三：面对冥龙 0/1**
 
@@ -50,31 +44,33 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 被冥龙锁定变成红光即可完成
 
- **推荐地图：暴风眼 暮土 ——藏宝岛礁/巨兽荒原(四龙图)/远古战场(三龙图)/遗忘方舟等**
+ **推荐地图：暴风眼 暮土**
 
  **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
-![](https://img.166.net/reunionpub/ds/kol/20231106/000415-i8bqgprsyl.png)
+![](https://img.166.net/reunionpub/ds/kol/20231107/000402-71ysqhkeol.png)
 
- **任务四：在霞谷追逐散落的星光 0/1**
+ **任务四：在巨兽荒原的神坛旁冥想 0/1**
 
 完成方法：
 
-靠近星光即可完成
+点击坐下冥想并回答问题即可完成
 
- **位置：霞谷 滑冰场**
+ **位置：暮土 巨兽荒原 [四龙图]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231106/000440-3fbh85nrkp.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231107/000418-jv3u287sw4.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231107/000425-sa14f52wei.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
  **位置：B组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231105/233612-fvmna7ws90.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231106/233916-t3edk4hbnu.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -84,53 +80,37 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
- **旅行﻿先祖**
-
-风行季——风铃修补匠
-
-复刻时间：11/2早上6:00～11/6中午12:00
-
-位置：风行网道
-
-![](https://img.166.net/reunionpub/ds/kol/20231102/235143-erqzbs5y19.jpeg)
-
-兑换图：
-
-![](https://img.166.net/reunionpub/ds/kol/20231103/215330-2i0rkhotbs.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
-
  **新增恶作剧之日-螃蟹的恶搞派对**
 
  **糖果代币位置   **
 
 第一枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231106/001856-dhs584itoq.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231107/001137-spw0197vz4.jpg)
 
 第二枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231106/001904-reigs7qdo5.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231107/001144-7gd2s31chi.jpg)
 
 第三枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231106/001910-kzvbyr9enj.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231107/001151-ts7rlv1ak5.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231107/001159-tyd2rls3ki.jpg)
 
 第四枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231106/001917-nlqfwc2ups.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231106/001924-70vymroihn.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231107/001208-ns7p8lth1s.jpg)
 
  **方式二：互动领取  **
 
-大螃蟹洞内，与戴帽螃蟹互动
+进猫洞，与猫猫互动
 
-![](https://img.166.net/reunionpub/ds/kol/20231031/010851-l4dhqvzmr3.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231107/002503-4scl71g0v9.jpg)
 
-互动时戴帽螃蟹会变成先祖，先祖会施法把你变成螃蟹。
+互动时猫猫会把你变成螃蟹﻿
 
-![](https://img.166.net/reunionpub/ds/kol/20231031/010903-rnhdiu9gc2.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231107/002509-fmgny3tqk0.jpg)
 
  **方式三：与大螃蟹对视**
 
@@ -148,25 +128,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231105/233912-syng6590kt.png)
+![](https://img.166.net/reunionpub/ds/kol/20231106/234130-fdhv1aog82.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231105/233928-zemv69l48y.png)
+![](https://img.166.net/reunionpub/ds/kol/20231106/234143-e9cjt57qh6.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231105/233944-uzyva25qhj.png)
+![](https://img.166.net/reunionpub/ds/kol/20231106/234154-nlprs8fc5t.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231105/233956-152ao9hpgi.png)
+![](https://img.166.net/reunionpub/ds/kol/20231106/234202-16yj7chv5u.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003005-dok0cb2fuz.png)
 
@@ -190,7 +170,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法商店：**
 
@@ -198,7 +178,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231105/234051-bcjmh96osf.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231106/234239-954pvwjolk.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231029/005358-81tbi9e6jp.jpg)
 
