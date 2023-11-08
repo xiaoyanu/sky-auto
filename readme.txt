@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-08 13:50:48
+date: 2023-11-09 00:30:12
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,69 +10,65 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **国服11月8日 星期三**
+ **国服11月9日 星期四**
 
- **禁阁**
+ **云野**
 
-![](https://img.166.net/reunionpub/ds/kol/20231108/000636-e7hgfc8s5q.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231109/001107-7hstisnfy2.jpg)
 
- **任务一：和朋友击掌 0/1**
+ **任务一：向一位朋友做个动作 0/1**
 
 完成方法：
 
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
+点击屏幕上方中间的表情菜单 **  面对好友** 随机点击任意动作即可完成
 
- **注：一级二级都可以完成**
+![](https://img.166.net/reunionpub/ds/kol/20231109/000237-tvql1d4h68.jpg)
 
-2.找到对应季节向导，与季节向导完成击掌即可
-
- **注：需要完成前置的剧情任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20231108/000122-l7ochsrk0g.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231108/000128-1ptu3gfhr2.jpeg)
-
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁一层   右侧隐藏图 [档案阁]**
+ **位置：云野 圣岛**
 
- **先祖：智慧长者[站姿]**
+ **先祖：鸣谢收藏家 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231108/000204-2lfmridw3u.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231109/000714-wzspn0jh2f.jpg)
 
- **任务三：掀翻5只螃蟹 0/5**
+![](https://img.166.net/reunionpub/ds/kol/20231109/000721-hugoekjact.jpg)
+
+ **任务三：净化10株黑暗植物 0/1**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+拿出心火光影燃烧10株黑暗植物即可完成
 
- **推荐地图：暮土 云野圣岛**
+ **推荐地图：暮土 雨林 云野圣岛   **
 
-![](https://img.166.net/reunionpub/ds/kol/20231108/000257-2uc9b8ols1.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231109/000753-4s6swbmn2f.jpeg)
 
- **任务四：在禁阁顶层神坛旁冥想 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20231109/000759-f7uvitj359.jpeg)
+
+ **任务四：在云野的锦鲤池旁冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：禁阁顶层**
+ **位置：云野 云中仙乡 [三塔图]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231108/000316-0543bki9pe.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231109/000826-9dakotyviq.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
- **位置：A组**
+ **位置：B组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231107/235701-4h9rc2f3mt.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231108/235144-3dy0ha68vs.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -88,19 +84,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231108/000941-jfrg0azlvk.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231109/001451-glk0o8dq9z.jpg)
 
 第二枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231108/000946-5iw9kfzr0d.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231109/001458-d3fmqpug97.jpg)
 
 第三枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231108/000954-iqt9eo0d3u.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231109/001504-2dr49mjtz0.jpg)
 
 第四枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231108/001001-kuqmh4069g.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231109/001511-1vkzs453us.jpg)
 
  **方式二：互动领取  **
 
@@ -128,25 +124,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231107/235902-qv19inz32e.png)
+![](https://img.166.net/reunionpub/ds/kol/20231108/235638-s5h6opsljr.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231107/235913-2u6h8kjisa.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231108/235650-nms6ftwl7p.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231107/235924-ygvu28fd76.png)
+![](https://img.166.net/reunionpub/ds/kol/20231108/235701-7jptni413a.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231107/235942-e634r27mcb.png)
+![](https://img.166.net/reunionpub/ds/kol/20231108/235711-vlotfs1jns.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003005-dok0cb2fuz.png)
 
@@ -170,7 +166,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法商店：**
 
@@ -178,7 +174,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231108/000000-5uhzpvn0dq.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231108/235735-12met35qsy.jpeg)
 
  **留言魔法：**
 
