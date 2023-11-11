@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-11 07:50:57
+date: 2023-11-11 13:23:47
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -80,13 +80,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-暮土
+ **暮土**
 
  **灼热碎片 [红石]：**
 
  **具体位置：巨兽荒原**
 
- **坠落时间：10** 、14、22小时的08分40秒左右～50分
+ **坠落时间：** 10、14、22小时的08分40秒左右～50分
 
  **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
 
@@ -96,11 +96,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231111/001024-smudp3zr05.jpeg)
 
-或
-
 ![](https://img.166.net/reunionpub/ds/kol/20231111/001032-9c3dew1mg5.jpeg)
-
-或
 
 ![](https://img.166.net/reunionpub/ds/kol/20231111/001050-a1ut4r7lpb.jpg)
 
