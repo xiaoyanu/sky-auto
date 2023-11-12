@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-13 00:52:26
+date: 2023-11-13 07:21:11
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -64,8 +64,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231113/000831-auflmdvk31.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231113/000837-64ecb0uw3m.jpeg)
-
 完成方法三：
 
 接触沙滩上的鲲鳐幼仔即可完成
@@ -73,8 +71,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **位置：云野 云峰**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231113/000844-cfsl3o1sud.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231113/000852-ljvhw26i9q.jpeg)
 
  **任务四：在禁阁底层冥想 0/1**
 
@@ -94,7 +90,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：B组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231112/000322-ps1vqys9de.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231113/035619-9wjiphosq7.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
