@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-13 07:50:47
+date: 2023-11-13 13:25:43
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -63,6 +63,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
 
 ![](https://img.166.net/reunionpub/ds/kol/20231113/000831-auflmdvk31.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231113/085447-m8knh6ize3.png)
 
 完成方法三：
 
