@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-14 07:50:38
+date: 2023-11-14 13:25:17
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -99,52 +99,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 或
 
 ![](https://img.166.net/reunionpub/ds/kol/20231114/001107-67ss1ylq2n.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
-
- **新增恶作剧之日-螃蟹的恶搞派对**
-
- **糖果代币位置   **
-
-第一枚：
-
-![](https://img.166.net/reunionpub/ds/kol/20231113/234823-4e7lndv9sk.jpg)
-
-第二枚：
-
-![](https://img.166.net/reunionpub/ds/kol/20231113/234829-ngftelbk3q.jpg)
-
-第三枚：
-
-![](https://img.166.net/reunionpub/ds/kol/20231113/234835-0l1n46mats.jpg)
-
-第四枚：
-
-![](https://img.166.net/reunionpub/ds/kol/20231113/234840-4ykrsv0blo.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231113/234846-4kz7yhsdfj.jpg)
-
- **方式二：互动领取  **
-
-进猫洞，与猫猫互动
-
-![](https://img.166.net/reunionpub/ds/kol/20231107/002503-4scl71g0v9.jpg)
-
-互动时猫猫会把你变成螃蟹
-
-![](https://img.166.net/reunionpub/ds/kol/20231107/002509-fmgny3tqk0.jpg)
-
- **方式三：与大螃蟹对视**
-
-![](https://img.166.net/reunionpub/ds/kol/20231024/225742-pa2bdley5t.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231024/095212-p4qi9mvw2u.jpg)
-
-**搞怪员工**![](https://img.166.net/reunionpub/ds/kol/20231025/005237-zvrua9sw48.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231025/005303-d10y9ian4m.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231107/010235-aiv26347kw.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
