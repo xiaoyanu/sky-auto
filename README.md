@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-15 13:51:04
+date: 2023-11-16 00:31:19
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,65 +10,69 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **国服11月15日 星期三**
+ **国服11月16日 星期四**
 
- **雨林**
+ **霞谷**
 
-![](https://img.166.net/reunionpub/ds/kol/20231115/000521-s0mheb3isw.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231116/000828-5ui8ybhskn.jpg)
 
- **任务一：接受一位朋友的礼物 0/1**
+ **任务一：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-接受好友赠送的 **爱心/心火** 即可完成
+和陌生玩家一起坐在石凳上即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20231115/000221-s7iwjpbc6n.png)
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
-![](https://img.166.net/reunionpub/ds/kol/20231115/000234-09rgqz16o5.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231116/000236-47pzv1el0f.png)
 
- **任务二：在雨林重温先祖的美好回忆 0/1**
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：雨林 静谧庭院**
+ **位置：霞谷 滑冰场**
 
- **先祖：发抖开拓者 [动作]**
+ **先祖：跳跃舞者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231115/000252-hga23slvtr.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231116/000315-svuk8dngbh.jpeg)
 
- **任务三：点燃20根蜡烛 0/20**
+![](https://img.166.net/reunionpub/ds/kol/20231116/000321-uzdss8g427.jpeg)
+
+ **任务三：净化10株黑暗植物 0/1**
 
 完成方法：
 
-1.点燃一堆大蜡烛
+拿出心火光影燃烧10株黑暗植物即可完成
 
-2.或点燃20根蜡烛即可完成
+ **推荐地图：暮土 雨林 云野圣岛  **
 
- **推荐地图：云野 霞谷 禁阁 遇境**
+![](https://img.166.net/reunionpub/ds/kol/20231116/000347-170zb8eysk.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231115/000311-pegk7l1i45.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231116/000356-0ye316bl9s.jpeg)
 
- **任务四：在荧光森林冥想 0/1**
+ **任务四：在霞光城拱门上冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林 荧光森林**
+ **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/ds/kol/20231115/000326-6ri2l3uzaj.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231116/000417-mpil5kt9r8.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231116/000424-t1bs2ipnes.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
- **位置：A组**
+ **位置：B组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231114/232429-eth03ris1d.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231115/235149-ldyfcwnvpj.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -78,27 +82,43 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
+ **旅行﻿先祖**
+
+圣岛季——放松日浴者
+
+复刻时间：11/16早上6:00～11/20中午12:00
+
+位置：
+
+![](https://img.166.net/reunionpub/ds/kol/20231116/001213-34rh51mjew.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231116/001219-sbczf6i27y.jpg)
+
+兑换图：后续更新
+
+![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
+
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231114/232930-pwqbzsilmo.png)
+![](https://img.166.net/reunionpub/ds/kol/20231115/235314-pirmzy8se1.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231114/232948-a29sgljfqs.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231115/235403-2ywcfdtsq9.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231114/233005-kv3leu4yhp.png)
+![](https://img.166.net/reunionpub/ds/kol/20231115/235414-e8qlkby3gj.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231114/233030-shajqfetg1.png)
+![](https://img.166.net/reunionpub/ds/kol/20231115/235424-so5m4z1dh3.png)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/003005-dok0cb2fuz.png)**
 
@@ -122,7 +142,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法商店：**
 
@@ -130,7 +150,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231114/233121-kth1myc5s6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231115/235518-k70rn5qmez.jpeg)
 
  **留言魔法：**
 
