@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-27 07:51:05
+date: 2023-11-27 13:26:22
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -42,13 +42,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231127/000829-hzvs2rn39l.jpg)
 
- **任务四：在边陲荒漠的神殿里冥想 0/1**
+ **任务三：净化10株黑暗植物 0/10**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+拿出心火蜡烛燃烧10株黑暗植物即可完成
 
- **位置：暮土 边陲荒漠**
+ **推荐地图：暮土 雨林 云野圣岛**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231127/000854-tw21esgv6s.jpeg)
 
