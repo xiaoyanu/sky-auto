@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-27 13:51:33
+date: 2023-11-28 00:31:19
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,71 +10,65 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **国服11月27日 星期一**
+ **国服11月28日 星期二**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20231127/001110-93csmo5iv7.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231128/000841-qs15vpm4ew.jpg)
 
- **任务一：给一位朋友送礼 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-1.点击好友 找到击掌右边的礼物 花费3跟蜡烛并送给对方爱心后即可完成
+接受好友赠送的 **爱心/心火** 即可完成
 
-2.在星盘上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3跟蜡烛完成送礼即可
+![](https://img.166.net/reunionpub/ds/kol/20231128/000333-bssrqdc7kn.png)
 
- **注：第一种 二种任选其一即可完成**
+![](https://img.166.net/reunionpub/ds/kol/20231128/000346-1j9cnvzwdh.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231127/000750-i8tmv20oad.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20231127/000757-lmd369qyvk.jpeg)
-
- **任务二：在暮土谷重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 巨兽荒原 [四龙图]**
+ **位置：禁阁一层  **
 
- **先祖：不舍家长[动作]**
+ **先祖：祈祷圣徒[动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231127/000829-hzvs2rn39l.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231128/000410-if8y4splk6.png)
 
- **任务三：净化10株黑暗植物 0/10**
+![](https://img.166.net/reunionpub/ds/kol/20231128/000424-3qhiwb85pa.png)
 
-完成方法：
-
-拿出心火蜡烛燃烧10株黑暗植物即可完成
-
- **推荐地图：暮土 雨林 云野圣岛**
-
-![](https://img.166.net/reunionpub/ds/kol/20231127/000854-tw21esgv6s.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231127/000901-b2i1vgzeq7.jpeg)
-
- **任务四：在边陲荒漠的神殿里冥想 0/1**
+ **任务三：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+点击人物头部长按大叫即可掀翻螃蟹
 
- **位置：暮土 边陲荒漠**
+ **推荐地图：暮土 云野圣岛**
 
-![](https://img.166.net/reunionpub/ds/kol/20231127/000924-gkopw3zbti.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231128/000438-y83tmanfpj.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231127/000930-8nd5e0sb3f.jpeg)
+ **任务四：收集紫色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：禁阁一层 右侧隐藏图 [档案阁]**
+
+![](https://img.166.net/reunionpub/ds/kol/20231128/000500-j3y8md6t2l.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
- **位置：B组**
+ **位置：A组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231126/233414-htjsmez0fq.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231127/232500-0s78y5ksvr.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -86,25 +80,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231126/233907-972est6kyh.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231127/232540-emjkql0oga.jpg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231126/233914-j7qrd2alkp.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231127/232547-qrfncmh2z6.jpg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231126/233920-0vt1kro3c6.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231127/232553-eoc3g8urwf.jpg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231126/233926-1hujcpv0ty.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231127/232600-gt7h4wa206.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/003005-dok0cb2fuz.png)**
 
@@ -128,7 +122,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法商店：**
 
@@ -136,7 +130,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231126/234040-0cb5vnpq47.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231127/232622-oi2kplqgd3.jpeg)
 
  **留言魔法：**
 
