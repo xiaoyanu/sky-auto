@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-29 00:48:08
+date: 2023-11-29 07:22:23
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -111,6 +111,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 注：此坠落点 **不可完成  **[破晓季] 季节任务
 
 ![](https://img.166.net/reunionpub/ds/kol/20231129/002302-rdzqksp7cv.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
+
+ **旅行﻿先祖**
+
+小王子季——萎靡不振的士兵
+
+复刻时间：11/30早上6:00～12/04中午12:00
+
+位置：星光沙漠
+
+![](https://img.166.net/reunionpub/ds/kol/20231129/003310-swlh9fe0cn.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20231129/010221-pljmogab0r.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
