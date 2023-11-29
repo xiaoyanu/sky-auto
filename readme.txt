@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-11-29 13:51:23
+date: 2023-11-30 00:31:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,107 +10,77 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **国服11月29日 星期三**
+ **国服11月30日 星期四**
 
- **云野**
+ **雨林**
 
-![](https://img.166.net/reunionpub/ds/kol/20231129/002056-tdzfbcun64.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231130/000605-9ybtcn4p1s.jpeg)
 
- **任务一：接受一位朋友的礼物 0/1**
+ **任务一：和朋友击掌 0/1**
 
 完成方法：
 
-接受好友赠送的 **爱心/心火** 即可完成
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
-![](https://img.166.net/reunionpub/ds/kol/20231128/000333-bssrqdc7kn.png)
+ **注：一级二级都可以完成**
 
-![](https://img.166.net/reunionpub/ds/kol/20231128/000346-1j9cnvzwdh.jpeg)
+2.找到对应季节向导，与季节向导完成击掌即可
 
- **任务二：在云野重温先祖的美好回忆 0/1**
+ **注：需要完成前置的剧情任务**
+
+![](https://img.166.net/reunionpub/ds/kol/20231130/000155-w7htnqa3o8.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231130/000205-kiyvb45u3z.jpeg)
+
+ **任务二：在雨林重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：云野 三塔图**
+ **位置：雨林 荧光森林**
 
- **先祖：鼓掌钟匠[动作]**
+ **先祖：正步冒险家 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231129/001357-7qsen6z12s.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231130/000225-dksa7q5fv2.jpeg)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
-
-完成方法一：
-
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
-
- **位置：雨林 密林遗迹（水母图）**
-
- **1.密林遗迹入口亭子右侧**
-
- **2.密林遗迹右侧矿洞前**
-
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/ds/kol/20231129/001455-oag90bey1i.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20231129/001509-rjko0zs7eh.png)
-
-完成方法二：
-
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
-![](https://img.166.net/reunionpub/ds/kol/20231129/001526-aiqoy1sjwp.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231129/001552-hper2yuo5g.png)
-
-完成方法三：
-
-接触沙滩上的鲲鳐幼仔即可完成
-
-![](https://img.166.net/reunionpub/ds/kol/20231129/001601-gsbvdw27t9.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231129/001607-4oz21scudh.jpeg)
-
- **任务四：在蝴蝶平原的神坛旁冥想 0/1**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+1.点燃一堆大蜡烛
 
- **位置：云野 蝴蝶平原  **
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20231129/001624-pd20w1qlju.png)
+ **推荐地图：云野 霞谷 禁阁 遇境**
+
+![](https://img.166.net/reunionpub/ds/kol/20231130/000241-aemrstp1qf.jpeg)
+
+ **任务四：在雨林追逐散落的星光 0/1**
+
+完成方法：
+
+靠近星光即可完成
+
+ **位置：雨林 静谧庭院**
+
+![](https://img.166.net/reunionpub/ds/kol/20231130/000259-c2sburq1ey.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
  **位置：B组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231129/001326-6hms49dku2.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231129/234112-72u10fvebp.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **伊甸之眼坠落碎片位置**
 
-雨林
-
- **冷却碎片 [黑石]**
-
-具体位置：密林遗迹
-
-坠落时间： **9、15、21小时** 的08分40秒左右～50分
-
-清理方式：净化黑石碎片周围黑暗植物即可
-
-获取货币：烛光 [普通蜡烛/白蜡烛]
-
-注：此坠落点 **不可完成  **[破晓季] 季节任务
-
-![](https://img.166.net/reunionpub/ds/kol/20231129/002302-rdzqksp7cv.jpeg)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -132,25 +102,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231129/001826-sgo1qnbp9c.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231129/234203-dg984yarfu.jpg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231129/001835-cvsziolern.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231129/234319-q7m5by2gcs.jpg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231129/001841-td0z3hupf2.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231129/234326-o4b9vcdgsy.jpg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231129/001848-wpld5a2yfc.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231129/234332-r7lcym0z1f.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/003005-dok0cb2fuz.png)**
 
@@ -174,7 +144,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法商店：**
 
@@ -182,7 +152,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231129/001939-bmuaeysl10.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231129/234405-czbkh5eg7q.jpeg)
 
  **留言魔法：**
 
