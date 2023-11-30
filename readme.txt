@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-01 00:48:16
+date: 2023-12-01 07:22:50
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,7 +12,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **国服12月1日 星期五**
 
-霞谷
+ **霞谷**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231201/001131-r7c8v01tkf.jpeg)
 
@@ -21,8 +21,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 完成方法：
 
 接受好友赠送的 **爱心/心火** 即可完成
-
-![](https://img.166.net/reunionpub/ds/kol/20231201/000303-80ds7rti94.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231201/000316-6tdk4vi0ms.jpeg)
 
@@ -36,7 +34,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：跳舞艺人 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231201/000417-jyeuvzfb7h.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231201/052904-o3ewkupif1.png)
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
@@ -74,8 +72,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231201/000611-6jam74ky8g.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231201/000618-pqrdakgv83.jpeg)
-
  **任务四：在霞谷追逐散落的星光 0/1**
 
 完成方法：
@@ -110,7 +106,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 复刻时间：11/30早上6:00～12/04中午12:00
 
-位置：禁阁-星光沙漠
+位置：禁阁 星光沙漠
 
 ![](https://img.166.net/reunionpub/ds/kol/20231201/003400-bd6jcf9vay.jpg)
 
@@ -119,6 +115,32 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 兑换图
 
 ![](https://img.166.net/reunionpub/ds/kol/20231201/002701-c5d0ntuokf.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
+
+ **烟花代币**
+
+直接领取
+
+![](https://img.166.net/reunionpub/ds/kol/20231201/053831-lk07hp4ti3.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231201/053845-fwyl7hnmis.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231201/053900-sywapor2f5.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231201/053913-s7pnsyhlwg.jpeg)
+
+互动收集
+
+![](https://img.166.net/reunionpub/ds/kol/20231201/054001-uml7rnv3cp.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20231201/054010-kj4s385vue.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231201/054020-os3vrct26g.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231201/054029-q4wg1pba7f.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231201/054038-hskczga1qu.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -202,7 +224,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体型重塑x1 绚丽彩虹x1**
+小不点x1 大只佬x1
 
  **魔法商店：**
 
@@ -210,7 +232,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231130/233356-vgqhty926f.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231201/052601-sjziy0l3u8.png)
 
  **留言魔法：**
 
