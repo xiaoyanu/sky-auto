@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-01 13:51:44
+date: 2023-12-02 00:30:18
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,31 +10,33 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **国服12月1日 星期五**
+ **国服12月2日 星期六**
 
- **霞谷**
+暮土
 
-![](https://img.166.net/reunionpub/ds/kol/20231201/001131-r7c8v01tkf.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231202/002049-wz1sm46uic.jpg)
 
- **任务一：接受一位朋友的礼物 0/1**
+ **任务一：向一位朋友招手 0/1**
 
-完成方法：
+ **完成方法：**
 
-接受好友赠送的 **爱心/心火** 即可完成
+ **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
 
-![](https://img.166.net/reunionpub/ds/kol/20231201/000316-6tdk4vi0ms.jpeg)
+ **注：1～6级招手动作均可完成**
 
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20231202/000839-jkhdt83ra5.png)
+
+ **任务二：在暮土重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 圆梦村**
+ **位置：暮土 一龙图**
 
- **先祖：跳舞艺人 [动作]**
+ **先祖：无畏士兵 [站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231201/052904-o3ewkupif1.png)
+![](https://img.166.net/reunionpub/ds/kol/20231202/000924-8yfnhceqgo.jpeg)
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
@@ -72,25 +74,29 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231201/000611-6jam74ky8g.jpg)
 
- **任务四：在霞谷追逐散落的星光 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20231201/234643-o3h98zf0cd.jpg)
+
+ **任务四：在黑水港湾的沉船上冥想 0/1**
 
 完成方法：
 
-靠近星光即可完成
+点击坐下冥想并回答问题即可完成
 
- **位置：霞谷 滑冰场**
+ **位置：暮土 黑水港湾 [沉船图]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231201/000633-0k2aosleg3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231202/000950-tb21q3sskp.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231202/000955-5hufoy2bmv.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
  **位置：A组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231130/232857-31nfvr6d02.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231201/234723-swcg67u0yj.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -120,6 +126,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **烟花代币**
 
+ **不知道是不bug，非苹果还是这组，苹果的平台是另一组，稍后更新苹果平台的**
+
 直接领取
 
 ![](https://img.166.net/reunionpub/ds/kol/20231201/053831-lk07hp4ti3.jpeg)
@@ -146,25 +154,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：云野 雨林 霞谷**
+ **地图：云野 雨林 暮土**
 
 云野
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231130/233119-ucajgy7v1w.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231201/234924-fml38n6v4h.jpg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231130/233125-kuhfpnsva6.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231201/234931-udtpbsgvl0.jpg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231130/233132-i4tsp8bnks.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231201/234938-i9r47a0nbh.jpg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231130/233138-3tujw9q5od.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231201/234959-auc26wps53.jpg)
 
 雨林
 
@@ -184,23 +192,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231130/233224-uecfkvsray.jpg)
 
-霞谷
+暮土
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231130/233309-tp9yg061n3.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231201/235118-lhyptivd0a.jpg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231130/233316-em3t6idgs2.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231201/235126-l0qwj7sive.jpg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231130/233323-5f2sqnvuwm.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231201/235132-wst1570vqg.jpg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20231130/233330-zl8w1k5qfs.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231201/235138-z3sn297o8h.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/003005-dok0cb2fuz.png)**
 
@@ -224,7 +232,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
-小不点x1 大只佬x1
+ **返老还童x1 长大成人x1**
+
+ **活动免费魔法**
 
  **魔法商店：**
 
@@ -232,7 +242,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231201/052601-sjziy0l3u8.png)
+![](https://img.166.net/reunionpub/ds/kol/20231202/000543-gmi9at8p6v.jpg)
 
  **留言魔法：**
 
