@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-02 00:43:12
+date: 2023-12-02 07:22:41
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,15 +12,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **国服12月2日 星期六**
 
-暮土
+ **暮土**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231202/002049-wz1sm46uic.jpg)
 
  **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
@@ -74,8 +74,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231201/000611-6jam74ky8g.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231201/234643-o3h98zf0cd.jpg)
-
  **任务四：在黑水港湾的沉船上冥想 0/1**
 
 完成方法：
@@ -102,7 +100,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **禁阁**
+
+ **灼热碎片 [红石]：**
+
+ **具体位置：** 星光沙漠
+
+ **坠落时间：** 10、14、22小时的08分40秒左右～50分
+
+ **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币：** 升华蜡烛
+
+ **注：此坠落点可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol/20231202/053150-pel514bcnv.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20231202/053210-6q3hyutea1.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -126,8 +140,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **烟花代币**
 
- **不知道是不bug，非苹果还是这组，苹果的平台是另一组，稍后更新苹果平台的**
-
 直接领取
 
 ![](https://img.166.net/reunionpub/ds/kol/20231201/053831-lk07hp4ti3.jpeg)
@@ -143,10 +155,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20231201/054001-uml7rnv3cp.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231201/054010-kj4s385vue.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231201/054020-os3vrct26g.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231201/054029-q4wg1pba7f.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231201/054038-hskczga1qu.jpeg)
 
@@ -232,9 +240,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **返老还童x1 长大成人x1**
-
- **活动免费魔法**
+返老还童x1 长大成人x1
 
  **魔法商店：**
 
@@ -242,7 +248,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231202/000543-gmi9at8p6v.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231202/053515-lc02iqfebm.png)
+
+  
 
  **留言魔法：**
 
