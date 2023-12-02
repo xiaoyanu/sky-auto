@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-03 00:28:09
+date: 2023-12-03 00:40:45
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,7 +12,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **国服12月3日 星期日**
 
-禁阁
+ **禁阁**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231203/001114-ocs7p8zwrs.jpeg)
 
@@ -20,15 +20,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法一 **：**
 
- **与4位玩家牵手即可完成**
+与4位玩家牵手即可完成
 
  **注：自己也算其中的四分之一**
 
+![](https://img.166.net/reunionpub/ds/kol/20231203/000445-myohse9rlp.png)
+
 完成方法 二：
 
-前往 [ **圆梦村剧场** ] 重温剧情任务四 任意选择三位先祖牵手即可
-
-![](https://img.166.net/reunionpub/ds/kol/20231203/000445-myohse9rlp.png)
+前往 [圆梦村剧场] 重温剧情任务四 任意选择三位先祖牵手即可
 
 ![](https://img.166.net/reunionpub/ds/kol/20231203/000506-y12uza8lif.png)
 
@@ -46,7 +46,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231203/000625-6kzev1wfjs.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231203/000603-ipleamnq89.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231203/003300-0n5h63osk7.png)
 
  **任务三：点燃20根蜡烛 0/20**
 
@@ -68,7 +68,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁顶层**
 
-![](https://img.166.net/reunionpub/ds/kol/20231203/000716-cgbzy807uw.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231203/003350-e0vcw2mqkn.png)
+
+  
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -84,13 +86,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-云野
+ **云野**
 
  **灼热碎片 [红石]：**
 
- **具体位置：圣岛**
+ **具体位置：** 圣岛
 
- **坠落时间：7** 、13、19小时的08分40秒左右～50分
+ **坠落时间：** 7、13、19小时的08分40秒左右～50分
 
  **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
 
@@ -155,10 +157,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 互动收集
 
 ![](https://img.166.net/reunionpub/ds/kol/20231201/054001-uml7rnv3cp.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20231201/054010-kj4s385vue.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231201/054038-hskczga1qu.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
