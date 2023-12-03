@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-04 00:40:59
+date: 2023-12-04 07:22:22
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,9 +10,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **国服12月4日 星期一**
+ **12月4日 星期一**
 
-云野
+ **云野**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231204/001004-pm5nr8v1wl.jpeg)
 
@@ -72,8 +72,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231204/000618-8m3zewpqns.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231204/000626-kv3cs6tsle.jpg)
-
  **任务四：在云野的锦鲤池旁冥想 0/1**
 
 完成方法：
@@ -82,7 +80,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：云野 云中仙乡 [三塔图]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231204/001126-05n8vgt1wo.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231204/031240-hwyicu9267.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231204/031251-7hrwnjql31.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -154,13 +154,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231203/145256-gro438sukl.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231203/145407-aqnti3pv8l.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231204/031346-olc2ye3dtu.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231203/145423-ct90m6sq7w.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231203/145432-waszyplsn7.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231203/145516-uwtekzf5v4.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231204/031354-7usk6wey15.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
