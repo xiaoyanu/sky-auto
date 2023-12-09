@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-09 13:50:43
+date: 2023-12-10 00:28:07
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,87 +10,73 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **12月9日 星期六**
+ **12月10日 星期日**
 
- **云野**
+ **雨林**
 
-![](https://img.166.net/reunionpub/ds/kol/20231209/001432-n7vw5cfsjz.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231210/000716-t2jefr854i.jpeg)
 
- **任务一：和朋友击掌 0/1**
+ **任务一：向一位朋友做个动作 0/1**
 
 完成方法：
 
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
+点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
 
- **注：一级二级都可以完成**
+![](https://img.166.net/reunionpub/ds/kol/20231210/000324-bk5ohn21r7.png)
 
-2.找到对应季节向导，与季节向导完成击掌即可
-
- **注：需要完成前置的剧情任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20231209/000336-9oysd74g5a.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231209/000354-1sauwn6c8s.jpeg)
-
- **任务二：在云野重温先祖的美好回忆 0/1**
+ **任务二：在雨林重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：云野 圣岛**
+ **位置：雨林 密林遗迹 [水母图/断桥图]**
 
- **先祖：内秀书虫 [站姿]**
+ **先祖：歉意伐木工 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231209/000841-4rko93hlgw.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231210/000352-cvas01bh7y.png)
 
- **任务三：点燃20根蜡烛 0/20**
-
-完成方法：
-
-1.点燃一堆大蜡烛
-
-2.或点燃20根蜡烛即可完成
-
- **推荐地图：云野 霞谷 禁阁 遇境**
-
-![](https://img.166.net/reunionpub/ds/kol/20231206/000700-v9dp7qsi0n.jpeg)
-
- **任务四：收集绿色光芒 0/1**
+ **任务三：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-靠近光芒即可完成
+点击人物头部长按大叫即可掀翻螃蟹
 
- **位置：云野 云顶浮石 [右侧隐藏图]**
+ **推荐地图：暮土 云野圣岛**
 
- **注：此光芒每整十分下落**
+![](https://img.166.net/reunionpub/ds/kol/20231210/000413-v5p4mqsst9.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231209/001304-ad9lc6byte.jpeg)
+ **任务四：在静谧庭院外冥想 0/1**
 
-![](https://img.166.net/reunionpub/ds/kol/20231209/001319-uad9re1y8v.jpg)
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：雨林 静谧庭院**
+
+![](https://img.166.net/reunionpub/ds/kol/20231210/000433-8hs3zgyoaq.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
  **位置：B组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231208/234829-py9f1glcdj.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231209/234456-leunrbh2f5.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **伊甸之眼坠落碎片位置**
 
- **雨林**
+ **霞谷**
 
  **灼热碎片 [红石]：**
 
- **具体位置：** 雨林神殿
+ **具体位置：** 雪隐峰
 
- **坠落时间：** 10、14、22小时的08分40秒左右～50分
+ **坠落时间：7** 、13、19小时的08分40秒左右～50分
 
  **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
 
@@ -98,9 +84,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/ds/kol/20231208/235051-1s20aweb5z.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231208/235108-27ihdtw5eb.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231209/234628-1u2jmpdf9l.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -154,13 +138,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231203/145256-gro438sukl.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231209/004034-eug76ry0nk.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231210/002230-wlyb387fu4.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231209/011013-j7giwoz5th.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231210/002238-neks2bftzo.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231209/011020-cb8lui53jy.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231209/011026-swpor3z4ay.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231210/002244-5b6fkrd3z0.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -342,7 +324,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
-返老还童x1 长大成人x1
+ **体型重塑x1 绚丽彩虹x1**
 
  **魔法商店：**
 
@@ -350,7 +332,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231209/052830-hwy3s9o4sp.png)
+![](https://img.166.net/reunionpub/ds/kol/20231209/234727-2ugs31zqi6.jpeg)
 
  **留言魔法：**
 
