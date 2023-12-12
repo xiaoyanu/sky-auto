@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-13 00:43:31
+date: 2023-12-13 07:22:43
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -34,7 +34,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁四层  **
 
- **先祖：拳礼武僧[动作]**
+ **先祖：拳礼武僧 [动作]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231213/000300-p9tskb2jrn.jpg)
 
@@ -56,7 +56,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁顶层**
 
-![](https://img.166.net/reunionpub/ds/kol/20231213/000347-3vn65ajtpb.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231213/044109-zpuktjc46y.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -73,6 +73,24 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **伊甸之眼坠落碎片位置**
 
 无
+
+![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
+
+ **旅行﻿先祖**
+
+感恩季——刁蛮浪者
+
+复刻时间：12/14早上6:00～12/18中午12:00
+
+位置：晨岛
+
+![](https://img.166.net/reunionpub/ds/kol/20231213/010659-4258akl1yh.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231213/010705-cw74ol1afu.jpg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20231213/010906-cael4p8r0s.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -308,7 +326,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231212/235910-ye36q72pks.jpeg)
 
- **留言魔法：**
+ **留言魔法**
 
 位置：云巢·魔法商店
 
@@ -318,7 +336,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  ****
 
-**留影魔法：**
+**留影魔法**
 
 位置：音乐商店
 
@@ -326,7 +344,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231210/232327-z8esktjbup.jpeg)
 
- **球玩魔法：**
+ **球玩魔法**
 
 位置：圆梦村
 
