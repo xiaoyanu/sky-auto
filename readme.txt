@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-13 13:51:27
+date: 2023-12-14 00:30:12
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,63 +10,73 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **12月13日 星期三**
+ **12月14日 星期四**
 
- **禁阁**
+ **云野**
 
-![](https://img.166.net/reunionpub/ds/kol/20231213/000839-08nhec49to.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231214/001252-8kfcudv9oj.jpeg)
 
- **任务一：和陌生人一起坐在长凳上 0/1**
+ **任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-和陌生玩家一起坐在石凳上即可完成
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/ds/kol/20231213/000207-q7j35ism10.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231214/000428-40eqrdj8n7.jpg)
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁四层  **
+ **位置：云野 圣岛**
 
- **先祖：拳礼武僧 [动作]**
+ **先祖：热血运动员 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231213/000300-p9tskb2jrn.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231214/000549-h6eglk1oft.jpg)
 
- **任务三：收集30点烛光 0/30**
+![](https://img.166.net/reunionpub/ds/kol/20231214/000557-bmrsgu2yol.jpeg)
 
-完成方法：
-
-1.领取任务
-
-2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
-
-![](https://img.166.net/reunionpub/ds/kol/20231213/000322-iz0ds3j7c8.jpeg)
-
- **任务四：在禁阁顶层神坛旁冥想 0/1**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+1.点燃一堆大蜡烛
 
- **位置：禁阁顶层**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20231213/044109-zpuktjc46y.png)
+ **推荐地图：云野 霞谷 禁阁 遇境**
+
+![](https://img.166.net/reunionpub/ds/kol/20231214/000632-y0sfk6bveq.jpeg)
+
+ **任务四：收集绿色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：云野 云顶浮石 [右侧隐藏图]**
+
+ **注：此光芒每整十分下落**
+
+![](https://img.166.net/reunionpub/ds/kol/20231214/000709-g40h2o6dfa.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231214/000716-7q8b0uzeip.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231214/000722-0cp4diysg7.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
- **位置：B组**
+ **位置：A组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231212/235718-wehfm46za8.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231213/234808-3ok1iqwgpb.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -128,13 +138,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231203/145256-gro438sukl.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231213/003102-79mgkde586.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231213/003109-ni73ul2zh5.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231213/003115-ytr6l04k3e.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231213/003121-s0nlvra23j.jpg)
+  
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -316,7 +320,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法商店：**
 
@@ -324,9 +328,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231212/235910-ye36q72pks.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231213/235003-lubiew674k.jpeg)
 
- **留言魔法**
+ **留言魔法：**
 
 位置：云巢·魔法商店
 
@@ -336,7 +340,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  ****
 
-**留影魔法**
+**留影魔法：**
 
 位置：音乐商店
 
@@ -344,7 +348,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231210/232327-z8esktjbup.jpeg)
 
- **球玩魔法**
+ **球玩魔法：**
 
 位置：圆梦村
 
