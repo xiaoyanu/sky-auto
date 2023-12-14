@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-14 07:50:46
+date: 2023-12-14 13:26:13
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -24,7 +24,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/ds/kol/20231214/000428-40eqrdj8n7.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231214/105658-uyiz9s4ehm.png)
 
  **任务二：在云野重温先祖的美好回忆 0/1**
 
@@ -32,7 +32,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：云野 圣岛**
+ **位置：云野 圣岛¹**
 
  **先祖：热血运动员 [动作]**
 
@@ -58,7 +58,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 靠近光芒即可完成
 
- **位置：云野 云顶浮石 [右侧隐藏图]**
+ **位置：云野 云顶浮石² [右侧隐藏图]**
 
  **注：此光芒每整十分下落**
 
@@ -322,21 +322,35 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+漂浮魔法x1
 
- **魔法商店：**
+ **魔法工坊**
 
-注：开启 魔法商店 需完成 [魔法季] 全部剧情
+位置：暮土 失落方舟
+
+注：开启 魔法工坊 需完成 [魔法季] 全部季节任务
+
+ **魔法商船**
+
+位置：遇境
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231213/235003-lubiew674k.jpeg)
 
+ **魔法商店**
+
+位置：云巢
+
+注：开启 魔法商店 需完成 [归巢季] 季节任务八
+
+![](https://img.166.net/reunionpub/ds/kol/20231214/110459-n73u90seds.png)
+
  **留言魔法：**
 
-位置：云巢·魔法商店
+位置：云巢 魔法商店
 
-注：开启 云巢·魔法商店 需完成 [归巢季] 剧情任务二
+注：开启 云巢·魔法商店 需完成 [归巢季] 季节任务二
 
 ![](https://img.166.net/reunionpub/ds/kol/20231107/140441-vyjm6wbds7.png)
 
@@ -346,7 +360,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置：音乐商店
 
-注：开启 音乐商店 需完成 [表演季] 剧情任务四
+注：开启 音乐商店 需完成 [表演季] 季节任务四
 
 ![](https://img.166.net/reunionpub/ds/kol/20231210/232327-z8esktjbup.jpeg)
 
@@ -354,5 +368,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置：圆梦村
 
-![](https://img.166.net/reunionpub/ds/kol/20231014/005022-4hnlvzm7iu.png)
+![](https://img.166.net/reunionpub/ds/kol/20231014/005022-4hnlvzm7iu.png)![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)
+
+ **注解**
+
+1.圣岛
+
+![](https://img.166.net/reunionpub/ds/kol/20231214/110957-s8zosqby6v.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20231214/110919-em6khcz0ji.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20231214/111017-0bns8m54rd.jpeg)
+
+2.云顶浮石
+
+![](https://img.166.net/reunionpub/ds/kol/20231214/111050-5m4dfekg73.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20231214/111119-17v8o6danp.png)
 
