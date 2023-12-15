@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-16 00:48:16
+date: 2023-12-16 07:22:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,7 +12,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **12月16日 星期六**
 
-霞谷
+ **霞谷**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231216/001438-t5y49lsukp.jpeg)
 
@@ -26,7 +26,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 2.找到对应季节向导，与季节向导完成击掌即可
 
- **注：需要完成前置的剧情任务**
+ **注：需要完成前置的季节任务**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231216/000642-nshuo98li2.jpeg)
 
@@ -42,7 +42,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：自豪冠军 [站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231216/000836-z2ps7skt34.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231216/005422-kg8csltby4.png)
 
  **任务三：净化10株黑暗植物 0/1**
 
@@ -282,7 +282,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **返老还童x1 长大成人x1**
+返老还童x1 长大成人x1
 
  **魔法工坊**
 
@@ -296,7 +296,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231215/235800-56d4kfbmqu.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231216/005523-57dsqyt9zl.png)
 
  **魔法商店**
 
@@ -304,13 +304,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol/20231215/002443-2jslwkpryu.png)
+![](https://img.166.net/reunionpub/ds/kol/20231216/005610-rybi46p5nv.png)
 
  **留言魔法：**
 
 位置：云巢·魔法商店
 
-注：开启 云巢·魔法商店 需完成 [归巢季] 剧情任务二
+注：开启 云巢·魔法商店 需完成 [归巢季] 季节任务二
 
 ![](https://img.166.net/reunionpub/ds/kol/20231107/140441-vyjm6wbds7.png)
 
@@ -320,9 +320,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置：音乐商店
 
-注：开启 音乐商店 需完成 [表演季] 剧情任务四
+注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-![](https://img.166.net/reunionpub/ds/kol/20231215/235946-r60zo81s73.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231216/005710-6h3a0olbej.png)
 
  **球玩魔法：**
 
