@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-17 13:50:50
+date: 2023-12-18 00:29:34
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,11 +10,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **12月17日 星期日**
+ **12月18日 星期一**
 
- **暮土**
+禁阁
 
-![](https://img.166.net/reunionpub/ds/kol/20231217/001212-daohkngy4m.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231218/000746-vj38bysa5l.jpeg)
 
  **任务一：向一位玩家鞠躬 0/1**
 
@@ -26,75 +26,55 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231217/000514-e3sutk46qw.jpg)
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 黑水港湾**
+ **位置：禁阁一层   右侧隐藏图 [档案阁]**
 
- **先祖：行礼舰长 [动作]**
+ **先祖：智慧长者[站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231217/000728-cb9lptj6d2.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231218/000404-1d8ro6kcqt.jpg)
 
- **任务三：点燃20根蜡烛 0/20**
+ **任务三：净化10株黑暗植物 0/1**
 
 完成方法：
 
-1.点燃一堆大蜡烛
+拿出心火光影燃烧10株黑暗植物即可完成
 
-2.或点燃20根蜡烛即可完成
+ **推荐地图：暮土 雨林 云野圣岛**
 
- **推荐地图：云野 霞谷 禁阁 遇境**
+![](https://img.166.net/reunionpub/ds/kol/20231218/000430-eto615pyq3.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231217/000748-omiswqe7lr.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231218/000437-1wc497azvg.jpeg)
 
- **任务四：在远古战场中央冥想 0/1**
+ **任务四：在禁阁底层冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 远古战场 [三龙图]**
+ **位置：禁阁一层/禁阁大厅 右侧平台**
 
-![](https://img.166.net/reunionpub/ds/kol/20231217/000827-01y9ln3ewg.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231217/000832-h1viea072q.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231218/000508-dq37u58avl.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **季节蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
- **位置：B组**
+ **位置：A组**
 
-![](https://img.166.net/reunionpub/ds/kol/20231216/232445-skqi5dowyg.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231217/234852-ogslseni5b.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
  **伊甸之眼坠落碎片位置**
 
-禁阁
-
- **灼热碎片 [红石]：**
-
- **具体位置：** 星光沙漠
-
- **坠落时间：7** 、13、19小时的08分40秒左右～50分
-
- **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币：** 升华蜡烛
-
- **注：此坠落点可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20231216/233017-busm80vr7o.jpg)
-
-或
-
-![](https://img.166.net/reunionpub/ds/kol/20231216/233032-c3e28w4oqd.jpeg)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -294,7 +274,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体型重塑x1 绚丽彩虹x1**
+ **浪漫烟花x1**
 
  **魔法工坊**
 
@@ -308,7 +288,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231216/232811-dsuyzvbmwk.png)
+![](https://img.166.net/reunionpub/ds/kol/20231217/235546-pycdm4unht.jpg)
 
  **魔法商店**
 
@@ -316,7 +296,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol/20231216/232840-sqkuf0c5zv.png)
+![](https://img.166.net/reunionpub/ds/kol/20231217/235602-713cra25dq.jpg)
 
  **留言魔法：**
 
@@ -334,7 +314,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-![](https://img.166.net/reunionpub/ds/kol/20231216/005710-6h3a0olbej.png)
+![](https://img.166.net/reunionpub/ds/kol/20231217/235634-f8uytm0ep2.jpeg)
 
  **球玩魔法：**
 
