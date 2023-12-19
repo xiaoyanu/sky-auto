@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-20 00:50:47
+date: 2023-12-20 07:18:25
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,7 +12,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **12月20日 星期三**
 
-雨林
+ **雨林**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231220/000703-ig4wz1pjns.jpeg)
 
@@ -22,11 +22,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 两位玩家协力开启一道门即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20231220/000227-z40ka2jgs7.jpg)
+ **推荐位置：**
 
-![](https://img.166.net/reunionpub/ds/kol/20231220/000233-0q8skf3vap.jpg)
+ **云野 云中仙乡**
 
-![](https://img.166.net/reunionpub/ds/kol/20231220/000246-apnw5zftv4.jpeg)
+ **霞谷 滑冰场**
+
+ **禁阁 档案阁入口**
+
+![](https://img.166.net/reunionpub/ds/kol/20231220/065936-uzph0w5nlo.jpeg)
 
  **任务二：在荧光小菇旁恢复能量 0/1**
 
@@ -36,11 +40,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 2.靠近荧光小菇恢复能量即可完成
 
- **位置：雨林 荧光森林 密林遗迹等**
+ **位置：雨林 荧光森林/密林遗迹/地下溶洞**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231220/000313-in8yceuqdp.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231220/000338-sjfkhv5621.jpeg)
 
  **任务三：收集30点烛光 0/30**
 
@@ -50,7 +52,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
-![](https://img.166.net/reunionpub/ds/kol/20231220/000354-hkrst30mgd.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231220/070140-r7iqys1ta2.png)
 
  **任务四：在秘密花园里冥想 0/1**
 
@@ -60,7 +62,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：雨林 秘密花园**
 
-![](https://img.166.net/reunionpub/ds/kol/20231220/000421-1ziq04tamg.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231220/070210-cb539aeoql.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231220/070218-bs0gontsr2.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -76,23 +80,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-霞谷
+ **霞谷**
 
  **冷却碎片 [黑石]**
 
-具体位置： **滑冰场**
+ **具体位置：** 滑冰场
 
-坠落时间： **9、15、21小时** 的08分40秒左右～50分
+ **坠落时间：** 9、15、21小时的08分40秒左右～50分
 
-清理方式：净化黑石碎片周围黑暗植物即可
+ **清理方式：** 净化黑石碎片周围黑暗植物即可
 
-获取货币：烛光 [普通蜡烛/白蜡烛]
+ **获取货币：** 烛光 [普通蜡烛/白蜡烛]
 
-注：此坠落点 **不可完成  **[破晓季] 季节任务
+ **注：此坠落点不可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/ds/kol/20231220/000900-ocur8m2nel.png)
-
-或
+![](https://img.166.net/reunionpub/ds/kol/20231220/070552-fq4ml5i871.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231220/000925-wpichyqvrm.jpg)
 
@@ -262,21 +264,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 1.云野 圣岛
 
-![](https://img.166.net/reunionpub/ds/kol/20231014/004010-de83b4jwu6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231220/071109-so6aef3jyr.jpeg)
 
-2.音乐商店 二楼
+2.霞谷 音乐商店 二楼
 
-![](https://img.166.net/reunionpub/ds/kol/20231014/004020-k8jwmpg94o.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231220/071120-naym3f5u4g.jpeg)
 
 3.禁阁 星光沙漠
 
-![](https://img.166.net/reunionpub/ds/kol/20231014/004040-1mpch2gvy6.png)
+![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)
 
  **今日免费魔法**
 
- **璀璨之星x1**
+璀璨之星x1
 
  **魔法工坊**
 
@@ -323,4 +325,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 位置：圆梦村
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/005022-4hnlvzm7iu.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)
+
+ **注解**
 
