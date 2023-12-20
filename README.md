@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-20 07:47:59
+date: 2023-12-20 13:21:30
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -30,7 +30,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **禁阁 档案阁入口**
 
-![](https://img.166.net/reunionpub/ds/kol/20231220/065936-uzph0w5nlo.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231220/073401-0umz5l6snw.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231220/080320-3oe6n5mua0.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20231220/073414-6bk2v4djzy.jpeg)
 
  **任务二：在荧光小菇旁恢复能量 0/1**
 
@@ -40,7 +44,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 2.靠近荧光小菇恢复能量即可完成
 
- **位置：雨林 荧光森林/密林遗迹/地下溶洞**
+ **位置：雨林 荧光森林/密林遗迹/地下溶洞¹**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231220/000313-in8yceuqdp.jpeg)
 
@@ -60,7 +64,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林 秘密花园**
+ **位置：雨林 秘密花园²**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231220/070210-cb539aeoql.jpeg)
 
@@ -329,4 +333,14 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)
 
  **注解**
+
+1..地下溶洞
+
+![](https://img.166.net/reunionpub/ds/kol/20231220/075642-k4ghuyb6j1.png)
+
+2..秘密花园
+
+![](https://img.166.net/reunionpub/ds/kol/20231220/074917-wdmkju245s.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20231220/074931-w6ukz9adns.jpeg)
 
