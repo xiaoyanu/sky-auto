@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-21 07:38:09
+date: 2023-12-21 07:50:35
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,7 +12,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **12月21日 星期四**
 
-霞谷
+ **霞谷**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231221/000752-nrdb9owhuk.jpeg)
 
@@ -32,13 +32,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：霞谷 滑冰场 山洞口里侧**
+ **位置：霞谷 滑冰场**
 
  **先祖：抛球杂耍 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231221/000325-wvssig8npd.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231221/000331-51kavcupet.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231221/074431-epnr0z497b.png)
 
  **任务三：掀翻5只螃蟹 0/5**
 
@@ -60,7 +58,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231221/000415-51lzvi93rf.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231221/000424-1kyofgnih3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231221/074624-0knpgvleym.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -236,24 +234,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231209/003541-wvcq368l2i.jpg)
 
- **![](https://img.166.net/reunionpub/ds/kol/20231014/003005-dok0cb2fuz.png)**
-
- **“一起听”**
-
- **位置：**
-
-1.云野 圣岛
-
-![](https://img.166.net/reunionpub/ds/kol/20231220/071109-so6aef3jyr.jpeg)
-
-2.霞谷 音乐商店 二楼
-
-![](https://img.166.net/reunionpub/ds/kol/20231220/071120-naym3f5u4g.jpeg)
-
-3.禁阁 星光沙漠
-
-![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)
-
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)
 
  **今日免费魔法**
@@ -306,5 +286,29 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/005022-4hnlvzm7iu.png)
 
+ **雪球来袭活动**
+
+ **12月21日～12月23日每日登录获得：**
+
+雪球发型魔法×1、雪球装扮魔法×1
+
+![](https://img.166.net/reunionpub/ds/kol/20231221/074749-lg4v7iryh3.png)
+
 ![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)
+
+ **“一起听”**
+
+ **位置：**
+
+1.云野 圣岛
+
+![](https://img.166.net/reunionpub/ds/kol/20231220/071109-so6aef3jyr.jpeg)
+
+2.霞谷 音乐商店 二楼
+
+![](https://img.166.net/reunionpub/ds/kol/20231220/071120-naym3f5u4g.jpeg)
+
+3.禁阁 星光沙漠
+
+![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)
 
