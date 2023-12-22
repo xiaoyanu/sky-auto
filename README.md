@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-22 07:50:41
+date: 2023-12-22 13:26:32
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -34,11 +34,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土 边陲荒漠**
 
- **先祖：昏厥战士[动作]**
+ **先祖：昏厥战士 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231222/000156-dbmae1rkgp.png)
+![](https://img.166.net/reunionpub/ds/kol/20231222/095335-20apnyssjo.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231222/000213-gikujpwbhd.png)
+![](https://img.166.net/reunionpub/ds/kol/20231222/095402-ytvokm47wb.png)
 
  **任务三：点燃20根蜡烛 0/20**
 
@@ -60,9 +60,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土 黑水港湾 [沉船图]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231222/000301-k76f4ct2wg.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231222/000306-95ws84a0ef.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231222/095427-sbvep2gfuw.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -78,13 +76,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-禁阁
+ **禁阁**
 
  **灼热碎片 [红石]：**
 
  **具体位置：** 星光沙漠
 
- **坠落时间：11** 、17、23小时的08分40秒左右～50分
+ **坠落时间：** 11、17、23小时的08分40秒左右～50分
 
  **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
 
@@ -92,11 +90,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/ds/kol/20231221/234316-n3e1s2lda7.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231222/095520-ugsvbzhf13.png)
 
-或
-
-![](https://img.166.net/reunionpub/ds/kol/20231221/234330-uq36fezops.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231222/095529-q67tlska49.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -260,7 +256,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **大只佬x1 小不点x1**
+大只佬x1 小不点x1
 
  **魔法工坊**
 
