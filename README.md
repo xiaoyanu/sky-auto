@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-23 00:29:28
+date: 2023-12-23 00:42:11
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -77,6 +77,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **伊甸之眼坠落碎片位置**
 
 无
+
+![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
+
+ **旅行﻿先祖**
+
+归属季——踏舞孩童
+
+复刻时间：12/23早上6:00～12/27中午12:00
+
+位置：晨岛
+
+![](https://img.166.net/reunionpub/ds/kol/20231223/002806-3po0e9dy1q.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20231223/003050-tsn741qbym.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -162,7 +178,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-![](https://img.166.net/reunionpub/ds/kol/20231217/235634-f8uytm0ep2.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231223/003428-advcgyopk7.jpeg)
 
  **球玩魔法：**
 
