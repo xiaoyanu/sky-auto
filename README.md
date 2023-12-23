@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-24 00:41:01
+date: 2023-12-24 07:21:35
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -122,7 +122,43 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **2023年12月24日00:00-2024年1月13日23:59雪花代币活动**
 
- **稍后更新**
+位置： **云巢**  
+
+可得 **四枚雪花代币  **
+
+**注：每天位置随机**
+
+第一枚：
+
+![](https://img.166.net/reunionpub/ds/kol/20231224/005907-j85vp6rky3.jpg)
+
+第二枚：
+
+![](https://img.166.net/reunionpub/ds/kol/20231224/005920-cyw24v0dr9.jpg)
+
+第三枚：
+
+![](https://img.166.net/reunionpub/ds/kol/20231224/005934-izw0v17um6.jpg)
+
+第四枚：
+
+![](https://img.166.net/reunionpub/ds/kol/20231224/005945-hcyskvw40f.jpg)
+
+ **每天领任务得一枚雪花代币** ：
+
+![](https://img.166.net/reunionpub/ds/kol/20231224/010255-yqagfnostv.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231224/010305-hnsjrod857.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231224/010313-8a0hb91q7v.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231224/010320-p3o21k6rf4.jpg)
+
+ **每日总计可得5枚雪花代币，攒够足够的代币可到偷窥邮差向导处兑换奖品**
+
+![](https://img.166.net/reunionpub/ds/kol/20231224/011639-blvpsnrqjf.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231224/011647-ywqejz60s4.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
