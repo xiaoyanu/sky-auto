@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-24 07:50:49
+date: 2023-12-24 13:25:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,7 +12,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **12月24日 星期日**
 
-云野
+ **云野**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231224/001044-3evijsy1pf.jpeg)
 
@@ -22,7 +22,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 1.点击好友 找到击掌右边的礼物 花费3根普通蜡烛并送给对方爱心后即可完成
 
-2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3.根普通蜡烛完成送礼即可
+2.在 [好友星盘] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
 
  **[第一种 二种任选其一完成即可]**
 
@@ -48,7 +48,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 被冥龙锁定变成红光即可完成
 
- **推荐地图：暴风眼 暮土 ——藏宝岛礁/巨兽荒原(四龙图)/远古战场(三龙图)/遗忘方舟等**
+ **推荐地图：暴风眼 暮土**
 
  **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
@@ -78,13 +78,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-雨林
+ **雨林**
 
  **灼热碎片 [红石]：**
 
  **具体位置：** 秘密花园
 
- **坠落时间：7** 、13、19小时的08分40秒左右～50分
+ **坠落时间：** 7、13、19小时的08分40秒左右～50分
 
  **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
 
@@ -93,10 +93,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **注：此坠落点可完成  [破晓季] 季节任务**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231223/235132-d9qikcfot6.png)
-
-或
-
-![](https://img.166.net/reunionpub/ds/kol/20231223/235144-6tmanpi293.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -112,21 +108,18 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231223/005919-7v61otm2sh.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231223/121222-y3p8g0fhiw.jpg)
-
 兑换图
 
 ![](https://img.166.net/reunionpub/ds/kol/20231223/003050-tsn741qbym.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
+**宴会节活动代币**
 
- **2023年12月24日00:00-2024年1月13日23:59雪花代币活动**
+  
 
-位置： **云巢**  
+ **位置：** 云巢
 
-可得 **四枚雪花代币  **
-
-**注：每天位置随机**
+可得四枚雪花代币
 
 第一枚：
 
@@ -144,7 +137,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231224/005945-hcyskvw40f.jpg)
 
- **每天领任务得一枚雪花代币** ：
+每日参与滑道竞技赛可获得额外代币：
 
 ![](https://img.166.net/reunionpub/ds/kol/20231224/010255-yqagfnostv.jpg)
 
@@ -152,19 +145,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231224/010313-8a0hb91q7v.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231224/010320-p3o21k6rf4.jpg)
-
- **每日总计可得5枚雪花代币，攒够足够的代币可到偷窥邮差向导处兑换奖品**
-
-![](https://img.166.net/reunionpub/ds/kol/20231224/011639-blvpsnrqjf.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231224/011647-ywqejz60s4.jpg)
-
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
  **大蜡烛**
 
- **地图：** 雨林 暮土 禁阁
+ **地图： 雨林 暮土 禁阁**
 
  **雨林**
 
@@ -224,7 +209,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体型重塑x1 绚丽彩虹x1**
+体型重塑x1 绚丽彩虹x1
 
  **魔法工坊**
 
@@ -271,14 +256,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 位置：圆梦村
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/005022-4hnlvzm7iu.png)
-
- **雪球来袭活动**
-
- **12月21日～12月23日每日登录获得：**
-
-雪球发型魔法×1、雪球装扮魔法×1
-
-![](https://img.166.net/reunionpub/ds/kol/20231221/074749-lg4v7iryh3.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)
 
