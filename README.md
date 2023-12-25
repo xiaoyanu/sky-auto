@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-25 07:50:58
+date: 2023-12-25 13:26:56
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,15 +12,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **12月25日 星期一**
 
-雨林
+ **雨林**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231225/001837-pvj1s36ns2.jpeg)
 
  **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作  **面对好友**  点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
@@ -34,19 +34,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 2.靠近水母恢复能量即可完成
 
- **位置：**
+ **推荐位置：**
 
- **1.雨林 密林遗迹结尾小亭子观看动画触发水母**
+ **1.雨林 密林遗迹**
 
- **2.雨林神庙后花园**
-
- **3.云野 圣岛**
-
- **不仅限于这两个地方，其他水母也可以完成**
+ **2.云野 圣岛**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231225/001225-c3iu7l0k49.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231225/001233-qsjt26on78.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231225/090520-a6ielbp80h.png)
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
@@ -54,7 +50,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：雨林 密林遗迹**
 
  **1.密林遗迹入口亭子右侧**
 
@@ -68,7 +64,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法二：
 
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
+找到风行向导 重温季节任务五 燃烧黑暗植物 拯救遥鲲即可
 
  **位置：雨林 风行网道**
 
@@ -84,15 +80,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231225/001408-8vljd2g7w3.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231225/001419-svkrmsqepa.jpg)
-
  **任务四：在雨林的神庙内冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林神庙[终点] 后方花园**
+ **位置：雨林神殿 后方花园**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231225/001452-zvq6facbm9.png)
 
@@ -141,19 +135,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231225/002903-2wjmcty4n6.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231225/090827-3zoc2jgt40.jpeg)
 
 第二枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231225/002910-yw7v8h0lgf.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231225/090839-wq8ilbp5mo.jpeg)
 
 第三枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231225/002916-aecr2uokd8.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231225/090856-1qtv9yr36w.jpeg)
 
 第四枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231225/002922-h7tmpl1se3.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231225/090918-nqayp6wc7s.png)
 
 每日参与滑道竞技赛可获得额外代币：
 
