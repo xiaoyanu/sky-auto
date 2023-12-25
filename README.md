@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-26 00:30:01
+date: 2023-12-26 00:42:33
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -101,7 +101,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 **宴会节活动代币**
 
-稍后更新
+  
 
  **位置：** 云巢
 
@@ -109,19 +109,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231225/090827-3zoc2jgt40.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231226/003331-oqja1d9itl.jpg)
 
 第二枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231225/090839-wq8ilbp5mo.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231226/003337-dhefgnj7u2.jpg)
 
 第三枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231225/090856-1qtv9yr36w.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231226/003343-ugrm05ahp2.jpg)
 
 第四枚：
 
-![](https://img.166.net/reunionpub/ds/kol/20231225/090918-nqayp6wc7s.png)
+![](https://img.166.net/reunionpub/ds/kol/20231226/003349-p7to2vq8y5.jpg)
 
 每日参与滑道竞技赛可获得额外代币：
 
