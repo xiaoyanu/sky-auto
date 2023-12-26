@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-27 00:42:23
+date: 2023-12-27 07:24:49
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -74,23 +74,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-禁阁
+ **禁阁**
 
  **冷却碎片 [黑石]**
 
-具体位置： **星光沙漠**
+ **具体位置：** 星光沙漠
 
-坠落时间： **9、15、21小时** 的08分40秒左右～50分
+ **坠落时间：** 9、15、21小时的08分40秒左右～50分
 
-清理方式：净化黑石碎片周围黑暗植物即可
+ **清理方式：** 净化黑石碎片周围黑暗植物即可
 
-获取货币：烛光 [普通蜡烛/白蜡烛]
+ **获取货币：** 烛光 [普通蜡烛/白蜡烛]
 
-注：此坠落点 **不可完成  **[破晓季] 季节任务
+ **注：此坠落点不可完成  [破晓季] 季节任务**
 
 ![](https://img.166.net/reunionpub/ds/kol/20231226/234748-25mqlhyfn6.jpeg)
-
-或
 
 ![](https://img.166.net/reunionpub/ds/kol/20231226/234811-y6l0b1dhqr.jpeg)
 
@@ -106,11 +104,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20231223/005907-5idtbksw3l.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231223/005919-7v61otm2sh.jpg)
-
 兑换图
 
 ![](https://img.166.net/reunionpub/ds/kol/20231223/003050-tsn741qbym.jpg)
+
+ **旅行﻿先祖**
+
+风行季——天才建筑师
+
+复刻时间：2023/12/28早上6:00～2024/1/1中午12:00
+
+位置：雨林 风行网道
+
+![](https://img.166.net/reunionpub/ds/kol/20231227/014551-5ebz2nhiwf.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231227/014602-9lbvqof5zd.jpg)
+
+兑换图：
+
+![](https://img.166.net/reunionpub/ds/kol/20231227/014658-589miwkb1p.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 **宴会节活动代币**
@@ -240,18 +252,4 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 3.禁阁 星光沙漠
 
 ![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)
-
- **注解**
-
-1.好友星盘
-
-![](https://img.166.net/reunionpub/ds/kol/20231226/182917-k5wihe2vaf.jpeg)
-
-2.圆梦村
-
-![](https://img.166.net/reunionpub/ds/kol/20231226/183033-f4cb8rzdo7.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20231226/183106-nu2f4r6zsw.png)
 
