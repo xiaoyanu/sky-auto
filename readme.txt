@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-27 07:50:44
+date: 2023-12-27 13:25:45
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -32,7 +32,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：暮土 巨兽荒原[四龙图]**
+ **位置：暮土 巨兽荒原¹ [四龙图]**
 
  **先祖：隐秘幸存者 [站姿]**
 
@@ -54,11 +54,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 远古战场 [三龙图]**
+ **位置：暮土 远古战场² [三龙图]**
 
-![](https://img.166.net/reunionpub/ds/kol/20231227/001024-oc5bqnlsaj.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231227/001030-1s4hm6e5za.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20231227/094359-g6rzse9thf.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)
 
@@ -127,35 +125,33 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 **宴会节活动代币**
 
-  
+ **直接领取**
 
  **位置：** 云巢
 
-可得四枚雪花代币
+位置一
 
-第一枚：
+![](https://img.166.net/reunionpub/ds/kol/20231227/082938-nip0csu3e5.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231227/001921-fsk45onrbj.jpg)
+位置二
 
-第二枚：
+![](https://img.166.net/reunionpub/ds/kol/20231227/083035-j94fs5oq31.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231227/001928-pb4iqhktc7.jpg)
+位置三
 
-第三枚：
+![](https://img.166.net/reunionpub/ds/kol/20231227/083118-5i0nvtkjdc.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231227/001934-c31m7kyhpz.jpg)
+位置四
 
-第四枚：
+![](https://img.166.net/reunionpub/ds/kol/20231227/090316-8qcdpl6foz.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20231227/001941-r9n7aebhjv.jpg)
+ **任务挑战**
 
 每日参与滑道竞技赛可获得额外代币：
 
-![](https://img.166.net/reunionpub/ds/kol/20231224/010255-yqagfnostv.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231227/093316-960ksjmr5n.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20231224/010305-hnsjrod857.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20231224/010313-8a0hb91q7v.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20231227/093329-yil80esbpf.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)
 
@@ -193,15 +189,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法工坊 需完成 [魔法季] 全部季节任务
 
- **魔法商船**
+ **魔法商船³**
 
 位置：遇境
 
 ![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20231226/234616-fhcre3udo6.jpg)
-
-  
 
  **魔法商店**
 
@@ -251,5 +245,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 3.禁阁 星光沙漠
 
-![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)
+![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)
+
+ **注解**
+
+1.巨兽荒原
+
+![](https://img.166.net/reunionpub/ds/kol/20231227/094802-owb46mvyri.jpeg)
+
+2.远古战场
+
+![](https://img.166.net/reunionpub/ds/kol/20231227/094817-t5lvc7we09.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20231227/094910-cos0jdi47l.jpeg)
+
+3.魔法商船
+
+位置：遇境
+
+![](https://img.166.net/reunionpub/ds/kol/20231227/094628-e21cwjsomg.jpeg)
 
