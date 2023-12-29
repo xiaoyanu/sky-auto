@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2023-12-30 00:30:19
+date: 2023-12-30 00:43:12
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -22,8 +22,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 接受好友赠送的 **爱心/心火** 即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20231230/001222-79lsav1sm2.png)
-
 ![](https://img.166.net/reunionpub/ds/kol/20231230/001247-skg2u8yhd4.jpeg)
 
  **任务二：在雨林重温先祖的美好回忆 0/1**
@@ -44,7 +42,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 被冥龙锁定变成红光即可完成
 
- **推荐地图：暴风眼 暮土 ——藏宝岛礁/巨兽荒原(四龙图)/远古战场(三龙图)/遗忘方舟等**
+ **推荐地图：暴风眼 暮土**
 
  **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
@@ -59,8 +57,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **位置：雨林 密林遗迹   **
 
 ![](https://img.166.net/reunionpub/ds/kol/20231230/001355-t1lp23wqfr.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20231230/001402-3yckg08ftj.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)**
 
