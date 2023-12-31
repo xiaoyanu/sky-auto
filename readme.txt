@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-01 00:41:01
+date: 2024-01-01 07:22:30
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -34,7 +34,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：敬礼护卫 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240101/002346-49ijugoe8l.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240101/015246-4ko2lipa56.jpg)
 
  **任务三：掀翻5只螃蟹 0/5**
 
