@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-03 07:50:45
+date: 2024-01-03 13:27:29
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -34,9 +34,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：鸣谢收藏家 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240103/001239-drwbu1904f.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240103/001249-6a5ml234j0.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240103/104939-t2supie4l7.jpeg)
 
  **任务三：收集30点烛光 0/30**
 
@@ -94,7 +92,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置四
 
-![](https://img.166.net/reunionpub/ds/kol/20240103/000651-j7nds1aqc8.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240103/105014-hwt7bq36d1.jpeg)
 
  **任务挑战**
 
