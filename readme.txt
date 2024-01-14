@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-14 07:50:36
+date: 2024-01-14 13:25:52
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -24,7 +24,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
-![](https://img.166.net/reunionpub/ds/kol/20240114/000154-hkiqt35gzf.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240114/113011-h4735wqrn6.jpeg)
 
  **任务二：在雨林重温先祖的美好回忆 0/1**
 
