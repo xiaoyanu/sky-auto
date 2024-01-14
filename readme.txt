@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-15 00:28:23
+date: 2024-01-15 00:41:10
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -18,9 +18,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
@@ -46,7 +46,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：雨林 密林遗迹**
 
  **1.密林遗迹入口亭子右侧**
 
@@ -62,7 +62,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
 
- **位置：雨林 风行网道**
+ **位置：** 雨林 风行网道
 
 ![](https://img.166.net/reunionpub/ds/kol/20240115/001031-b0iy3senra.jpeg)
 
@@ -72,7 +72,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 接触沙滩上的鲲鳐幼仔即可完成
 
- **位置：云野 云峰**
+ **位置：** 云野 云峰
 
 ![](https://img.166.net/reunionpub/ds/kol/20240115/001110-ho6d7f2lyz.jpg)
 
@@ -89,6 +89,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol/20240115/001140-aw85fr163p.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)**
+
+ **伊甸之眼坠落碎片位置**
 
 无
 
@@ -118,29 +120,33 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 云野大厅：
 
-![](https://img.166.net/reunionpub/ds/kol/20240115/001621-n580ketzsy.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240115/002705-lwae3rj85u.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240115/001621-cru63et2zo.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240115/002718-4g27dj1asm.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240115/001621-iesg6wny0z.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240115/002728-mzi1jqel3y.jpg)
 
 蝴蝶平原：
 
-![](https://img.166.net/reunionpub/ds/kol/20240115/001622-wycz1vru7g.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240115/002804-gyorte1sbm.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240115/001621-yr4z53sgot.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240115/002813-4aos5i2v1j.jpg)
 
 幽光山洞：
 
-![](https://img.166.net/reunionpub/ds/kol/20240115/001621-q1st9hd86g.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240115/002837-4hvu81rzsn.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240115/001621-p71w853a6m.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240115/002850-rf7wynvtzj.jpg)
 
 云顶浮石：
 
-![](https://img.166.net/reunionpub/ds/kol/20240115/001622-tussom63yz.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240115/002905-t613uy4ng2.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240115/001621-h57wmanzys.jpeg)
+100.00%
+
+  
+
+  
 
 云中仙乡：
 
@@ -294,7 +300,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+浪漫烟花x1
 
  **魔法工坊**
 
