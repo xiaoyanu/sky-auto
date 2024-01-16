@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-17 00:47:58
+date: 2024-01-17 07:22:55
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,7 +12,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **1月17日 星期三**
 
- **禁阁**
+ **霞谷**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240117/000640-y6qpia1e4c.jpeg)
 
@@ -56,9 +56,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/ds/kol/20240117/000339-f3g5e1cnsb.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240117/033844-jto5436d9v.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240117/000344-4wecmihvny.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240117/033852-tsbj8s3q6m.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)**
 
@@ -68,19 +68,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240116/234953-ysp7if1o8e.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240117/032736-e2mot4jfbz.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240116/234959-sncfyl58q3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240117/032749-3catr15yjm.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240116/235005-bqfvia805s.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240117/032800-b4ridma3fn.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240116/235011-kluh1s5qgt.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240117/033240-bsclzi0tkm.png)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)**
 
@@ -90,7 +90,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **冷却碎片 [黑石]**
 
- **具体位置** ： **星光沙漠**
+ **具体位置** ：星光沙漠
 
  **坠落时间** ：9、15、21小时的08分40秒左右～50分
 
@@ -102,7 +102,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240116/235132-wsphoji8uc.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240116/235141-7wbsj2m8pn.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240117/033320-jco93yd248.png)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)**
 
