@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-19 00:31:26
+date: 2024-01-19 00:48:15
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -36,7 +36,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：智慧长者[站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240119/000222-hi85fuck9z.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240119/001327-werposkdt4.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240119/003059-w4bdglv1qe.jpg)
 
  **任务三：净化10株黑暗植物 0/1**
 
