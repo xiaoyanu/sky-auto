@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-21 13:51:27
+date: 2024-01-22 00:28:44
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,101 +10,85 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **1月21日 星期日**
+ **1月22日 星期一**
 
- **雨林**
+ **霞谷**
 
-![](https://img.166.net/reunionpub/ds/kol/20240121/000632-4g9d8f3av2.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240122/000520-ebfwy65hs4.jpeg)
 
- **任务一：向一位朋友做个动作 0/1**
+ **任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
-![](https://img.166.net/reunionpub/ds/kol/20240121/000215-mcrtov309p.jpeg)
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
- **任务二：在雨林重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20240122/000155-gdt8v9abnm.jpg)
+
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：雨林 荧光森林**
+ **位置：霞谷 滑冰场**
 
- **先祖：躲猫猫拓荒者[动作]**
+ **先祖：自信观光客 [站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240121/000339-gje3o26sha.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240122/000219-hpnz5jo2fw.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240121/000346-kh7dnc2swz.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240122/000225-cim1ow8p24.jpeg)
 
- **任务三：收集30点烛光 0/30**
-
-完成方法：
-
-1.领取任务
-
-2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
-
-![](https://img.166.net/reunionpub/ds/kol/20240121/000444-tplcsohv1m.jpeg)
-
- **任务四：在雨林追逐散落的星光 0/1**
+ **任务三：面对冥龙 0/1**
 
 完成方法：
 
-靠近星光即可完成
+被冥龙锁定变成红光即可完成
 
- **位置：雨林 静谧庭院**
+ **推荐地图：暴风眼 暮土 ——藏宝岛礁/巨兽荒原(四龙图)/远古战场(三龙图)/遗忘方舟等**
 
-![](https://img.166.net/reunionpub/ds/kol/20240121/000543-l8ahi7tvoq.jpeg)
+ **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
+
+![](https://img.166.net/reunionpub/ds/kol/20240122/000259-oq40a2nkr8.jpeg)
+
+ **任务四：收集蓝色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：霞谷 滑冰场**
+
+![](https://img.166.net/reunionpub/ds/kol/20240122/000329-pozi28leb5.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)**
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240120/235254-5k0bgd1auy.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240121/233428-syhmzko730.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240120/235306-qecs52i7zd.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240121/233452-02fijo3hep.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240120/235313-v61l8foj42.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240121/233519-7imubrcfdq.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240120/235320-betl0mnhji.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240121/233528-j38vh5k1o4.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)**
 
  **伊甸之眼坠落碎片位置**
 
-暮土
-
- **灼热碎片 [红石]：**
-
- **具体位置** ：失落方舟
-
- **坠落时间** ：7、13、19小时的08分40秒左右～50分
-
- **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币** ：升华蜡烛
-
- **注：此坠落点可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20240120/235537-egh8qibz5n.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240120/235549-6vmp79a0tk.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240120/235558-nsv8wtig17.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240120/235606-ybk1f6l87v.jpeg)
+无
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)**
 
@@ -272,7 +256,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体型重塑x1 绚丽彩虹x1**
+ **浪漫烟花x1**
 
  **魔法工坊**
 
@@ -286,7 +270,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol/20240120/235711-rfn4yevbha.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240121/233632-7si0so5tr8.jpg)
 
  **魔法商店**
 
@@ -294,7 +278,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol/20240120/235658-bf6scmil9h.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240121/233642-mswl9bq1hg.jpg)
 
  **留言魔法：**
 
@@ -312,7 +296,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-![](https://img.166.net/reunionpub/ds/kol/20240120/235734-nfet9zhmop.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240121/233708-m1gjroy8u9.jpeg)
 
  **球玩魔法：**
 
