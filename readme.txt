@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-24 00:48:10
+date: 2024-01-24 07:23:37
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -88,19 +88,35 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **雨林**
 
- **灼热碎片 [红石]：**
+ **冷却碎片 [黑石]**
 
  **具体位置** ： **密林遗迹**
 
  **坠落时间** ：9、15、21小时的08分40秒左右～50分
 
- **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
+ **清理方式** ：净化黑石碎片周围黑暗植物即可
 
- **获取货币** ：升华蜡烛
+ **获取货币** ：烛光 [普通蜡烛/白蜡烛]
 
- **注：此坠落点可完成  [破晓季] 季节任务**
+ **注：此坠落点不可完成  [破晓季] 季节任务**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240123/234242-s6ae7l2h5i.jpeg)
+
+ **![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)**
+
+ **旅行﻿先祖**
+
+风行季——活跃导航员
+
+复刻时间：1/25早上6:00～1/29中午12:00
+
+位置：雨林 风行网道
+
+![](https://img.166.net/reunionpub/ds/kol/20240124/002154-gezah8kpm9.jpeg)
+
+兑换图：
+
+![](https://img.166.net/reunionpub/ds/kol/20240124/011114-gycmu41oqe.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)**
 
