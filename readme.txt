@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-24 07:50:58
+date: 2024-01-24 13:27:28
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -44,7 +44,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 被冥龙锁定变成红光即可完成
 
- **推荐地图：暴风眼 暮土 ——藏宝岛礁/巨兽荒原(四龙图)/远古战场(三龙图)/遗忘方舟等**
+ **推荐地图：暴风眼 暮土**
 
  **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
@@ -58,7 +58,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁顶层**
 
-![](https://img.166.net/reunionpub/ds/kol/20240124/000704-0agcis2dq8.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240124/062611-enkg4fsr9c.png)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/003453-vozlin1q8p.png)**
 
@@ -90,7 +90,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **冷却碎片 [黑石]**
 
- **具体位置** ： **密林遗迹**
+ **具体位置** ：密林遗迹
 
  **坠落时间** ：9、15、21小时的08分40秒左右～50分
 
