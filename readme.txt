@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-25 07:51:05
+date: 2024-01-25 13:27:16
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -102,11 +102,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置：雨林 风行网道
 
-![](https://img.166.net/reunionpub/ds/kol/20240124/002154-gezah8kpm9.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240125/094908-mq3azbsl4w.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240125/094918-dby45hg63t.jpg)
 
 兑换图：
 
-![](https://img.166.net/reunionpub/ds/kol/20240124/011114-gycmu41oqe.jpg)
+ **注：复刻先祖在云巢大厅**
+
+![](https://img.166.net/reunionpub/ds/kol/20240125/095259-3k7dip4jwm.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/002539-7uzhdl3t0m.png)**
 
