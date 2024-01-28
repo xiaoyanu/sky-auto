@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-28 07:51:59
+date: 2024-01-28 13:24:26
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -64,9 +64,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土 远古战场 [三龙图]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240128/001900-sjcvdgtm60.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240128/001918-awbcuv03z4.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240128/085653-0mqy82z64t.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072109-yfqsmuh41p.png)
 
@@ -80,23 +78,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240128/000228-dgfu6w742e.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240128/090836-tepzr0bjwv.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240128/000235-ychr3owazs.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240128/090852-grcvk61029.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240128/000240-h79j61ocug.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240128/090905-68kt2cnyph.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
  **伊甸之眼坠落碎片位置**
 
-云野
+ **云野**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：圣岛
 
@@ -134,8 +132,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 兑换图：
 
- **注：复刻先祖在云巢大厅**
-
 ![](https://img.166.net/reunionpub/ds/kol/20240128/001120-tlgnywd6o5.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
@@ -146,55 +142,55 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **雨林**
 
-第一堆：
+第一堆：雨林大厅
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/235535-ucv9o60r31.jpg)
 
-第二堆：
+第二堆：静谧庭院
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/235542-3j1pyflsng.jpg)
 
-第三堆：
+第三堆：密林遗迹
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/235551-a4u5penl3g.jpg)
 
-第四堆：
+第四堆：雨林神庙
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/235557-h8f6yj5st9.jpg)
 
  **暮土**
 
-第一堆：
+第一堆：暮土大厅
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/235637-scpe5vbm1s.jpg)
 
-第二堆：
+第二堆：巨兽荒原
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/235643-7fmtwk1d0p.jpg)
 
-第三堆：
+第三堆：黑水港湾
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/235650-u4ogkvh93z.jpg)
 
-第四堆：
+第四堆：远古战场
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/235656-isz3c6f41q.jpg)
 
  **禁阁**
 
-第一堆：
+第一堆：禁阁一层
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/235712-kjn5c91ioy.jpg)
 
-第二堆：
+第二堆：禁阁二层
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/235717-m0f1jdvq4p.jpg)
 
-第三堆：
+第三堆：禁阁四层
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/235727-7o5b9qkc8f.jpg)
 
-第四堆：
+第四堆：禁阁顶层
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/235734-5afvwz213h.jpg)
 
@@ -202,7 +198,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体型重塑x1 绚丽彩虹x1**
+体型重塑x1 绚丽彩虹x1
 
  **魔法工坊**
 
@@ -265,4 +261,20 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 3.禁阁 星光沙漠
 
  **![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)**
+
+ **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
+
+ **注解**
+
+1.好友星盘
+
+![](https://img.166.net/reunionpub/ds/kol/20240128/091808-l98e2fc46o.jpeg)
+
+ **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
+
+ **2024年寒假未成年人**
+
+ **游戏限玩时间表**
+
+![](https://img.166.net/reunionpub/ds/kol/20240128/090940-sjshb27luw.jpeg)
 
