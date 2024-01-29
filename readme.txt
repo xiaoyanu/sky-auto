@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-29 07:50:42
+date: 2024-01-29 13:25:22
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -34,7 +34,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁四层  **
 
- **先祖：拳礼武僧[动作]**
+ **先祖：拳礼武僧 [动作]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240129/000512-804qoc6k5v.jpg)
 
@@ -60,7 +60,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁顶层**
 
-![](https://img.166.net/reunionpub/ds/kol/20240129/000844-cy01i2epd3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240129/092731-0zkdws6fp4.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072109-yfqsmuh41p.png)
 
@@ -70,19 +70,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240128/235621-swmdp6rtle.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240129/093213-ds9aybuzp1.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240128/235629-z5sp4lb0kq.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240129/093226-emkangsv23.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240128/235636-vg4cfhsnk7.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240129/093242-y0sdbzl8wa.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240128/235641-mr1o0zyl7s.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240129/093255-ihw6efl5tr.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
