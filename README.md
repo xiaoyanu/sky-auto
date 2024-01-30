@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-31 00:42:19
+date: 2024-01-31 07:23:16
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -20,11 +20,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法：
 
-和陌生玩家一起坐在石凳上即可完成
+1.前往地图大厅和陌生玩家一起坐在石凳上即可完成
 
  **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
+2.肯德基联动期间通过在遇境/云巢的肯德基爷爷传送至秘密基地，前往餐桌品尝美味的同时完成任务
+
+ **注：活动日期为1月19日 0:00 ~ 2月1日 23:59**
+
 ![](https://img.166.net/reunionpub/ds/kol/20240131/000405-29p0uyswbv.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240131/060847-ynw79qmpbr.png)
 
  **任务二：在雨林重温先祖的美好回忆 0/1**
 
@@ -50,15 +56,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240131/000906-u6gmvs1jca.jpeg)
 
- **任务四：在雨林的神庙内冥想 0/1**
+ **任务四：在秘密花园里冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林神庙[终点] 后方花园**
+ **位置：雨林 秘密花园¹  **
 
-![](https://img.166.net/reunionpub/ds/kol/20240131/001059-zy7kjungfw.png)
+![](https://img.166.net/reunionpub/ds/kol/20240131/051133-v7bqc2ja18.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240131/051145-ys6w9ngjte.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072109-yfqsmuh41p.png)
 
@@ -66,21 +74,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图：雨林**
 
-第一堆：
+第一堆：雨林大厅
 
-![](https://img.166.net/reunionpub/ds/kol/20240130/234122-ptg418azuy.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240131/051236-3y97m026hw.png)
 
-第二堆：
+第二堆：静谧庭院
 
-![](https://img.166.net/reunionpub/ds/kol/20240130/234134-qsesfu7zbw.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240131/051301-upon3qfb52.png)
 
-第三堆：
+第三堆：静谧庭院
 
-![](https://img.166.net/reunionpub/ds/kol/20240130/234142-0qmafy2sie.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240131/051315-kesywgrsdf.png)
 
-第四堆：
+第四堆：静谧庭院
 
-![](https://img.166.net/reunionpub/ds/kol/20240130/234149-7koasdzj60.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240131/051330-f8gb3z07js.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
@@ -90,7 +98,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **冷却碎片 [黑石]**
 
- **具体位置** ： **远古战场**
+ **具体位置** ：远古战场²
 
  **坠落时间** ：9、15、21小时的08分40秒左右～50分
 
@@ -102,8 +110,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240130/235113-mvja8kio5z.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20240130/235141-ozt3ir109j.jpeg)
-
 ![](https://img.166.net/reunionpub/ds/kol/20240130/235618-a6pfn1suqb.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
@@ -114,19 +120,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置
 
-第一堆：
+第一堆：禁阁一层
 
 ![](https://img.166.net/reunionpub/ds/kol/20240130/234412-rp3antc518.jpg)
 
-第二堆：
+第二堆：禁阁一层
 
 ![](https://img.166.net/reunionpub/ds/kol/20240130/234421-lgea2pzn8v.jpg)
 
-第三堆：
+第三堆：禁阁二层
 
 ![](https://img.166.net/reunionpub/ds/kol/20240130/234428-kzd4a7niqb.jpg)
 
-第四堆：
+第四堆：禁阁顶层
 
 ![](https://img.166.net/reunionpub/ds/kol/20240130/234435-si8lsh3715.jpg)
 
@@ -179,6 +185,32 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 位置：圆梦村
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/005022-4hnlvzm7iu.png)**
+
+ **![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)**
+
+ **注解**
+
+1.秘密花园
+
+注：需收集雨林全部常驻先祖共8个
+
+![](https://img.166.net/reunionpub/ds/kol/20240131/061321-tywzcku5vp.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20240131/061342-sfqrig67a3.jpeg)
+
+2.远古战场
+
+![](https://img.166.net/reunionpub/ds/kol/20240131/061505-z8hwtsbi9q.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240131/061522-5o16fbswhq.jpeg)
+
+ **![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)**
+
+ **九色鹿季**
+
+ **兑换图**
+
+![](https://img.166.net/reunionpub/ds/kol/20240131/061620-4i3rt0yq5n.png)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)**
 
