@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-01-30 07:50:55
+date: 2024-01-30 13:25:10
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -30,11 +30,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：云野 幽光山洞[左侧隐藏图]**
+ **位置：云野 幽光山洞 [左侧隐藏图]**
 
  **先祖：舒展大师 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240130/000631-g54rdsnpfj.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240130/115814-ra8plcsky2.png)
 
  **任务三：掀翻5只螃蟹 0/5**
 
@@ -60,7 +60,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240130/000730-cwtzkiyn9e.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240130/000739-cr0sngsm18.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240130/115840-d7wfykglt0.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072109-yfqsmuh41p.png)
 
@@ -70,19 +70,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240129/234815-3dwtvzm047.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240130/115933-gp9s15frla.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240129/234826-2dtrq7h64g.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240130/115950-ykrish0f9c.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240129/234833-hpqe6kztnu.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240130/120009-td3q1iw26s.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240129/234840-tmepd537uy.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240130/120050-1d3rp8ikyu.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
