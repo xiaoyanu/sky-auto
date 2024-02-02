@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-02-02 13:50:49
+date: 2024-02-03 00:26:12
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,129 +10,123 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **2月2日 星期五**
+ **2月3日 星期六**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20240202/000802-mvnj5gs8d1.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240203/000836-ev840g1uqd.jpeg)
 
- **任务一：向一位朋友做个动作 0/1**
+ **任务一：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
+和陌生玩家一起坐在石凳上即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20240202/000135-d9so4ip73h.jpeg)
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20240203/000227-m17j834slb.jpg)
+
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 边陲荒漠**
+位置： **禁阁二层**  [ **四人门内左侧柱子后方** ]
 
- **先祖：惊恐难民 [动作]**
+先祖： **气功高人/移物学者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240202/000309-e1c7hv50m4.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240203/000528-0q3jw7mp9l.jpg)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20240203/000555-em8w06yq9t.jpeg)
 
-完成方法一：
-
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
-
- **位置：雨林 密林遗迹（水母图）**
-
- **1.密林遗迹入口亭子右侧**
-
- **2.密林遗迹右侧矿洞前**
-
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/ds/kol/20240202/000346-7wk2a56zqj.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20240202/000407-e47rgv2y3p.png)
-
-完成方法二：
-
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
- **位置：雨林 风行网道**
-
-![](https://img.166.net/reunionpub/ds/kol/20240202/000435-j84w3mena1.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240202/000459-r26o7bskjz.png)
-
-完成方法三：
-
-接触沙滩上的鲲鳐幼仔即可完成
-
- **位置：云野 云峰**
-
-![](https://img.166.net/reunionpub/ds/kol/20240202/000510-opl6vktbaw.jpg)
-
- **任务四：在暮土追逐散落的星光 0/1**
+ **任务三：面对冥龙 0/1**
 
 完成方法：
 
-靠近星光即可完成
+被冥龙锁定变成红光即可完成
 
- **位置：暮土 边陲荒漠**
+ **推荐地图：暴风眼 暮土 ——藏宝岛礁/巨兽荒原(四龙图)/远古战场(三龙图)/遗忘方舟等**
 
-![](https://img.166.net/reunionpub/ds/kol/20240202/000555-nr4fs2ps57.png)
+ **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
+
+![](https://img.166.net/reunionpub/ds/kol/20240203/000613-nkq1e3hp5u.jpeg)
+
+ **任务四：在禁阁顶层神坛旁冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：禁阁顶层**
+
+![](https://img.166.net/reunionpub/ds/kol/20240203/000631-h6a82r1cmw.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072109-yfqsmuh41p.png)
 
  **季节蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240202/044856-j62ao40usm.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240203/000953-isw26kzet3.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240202/044933-7896t50ceb.png)
+![](https://img.166.net/reunionpub/ds/kol/20240203/001000-beqidposv6.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240202/045008-jgasp5i9nb.png)
+![](https://img.166.net/reunionpub/ds/kol/20240203/001007-0jh6c9mie3.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240202/045032-qvps6uimgb.png)
+![](https://img.166.net/reunionpub/ds/kol/20240203/001013-l0izgnmqrd.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
+云野
+
+ **灼热碎片 [红石]：**
+
+ **具体位置** ：幽光山洞
+
+ **坠落时间** ：10、14、22小时的08分40秒左右～50分
+
+ **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币** ：升华蜡烛
+
+ **注：此坠落点可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol/20240202/232929-d6wajfrtcn.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **大蜡烛**
 
- **地图：云野 雨林 霞谷**
+ **地图：云野 雨林 暮土**
 
  **云野**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240201/234117-lq7gbm8jt0.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240202/233039-chy0pb95a1.jpg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240201/234138-qtakj9w4ge.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240202/233047-5iuotzmp8a.jpg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240201/234146-bp1sgcn7dt.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240202/233054-a4ijm7w1cn.jpg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240201/234152-td75je0vi8.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240202/233100-n9i0czbjlw.jpg)
 
  **雨林**
 
@@ -152,29 +146,29 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240201/234228-lhqdypo15f.jpg)
 
- **霞谷**
+ **暮土**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240201/234250-pd43v6jlqa.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240202/233129-baz4rpqo2m.jpg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240201/234257-r94a3qdib1.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240202/233136-5fy96pcztr.jpg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240201/234303-3oe65syjvn.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240202/233141-zfswkdh13s.jpg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240201/234309-enfovp2adg.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240202/233147-ykiwf09agc.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **大只佬x1 小不点x1**
+ **返老还童x1 长大成人x1**
 
  **魔法工坊**
 
@@ -188,7 +182,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol/20240201/234400-1cveus95rd.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240202/233233-8sghewjbq6.jpg)
 
  **魔法商店**
 
@@ -196,7 +190,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol/20240201/234349-wadouss5v9.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240202/233223-723b5y1l69.jpg)
 
  **留言魔法：**
 
@@ -212,7 +206,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-![](https://img.166.net/reunionpub/ds/kol/20240128/235401-1k8v7u4jiy.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240202/233257-iphnfq5163.jpeg)
 
  **球玩魔法：**
 
