@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-02-03 07:50:38
+date: 2024-02-03 13:23:45
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -103,6 +103,46 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **注：此坠落点可完成  [破晓季] 季节任务**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240202/232929-d6wajfrtcn.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+ **铜板代币活动**
+
+ **收集方式一：**
+
+霞谷大厅拾取
+
+位置1
+
+![](https://img.166.net/reunionpub/ds/kol/20240203/090716-m67i459ahb.jpg)
+
+位置2
+
+![](https://img.166.net/reunionpub/ds/kol/20240203/090726-q780odi5fb.jpg)
+
+位置3
+
+![](https://img.166.net/reunionpub/ds/kol/20240203/090740-izeh5grsfc.jpg)
+
+位置4
+
+![](https://img.166.net/reunionpub/ds/kol/20240203/090750-2ort53msui.jpg)
+
+ **收集方式二：**
+
+与霞谷大厅表演季先祖互动领取
+
+ **注：任意一位表演季先祖都可以**
+
+![](https://img.166.net/reunionpub/ds/kol/20240203/091028-2nt4hmoycd.jpg)
+
+ **收集方式三：**
+
+欢庆使者旁的集市摊位处兑换
+
+![](https://img.166.net/reunionpub/ds/kol/20240203/091043-0b97ikol4a.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240203/091050-ge76arh8wq.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
