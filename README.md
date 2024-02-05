@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-02-06 00:39:53
+date: 2024-02-06 00:52:29
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -50,19 +50,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240206/001321-esm1abfonp.jpg)
 
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+ **任务四：在霞光城拱门上冥想 0/1**
 
 完成方法：
 
-点燃先祖重温回忆
+点击坐下冥想并回答问题即可完成
 
  **位置：霞谷 霞光城**
 
- **先祖：翻空亚军 [动作]**
+![](https://img.166.net/reunionpub/ds/kol/20240206/004739-se8b56fwg7.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240206/001350-kpvsi5a9s8.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240206/001357-3fgkqdn27l.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240206/004754-jst6nwg20r.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072109-yfqsmuh41p.png)
 
