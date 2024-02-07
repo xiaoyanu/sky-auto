@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-02-07 13:50:52
+date: 2024-02-08 00:28:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -18,9 +18,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
@@ -34,7 +34,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土 远古战场 [三龙图]**
 
- **先祖：望远哨兵[动作]**
+ **先祖：望远哨兵 [动作]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240207/000407-6iwvsf1zj2.jpeg)
 
@@ -60,7 +60,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土  1.遗忘方舟 2.黑水港湾**
 
- ***注：此光芒共有两处位置任选其一完成即可**
+ **注：此光芒共有两处位置任选其一完成即可**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240207/000457-yupck36hb4.jpg)
 
@@ -74,19 +74,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240206/231841-0ku2rphe5y.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240207/163641-ahjivgfpm5.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240206/231855-fhpq0bzci9.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240207/163656-uwk4q2y61h.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240206/231902-d8askewi3r.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240207/163729-7cy4j6bpfs.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240206/231909-cl8fno7rke.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240207/163744-l7s64ycm1n.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
