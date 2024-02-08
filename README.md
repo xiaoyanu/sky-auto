@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-02-09 00:27:49
+date: 2024-02-09 00:40:12
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -35,6 +35,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **位置：云野 云顶浮石 [右侧隐藏图]**
 
  **先祖：旋转舞者 [动作]**
+
+![](https://img.166.net/reunionpub/ds/kol/20240209/002852-7lzg280syj.png)
 
  **任务三：掀翻5只螃蟹 0/5**
 
