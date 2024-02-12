@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-02-13 00:41:27
+date: 2024-02-13 07:20:44
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -94,7 +94,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
- **无**
+ **云野**
+
+ **冷却碎片 [黑石]**
+
+ **具体位置** ：蝴蝶平原
+
+ **坠落时间** ：9、14、19小时的08分40秒左右～50分
+
+ **清理方式** ：净化黑石碎片周围黑暗植物即可
+
+ **获取货币** ：烛光 [普通蜡烛/白蜡烛]
+
+ **注：此坠落点不可完成 [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol/20240213/023934-favihles7m.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
