@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-02-14 00:43:01
+date: 2024-02-14 07:21:49
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -120,17 +120,75 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240205/002238-16eim3hpsj.jpg)
 
- **收集方式二：** 与霞谷大厅表演季先祖互动领取
+ **互动收集**
 
- **注：任意一位先祖均可完成**
+在霞谷大厅与任意表演季先祖互动即可
 
 ![](https://img.166.net/reunionpub/ds/kol/20240208/040645-lby8vsw9af.jpeg)
 
- **收集方式三：** 欢庆使者旁的集市摊位处兑换
+ **货币兑换**
+
+欢庆使者旁的集市摊位处兑换
 
 ![](https://img.166.net/reunionpub/ds/kol/20240203/091043-0b97ikol4a.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240208/035226-40toguw8hn.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+ **蝴蝶结代币**
+
+ **直接拾取**
+
+位置：禁阁 星光沙漠海滩
+
+位置一
+
+![](https://img.166.net/reunionpub/ds/kol/20240214/005558-gcbotup1j6.png)
+
+位置二
+
+![](https://img.166.net/reunionpub/ds/kol/20240214/010420-moqizus8bf.jpeg)
+
+位置三
+
+![](https://img.166.net/reunionpub/ds/kol/20240214/010428-91h7d6ftj5.jpeg)
+
+位置四
+
+![](https://img.166.net/reunionpub/ds/kol/20240214/010439-p8b9u1tsis.png)
+
+ **互动收集**
+
+前往星光沙漠海滩 与海面石像附近先祖互动即可
+
+![](https://img.166.net/reunionpub/ds/kol/20240214/005737-hq6c20rfby.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20240214/005748-5ya8j3stuq.jpeg)
+
+ **货币兑换**
+
+位置：禁阁 星光沙漠海滩
+
+![](https://img.166.net/reunionpub/ds/kol/20240214/005819-pvlobr3di8.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+ **旅行﻿先祖**
+
+ **归属季——蓬头青年**
+
+复刻时间：2/15早上6:00～2/19中午12:00
+
+ **位置：** 雨林 地下溶洞
+
+![](https://img.166.net/reunionpub/ds/kol/20240214/012105-qabn4loiwm.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240214/012112-gqy28tjapz.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20240214/010905-yluqpijvba.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
