@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-02-17 00:52:48
+date: 2024-02-17 07:20:35
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -45,6 +45,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **位置：暮土 巨兽荒原 [四龙图]**
 
  **先祖：不舍家长 [动作]**
+
+![](https://img.166.net/reunionpub/ds/kol/20240217/005544-0ci7vksq3s.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240217/004732-yw6sue1pqg.jpeg)
 
