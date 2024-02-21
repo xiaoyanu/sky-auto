@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-02-22 00:40:48
+date: 2024-02-22 07:21:58
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -36,7 +36,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：致敬钢琴家 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240222/003228-flwp1y0j95.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240222/004541-pu3ajvi4fm.png)
 
  **任务三：净化10株黑暗植物 0/10**
 
