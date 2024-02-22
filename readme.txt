@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-02-22 13:51:10
+date: 2024-02-23 00:28:16
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,87 +10,109 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **2月22日 星期四**
+ **2月23日 星期五**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20240222/001843-hnv3zbfqkc.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240223/000354-ksfmj5ueq1.jpeg)
 
- **任务一：和陌生人一起坐在长凳上 0/1**
+ **任务一：给一位朋友送礼 0/1**
 
 完成方法：
 
-和陌生玩家一起坐在石凳上即可完成
+1.点击好友 找到击掌右边的礼物 花费3根蜡烛并送给对方爱心后即可完成
 
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
+2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
 
-![](https://img.166.net/reunionpub/ds/kol/20240222/002459-ukmicrs4ay.jpeg)
+ **注：任意选择一种方式即可**
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20240223/000441-sjr9vuk1si.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20240223/000451-i5s8rh4vud.jpeg)
+
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 巨兽荒原 [四龙图]**
+ **位置：禁阁 禁阁四层**
 
- **先祖：致敬钢琴家 [动作]**
+ **先祖：拳礼武僧 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240222/004541-pu3ajvi4fm.png)
+![](https://img.166.net/reunionpub/ds/kol/20240223/000858-l2cwvi8rf3.jpeg)
 
- **任务三：净化10株黑暗植物 0/10**
-
-完成方法：
-
-拿出心火蜡烛燃烧10株黑暗植物即可完成
-
- **推荐地图：雨林 暮土**
-
-![](https://img.166.net/reunionpub/ds/kol/20240222/002606-nhf3graue2.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240222/002616-b3o8f7qksw.jpeg)
-
- **任务四：收集红色光芒 0/1**
+ **任务三：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-靠近星光即可完成
+点击人物头部长按大叫即可掀翻螃蟹
 
- **位置：暮土 1.遗忘方舟 2.黑水港湾**
+ **推荐位置：**
 
- **注：此光芒共有两处位置任选其一完成即可**
+ **云野 圣岛**
 
-![](https://img.166.net/reunionpub/ds/kol/20240222/002939-2gsh9vcyfq.jpeg)
+ **暮土 边陲荒漠/巨兽荒原**
 
-![](https://img.166.net/reunionpub/ds/kol/20240222/002947-zifn3srlc6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240223/000822-iqsrom8zwe.jpeg)
+
+ **任务四：在禁阁底层冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：禁阁大厅/禁阁一层**
+
+![](https://img.166.net/reunionpub/ds/kol/20240223/000805-e360boay5z.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072109-yfqsmuh41p.png)
 
  **季节蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240222/003433-8lt76nfqm9.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240222/235526-sq6e58rhb7.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240222/003456-6r2fbuh5ji.png)
+![](https://img.166.net/reunionpub/ds/kol/20240222/235603-ascfbuvqyk.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240222/003517-pmchsn5yto.png)
+![](https://img.166.net/reunionpub/ds/kol/20240222/235744-olpe2bfc5t.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240222/003529-s40l2byv5f.png)
+![](https://img.166.net/reunionpub/ds/kol/20240222/235801-4aihu0prfl.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
  **伊甸之眼坠落碎片位置**
 
- **无**
+ **云野**
+
+ **灼热碎片 [红石]**
+
+ **具体位置：** 云顶浮石
+
+ **坠落时间：**
+
+11、17、23小时的08分40秒左右～50分
+
+ **清理方式：**
+
+净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币：** 升华蜡烛
+
+ **注：此坠落点可完成 [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol/20240223/000043-sy58cf6hdg.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20240223/000059-rqf657ey2k.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -296,7 +318,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+ **小不点×1 大只佬×1**
 
  **魔法工坊**
 
@@ -310,7 +332,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol/20240222/001059-d0gnjabztq.png)
+![](https://img.166.net/reunionpub/ds/kol/20240223/000240-sguw3qdzsh.png)
 
  **魔法商店**
 
@@ -318,7 +340,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol/20240222/001310-e9pga1fbss.png)
+![](https://img.166.net/reunionpub/ds/kol/20240223/000129-ur48gobqtc.png)
 
  **留言魔法：**
 
