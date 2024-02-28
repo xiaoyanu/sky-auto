@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-02-28 07:51:37
+date: 2024-02-28 13:25:39
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -20,7 +20,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法一 **：**
 
- **与4位玩家牵手即可完成**
+与4位玩家牵手即可完成
 
  **注：自己也算其中的四分之一**
 
@@ -40,13 +40,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：禁阁一层   右侧隐藏图 [档案阁]**
+ **位置：禁阁一层   档案阁 [右侧隐藏图]**
 
- **先祖：智慧长者[站姿]**
+ **先祖：智慧长者 [站姿]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240228/000338-4dnsqkr69m.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240228/000416-rk7e5dqb2p.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240228/083827-hjfizans89.jpeg)
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
@@ -54,7 +54,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：雨林 密林遗迹**
 
  **1.密林遗迹入口亭子右侧**
 
@@ -90,7 +90,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 靠近光芒即可完成
 
- **位置：禁阁一层 右侧隐藏图 [档案阁]**
+ **位置：禁阁一层 档案阁 [右侧隐藏图]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240228/000700-izvq1mj8du.jpeg)
 
@@ -102,19 +102,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240227/235120-ohfuzr9lp7.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240228/083918-4sz169d8pw.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240227/235126-a32cutqpiw.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240228/083931-risd7ab012.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240227/235133-vgzw7faeb0.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240228/083942-k892l6brgi.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240227/235139-h3t6zu0i4o.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240228/083956-8sb7ct9ypf.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
@@ -134,45 +134,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点不可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/ds/kol/20240227/235542-ktybmifewv.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240223/204553-elq2darm6s.png)
-
- **蝴蝶结代币**
-
- **直接拾取**
-
-位置：禁阁 星光沙漠海滩
-
-位置一
-
-![](https://img.166.net/reunionpub/ds/kol/20240218/001043-svfp57twb4.png)
-
-位置二
-
-![](https://img.166.net/reunionpub/ds/kol/20240218/001058-nc0yth5mr4.png)
-
-位置三
-
-![](https://img.166.net/reunionpub/ds/kol/20240218/001115-0i71cbrltp.png)
-
-位置四
-
-![](https://img.166.net/reunionpub/ds/kol/20240218/001124-hpcfmtvjul.png)
-
- **互动收集**
-
-前往星光沙漠海滩 与海面石像附近先祖互动即可
-
-![](https://img.166.net/reunionpub/ds/kol/20240214/005737-hq6c20rfby.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20240214/005748-5ya8j3stuq.jpeg)
-
- **货币兑换**
-
-位置：禁阁 星光沙漠海滩
-
-![](https://img.166.net/reunionpub/ds/kol/20240214/005819-pvlobr3di8.png)
+![](https://img.166.net/reunionpub/ds/kol/20240228/084025-1skedhuvt2.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
