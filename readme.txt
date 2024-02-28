@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-02-29 07:38:07
+date: 2024-02-29 07:50:27
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -18,13 +18,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作 ** ** 面对好友 点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/ds/kol/20240229/000217-7tjrdc03ig.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240229/074523-r5ic2yahsl.png)
 
  **任务二：在云野重温先祖的美好回忆 0/1**
 
@@ -46,7 +46,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 被冥龙锁定变成红光即可完成
 
- **推荐地图：暴风眼 暮土 ——藏宝岛礁/巨兽荒原(四龙图)/远古战场(三龙图)/遗忘方舟等**
+ **推荐地图：暴风眼 暮土**
 
  **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
@@ -70,19 +70,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240228/235839-j965npm8ub.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240229/074647-ohl0mj6gta.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240228/235848-5pei8woh20.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240229/074704-ts4l72k1ie.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240229/001918-2sboqz6dg5.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240229/074717-vahcqdprg8.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240228/235904-q2vogpnh9e.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240229/074731-6ivk2srdhw.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
