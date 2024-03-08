@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-03-08 13:52:47
+date: 2024-03-09 00:25:55
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,95 +10,105 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **3月8日 星期五**
+ **3月9日 星期六**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20240308/000826-8m72rgfksl.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240309/000901-jul3aoswiy.jpeg)
 
- **任务一：2人合力开启一道门 0/1**
+ **任务一：和朋友击掌 0/1**
 
 完成方法：
 
-两位玩家协力开启一道门即可完成
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
- **推荐位置：**
+ **注：一级二级都可以完成**
 
- **云野 云中仙乡**
+2.找到对应季节向导，与季节向导完成击掌即可
 
- **霞谷 滑冰场**
+ **注：需要完成前置的剧情任务**
 
- **禁阁 档案阁入口**
+![](https://img.166.net/reunionpub/ds/kol/20240309/000253-ntml4vo5kc.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240308/000324-rmt26ndzfu.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240309/000259-6rtso2pdn9.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240308/000332-97dugf8cre.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240308/000338-o3w1k5smv6.jpg)
-
- **任务二：在暮土谷重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 远古战场 [三龙图]**
+ **位置：禁阁一层  **
 
- **先祖：望远哨兵[动作]**
+ **先祖：祈祷圣徒[动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240308/000422-cuj1rvs6g7.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240309/000319-qoip23uzsw.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240308/000427-k4dastf2ie.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240309/000324-g3jesvzfus.jpeg)
 
- **任务三：净化10株黑暗植物 0/1**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-拿出心火光影燃烧10株黑暗植物即可完成
+1.点燃一堆大蜡烛
 
- **推荐地图：暮土 雨林 云野圣岛   **
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20240308/000500-708mlwj6pv.jpg)
+ **推荐地图：云野 霞谷 禁阁 遇境**
 
-![](https://img.166.net/reunionpub/ds/kol/20240308/000525-6vtnoifsas.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240309/000344-b32hkm916o.jpg)
 
- **任务四：在暮土追逐散落的星光 0/1**
+ **任务四：在禁阁追逐散落的星光 0/1**
 
 完成方法：
 
 靠近星光即可完成
 
- **位置：暮土 边陲荒漠**
+ **位置：禁阁一层**
 
-![](https://img.166.net/reunionpub/ds/kol/20240308/000543-tjwr0s9uk3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240309/000406-hpcw42j7gm.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072109-yfqsmuh41p.png)
 
  **季节蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240307/235954-6wiq2esgzp.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/234702-n5esmhzbro.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240308/000000-bi5w08skt9.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/234711-av5c34h2z1.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240308/000009-14ot3wg6sm.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/234717-4kdsziqrn9.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240308/000017-uo93evs4st.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/234724-7m3jq8d2cl.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
+雨林
+
+ **灼热碎片 [红石]：**
+
+ **具体位置** ：雨林神殿
+
+ **坠落时间** ：10、14、22小时的08分40秒左右～50分
+
+ **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币** ：升华蜡烛
+
+ **注：此坠落点可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol/20240308/235034-fhskb7am0y.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -122,25 +132,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：云野 雨林 霞谷**
+ **地图：云野 雨林 暮土**
 
  **云野**
 
 第一堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240307/235522-13o48vbm0l.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/235220-u45pysgb18.jpg)
 
 第二堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240307/235528-kndpctjw78.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/235229-t39p5fzgw1.jpg)
 
 第三堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240307/235534-2kct4rnu87.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/235234-zr36ngh17q.jpg)
 
 第四堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240307/235541-9owsn5eibc.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/235242-0gc9nw7v2a.jpg)
 
  **雨林**
 
@@ -160,29 +170,29 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240307/235615-a2lsr5eif6.jpg)
 
- **霞谷**
+ **暮土**
 
 第一堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240307/235627-n6dyz5atve.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/235325-vh75zw8moc.jpg)
 
 第二堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240307/235634-eo3m9bpsv1.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/235333-gzcevw70ho.jpg)
 
 第三堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240307/235640-kp5sbto8vc.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/235339-ti6uez4nqr.jpg)
 
 第四堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240307/235646-ywujn4bple.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/235346-0k3c9pe56a.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **大只佬x1 小不点x1**
+ **返老还童x1 长大成人x1**
 
  **魔法工坊**
 
@@ -196,7 +206,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol/20240307/235842-ackwndej0r.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/234914-74swkej03s.jpg)
 
  **魔法商店**
 
@@ -204,7 +214,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol/20240307/235830-h0forwmq5k.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240308/234903-7zmcka0d6e.jpg)
 
  **留言魔法：**
 
@@ -220,7 +230,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-![](https://img.166.net/reunionpub/ds/kol/20240303/233623-ep1snw70j5.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240309/001021-cnbvyksgwu.jpeg)
 
  **球玩魔法：**
 
