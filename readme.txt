@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-03-14 00:27:08
+date: 2024-03-14 00:39:44
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20240314/001213-rpeuz29v3w.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240314/003414-us83yzdf76.jpg)
 
  **任务一：接受一位朋友的礼物 0/1**
 
