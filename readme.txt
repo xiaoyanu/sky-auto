@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-03-13 07:51:08
+date: 2024-03-13 13:27:11
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **暮土**
 
-![](https://img.166.net/reunionpub/ds/kol/20240313/001219-pkyfjztsve.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240313/081840-p6qk2ij1vu.png)
 
  **任务一：和朋友击掌 0/1**
 
