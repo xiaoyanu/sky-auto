@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-03-15 07:50:58
+date: 2024-03-15 13:25:46
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -54,7 +54,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 被冥龙锁定变成红光即可完成
 
- **推荐地图：暴风眼 暮土 ——藏宝岛礁/巨兽荒原(四龙图)/远古战场(三龙图)/遗忘方舟等**
+ **推荐地图：暴风眼 暮土**
 
  **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
@@ -80,19 +80,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240314/234241-pw4kjylv1d.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240315/080401-2ja5selm34.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240314/234250-sy5wdqakr6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240315/080415-ol0isw3duh.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240314/234256-pcj6m9anes.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240315/080451-o8n3q7i69p.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240314/234302-tgr9s8k2ou.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240315/080507-9gh2jamqsw.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
