@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-03-18 00:51:18
+date: 2024-03-18 07:22:44
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -34,7 +34,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：蟹语者 [叫声]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240318/000552-wtcj9ihv4q.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240318/063650-akvyu96cmj.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20240318/063658-sz8h96rjoq.jpeg)
 
  **任务三：掀翻5只螃蟹 0/5**
 
@@ -54,9 +56,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土 远古战场 [三龙图]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240318/000653-9u42rf6y05.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240318/000659-cy238d0sro.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240318/062218-8oq1265yut.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072109-yfqsmuh41p.png)
 
@@ -66,19 +66,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240317/234431-l1ckwrmg2t.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240318/062249-9t84uqklp0.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240317/234543-qjdzru7nt0.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240318/062304-sfsobi254e.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240317/234552-ziq2hw7ct9.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240318/062317-f9kq6htsps.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240317/234600-szrd89nqml.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240318/062326-b35jizcms0.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
@@ -88,7 +88,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
- **露营日活动集体复刻**
+ **旅行先祖宿营回归**
 
 表演季——忙碌舞台管理员
 
@@ -102,7 +102,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：** 云野-隐藏图-八人门图  
 
- **注：可通过云巢 传送屋 传送至 八人门图**
+ **注：可通过云巢 传送屋 八人门图**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240316/221833-7gs9r4136s.jpg)
 
