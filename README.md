@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-03-19 13:26:08
+date: 2024-03-19 13:38:46
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -32,7 +32,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁一层  **
 
- **先祖：祈祷圣徒[动作]**
+ **先祖：祈祷圣徒 [动作]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240319/000326-ge3lw0fusq.jpeg)
 
@@ -44,7 +44,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：雨林 密林遗迹**
 
  **1.密林遗迹入口亭子右侧**
 
@@ -92,25 +92,41 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240318/234145-n1wcrd6oeq.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240319/132831-tqbsdf803h.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240318/234152-wf21lh90ku.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240319/132845-ml0du2fk6s.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240318/234158-qe6ajihofy.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240319/132858-wnt71ysmez.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol/20240318/234205-ntrsygheu6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240319/132910-g4ntf7iudz.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
  **伊甸之眼坠落碎片位置**
 
 无
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+ **旅行先祖**
+
+感恩季——舒展大师
+
+复刻时间：3/21早上6:00～3/25中午12:00
+
+位置：
+
+![](https://img.166.net/reunionpub/ds/kol/20240319/133147-mu8oesrkzt.png)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20240319/133204-prqao3ht7f.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
