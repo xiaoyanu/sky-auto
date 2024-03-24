@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-03-25 00:51:16
+date: 2024-03-25 07:23:29
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -30,7 +30,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：云野 云顶浮石[右侧隐藏图]**
+ **位置：云野 云顶浮石 [右侧隐藏图]**
 
  **先祖：鸟语者 [叫声]**
 
