@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-03-26 00:40:40
+date: 2024-03-26 07:23:20
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -99,6 +99,46 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **伊甸之眼坠落碎片位置**
 
 无
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+花憩节活动
+
+3月26日0:00:00-4月15日23:59:59
+
+ **注：** 可通过云巢 传送屋 云峰
+
+![](https://img.166.net/reunionpub/ds/kol/20240326/014942-v7h543kpmg.jpg)
+
+ **花币收集方式一** ：云峰各处
+
+位置一
+
+![](https://img.166.net/reunionpub/ds/kol/20240326/014053-sjtvhc9oqa.jpg)
+
+位置二
+
+![](https://img.166.net/reunionpub/ds/kol/20240326/014101-w7esv4skt9.jpg)
+
+位置三
+
+![](https://img.166.net/reunionpub/ds/kol/20240326/014109-9tsrucpm70.jpeg)
+
+位置四
+
+![](https://img.166.net/reunionpub/ds/kol/20240326/014118-csrnekjohq.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240326/014512-8icmyu6srn.jpeg)
+
+ **花币收集方式二：** 花憩节向导旁领取
+
+![](https://img.166.net/reunionpub/ds/kol/20240326/014133-73sgf5s9lv.jpg)
+
+ **花币收集方式三：** 花憩节向导旁的兑换处兑换
+
+![](https://img.166.net/reunionpub/ds/kol/20240326/014442-z7n8closd1.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240326/014453-p9yfoqhani.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
