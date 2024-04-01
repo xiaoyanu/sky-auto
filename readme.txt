@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-04-02 00:42:56
+date: 2024-04-02 07:25:24
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -20,15 +20,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法一 **：**
 
- **与4位玩家牵手即可完成**
+与4位玩家牵手即可完成
 
  **注：自己也算其中的四分之一**
 
-完成方法 二：
-
-前往 [ **圆梦村剧场** ] 重温剧情任务四 任意选择三位先祖牵手即可
-
 ![](https://img.166.net/reunionpub/ds/kol/20240402/000521-5y4suw1a7v.jpg)
+
+完成方法二：
+
+前往 [ **圆梦村剧场¹** ] 重温剧情任务四 任意选择三位先祖牵手即可
 
 ![](https://img.166.net/reunionpub/ds/kol/20240402/000537-bve7tr6jfg.jpeg)
 
@@ -40,7 +40,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：暮土 黑水港湾**
+ **位置：暮土 黑水港湾²**
 
  **先祖：蟹语者 [叫声]**
 
@@ -100,43 +100,41 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
-花憩节活动
+ **花朵代币**
 
-3月26日0:00:00-4月15日23:59:59
+活动时间：3月26日～4月15日
 
- **注：** 可通过云巢 传送屋 云峰
+位置：云野 云峰
 
-![](https://img.166.net/reunionpub/ds/kol/20240326/014942-v7h543kpmg.jpg)
-
- **花币收集方式一** ：云峰各处
+ **直接拾取**
 
 位置一
 
-![](https://img.166.net/reunionpub/ds/kol/20240326/014053-sjtvhc9oqa.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240402/013528-nw9og5u6sh.jpeg)
 
 位置二
 
-![](https://img.166.net/reunionpub/ds/kol/20240326/014101-w7esv4skt9.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240402/013540-o45hfcvjr7.jpeg)
 
 位置三
 
-![](https://img.166.net/reunionpub/ds/kol/20240326/014109-9tsrucpm70.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240402/013549-hen5f7digp.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240402/013557-uz0khs9svi.jpeg)
 
 位置四
 
-![](https://img.166.net/reunionpub/ds/kol/20240326/014118-csrnekjohq.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240402/013606-bj0afeo72c.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240326/014512-8icmyu6srn.jpeg)
+ **互动收集**
 
- **花币收集方式二：** 花憩节向导旁领取
+点击先祖兑换图即可
 
-![](https://img.166.net/reunionpub/ds/kol/20240326/014133-73sgf5s9lv.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240402/010948-6pz4mogsv0.jpeg)
 
- **花币收集方式三：** 花憩节向导旁的兑换处兑换
+ **货币兑换**
 
-![](https://img.166.net/reunionpub/ds/kol/20240326/014442-z7n8closd1.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240326/014453-p9yfoqhani.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240402/011403-1mh7orbzfd.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -237,4 +235,20 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 3.禁阁 星光沙漠
 
  **![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)**
+
+ **![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)**
+
+ **注解：**
+
+1.圆梦村剧场
+
+![](https://img.166.net/reunionpub/ds/kol/20240402/005403-r2hmpsozuf.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20240402/005417-b5lnz8ewh0.png)
+
+2.黑水港湾
+
+![](https://img.166.net/reunionpub/ds/kol/20240402/005449-zfomhis975.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240402/005524-sa2mlqke0p.png)
 
