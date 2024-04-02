@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-04-03 00:29:30
+date: 2024-04-03 00:42:04
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -106,21 +106,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置一
 
-![](https://img.166.net/reunionpub/ds/kol/20240402/013528-nw9og5u6sh.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240403/004032-6hsv1gno9f.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240403/004039-ohkcd3bvte.jpg)
 
 位置二
 
-![](https://img.166.net/reunionpub/ds/kol/20240402/013540-o45hfcvjr7.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240403/004048-wzhm8yrkso.jpg)
 
 位置三
 
-![](https://img.166.net/reunionpub/ds/kol/20240402/013549-hen5f7digp.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240402/013557-uz0khs9svi.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240403/004055-68k5vmgjsb.jpg)
 
 位置四
 
-![](https://img.166.net/reunionpub/ds/kol/20240402/013606-bj0afeo72c.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240403/004100-45m3bpa6st.jpg)
 
  **互动收集**
 
