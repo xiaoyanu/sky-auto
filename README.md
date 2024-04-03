@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-04-04 00:42:07
+date: 2024-04-04 07:21:33
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -70,7 +70,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：云野 云中仙乡   [三塔图]**
+ **位置：云野 云中仙乡  [三塔图]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240404/000736-b6dcoj1vtu.jpeg)
 
@@ -114,9 +114,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置一
 
-![](https://img.166.net/reunionpub/ds/kol/20240403/004032-6hsv1gno9f.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240403/004039-ohkcd3bvte.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240404/004623-yj0326kumq.jpg)
 
 位置二
 
@@ -124,11 +122,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置三
 
-![](https://img.166.net/reunionpub/ds/kol/20240403/004055-68k5vmgjsb.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240404/004635-9zcy67ko5a.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240404/004641-utwlji105v.jpg)
 
 位置四
 
-![](https://img.166.net/reunionpub/ds/kol/20240403/004100-45m3bpa6st.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240404/004650-jvrk92sblc.jpg)
 
  **互动收集**
 
