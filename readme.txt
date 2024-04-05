@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-04-06 00:41:39
+date: 2024-04-06 07:22:26
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -13,6 +13,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **4月6日 星期六**
 
  **霞谷**
+
+![](https://img.166.net/reunionpub/ds/kol/20240406/004532-koehjuwsi5.jpeg)
 
  **任务一：和陌生人一起坐在长凳上 0/1**
 
@@ -86,7 +88,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **暮土**
+
+ **灼热碎片 [红石]**
+
+ **具体位置：巨兽荒原**
+
+ **坠落时间：** 10、14、22小时的08分40秒左右～50分
+
+ **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币：** 升华蜡烛
+
+ **注：此坠落点可完成 [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol/20240406/004812-a8m513wfg4.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
