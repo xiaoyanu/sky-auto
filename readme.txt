@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-04-22 13:51:27
+date: 2024-04-23 00:28:42
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,31 +10,33 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 免费魔法**
 
- **4月22日 星期一**
+ **4月23日 星期二**
 
  **暮土**
 
-![](https://img.166.net/reunionpub/ds/kol/20240422/001842-72yl43fc15.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240423/001117-09mibn2fut.jpg)
 
- **任务一：向一位朋友做个动作 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
+接受好友赠送的 **爱心/心火** 即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20240422/001125-oi9e56cvmh.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240423/000553-jach695r4l.jpeg)
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 黑水港湾**
+ **位置：禁阁一层  **
 
- **先祖：行礼舰长 [动作]**
+ **先祖：祈祷圣徒[动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240422/001155-vpzh2n13w0.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240423/000613-lu4hb5a8nr.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240423/000619-wda8qecbfh.jpeg)
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
@@ -72,19 +74,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240422/001313-fgzi2748cr.jpg)
 
- **任务四：收集红色光芒  0/1**
+ **任务四：在禁阁追逐散落的星光 0/1**
 
 完成方法：
 
-靠近光芒即可完成
+靠近星光即可完成
 
- **位置：暮土  1.遗忘方舟 2.黑水港湾**
+ **位置：禁阁一层**
 
- ***注：此光芒共有两处位置任选其一完成即可**
-
-![](https://img.166.net/reunionpub/ds/kol/20240422/001333-o7c1mwset5.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240422/001338-ro1myjcs4s.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240423/000647-scv9e63uaq.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
@@ -94,51 +92,33 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
- **旅行先祖**
-
-魔法季——稻草人农夫
-
-复刻时间：4/18日早上6:00～4/22日中午12:00
-
-位置：暮土 失落方舟
-
-![](https://img.166.net/reunionpub/ds/kol/20240418/000039-7nfm9q18wb.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240418/000045-uo4srtj3qc.jpg)
-
-兑换图
-
-![](https://img.166.net/reunionpub/ds/kol/20240421/001822-jfmci0qdsb.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
-
  **大蜡烛**
 
- **地图:霞谷**
+ **地图:暮土**
 
 位置
 
 第一堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240421/233238-eyoitac02s.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240422/234606-ajbd5sw8hl.jpg)
 
 第二堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240421/233247-os5tds1uy9.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240422/234613-ncdvz2gssr.jpg)
 
 第三堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240421/233253-e1i8pn0rav.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240422/234622-yznbvghmwu.jpg)
 
 第四堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240421/233300-7lhrtwiopn.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240422/234628-28f9lgki7m.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法工坊**
 
@@ -152,7 +132,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol/20240421/233456-teobgpi6qd.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240422/234754-047uhyzi8n.jpg)
 
  **魔法商店**
 
@@ -160,7 +140,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol/20240421/233445-tjomsepg71.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240422/234745-7ya9p3tmob.jpg)
 
  **留言魔法：**
 
