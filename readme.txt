@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-04-23 13:50:41
+date: 2024-04-24 00:28:51
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,115 +10,105 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 免费魔法**
 
- **4月23日 星期二**
+ **4月24日 星期三**
 
- **暮土**
+ **云野**
 
-![](https://img.166.net/reunionpub/ds/kol/20240423/001117-09mibn2fut.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240424/001226-ruk5p7geij.jpg)
 
- **任务一：接受一位朋友的礼物 0/1**
+ **任务一：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-接受好友赠送的 **爱心/心火** 即可完成
+和陌生玩家一起坐在石凳上即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20240423/000553-jach695r4l.jpeg)
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20240424/000553-csnrk80iao.jpeg)
+
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁一层  **
+ **位置：云野 三塔图**
 
- **先祖：祈祷圣徒[动作]**
+ **先祖：鼓掌钟匠[动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240423/000613-lu4hb5a8nr.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240424/000640-q79an03uyb.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240423/000619-wda8qecbfh.jpeg)
-
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
-
-完成方法一：
-
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
-
- **位置：雨林 密林遗迹（水母图）**
-
- **1.密林遗迹入口亭子右侧**
-
- **2.密林遗迹右侧矿洞前**
-
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/ds/kol/20240422/001248-gmtun29j4d.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240422/001254-zkwqss312a.jpeg)
-
-完成方法二：
-
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
- **位置：雨林 风行网道**
-
-![](https://img.166.net/reunionpub/ds/kol/20240422/001300-daqsfhbzci.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240422/001307-yk5qz6jc1s.jpeg)
-
-完成方法三：
-
-接触沙滩上的鲲鳐幼仔即可完成
-
- **位置：云野 云峰**
-
-![](https://img.166.net/reunionpub/ds/kol/20240422/001313-fgzi2748cr.jpg)
-
- **任务四：在禁阁追逐散落的星光 0/1**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-靠近星光即可完成
+1.点燃一堆大蜡烛
 
- **位置：禁阁一层**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20240423/000647-scv9e63uaq.jpeg)
+ **推荐地图：云野 霞谷 禁阁 遇境**
+
+![](https://img.166.net/reunionpub/ds/kol/20240424/000726-9ulamtfpgw.jpg)
+
+ **任务四：在仙乡的金塔下冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：云野 云中仙乡   [三塔图]**
+
+![](https://img.166.net/reunionpub/ds/kol/20240424/000742-9071np8esj.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **雨林**
+
+ **冷却碎片 [黑石]**
+
+ **具体位置** ：密林遗迹
+
+ **坠落时间** ：9、15、21小时的08分40秒左右～50分
+
+ **清理方式** ：净化黑石碎片周围黑暗植物即可
+
+ **获取货币** ：烛光 [普通蜡烛/白蜡烛]
+
+ **注：此坠落点不可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol/20240423/235940-hjpidsw15n.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **大蜡烛**
 
- **地图:暮土**
+ **地图:禁阁**
 
 位置
 
 第一堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240422/234606-ajbd5sw8hl.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240424/000013-5mqr9uon0c.jpg)
 
 第二堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240422/234613-ncdvz2gssr.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240424/000055-d0s7yqka38.jpg)
 
 第三堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240422/234622-yznbvghmwu.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240424/000100-s8j2wimvk1.jpg)
 
 第四堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240422/234628-28f9lgki7m.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240424/000107-ol7m4k2zy5.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **光能药剂x1**
+ **璀璨之星x1**
 
  **魔法工坊**
 
@@ -132,7 +122,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol/20240422/234754-047uhyzi8n.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240424/000144-pf1ocazwj8.jpg)
 
  **魔法商店**
 
@@ -140,7 +130,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol/20240422/234745-7ya9p3tmob.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240424/000135-cs7okg14qa.jpg)
 
  **留言魔法：**
 
