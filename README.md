@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-04-26 00:40:46
+date: 2024-04-26 07:22:57
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -24,7 +24,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/ds/kol/20240426/000312-tyucbniwpr.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240426/011030-r7c4hvgykq.png)
 
  **任务二：在霞谷重温先祖的美好回忆 0/1**
 
@@ -36,7 +36,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：熊抱雪人 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240426/000356-nujhbwse69.jpg)
+ **![](https://img.166.net/reunionpub/ds/kol/20240426/000356-nujhbwse69.jpg)**
 
  **任务三：面对冥龙 0/1**
 
@@ -66,7 +66,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图：霞谷**
 
-位置：A组
+ **位置：A组**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240425/234350-n01gvl3ob8.jpg)
 
@@ -74,9 +74,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-暮土
+ **暮土**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：失落方舟
 
@@ -94,19 +94,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240425/235034-dyq7lk35g8.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240425/235025-g8c0v39okz.jpeg)
-
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **大蜡烛**
 
- **地图:云野 雨林 霞谷**
+ **地图：云野 雨林 霞谷**
 
  **云野**
 
 第一堆
 
-![](https://img.166.net/reunionpub/ds/kol/20240425/234525-152naswfb6.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240426/011249-iow9ln20cv.png)
 
 第二堆
 
