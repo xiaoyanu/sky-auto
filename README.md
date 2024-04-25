@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-04-25 07:52:26
+date: 2024-04-25 13:25:32
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,23 +8,23 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-**每日任务 大蜡烛 免费魔法**
+**每日任务 大蜡烛 季节蜡烛 免费魔法**
 
  **4月25日 星期四**
 
  **雨林**
 
-![](https://img.166.net/reunionpub/ds/kol/20240425/001430-sfc2hjinmv.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240425/102536-dr8nbi590z.jpg)
 
- **任务一：向一位玩家鞠躬 0/1**
+ **任务一：向一位朋友招手 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
+点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
 
- **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
+ **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/ds/kol/20240425/000830-a9lcweshnr.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240425/112711-c8q7ftwzu3.png)
 
  **任务二：在雨林重温先祖的美好回忆 0/1**
 
@@ -32,37 +32,43 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：雨林 荧光森林  **
+ **位置：雨林 密林遗迹  **
 
- **先祖：挑衅艺妓 [动作]**
+ **先祖：献情演员 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240425/000901-78tueq42pm.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240425/102631-8usil306fo.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240425/000910-8sk27y5slg.jpeg)
-
- **任务三：面对冥龙 0/1**
+ **任务三：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-被冥龙锁定变成红光即可完成
+点击人物头部长按大叫即可掀翻螃蟹
 
- **推荐地图：暴风眼 暮土**
+ **推荐地图：暮土 云野圣岛**
 
- **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
+![](https://img.166.net/reunionpub/ds/kol/20240425/102710-nsyqjd8igl.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240425/000950-7s3rp2hizt.jpeg)
-
- **任务四：在雨林的神庙内冥想 0/1**
+ **任务四：收集橙色光芒 0/1**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+靠近光芒即可完成
 
- **位置：雨林神庙[终点] 后方花园**
+ **位置：雨林 密林遗迹   **
 
-![](https://img.166.net/reunionpub/ds/kol/20240425/001006-es61jnfgtd.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240425/102738-uij4ztbdon.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
+
+ **季节蜡烛**
+
+ **地图：雨林**
+
+位置：A组
+
+![](https://img.166.net/reunionpub/ds/kol/20240425/104514-ek9s84vw1c.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **伊甸之眼坠落碎片位置**
 
@@ -73,8 +79,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **大蜡烛**
 
  **地图:云野**
-
-位置
 
 第一堆
 
