@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-04-27 13:50:53
+date: 2024-04-28 00:26:13
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -79,6 +79,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **伊甸之眼坠落碎片位置**
 
 无
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+旅行先祖
+
+风行季——光之低语者
+
+复刻时间：4/27日早上6:00～5/01日中午12:00
+
+位置：雨林-风行网道
+
+![](https://img.166.net/reunionpub/ds/kol/20240427/195318-vyu02w3sgh.jpg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20240427/212102-1mj3vg6thb.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
