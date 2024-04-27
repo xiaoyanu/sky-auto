@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-04-28 00:51:05
+date: 2024-04-28 07:21:53
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -32,21 +32,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁四层**
 
- **先祖：静光学者[动作]**
+ **先祖：静光学者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240428/000608-65cflwyuk2.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240428/005531-lf5geahosz.png)
 
- **任务三：在云巢和大耳狗一起赏花**
+ **任务三：在云巢和大耳狗一起赏花 0/1**
 
 完成方法：
 
-在云巢领取任务，在指定位置拾取肉桂卷代币即可完成
+在云巢找到大耳狗并拾取肉桂卷代币即可完成
 
- **位置：云巢**
-
-![](https://img.166.net/reunionpub/ds/kol/20240428/001938-ytb3s8meh2.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240428/001955-rnlwys3a50.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240428/005335-2un6oscfg5.png)
 
  **任务四：收集紫色光芒 0/1**
 
@@ -54,7 +50,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 靠近光芒即可完成
 
- **位置：禁阁一层 右侧隐藏图 [档案阁]**
+ **位置：禁阁一层 档案阁 [右侧隐藏图]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240428/000627-vajpyqmsg8.jpeg)
 
@@ -72,9 +68,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-云野
+ **云野**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：圣岛
 
@@ -86,19 +82,49 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/ds/kol/20240427/232156-u39hwqtya5.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240427/232204-vbiq5ndwck.jpeg)
-
 ![](https://img.166.net/reunionpub/ds/kol/20240427/232210-gbvpn0cuj6.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240427/232217-qy9a2tk7bp.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240427/232305-bds8mfou96.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240427/232339-rdvub2caeq.jpeg)
-
 ![](https://img.166.net/reunionpub/ds/kol/20240427/232348-slw17y2ce8.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+ **肉桂卷代币**
+
+活动时间：4月28日00:00～5月18日23:59
+
+位置：云巢
+
+ **直接拾取**
+
+可获得 肉桂卷代币*1
+
+注：需领取每日任务
+
+![](https://img.166.net/reunionpub/ds/kol/20240428/005911-y9lvf0jrd3.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240428/005921-sh5z69f3vm.jpeg)
+
+ **互动收集**
+
+可获得 肉桂卷代币*4
+
+1.前往甜点工坊与大耳狗在拍照点拍摄三张照片
+
+![](https://img.166.net/reunionpub/ds/kol/20240428/010145-2f0bpk7syj.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240428/010157-74t03ayfms.jpeg)
+
+2.在甜品工坊内坐在桌子或吧台等待片刻即可
+
+![](https://img.166.net/reunionpub/ds/kol/20240428/010359-4isu0s2cbl.jpeg)
+
+ **货币兑换**
+
+在吧台的广告牌处可用升华蜡烛兑换肉桂卷代币
+
+![](https://img.166.net/reunionpub/ds/kol/20240428/010419-nb0f1gsoiy.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -108,7 +134,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 复刻时间：4/27日早上6:00～5/01日中午12:00
 
-位置：雨林-风行网道
+位置：雨林 风行网道
 
 ![](https://img.166.net/reunionpub/ds/kol/20240427/195318-vyu02w3sgh.jpg)
 
