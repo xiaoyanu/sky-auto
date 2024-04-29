@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-04-30 00:28:28
+date: 2024-04-30 00:40:53
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -229,4 +229,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 3.禁阁 星光沙漠
 
  **![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)**
+
+ **![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)**
+
+![](https://img.166.net/reunionpub/ds/kol/20240430/003244-lbcjn0uipe.png)
 
