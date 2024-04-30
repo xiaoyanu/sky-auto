@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-01 00:29:52
+date: 2024-05-01 00:42:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -44,9 +44,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 在云巢找到大耳狗并拾取肉桂卷代币即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20240501/001558-izwtaqk371.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/001604-wfr4nspk25.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240501/003547-mqaz4tfwp1.png)
 
  **任务四：在霞谷追逐散落的星光 0/1**
 
@@ -88,9 +86,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：需领取每日任务
 
-![](https://img.166.net/reunionpub/ds/kol/20240501/001815-5ly1hdeow9.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240501/003519-0h2ymr9t43.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240501/001819-fmwy42otvp.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240501/003527-omsqfknegv.jpeg)
 
  **互动收集**
 
