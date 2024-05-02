@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-03 00:28:52
+date: 2024-05-03 00:41:19
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -68,7 +68,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图：禁阁**
 
- **位置：B组**
+ **位置：A组**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240502/235835-h9rjs453cv.jpg)
 
