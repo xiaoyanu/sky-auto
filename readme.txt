@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-02 13:52:17
+date: 2024-05-03 00:28:52
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,65 +10,67 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **5月2日 星期四**
+ **5月3日 星期五**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol/20240502/001100-p7ac2ly81o.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240503/002637-fwmdns5ke8.jpg)
 
- **任务一：给一位朋友送礼 0/1**
+ **任务一：和朋友击掌 0/1**
 
 完成方法：
 
-1.点击好友找到击掌右边的礼物花费3根普通蜡烛并送给对方爱心后即可完成
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
-2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标花费3根普通蜡烛完成送礼即可
+ **注：一级二级都可以完成**
 
- **[第一种 二种任选其一完成即可]**
+2.找到对应季节向导，与季节向导完成击掌即可
 
-![](https://img.166.net/reunionpub/ds/kol/20240502/001120-tw6kv5ds3g.jpg)
+ **注：需要完成前置的剧情任务**
 
-![](https://img.166.net/reunionpub/ds/kol/20240502/001126-lso4v1p390.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240503/000837-i43ug1tpnl.jpeg)
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/ds/kol/20240503/000844-zkonyilrjd.jpg)
+
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 边陲荒漠**
+ **位置：禁阁四层  **
 
- **先祖：惊恐难民 [动作]**
+ **先祖：拳礼武僧[动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240502/001142-zvwh0o4ugb.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240503/000915-e8v9r750js.jpg)
 
- **任务三：与大耳狗一起在云巢的水里玩耍 0/1**
+ **任务三：与大耳狗在云巢的山上见面 0/1**
 
 完成方法：
 
 在云巢找到大耳狗并拾取肉桂卷代币即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20240502/001236-0hsw57mcbz.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240503/002215-470lkzpawh.jpg)
 
- **任务四：在远古战场中央冥想 0/1**
+ **任务四：在禁阁追逐散落的星光 0/1**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+靠近星光即可完成
 
- **位置：暮土 远古战场 [三龙图]**
+ **位置：禁阁一层**
 
-![](https://img.166.net/reunionpub/ds/kol/20240502/001257-5nuslt97o8.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240503/001050-sq80h7jl51.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
  **季节蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
  **位置：B组**
 
-![](https://img.166.net/reunionpub/ds/kol/20240501/235300-utjvzbnq81.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240502/235835-h9rjs453cv.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -90,7 +92,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：需领取每日任务
 
-![](https://img.166.net/reunionpub/ds/kol/20240502/001450-c6u4vbmn2z.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240503/002227-od3gk48wsv.jpg)
 
  **互动收集**
 
@@ -116,17 +118,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 旅行先祖
 
-风行季——光之低语者
+音韵季——献情演员
 
-复刻时间：4/27日早上6:00～5/01日中午12:00
+复刻时间：5/02日早上6:00～5/06日中午12:00
 
-位置：雨林 风行网道
+位置：雨林 密林遗迹
 
-![](https://img.166.net/reunionpub/ds/kol/20240427/195318-vyu02w3sgh.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240502/213320-srlwafgi2h.jpeg)
 
 兑换图
 
-![](https://img.166.net/reunionpub/ds/kol/20240427/212102-1mj3vg6thb.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240502/224817-rvpnfakd2q.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -292,7 +294,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+ **大只佬x1 小不点x1**
 
  **魔法工坊**
 
@@ -306,7 +308,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol/20240501/235435-4spagcfw5r.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240503/000009-jufkep57hy.jpg)
 
  **魔法商店**
 
@@ -314,7 +316,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol/20240501/235424-katlusfjw7.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240502/235956-svf3aibsju.jpg)
 
  **留言魔法：**
 
