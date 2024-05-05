@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-05 13:50:58
+date: 2024-05-06 00:28:24
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,85 +10,67 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **5月5日 星期日**
+ **5月6日 星期一**
 
- **雨林**
+ **霞谷**
 
-![](https://img.166.net/reunionpub/ds/kol/20240505/001234-vqn037fjek.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240506/001307-wjkzlis4rq.jpg)
 
- **任务一：给一位朋友送礼 0/1**
+ **任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-1.点击好友找到击掌右边的礼物花费3根普通蜡烛并送给对方爱心后即可完成
+接受好友赠送的 **爱心/心火** 即可完成
 
-2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标花费3根普通蜡烛完成送礼即可
+![](https://img.166.net/reunionpub/ds/kol/20240506/000732-3aidj9f752.jpeg)
 
- **[第一种 二种任选其一完成即可]**
-
-![](https://img.166.net/reunionpub/ds/kol/20240505/000457-ko2dfmpcy5.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240505/000502-icunmat8sg.jpg)
-
- **任务二：在雨林重温先祖的美好回忆 0/1**
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：雨林 静谧庭院**
+ **位置：霞谷 霞光城**
 
- **先祖：管事小队长 [动作]**
+ **先祖：倒立运动员 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240505/000548-34tcb2ag6y.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240506/000803-f9svarg7e6.jpg)
 
- **任务三：** 在云巢找到在偷偷观察的大耳狗 **0/1**
+ **任务三：在云巢叫醒大耳狗 0/1**
 
 完成方法：
 
-在云巢找到大耳狗并拾取肉桂卷代币即可完成
+在云巢找到大耳狗叫醒并拾取肉桂卷代币即可完成
 
-![](https://img.166.net/reunionpub/ds/kol/20240504/234642-v5c6w3rtlp.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240506/000706-d5kv2jt48s.png)
 
- **任务四：在静谧庭院外冥想 0/1**
+ **任务四：在霞光城拱门上冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林 静谧庭院**
+ **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/ds/kol/20240505/000659-1g6fopeja3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240506/000843-iw1a0bsrg9.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240506/000849-pzq2fjy4ri.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
- **位置：B组**
+ **位置：A组**
 
-![](https://img.166.net/reunionpub/ds/kol/20240504/234144-oup3qtgchb.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240505/235206-unb3ovyqc5.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **伊甸之眼坠落碎片位置**
 
- **霞谷**
-
- **灼热碎片 [红石]：**
-
- **具体位置** ：雪隐峰
-
- **坠落时间** ：7、13、19小时的08分40秒左右～50分
-
- **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币** ：升华蜡烛
-
- **注：此坠落点可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/ds/kol/20240504/234343-0nweuaq4zt.jpeg)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -104,7 +86,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：需领取每日任务
 
-![](https://img.166.net/reunionpub/ds/kol/20240505/001336-m537jt4r8g.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240505/235547-lmisbvdtyh.png)
 
  **互动收集**
 
@@ -306,7 +288,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体型重塑x1 绚丽彩虹x1**
+ **浪漫烟花x1**
 
  **魔法工坊**
 
@@ -320,7 +302,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol/20240504/234814-18bulqeojg.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240505/235806-lrmgens31k.jpg)
 
  **魔法商店**
 
@@ -328,7 +310,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol/20240504/234802-839swetrpa.jpg)
+![](https://img.166.net/reunionpub/ds/kol/20240505/235743-iwd4q2mhlu.jpg)
 
  **留言魔法：**
 
