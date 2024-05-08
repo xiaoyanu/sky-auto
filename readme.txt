@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-08 07:47:56
+date: 2024-05-08 13:23:17
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -70,7 +70,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图：禁阁**
 
- **位置：A组**
+ **位置：B组**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240508/000744-t7mib3p6so.jpg)
 
@@ -120,161 +120,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：云野 雨林 霞谷 暮土 禁阁**
-
- **云野**
-
-云野大厅
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/170919-k2ht7iw8ae.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/170929-yfvcs1bkro.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/170941-wf7etbioy6.jpg)
-
-蝴蝶平原
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171026-jsdk0gbyul.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171012-elgp3y1fsm.jpg)
-
-幽光山洞
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171102-38mses4fa2.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171052-j8vabsz614.jpg)
-
-云顶浮石
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171133-7b04fsmjah.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171122-dv9i0qbota.jpg)
-
-云中仙乡
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171225-mi0k9ay7vl.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171207-eoy6zi0j2l.jpg)
-
-云野神殿
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171234-ht7osy4n3b.jpg)
-
- **雨林**
-
-雨林大厅
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171255-gnye6ruq19.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171310-m7dlc28oj4.jpg)
-
-静谧庭院
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/170831-8s0vq7yazi.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/170833-5hf2yjst3c.jpeg)
-
-荧光森林
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/170830-gly4enwkq8.jpeg)
-
-秘密花园
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171350-vw69k7tahl.jpg)
-
-密林遗迹
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171418-nq0pel2rwt.jpg)
-
-雨林神殿
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171432-ho5dqkzpeu.jpg)
-
- **霞谷**
-
-霞谷大厅
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171456-bk1932gzhp.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171506-velgp40r12.jpg)
-
-滑冰场
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171521-8las4e65bu.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171533-h95wpvr8mo.jpg)
-
-霞光城
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171553-6i7h3da15f.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171606-0hf6z83bcs.jpg)
-
-落日竞技场
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171651-ukv3i9l1w0.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171640-phn4fca0ke.jpg)
-
- **暮土**
-
-暮土大厅
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171716-gj9hm2edt1.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171738-ntjuy8c6pz.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171751-kduigsjhe2.jpg)
-
-边陲荒漠
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171837-l8f6htaog9.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171825-u06ywtsj1d.jpg)
-
-巨兽荒原![](https://img.166.net/reunionpub/ds/kol/20240501/171919-nhd9fvza6k.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171855-s786051fmy.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/171909-tfk36gdpi5.jpg)
-
-黑水港湾
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/172020-7uhi16loz5.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/172007-whursgaej0.jpg)
-
-远古战场
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/172038-1hp9lrmbs5.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/172101-iqs31ahugj.jpg)
-
- **禁阁**
+ **地图： 禁阁**
 
 禁阁大厅/禁阁一层
 
 ![](https://img.166.net/reunionpub/ds/kol/20240501/172128-z8o90icas7.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240501/172155-5itfnwl8z1.jpg)
-
 ![](https://img.166.net/reunionpub/ds/kol/20240501/172145-9zm7h50j68.jpg)
 
 禁阁二层
 
-![](https://img.166.net/reunionpub/ds/kol/20240501/172247-9y05d6qbic.jpg)
-
 ![](https://img.166.net/reunionpub/ds/kol/20240501/172302-cl6yhpjr53.jpg)
-
-禁阁四层
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/172325-7562odmwus.jpg)
 
 禁阁顶层
 
 ![](https://img.166.net/reunionpub/ds/kol/20240501/172352-5v274trhjf.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240501/172341-5g2pj1ioat.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
