@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-14 00:48:14
+date: 2024-05-14 07:22:37
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -26,19 +26,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240514/000815-gupis54bsj.jpeg)
 
- **任务一：2人合力开启一道门 0/1**
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
-两位玩家协力开启一道门即可完成
+点燃先祖重温回忆
 
- **推荐位置：**
+ **位置：云野 幽光山洞**
 
- **云野 云中仙乡**
-
- **霞谷 滑冰场**
-
- **禁阁 档案阁入口**
+ **先祖：辛劳码头工 [动作]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240514/000959-thw1ugyj4b.jpeg)
 
@@ -227,8 +223,4 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 3.禁阁 星光沙漠
 
  **![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)**
-
- **![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)**
-
-![](https://img.166.net/reunionpub/ds/kol/20240430/003244-lbcjn0uipe.png)
 
