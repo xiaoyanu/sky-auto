@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-15 00:31:22
+date: 2024-05-15 00:47:58
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -109,6 +109,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 在吧台的广告牌处可用升华蜡烛兑换肉桂卷代币
 
 ![](https://img.166.net/reunionpub/ds/kol/20240428/010419-nb0f1gsoiy.png)
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+旅行先祖
+
+追光季——噤声光学者
+
+复刻时间：5/16日早上6:00～5/20日中午12:00
+
+位置：禁阁 四层
+
+![](https://img.166.net/reunionpub/ds/kol/20240515/004341-jkitfsc0qo.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol/20240515/004354-1cyv0rjtsg.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
