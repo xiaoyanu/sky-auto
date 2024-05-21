@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-22 00:41:53
+date: 2024-05-22 07:23:57
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -40,7 +40,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土 一龙图**
 
- **先祖：敬礼护卫 [动作]**
+ **先祖：无畏士兵 [站姿]**
 
 ![](https://img.166.net/reunionpub/ds/kol/20240522/000610-pbwtokd1vj.jpeg)
 
@@ -50,7 +50,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：雨林 密林遗迹**
 
  **1.密林遗迹入口亭子右侧**
 
@@ -74,7 +74,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法三：
 
-接触沙滩上的鲲鳐幼仔即可完成
+靠近沙滩上的遥鲲幼仔即可完成
 
  **位置：云野 云峰**
 
@@ -88,11 +88,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土 巨兽荒原 [四龙图]**
 
-![](https://img.166.net/reunionpub/ds/kol/20240522/000717-divz1u9fak.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240522/010214-06s9qa7y2u.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol/20240522/000725-9s6zkngfpv.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240522/000733-hvj1y9t4pd.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240522/010220-13dc82lnhy.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
@@ -108,7 +106,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-禁阁
+ **禁阁**
 
  **冷却碎片 [黑石]**
 
@@ -122,9 +120,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点不可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/ds/kol/20240521/235714-l0tb2zdkwg.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240522/010244-zyvowa5bcs.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20240521/235725-m07j69tkdn.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20240522/010254-yobarjuqis.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
