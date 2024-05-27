@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-28 00:43:23
+date: 2024-05-28 07:24:46
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -46,7 +46,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：雨林 密林遗迹**
 
  **1.密林遗迹入口亭子右侧**
 
@@ -70,7 +70,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法三：
 
-接触沙滩上的鲲鳐幼仔即可完成
+接触沙滩上的遥鲲幼仔即可完成
 
  **位置：云野 云峰**
 
@@ -100,7 +100,47 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-无![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+无
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+ **珍珠代币**
+
+活动时间：5月28日至6月17日
+
+位置：云野 云峰
+
+ **直接拾取**
+
+可获得 珍珠代币×4
+
+位置一
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240528/014930-f06vurjcaw.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240528/014943-svhuwq1l9j.jpeg)
+
+位置二
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240528/014959-eu48znabcp.jpeg)
+
+位置三
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240528/015020-y9ns150jdm.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240528/015030-fmdspcw8un.jpeg)
+
+位置四
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240528/015048-fyru07al25.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240528/015058-1730jiqsgz.jpeg)
+
+ **货币兑换**
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240528/021039-y23skowqvz.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **大蜡烛**
 
