@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-29 00:42:26
+date: 2024-05-29 07:24:57
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,11 +14,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **云野**
 
- **任务一：清理圣岛被污染的漩涡**
+![](https://img.166.net/reunionpub/ds/kol_server/20240529/004917-n1vscyqm8f.jpeg)
+
+ **任务一：清理圣岛被污染的漩涡 0/1**
 
 完成方法
 
-跟随光之生物清理漩涡
+跟随光之生物接取任务清理漩涡
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240529/001530-rbm1pssov6.jpg)
 
@@ -114,9 +116,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置一
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240528/014930-f06vurjcaw.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240528/014943-svhuwq1l9j.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240529/004223-9v0cfwqjhb.jpeg)
 
 位置二
 
@@ -130,9 +130,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置四
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240528/015048-fyru07al25.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240529/005118-c04okntj1b.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240528/015058-1730jiqsgz.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240529/005126-d81cqwat69.jpeg)
 
  **货币兑换**
 
