@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-29 00:29:18
+date: 2024-05-29 00:42:26
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -18,9 +18,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法
 
- **跟随光之生物清理漩涡**
-
-注： **在遇境向导处可直接传送至小岛**
+跟随光之生物清理漩涡
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240529/001530-rbm1pssov6.jpg)
 
