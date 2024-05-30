@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-30 13:51:52
+date: 2024-05-31 00:29:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **雨林**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240530/001852-l94e3a706g.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240530/204036-cysq9zk7ud.jpg)
 
  **任务一：向一位朋友招手 0/1**
 
@@ -107,6 +107,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **货币兑换**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240528/021039-y23skowqvz.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+旅行先祖
+
+归属季——火花家长
+
+复刻时间：5/30日早上6:00～6/03日中午12:00
+
+位置：霞谷·霞谷神殿
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240530/232116-ik78lw3p9a.jpg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240531/001354-yu2tbeodgi.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
