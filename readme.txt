@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-05-31 00:42:23
+date: 2024-05-31 07:23:18
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -82,7 +82,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **暮土**
+
+ **灼热碎片 [红石]**
+
+ **具体位置** ：黑水港湾
+
+ **坠落时间** ：10、14、22小时的08分40秒左右～50分
+
+ **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币** ：升华蜡烛
+
+ **注：此坠落点可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240531/014004-tj16oh2fvr.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -96,21 +110,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 可获得 珍珠代币×4
 
-位置一
+位置一：地面
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240530/002633-s0rk1gvowm.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240531/020037-7ns9l5f216.jpeg)
 
-位置二
+位置二：水下
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240530/002641-sl8kp3bf2c.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240531/020721-49ywmiuvpk.jpeg)
 
-位置三
+位置三：地面
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240530/002649-t7kz0wmf5o.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240531/020743-w9bhj0rot2.jpeg)
 
-位置四
+位置四：水下
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240530/002656-hc0b5wj27q.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240531/020814-kw4jnmzs21.jpeg)
 
  **货币兑换**
 
@@ -118,15 +132,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
-旅行先祖
+ **旅行先祖**
 
 归属季——火花家长
 
 复刻时间：5/30日早上6:00～6/03日中午12:00
 
-位置：霞谷·霞谷神殿
+位置：霞谷 霞谷神殿
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240530/232116-ik78lw3p9a.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240531/014959-yqtv8mwsbz.jpeg)
 
 兑换图
 
@@ -196,7 +210,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **大只佬x1 小不点x1**
+ **小不点×1 大只佬×1**
 
  **魔法工坊**
 
