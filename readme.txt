@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-06-01 00:42:52
+date: 2024-06-01 07:23:54
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -108,21 +108,27 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 可获得 珍珠代币×4
 
-位置一：地面
+位置一：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240531/020037-7ns9l5f216.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240601/005122-qmnitl5op7.jpg)
 
-位置二：水下
+![](https://img.166.net/reunionpub/ds/kol_server/20240601/005131-7o8yuss2fl.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240531/020721-49ywmiuvpk.jpeg)
+位置二：
 
-位置三：地面
+![](https://img.166.net/reunionpub/ds/kol_server/20240601/005140-9hp4b1y8oc.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240531/020743-w9bhj0rot2.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240601/005150-lz5w3moyv8.jpg)
 
-位置四：水下
+位置三：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240531/020814-kw4jnmzs21.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240601/005157-elb5on7hdw.jpg)
+
+位置四：
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240601/005209-mbds3evuf6.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240601/005216-v52z3c80th.jpg)
 
  **货币兑换**
 
