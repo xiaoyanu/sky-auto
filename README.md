@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-06-03 00:28:42
+date: 2024-06-03 00:41:11
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -102,25 +102,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置一：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240602/003825-uckwgnoshr.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240602/003833-fm0kig9rq2.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240603/002825-nobas6fsmp.jpg)
 
 位置二：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240601/005140-9hp4b1y8oc.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240601/005150-lz5w3moyv8.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240603/002831-ug7o280m6n.jpg)
 
 位置三：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240602/003913-ujtd2azrv5.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240603/002837-1h2nkljc4b.jpg)
 
 位置四：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240602/003928-7ukvos843l.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240602/003938-t3wuzlbgvs.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240603/002843-smar216qli.jpg)
 
  **货币兑换**
 
