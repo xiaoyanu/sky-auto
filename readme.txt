@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-06-05 00:30:46
+date: 2024-06-05 00:47:59
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -78,7 +78,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：云野 云峰**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240605/001553-68ztk1eo7q.jpg)
+**![](https://img.166.net/reunionpub/ds/kol_server/20240605/001553-68ztk1eo7q.jpg)**
 
  **任务四：在霞光城上层冥想 0/1**
 
@@ -88,9 +88,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240605/001707-wq7vgeukb0.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240605/003726-no05jt9b73.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240605/001713-n9prf5lbsw.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240605/003735-zpm2hgn3lf.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
@@ -122,19 +122,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置一：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240603/002825-nobas6fsmp.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240605/003507-u4sjza2ldm.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240605/004152-w3a7peousk.jpg)
 
 位置二：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240603/002831-ug7o280m6n.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240605/003528-jsb18g7vuq.jpg)
 
 位置三：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240603/002837-1h2nkljc4b.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240605/004004-qjnd4mu83z.jpeg)
 
 位置四：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240603/002843-smar216qli.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240605/004207-2hbc315ylf.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240605/004321-7he93ads6g.jpg)
 
  **货币兑换**
 
