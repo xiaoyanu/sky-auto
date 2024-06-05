@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-06-06 00:43:45
+date: 2024-06-06 07:24:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -13,6 +13,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **6月6日 星期四**
 
  **暮土**
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240606/003626-0h3fr78tei.jpeg)
 
  **任务一：2人合力开启一道门 0/1**
 
@@ -42,7 +44,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土 巨兽荒原 [四龙图]**
 
- **先祖：不舍家长[动作]**
+ **先祖：不舍家长 [动作]**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240606/000517-qyve1ctgw7.jpeg)
 
@@ -88,6 +90,14 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
+ **剪刀石头布**
+
+ **我选择：** 剪刀
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240606/003805-mjpao6fsrd.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
  **珍珠代币**
 
 活动时间：5月28日至6月17日
@@ -100,23 +110,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置一：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240606/001650-fw2s6m7jc9.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240606/002838-hd2srwulv9.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240606/001658-zdanbi36lu.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240606/002850-5gbe6q7m21.jpeg)
 
-位置二：![](https://img.166.net/reunionpub/ds/kol_server/20240605/004737-mptw79f5k8.jpeg)
+位置二：
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240606/002905-5mz2bwerak.jpeg)
 
 位置三：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240606/002003-bv5djmqysg.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240606/002015-dsa52rtzi1.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240606/002917-0azf8qiecp.jpeg)
 
 位置四：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240606/002206-6svyf7tg0s.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240606/003005-woihzq0yk6.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240606/002216-hjbfen12ku.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240606/003012-v4iylsb6rf.jpeg)
 
  **货币兑换**
 
