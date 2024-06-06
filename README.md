@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-06-07 00:29:14
+date: 2024-06-07 00:41:55
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -106,21 +106,37 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置二：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240606/002905-5mz2bwerak.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240607/002833-ssfp5jdi0a.jpg)
 
 位置三：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240606/002917-0azf8qiecp.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240607/002854-skbrdwfntc.jpg)
 
 位置四：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240606/003005-woihzq0yk6.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240607/002911-n3hdkwybi0.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240606/003012-v4iylsb6rf.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240607/002920-q8fsora7ev.jpg)
 
  **货币兑换**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240528/021039-y23skowqvz.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+ **旅行先祖**
+
+追光季——击掌光农
+
+复刻时间：6/8日早上6:00～6/12日中午12:00
+
+位置：云野·云顶浮石
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240607/003222-ulfh01k7c9.jpg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240607/003610-o0h1f9ljt2.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
