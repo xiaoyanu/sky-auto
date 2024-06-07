@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-06-08 00:48:03
+date: 2024-06-08 07:24:51
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -16,7 +16,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240608/003827-19ondvrj3k.jpg)
 
- **任务一：清理圣岛被污染的漩涡**
+ **任务一：清理圣岛被污染的漩涡 0/1**
 
 完成方法
 
@@ -52,7 +52,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：雨林 密林遗迹**
 
  **1.密林遗迹入口亭子右侧**
 
@@ -110,7 +110,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 云野
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：幽光山洞
 
@@ -123,14 +123,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **注：此坠落点可完成  [破晓季] 季节任务**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240607/235711-6f7bg4dknp.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
-
- **剪刀石头布**
-
- **我选择：** 剪刀
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240606/003805-mjpao6fsrd.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -174,7 +166,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 复刻时间：6/8日早上6:00～6/12日中午12:00
 
-位置：云野·云顶浮石
+位置：云野 云顶浮石
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240607/003222-ulfh01k7c9.jpg)
 
