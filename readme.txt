@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-06-11 00:47:56
+date: 2024-06-11 07:24:13
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -110,7 +110,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **冷却碎片 [黑石]**
 
- **具体位置** ： **滑冰场**
+ **具体位置** ：边陲荒漠
 
  **坠落时间** ：9、14、19小时的08分40秒左右～50分
 
@@ -142,19 +142,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置二：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240611/003518-83bg9mlu04.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240611/005030-ea1hbfz6nm.jpeg)
 
 位置三：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240611/003528-8filopbk49.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240611/005052-4uj6pceifw.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240611/003536-hfwd4ot72v.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240611/005104-1v7w8ud5ef.jpeg)
 
 位置四：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240611/003549-7wygz5eid1.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240611/005116-liyv70fwqt.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240611/003554-pzfaqmss25.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240611/005124-07fwsu4tea.jpeg)
 
  **货币兑换**
 
@@ -180,7 +180,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图： 霞谷**
+ **地图： 暮土**
 
 位置
 
