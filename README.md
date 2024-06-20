@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-06-21 00:48:27
+date: 2024-06-21 07:25:08
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -58,11 +58,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土 巨兽荒原 [四龙图]**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240621/000220-ibssvh59ot.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240621/012339-7skrlom3qh.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240621/000226-7qyfp9r5go.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240621/000230-htir6qdsw8.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240621/012345-70muze9qbd.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
@@ -78,7 +76,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-暮土
+ **暮土**
 
  **灼热碎片 [红石]：**
 
@@ -133,6 +131,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol_server/20240620/235540-an8iskqyrp.jpg)
 
 第四堆
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240621/012430-epiksazfy0.jpeg)
 
 霞谷
 
