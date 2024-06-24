@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-06-24 13:52:24
+date: 2024-06-25 00:29:43
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,73 +10,65 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **6月24日 星期一**
+ **6月25日 星期二**
 
- **雨林**
+ **霞谷**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/001357-oscunvly1r.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240625/001519-3oi4gpfrnc.jpg)
 
- **任务一：与4位玩家牵手组队 0/1**
+ **任务一：向一位朋友招手 0/1**
 
-完成方法一 **：**
+ **完成方法：**
 
- **与4位玩家牵手即可完成**
+ **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
 
- **注：自己也算其中的四分之一**
+ **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000614-ztsml68cdy.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240625/000426-1twufmnydb.jpeg)
 
-完成方法 二：
-
-前往 [ **圆梦村剧场** ] 重温剧情任务四 任意选择三位先祖牵手即可
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000621-9fhmga63l0.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000628-gh835yr7zw.jpeg)
-
- **任务二：在雨林重温先祖的美好回忆 0/1**
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：雨林 密林遗迹**
+ **位置：霞谷 滑冰场**
 
- **先祖：沮丧猎人 [动作]**
+ **先祖：螺旋舞冠 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000915-iqg9dekvu5.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240625/000505-7ljcdehgbq.jpeg)
 
- **任务三：净化10株黑暗植物 0/1**
+ **任务三：收集30点烛光 0/30**
 
 完成方法：
 
-拿出心火光影燃烧10株黑暗植物即可完成
+1.领取任务
 
- **推荐地图：暮土 雨林 云野圣岛   **
+2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000652-dt0spac483.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240625/000602-kt2ndgs7zr.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000659-qmcarvhutn.jpeg)
-
- **任务四：在荧光森林冥想 0/1**
+ **任务四：在霞光城拱门上冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林 荧光森林**
+ **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000727-ylezcuabh4.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240625/000627-g65soa0791.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240625/000633-u6z4lpki02.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072230-kr6zdftygs.png)
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
  **位置：B组**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000251-ysenu0itvd.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240624/235844-drj3g2flcs.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -88,31 +80,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
 位置
 
 第一堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000358-ny8ua50l3f.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240624/235949-essiw0tbrd.jpg)
 
 第二堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000405-cz8daukf7b.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240625/000055-s1zsgcly8b.jpg)
 
 第三堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000410-f0lcdyw1jk.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240625/000103-wo2ihpt65j.jpg)
 
 第四堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000417-5udgrps9kl.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240625/000111-1d70jf5gqz.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法工坊**
 
@@ -126,7 +118,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000505-0u6sf34ipa.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240625/000210-i0urwlevoc.jpg)
 
  **魔法商店**
 
@@ -134,7 +126,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240624/000456-w5mhlb19id.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240625/000202-nuiz29gr6s.jpg)
 
  **留言魔法：**
 
