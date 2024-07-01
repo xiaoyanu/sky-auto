@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-07-02 00:45:16
+date: 2024-07-02 07:23:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -20,7 +20,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法一 **：**
 
- **与4位玩家牵手即可完成**
+与4位玩家牵手即可完成
 
  **注：自己也算其中的四分之一**
 
@@ -42,7 +42,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁四层  **
 
- **先祖：拳礼武僧[动作]**
+ **先祖：拳礼武僧 [动作]**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240702/000319-og6y0ae23d.jpg)
 
@@ -52,7 +52,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：雨林 密林遗迹**
 
  **1.密林遗迹入口亭子右侧**
 
@@ -80,7 +80,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：云野 云峰**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240702/000417-2kjehplyao.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240702/010637-mltwvbjs1r.jpeg)
 
  **任务四：在禁阁顶层神坛旁冥想 0/1**
 
@@ -132,7 +132,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **货币兑换**
 
-位置：屋顶魔法商店
+位置：办公室
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240629/005338-691o72zgcb.jpg)
 
@@ -140,27 +140,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240629/023345-jn8ea9hswm.jpg)
 
- **![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)**
-
- **旅行先祖**
-
-小王子季——沾沾自喜的自恋狂
-
-复刻时间：6月27日早上6:00～7月1日中午12:00
-
-位置：禁阁·星光沙漠
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240626/001322-z9047pcfdl.jpeg)
-
-兑换图
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240626/001554-juyi23avqf.jpg)
-
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **伊甸之眼坠落碎片位置**
 
-禁阁
+ **禁阁**
 
  **冷却碎片 [黑石]**
 
@@ -176,7 +160,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240702/001112-ilmes5n8zv.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240702/001118-vmw0sloj21.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240702/010844-2q67430ugb.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
