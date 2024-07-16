@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-07-17 00:45:08
+date: 2024-07-17 07:27:41
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -96,9 +96,35 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
+有友节活动
+
+7月17日-8月27日
+
+四株双盘向日葵位置：云巢
+
+第一株：
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/012357-tr32sdwfi9.jpg)
+
+第二株：
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/012404-r9wnsi082d.jpg)
+
+第三株：
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/012411-efy7mt68r9.jpg)
+
+第四株：
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/012418-qlf3b4g89s.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
  **大蜡烛**
 
  **地图：云野 雨林 霞谷 暮土 禁阁**
+
+ **7月17-7月24**
 
  **云野**
 
