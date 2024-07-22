@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-07-22 13:41:59
+date: 2024-07-23 00:31:45
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,79 +10,53 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛  免费魔法**
 
- **7月22日 星期一**
+ **7月23日 星期二**
 
- **﻿禁阁**
+ **﻿云野**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240722/001701-1kfv3qc9n4.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/001157-md5hg67sbp.jpg)
 
- **任务一：和陌生人一起坐在长凳上 0/1**
+ **任务一：向一位朋友招手 0/1**
 
-完成方法：
+ **完成方法：**
 
-和陌生玩家一起坐在石凳上即可完成
+ **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
 
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
+ **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240722/000732-18t2noeqsy.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/000309-w3ig5yj1mz.jpeg)
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁三层**
+ **位置：云野 圣岛**
 
- **先祖：礼貌学士 [站姿]**
+ **先祖：内秀书虫 [站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240722/000749-59wm7pclbg.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/000430-h62oa7blg8.jpg)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
-
-完成方法一：
-
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
-
- **位置：雨林 密林遗迹（水母图）**
-
- **1.密林遗迹入口亭子右侧**
-
- **2.密林遗迹右侧矿洞前**
-
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240722/000810-ssokwe8fuq.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240722/000817-62se1nyo5z.jpeg)
-
-完成方法二：
-
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
- **位置：雨林 风行网道**
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240722/000824-jfkuv71cb9.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240722/000830-rbtzqu4iey.jpeg)
-
-完成方法三：
-
-接触沙滩上的鲲鳐幼仔即可完成
-
- **位置：云野 云峰**
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240722/000840-fc27ij86yh.jpg)
-
- **任务四：在禁阁追逐散落的星光 0/1**
+ **任务三：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-靠近星光即可完成
+点击人物头部长按大叫即可掀翻螃蟹
 
- **位置：禁阁一层**
+ **推荐地图：暮土 云野圣岛**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240722/000857-gnd7viaosk.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/000502-2l7ap0u6ct.jpg)
+
+ **任务四：在幽光山洞里冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：云野 幽光山洞 [左侧隐藏图]**
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/000518-9zhib174kn.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -282,7 +256,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法工坊**
 
@@ -296,7 +270,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240722/001323-so1r2ze58p.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240722/235748-p465hzg8md.jpg)
 
  **魔法商店**
 
@@ -304,7 +278,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240722/001313-lneas5yvwb.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240722/235736-v7esj38zis.jpg)
 
  **留言魔法：**
 
