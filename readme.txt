@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-07-23 07:51:17
+date: 2024-07-23 13:28:51
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,17 +14,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **﻿云野**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240723/001157-md5hg67sbp.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/094904-my1f75vjdh.jpeg)
 
- **任务一：向一位朋友招手 0/1**
+ **任务一：和朋友击掌 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
- **注：1～6级招手动作均可完成**
+ **注：一级二级都可以完成**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240723/000309-w3ig5yj1mz.jpeg)
+2.找到对应季节向导，与季节向导完成击掌即可
+
+ **注：需要完成前置的季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/095114-wfv1hu457y.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/095128-hc4f7nq6mk.jpeg)
 
  **任务二：在云野重温先祖的美好回忆 0/1**
 
@@ -32,31 +38,57 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：云野 圣岛**
+ **位置：云野 幽光山洞 [左侧隐藏图]**
 
- **先祖：内秀书虫 [站姿]**
+ **先祖：舒展大师 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240723/000430-h62oa7blg8.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/095211-dz8angkroe.png)
 
- **任务三：掀翻5只螃蟹 0/5**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+1.点燃一堆大蜡烛
 
- **推荐地图：暮土 云野圣岛**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240723/000502-2l7ap0u6ct.jpg)
+ **推荐地图：云野 霞谷 禁阁 遇境 云巢**
 
- **任务四：在幽光山洞里冥想 0/1**
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/095337-9v6stzqrul.jpeg)
+
+ **任务四：在云顶浮石上冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：云野 幽光山洞 [左侧隐藏图]**
+ **位置：云野 云顶浮石 [右侧隐藏图]**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240723/000518-9zhib174kn.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/095349-89u0r31ilp.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/095359-56jfoa2qik.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+ **季节蜡烛**
+
+ **地图：云野**
+
+第一堆：
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/095537-uint1h27ld.png)
+
+第二堆：
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/095610-bow5dhz762.png)
+
+第三堆：
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/095622-3vdsiw7p6f.png)
+
+第四堆：
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240723/095636-tjqyf4p8om.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -66,9 +98,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
-有友节活动
+ **有友节活动**
 
-7月17日-8月27日
+7月17日～8月27日
 
 四株双盘向日葵位置：云巢
 
@@ -94,7 +126,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图：云野 雨林 霞谷 暮土 禁阁**
 
- **7月17-7月24**
+ **7月17日～7月24日**
 
  **云野**
 
