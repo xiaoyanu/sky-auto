@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-07-25 13:53:04
+date: 2024-07-26 00:32:08
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -113,6 +113,24 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 第四株：
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/012418-qlf3b4g89s.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+ **旅行先祖**
+
+圣岛季——热血运动员
+
+复刻时间：7月25日早上6:00～7月29日中午12:00
+
+位置：云野·圣岛
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240725/221211-pil8b124jz.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240725/221217-hvy6g24nsl.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240725/221235-6mtn0csfr1.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
