@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-07-27 00:48:38
+date: 2024-07-27 07:23:22
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -134,7 +134,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 可多次参加比赛 可获得25枚奖牌代币
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/003807-djvrfc8p0i.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240727/005602-tqpgcjz5ak.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240726/005713-y2asvgclj0.jpg)
 
