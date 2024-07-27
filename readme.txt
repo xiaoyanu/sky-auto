@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-07-27 13:52:28
+date: 2024-07-28 00:29:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,43 +10,55 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **7月27日 星期六**
+ **7月28日 星期日**
 
- **禁阁**
+云野
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/003730-1ajghod8vs.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/002432-1plsjau4vo.jpg)
 
- **任务一：接受一位朋友的礼物 0/1**
+ **任务一：和朋友击掌 0/1**
 
 完成方法：
 
-接受好友赠送的 **爱心/心火** 即可完成
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/000524-rlofsngv80.jpeg)
+ **注：一级二级都可以完成**
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+2.找到对应季节向导，与季节向导完成击掌即可
+
+ **注：需要完成前置的剧情任务**
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/001042-uf98hrmoin.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/001051-bn34dqe5w9.jpg)
+
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁三层**
+ **位置：云野 圣岛**
 
- **先祖：礼貌学士 [站姿]**
+ **先祖：母语者[叫声]**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/000548-n6rhg4q9iy.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/001220-agpidwz7jt.jpg)
 
- **任务三：净化10株黑暗植物 0/1**
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/001230-2d0wngkasj.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/001240-7zqfssv8k9.jpg)
+
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-拿出心火光影燃烧10株黑暗植物即可完成
+1.点燃一堆大蜡烛
 
- **推荐地图：暮土 雨林 云野圣岛**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240726/000941-ssa738urqn.jpg)
+ **推荐地图：云野 霞谷 禁阁 遇境**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240726/000947-oyu9kz1fh7.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/001311-9hsp2ckr0d.jpg)
 
  **任务四：参加锦标赛**
 
@@ -68,23 +80,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **季节蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001005-sjv41ctqu9.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/001600-m4zy6nwkdu.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001047-yc8tm9b4zo.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/001609-j2on4a18h7.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001054-4uargl516m.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/001617-q3fa6djp1k.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001101-516lfssedu.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/001623-p9isbq8zeu.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -170,75 +182,73 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 兑换图
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240725/221235-6mtn0csfr1.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240727/180329-svpmwodnca.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **大蜡烛**
 
- **地图：云野 雨林 暮土**
+ **地图： 雨林 暮土 禁阁**
 
   
 
-云野
-
-第一堆
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001305-3v9icb4n2t.jpg)
-
-第二堆
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001312-npsmyjotcb.jpg)
-
-第三堆
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001318-5zot6kr3su.jpg)
-
-第四堆
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001324-dpe78bjwnz.jpg)
-
 雨林
 
-第一堆
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240725/234119-wnsvgj4i9q.jpg)
+第一堆![](https://img.166.net/reunionpub/ds/kol_server/20240728/000106-a3of8dthvk.jpg)
 
 第二堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240725/234125-i56w18lpvd.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/000125-r7pyc9eb4a.jpg)
 
 第三堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240725/234133-c19rotg25e.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/000134-6hofswpzy2.jpg)
 
 第四堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240725/234139-54kbs6t2gf.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/000142-0pnjqelwuh.jpg)
 
 暮土
 
 第一堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001339-8fucrbdmsp.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/000153-oqwzum0a1s.jpg)
 
 第二堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001345-b7q8s4asko.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/000158-eusyhl40vo.jpg)
 
 第三堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001351-7qv92gr83s.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/000204-hsirvefn2o.jpg)
 
 第四堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001358-9ceksuqtps.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/000210-n20c96buyw.jpg)
+
+禁阁
+
+第一堆
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/000223-8vumrbp5lg.jpg)
+
+第二堆
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/000229-6qykwonzm3.jpg)
+
+第三堆
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/000238-beo8hkmzdr.jpg)
+
+第四堆
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/000244-1ibnlcm7s5.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **返老还童x1 长大成人x1**
+ **体型重塑x1 绚丽彩虹x1**
 
  **魔法工坊**
 
@@ -252,7 +262,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001504-8smn3jzitq.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240727/235924-8ksy1uoj4r.jpg)
 
  **魔法商店**
 
@@ -260,7 +270,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/001454-7fipza26bh.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240727/235912-w8oinhv2et.jpg)
 
  **留言魔法：**
 
