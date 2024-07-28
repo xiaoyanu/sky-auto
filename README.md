@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-07-28 13:40:48
+date: 2024-07-29 00:30:00
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,55 +10,43 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **7月28日 星期日**
+ **7月29日 星期一**
 
-云野
+雨林
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/002432-1plsjau4vo.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240729/002105-ks1ye7hjgi.jpg)
 
- **任务一：和朋友击掌 0/1**
+ **任务一：向一位朋友招手 0/1**
 
-完成方法：
+ **完成方法：**
 
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
+ **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
 
- **注：一级二级都可以完成**
+ **注：1～6级招手动作均可完成**
 
-2.找到对应季节向导，与季节向导完成击掌即可
+![](https://img.166.net/reunionpub/ds/kol_server/20240729/000647-7so03iwl9v.jpeg)
 
- **注：需要完成前置的剧情任务**
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/001042-uf98hrmoin.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/001051-bn34dqe5w9.jpg)
-
- **任务二：在云野重温先祖的美好回忆 0/1**
+ **任务二：在雨林重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：云野 圣岛**
+ **位置：雨林 静谧庭院 第一扇门后方左侧**
 
- **先祖：母语者[叫声]**
+ **先祖：发抖开拓者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/001220-agpidwz7jt.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240729/000708-89sgj2lera.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/001230-2d0wngkasj.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/001240-7zqfssv8k9.jpg)
-
- **任务三：点燃20根蜡烛 0/20**
+ **任务三：收集30点烛光 0/30**
 
 完成方法：
 
-1.点燃一堆大蜡烛
+1.领取任务
 
-2.或点燃20根蜡烛即可完成
+2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
- **推荐地图：云野 霞谷 禁阁 遇境**
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/001311-9hsp2ckr0d.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240729/000722-5jkrem3nz8.jpeg)
 
  **任务四：参加锦标赛**
 
@@ -80,23 +68,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/001600-m4zy6nwkdu.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/233123-91lcvgosw0.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/001609-j2on4a18h7.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/233132-msow4d9ryk.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/001617-q3fa6djp1k.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/233142-eohw5749ag.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/001623-p9isbq8zeu.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/233151-s8qlvenw1a.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -140,13 +128,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 可获得 奖牌代币
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/003038-egyipmv84h.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240729/001101-8slwh5okiu.jpg)
 
  **参与运动会锦标赛获取**
 
 可多次参加比赛 可获得25枚奖牌代币
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/003722-q4gmbporws.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240729/001239-bshqkpvie3.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240726/005713-y2asvgclj0.jpg)
 
@@ -188,67 +176,33 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图： 雨林 暮土 禁阁**
+ **地图： 霞谷**
 
   
 
-雨林
-
-第一堆![](https://img.166.net/reunionpub/ds/kol_server/20240728/000106-a3of8dthvk.jpg)
-
-第二堆
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/000125-r7pyc9eb4a.jpg)
-
-第三堆
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/000134-6hofswpzy2.jpg)
-
-第四堆
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/000142-0pnjqelwuh.jpg)
-
-暮土
+位置
 
 第一堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/000153-oqwzum0a1s.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/233429-i6l3mqbc5s.jpg)
 
 第二堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/000158-eusyhl40vo.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/233437-sgapzief3v.jpg)
 
 第三堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/000204-hsirvefn2o.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/233444-a20hy6erbv.jpg)
 
 第四堆
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/000210-n20c96buyw.jpg)
-
-禁阁
-
-第一堆
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/000223-8vumrbp5lg.jpg)
-
-第二堆
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/000229-6qykwonzm3.jpg)
-
-第三堆
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/000238-beo8hkmzdr.jpg)
-
-第四堆
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/000244-1ibnlcm7s5.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/233451-86ofb7yt0r.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **体型重塑x1 绚丽彩虹x1**
+ **浪漫烟花x1**
 
  **魔法工坊**
 
@@ -262,7 +216,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/235924-8ksy1uoj4r.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/233355-7mku68ezbc.jpg)
 
  **魔法商店**
 
@@ -270,7 +224,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240727/235912-w8oinhv2et.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240728/233345-ziu5ect8by.jpg)
 
  **留言魔法：**
 
