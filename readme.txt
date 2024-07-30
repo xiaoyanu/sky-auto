@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-07-30 07:52:01
+date: 2024-07-30 13:28:44
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -20,7 +20,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法一 **：**
 
- **与4位玩家牵手即可完成**
+与4位玩家牵手即可完成
 
  **注：自己也算其中的四分之一**
 
@@ -60,13 +60,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240730/000448-eso0w6f5as.jpg)
 
- **任务四：参加锦标赛**
+ **任务四：参加锦标赛 0/1**
 
 完成方法：
 
 在落日竞技场指定位置参加锦标赛
 
- **位置：遇境/云巢/霞谷·落日竞技场**
+ **位置：霞谷 落日竞技场**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240726/011000-auwi1h6p8s.jpg)
 
@@ -80,23 +80,23 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/233123-91lcvgosw0.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240730/122243-3fnd9jp4ki.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/233132-msow4d9ryk.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240730/122255-0ni5psulw4.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/233142-eohw5749ag.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240730/122305-cnfhri5lwj.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240728/233151-s8qlvenw1a.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240730/122321-0hsc7lrvuq.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
