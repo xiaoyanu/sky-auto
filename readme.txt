@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-08-01 07:51:59
+date: 2024-08-01 13:27:58
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -84,19 +84,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240731/235756-k1s89q74pd.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240801/131725-61c7ydz5hr.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240731/235804-ivfcosh9g2.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240801/131740-zgesnmk5hy.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240731/235810-6qp2zys85h.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240801/131752-qaw4syfv7o.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240731/235817-wmk9b25jpa.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240801/131806-7b1gzhwqst.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -170,7 +170,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图： 禁阁**
+ **地图： 云野**
 
   
 
