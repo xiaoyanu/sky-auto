@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-08-14 07:51:23
+date: 2024-08-14 13:28:22
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -44,7 +44,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 靠近彩虹下的大蜡烛即可完成
 
- **位置：霞谷·霞光城**
+ **位置：霞谷 霞光城**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240814/005338-caid6l58sy.jpg)
 
@@ -68,19 +68,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240813/235730-ys4tvln0zg.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240814/062919-z5u6t3m20e.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240813/235739-qr6p8dmuy3.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240814/062927-5672iuzjtk.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240813/235746-jrhqi4zukn.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240814/062933-cmyw78ip4z.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240813/235752-5c4zyhb03m.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240814/062943-32v1c5ms68.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -94,19 +94,37 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 每周惊喜
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240808/224747-fh3d2a74ms.png)
+![](https://img.166.net/reunionpub/ds/kol_server/20240814/063227-m37polswui.png)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
-
-彩虹代币活动
-
-8月14日00:00-8月27日23:59
-
- **直接拾取获得**
+双生向日葵
 
 位置一
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240814/022527-ga1ds78wq2.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240814/080346-4gaq8s7wom.jpeg)
+
+位置二
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240814/022421-uzf2o94ies.jpeg)
+
+位置三
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240814/022429-aj3gtyliq5.jpeg)
+
+位置四
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240814/022440-mn1w687c2t.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+ **彩虹代币**
+
+活动时间：8月14日～8月27日
+
+ **直接拾取**
+
+位置一
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240814/080415-uqn9pwdomk.jpeg)
 
 位置二
 
@@ -120,35 +138,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240814/024713-308kqt7zrh.jpeg)
 
-位置五·云端浮岛
+位置五 浮岛
 
  **注：等彩虹能量满，开启向云端传送光柱，或和朋友背背白蜡一起上来**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240814/022547-7n21pscu3a.jpg)
 
- **兑换获得**
+ **货币兑换**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240814/022338-dqksgfsz1n.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
-
-有友向日葵
-
-位置一
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240814/022414-01bzan4yqf.jpeg)
-
-位置二
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240814/022421-uzf2o94ies.jpeg)
-
-位置三
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240814/022429-aj3gtyliq5.jpeg)
-
-位置四
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240814/022440-mn1w687c2t.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240814/075850-h58l0qsnk1.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
