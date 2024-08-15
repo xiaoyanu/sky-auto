@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-08-15 13:40:37
+date: 2024-08-16 00:31:23
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -42,7 +42,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 靠近彩虹下的大蜡烛即可完成
 
- **位置：暮土·失落方舟**
+ **位置：暮土 失落方舟**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240815/000305-iqhgsrl75z.jpeg)
 
