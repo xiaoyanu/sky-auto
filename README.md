@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-09-06 07:51:30
+date: 2024-09-06 13:30:55
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **云野**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240906/002242-n2zwrgeio5.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240906/103328-ryg0azou1m.jpeg)
 
  **任务一：接受一位朋友的礼物 0/1**
 
@@ -30,19 +30,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
-位置：云野 蝴蝶平原
+ **位置：云野 蝴蝶平原**
 
-先祖：彩纸表亲 [动作]
+ **先祖：彩纸表亲 [动作]**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240906/001237-fp9a63j4s8.jpeg)
 
  **任务三：净化10株黑暗植物 0/1**
 
- **完成方法：**
+完成方法：
 
 拿出心火光影燃烧10株黑暗植物即可完成
 
-推荐地图： **暮土 雨林 云野圣岛**  
+ **推荐地图：暮土 雨林 云野圣岛**  
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240906/001311-5pslq0fyoc.jpg)
 
@@ -50,7 +50,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **任务四：在仙乡的金塔下冥想 0/1**
 
- **完成方法** ：
+完成方法：
 
 点击坐下冥想并回答问题即可完成
 
