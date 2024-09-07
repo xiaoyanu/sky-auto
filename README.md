@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-09-07 07:52:50
+date: 2024-09-07 13:28:25
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -20,9 +20,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法：
 
- **1.点击好友找到击掌右边的礼物花费3根普通蜡烛并送给对方爱心后即可完成**
+1.点击好友找到击掌右边的礼物花费3根普通蜡烛并送给对方爱心后即可完成
 
- **2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标花费3根普通蜡烛完成送礼即可**
+2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标花费3根普通蜡烛完成送礼即可
 
  **[第一种 二种任选其一完成即可]**
 
@@ -41,8 +41,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **位置：雨林 荧光森林 密林遗迹等**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240907/000705-kysc86u0ph.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240907/000713-6fqcjiu2sw.jpeg)
 
  **任务三：净化10株黑暗植物 0/1**
 
@@ -92,9 +90,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-禁阁
+ **禁阁**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：星光沙漠
 
@@ -105,6 +103,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **获取货币** ：升华蜡烛
 
  **注：此坠落点可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240907/084926-4o9t2wr0qu.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240906/234131-pa53mnfjc7.jpeg)
 
