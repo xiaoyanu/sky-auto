@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-09-10 00:33:41
+date: 2024-09-10 00:48:49
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -18,13 +18,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240910/000832-veyjbhcqli.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240910/004033-7s3ksl0cdu.png)
 
  **任务二：在禁阁重温先祖的美好回忆 0/1**
 
@@ -34,7 +34,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁一层  **
 
- **先祖：祈祷圣徒[动作]**
+ **先祖：祈祷圣徒 [动作]**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240910/000852-79fn5zs2li.jpeg)
 
@@ -92,7 +92,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **冷却碎片 [黑石]**
 
- **具体位置** ： **滑冰场**
+ **具体位置** ：滑冰场
 
  **坠落时间** ：9、14、19小时的08分40秒左右～50分
 
@@ -102,9 +102,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点不可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240910/000120-py42tkfq1v.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240910/000126-5qkjs2l6oe.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240910/004126-93kwe5gus1.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
