@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-09-12 00:49:31
+date: 2024-09-12 07:26:04
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -36,11 +36,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：雨林 幽谷山洞**
+ **位置：雨林 地下溶洞**
 
- **先祖：蓬头青年[动作]**
+ **先祖：蓬头青年 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240912/000607-sqc0fsbd64.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240912/010028-db2wc5klz8.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240912/010036-kfjhroz2w9.jpeg)
 
  **任务三：收集30点烛光 0/30**
 
