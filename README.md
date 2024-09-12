@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-09-13 00:50:41
+date: 2024-09-13 07:26:54
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -46,7 +46,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240913/000720-p0fgbdyce5.jpeg)
 
- **任务三 健忘说书人在圆梦村，需要你的帮助**
+ **任务三：健忘说书人在圆梦村，需要你的帮助 0/1**
 
 完成方法：
 
@@ -58,7 +58,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240913/002715-5p0nhgss93.jpg)
 
- **位置：霞谷 圆梦村**
+ **任务四：在滑冰场旁冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：霞谷 滑冰场**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240913/001136-k614ovcyme.jpeg)
 
