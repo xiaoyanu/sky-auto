@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-09-17 00:50:54
+date: 2024-09-17 07:22:45
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **雨林**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240917/002852-5o2vk38sei.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240917/005416-8zhkcmsts1.jpg)
 
  **任务一：和朋友击掌 0/1**
 
@@ -98,7 +98,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 秋宵节活动时间：9月15日～9月28日
 
-活动场景：九色家园
+活动场景：九色鹿的家园
 
  **直接拾取  每日2枚**
 
