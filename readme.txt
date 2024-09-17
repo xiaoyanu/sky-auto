@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-09-18 00:49:31
+date: 2024-09-18 07:28:07
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -44,13 +44,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法：
 
-前往 [圆梦村]，找到健忘说书人接取任务，帮其找到遗忘的笔记本
+前往 [圆梦村]，找到健忘说书人接取任务，帮其将道具交给谦虚舞者
 
  **位置：霞谷 圆梦村**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240918/000557-sk4rglqeho.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240918/000611-up5ochs8qr.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240918/005140-29vy8obuf7.jpg)
 
  **任务四：在霞光城拱门上冥想 0/1**
 
