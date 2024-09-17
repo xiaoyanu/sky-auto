@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-09-18 00:33:33
+date: 2024-09-18 00:49:31
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -22,7 +22,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 和陌生玩家一起坐在石凳上即可完成
 
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳  秋宵节活动期间亦可在九色家园内和陌生人一起**
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240918/003856-qgtbmdyn30.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240918/000319-kbl7gfwscn.jpg)
 
