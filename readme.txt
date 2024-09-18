@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-09-18 07:41:16
+date: 2024-09-18 13:29:48
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -38,9 +38,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：自豪冠军 [站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240918/000348-j80pu9grat.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240918/083634-6ejpu0bno4.png)
 
- **任务三 健忘说书人在圆梦村，需要你的帮助**
+ **任务三 健忘说书人在圆梦村，需要你的帮助 0/1**
 
 完成方法：
 
@@ -90,13 +90,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-云野
+ **云野**
 
  **冷却碎片 [黑石]**
 
- **具体位置** ：云中仙乡 锦鲤池旁
+ **具体位置** ：云中仙乡
 
- **坠落时间** ：9、15、21小时的08分40秒左右～50分
+**坠落时间** ：9、15、21小时的08分40秒左右～50分
 
  **清理方式** ：净化黑石碎片周围黑暗植物即可
 
@@ -104,7 +104,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点不可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240918/000155-j9pleazcn7.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240918/083719-5ptsw4me8v.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
