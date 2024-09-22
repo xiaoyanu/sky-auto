@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-09-23 00:48:03
+date: 2024-09-23 07:26:33
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -20,7 +20,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作  **面对好友**  点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
@@ -56,9 +56,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240923/002319-fd0ukszvoh.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240923/010748-tb8ao3lg9q.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240923/002325-shuajfbm21.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240923/010824-evqf20j916.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
