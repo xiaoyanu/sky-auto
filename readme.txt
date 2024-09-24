@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-09-25 00:34:33
+date: 2024-09-25 00:50:07
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -40,9 +40,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁三层**
 
- **先祖：礼貌学士 [站姿]**
+ **先祖：礼貌学者 [站姿]**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240925/000429-561hcgjtsq.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240925/004307-19iswutmhr.jpeg)
 
  **任务三：掀翻5只螃蟹 0/5**
 
@@ -76,7 +76,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240924/234134-p1jnti9b7u.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240925/004346-sb5d0f3e1n.png)
 
 第三堆：
 
@@ -90,11 +90,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-霞谷
+ **霞谷**
 
  **冷却碎片 [黑石]**
 
- **具体位置** ： **滑冰场**
+ **具体位置** ：滑冰场
 
  **坠落时间** ：9、15、21小时的08分40秒左右～50分
 
@@ -104,9 +104,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点不可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20240924/234314-td7hprmnoa.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240924/234320-yrcbkp6qon.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20240925/004423-u6sczi4edp.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
