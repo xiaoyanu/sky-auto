@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-09-28 00:50:22
+date: 2024-09-28 07:25:48
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -42,7 +42,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 前往 [圆梦村]，找到 **忙碌舞台管理员** 接取任务后，帮其找到 **老练音乐家** 领到其身边即可
 
-**位置：霞谷 圆梦村**
+ **位置：霞谷 圆梦村**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240928/002259-075tl9dwge.jpg)
 
@@ -119,6 +119,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/ds/kol_server/20240915/004647-uc5hs1jk0b.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240915/011218-pnbtc5m6gl.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+ **旅行先祖**
+
+表演季——老练音乐家
+
+复刻时间：9月28日早上6:00～10月02日中午12:00
+
+位置：霞谷 圆梦村剧场
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240928/004044-yh2p18fal0.jpg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240928/023728-9k08yuroqb.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
