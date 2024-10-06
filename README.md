@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-07 00:48:14
+date: 2024-10-07 07:26:05
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -48,13 +48,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法：
 
-来到老奶奶的餐桌附件即可完成
+来到老奶奶的餐桌附近即可完成
 
  **位置：雨林 秘密花园**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241007/002847-9q3nr6fsh8.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20241007/002855-8z9ebu3agj.jpg)
 
  **任务四：在雨林的神庙内冥想 0/1**
 
@@ -62,7 +60,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林神庙[终点] 后方花园**
+ **位置：雨林神庙 [终点] 后方花园**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241007/002910-yqcldizu9p.jpg)
 
@@ -108,9 +106,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **互动收集**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241007/004103-glfyh7samo.jpg)
-
 观看秀台留影：完整观看其他旅人留影，可获得一枚代币
+
+![](https://img.166.net/reunionpub/ds/kol_server/20241007/004103-glfyh7samo.jpg)
 
 **货币兑换**![](https://img.166.net/reunionpub/ds/kol_server/20241001/014546-t18m5as9re.jpg)
 
@@ -122,17 +120,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 复刻时间：10月3日早上6:00～10月7日中午12:00
 
-位置：暮土 巨兽荒原[一龙图]
+位置：暮土 巨兽荒原 [一龙图]
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241003/235704-stezvmq89r.jpg)
 
 兑换图
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241003/235732-j8nsiwgqmo.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241007/054847-drv350tnzu.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
-
-  
 
  **大蜡烛**
 
