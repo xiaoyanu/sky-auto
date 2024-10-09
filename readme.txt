@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-09 13:47:53
+date: 2024-10-10 00:33:26
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,61 +10,57 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 免费魔法**
 
- **10月9日 星期三**
+ **10月10日 星期四**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/002622-hokbuz2a3s.jpg)
+![](https://img.166.net/reunionpub/1_kol_20241010_3ef7657a84cae389ac1f7abe2a9ffdf5.jpeg)
 
- **任务一：和朋友击掌 0/1**
+ **任务一：在风格舞台的神坛处查看留影 0/1**
 
 完成方法：
 
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
+在风格舞台神坛处查看任意留影即可完成
 
- **注：一级二级都可以完成**
+ **位置：遇境随机传送至风格舞台**
 
-2.找到对应季节向导，与季节向导完成击掌即可
+![](https://img.166.net/reunionpub/1_kol_20241010_3a24fdac1e41001c7acf215f43d13c30.jpeg)
 
- **注：需要完成前置的剧情任务**
+![](https://img.166.net/reunionpub/1_kol_20241010_c66c5aee37d5d1140955e14cf5f8d02a.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/001427-swvme8cjt6.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/001432-ebfh2c6inw.jpg)
-
- **任务二：在暮土重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 一龙图**
+位置： **禁阁二层**  [ **四人门内左侧柱子后方** ]
 
- **先祖：无畏士兵 [站姿]**
+先祖： **气功高人/移物学者 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/001453-3nhvog2szm.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241010/001439-cm1o6rq2u0.jpg)
 
- **任务三：更换您的裤子 0/1**
+![](https://img.166.net/reunionpub/ds/kol_server/20241010/001445-uacq8gdt74.jpg)
+
+ **任务三：收集30点烛光 0/30**
 
 完成方法：
 
-在服饰神坛的裤子更换处，任意更换一条裤子即可完成
+1.领取任务
 
- **位置：遇境 云巢等**
+2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/002742-d87of6vsgm.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241010/001457-y1t974e65z.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/002943-nat4zj0ksm.jpg)
-
- **任务四：在远古战场中央冥想 0/1**
+ **任务四：在禁阁顶层神坛旁冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 远古战场 [三龙图]**
+ **位置：禁阁顶层**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/002302-5bdfe49gmc.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241010/001520-mryni1su5p.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -104,35 +100,37 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241009/011503-8fadne5lc0.jpg)
 
+![](https://img.166.net/reunionpub/ds/kol_server/20241009/235223-8sweughpm6.jpg)
+
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 位置
 
 第一堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/000618-23zob8dyqp.jpg)
+![](https://img.166.net/reunionpub/1_kol_20241009_23e6c35c1e5358797b66666a91e8f9fb.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/000625-pzehqjn816.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241009/235339-rcgan78dm6.jpg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/000632-p1vrc7023o.jpg)
+![](https://img.166.net/reunionpub/1_kol_20241009_3ad62aa9551c8417e55884b1fe29111c.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/000638-1pum9z3ig7.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241009/235353-m0w2li4c9v.jpg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法工坊**
 
@@ -146,7 +144,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/000755-w82hmz6svb.jpg)
+![](https://img.166.net/reunionpub/1_kol_20241009_b9a4bc2bc1db9c5cbaedf76ef97a63b8.jpeg)
 
  **魔法商店**
 
@@ -154,7 +152,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/000745-72b3po5ws6.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241009/235415-y7rvdulb4p.jpg)
 
  **留言魔法：**
 
