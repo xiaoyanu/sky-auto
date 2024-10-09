@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-10 00:50:20
+date: 2024-10-10 07:27:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **禁阁**
 
-![](https://img.166.net/reunionpub/1_kol_20241010_3ef7657a84cae389ac1f7abe2a9ffdf5.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241010/070228-g0l1nsjdo4.jpeg)
+
+  
 
  **任务一：在风格舞台的神坛处查看留影 0/1**
 
@@ -24,9 +26,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：遇境随机传送至风格舞台**
 
-![](https://img.166.net/reunionpub/1_kol_20241010_3a24fdac1e41001c7acf215f43d13c30.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241010/070228-scsdpua9i1.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241010_c66c5aee37d5d1140955e14cf5f8d02a.jpeg)
+  
+
+![](https://img.166.net/reunionpub/1_kol_20241010_13556193c591e092bc2ea365065b4a30.jpeg)
+
+  
 
  **任务二：在禁阁重温先祖的美好回忆 0/1**
 
@@ -100,8 +106,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241009/011503-8fadne5lc0.jpg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241009/235223-8sweughpm6.jpg)
-
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **大蜡烛**
@@ -112,7 +116,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第一堆：
 
-![](https://img.166.net/reunionpub/1_kol_20241009_23e6c35c1e5358797b66666a91e8f9fb.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241010_8446f06cd97abec901cd9c900c6510e7.jpeg)
+
+  
 
 第二堆：
 
@@ -120,7 +126,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第三堆：
 
-![](https://img.166.net/reunionpub/1_kol_20241009_3ad62aa9551c8417e55884b1fe29111c.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241010/070228-bhv3sg7r0c.jpeg)
+
+  
 
 第四堆：
 
@@ -144,7 +152,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20241009_b9a4bc2bc1db9c5cbaedf76ef97a63b8.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241010/070228-bt1q4a6iov.jpeg)
+
+  
 
  **魔法商店**
 
