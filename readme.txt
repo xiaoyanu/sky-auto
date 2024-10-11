@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-12 00:33:33
+date: 2024-10-12 00:49:48
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -52,11 +52,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241012/003256-7su63ho9v2.jpeg)
 
-  
-
 ![](https://img.166.net/reunionpub/ds/kol_server/20241012/003256-birq1lwfu5.jpeg)
-
-  
 
  **任务四：在静谧庭院外冥想 0/1**
 
@@ -138,9 +134,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第四堆：
 
-![](https://img.166.net/reunionpub/1_kol_20241012_4564d386b40a7c4e5617dc3d91e07ebb.jpeg)
-
-  
+![](https://img.166.net/reunionpub/ds/kol_server/20241012/003438-tkm2ijhgv3.jpeg)
 
 雨林
 
@@ -176,9 +170,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 第四堆：
 
-![](https://img.166.net/reunionpub/1_kol_20241012_420fb48c94354c8f4eee922b80c5d4d9.jpeg)
-
-  
+![](https://img.166.net/reunionpub/ds/kol_server/20241012/003438-20sknsc3we.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
@@ -207,8 +199,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241012/003256-cjgu97bo8i.jpeg)
-
-  
 
  **留言魔法：**
 
