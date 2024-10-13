@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-13 07:51:35
+date: 2024-10-13 13:29:59
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,17 +12,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **10月13日 星期日**
 
-霞谷
+ **霞谷**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241013/002859-6az4ys5k0j.jpg)
 
- **任务一：在风格舞台的神坛处查看留影 0/1**
+ **任务一：在风格舞台的神坛处录制留影 0/1**
 
 完成方法：
 
 在风格舞台神坛处查看任意留影即可完成
 
- **位置：遇境随机传送至风格舞台**
+ **位置：禁阁顶层**
+
+ **注：可在遇境/云巢活动商店与活动向导传送至活动地点**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241013/002136-ej9n8gplo4.jpg)
 
@@ -32,11 +34,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：霞谷 竞技场**
+ **位置：霞谷 落日竞技场**
 
- **先祖：叫好观众[动作]**
+ **先祖：叫好观众 [动作]**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241013/002501-spygd9bk8n.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241013/103220-4elp5d6k3v.png)
 
  **任务三：掀翻5只螃蟹 0/5**
 
@@ -64,9 +66,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  ****
 
-云野
+**云野**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：圣岛
 
@@ -78,11 +80,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/1_kol_20241013_b6b63e453b6d8ef85d76f73bf36fe8a9.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20241012/235954-ayqw86mlou.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20241013/000028-cfpz8uj5s1.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241013/103301-r39d782s0g.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
