@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-15 00:33:47
+date: 2024-10-15 00:51:10
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -46,7 +46,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241015/001738-bltgams0oh.jpg)
 
-![](https://img.166.net/reunionpub/1_kol_20241015_4de27622240b864ecada69f548247c24.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241015_773f951e5083d6d2a6e8d9025c12f7ac.jpeg)
 
  **任务四：收集紫色光芒 0/1**
 
