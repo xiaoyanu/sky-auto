@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-16 07:40:44
+date: 2024-10-16 13:30:50
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -50,7 +50,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：雨林 密林遗迹**
 
  **1.密林遗迹入口亭子右侧**
 
@@ -78,7 +78,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：云野 云峰**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241016/000620-agyvcriejs.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241016/110949-nk5l0c4gqt.jpeg)
 
  **任务四：在云顶浮石上冥想 0/1**
 
@@ -96,9 +96,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
- ****
+ **暮土**
 
-无
+ **冷却碎片 [黑石]**
+
+ **具体位置：** 远古战场
+
+ **坠落时间：** 9、15、21小时的08分40秒左右～50分
+
+ **清理方式：** 净化黑石碎片周围黑暗植物即可
+
+ **获取货币：** 烛光 [普通蜡烛/白蜡烛]
+
+ **注：此坠落点不可完成 [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/ds/kol_server/20241016/111116-q2mzsi5kcy.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
