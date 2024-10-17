@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-17 13:47:53
+date: 2024-10-18 00:35:23
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -69,6 +69,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 无
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+ **旅行先祖**
+
+预言季——土先知
+
+复刻时间：10月17日早上6:00～10月21日中午12:00
+
+位置：晨岛 预言山谷
+
+![](https://img.166.net/reunionpub/ds/kol_server/20241017/225512-hp9sonuw0b.jpg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/ds/kol_server/20241017/230307-r560iavlq4.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20241017/224955-rb163mncvt.png)
 
 集体复刻
 
@@ -167,4 +183,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 3.禁阁 星光沙漠
 
  **![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)**
+
+100.00%
+
+  
 
