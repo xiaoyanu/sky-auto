@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-18 07:40:41
+date: 2024-10-18 13:30:49
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,33 +8,23 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-**每日任务 大蜡烛 免费魔法**
+**每日任务 大蜡烛 季节蜡烛 免费魔法**
 
  **10月18日 星期五**
 
  **霞谷**
 
-![](https://img.166.net/reunionpub/1_kol_20241018_1cefb50d47a7167ae76366b4a47049ff.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241018/105514-f3abs48hud.jpeg)
 
- **任务一：2人合力开启一道门 0/1**
+ **任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-两位玩家协力开启一道门即可完成
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
- **推荐位置：**
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
- **云野 云中仙乡**
-
- **霞谷 滑冰场**
-
- **禁阁 档案阁入口**
-
-![](https://img.166.net/reunionpub/1_kol_20241018_23ff9f6188763b6f71799e097e1dcc91.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20241018/001640-k1dcyu25fm.jpg)
-
-![](https://img.166.net/reunionpub/1_kol_20241018_35d1cdb96b5259be306a47080fc360b2.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241018/104436-qs93aobu01.png)
 
  **任务二：在霞谷重温先祖的美好回忆 0/1**
 
@@ -42,43 +32,51 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：霞谷 滑冰场 山洞口里侧**
-
- **先祖：抛球杂耍 [动作]**
-
-![](https://img.166.net/reunionpub/1_kol_20241018_fcbb6511d84595e1d8b5014cc7d89416.jpeg)
-
- **任务三：老练音乐家在圆梦村剧场需要你的帮助 0/1**
-
-完成方法：
-
-前往 [圆梦村]，找到老练音乐家接取任务后，坐在旁边即可
-
- **位置：霞谷 圆梦村**
-
-![](https://img.166.net/reunionpub/ds/kol_server/20241018/003046-u9dclw0qva.jpg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20241018/003033-m37vnibpao.jpg)
-
- **任务四：在霞光城拱门上冥想 0/1**
-
-完成方法：
-
-点击坐下冥想并回答问题即可完成
-
  **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/1_kol_20241018_58257da34446d599e19d823f11e372c9.jpeg)
+ **先祖：倒立运动员 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20241018_26b3c7ba997e0e90a030343fb534a585.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241018/104543-w5vdb4qscr.png)
+
+ **任务三：健忘说书人在圆梦村等你，它需要你帮忙回忆起一个故事....   0/1**
+
+完成方法：
+
+前往 [圆梦村] 找到健忘说书人查看提示 (拍摄一张你和花滑雕塑的照片) 使用留影相机选择固定模式站在雕塑前拍照即可
+
+ **注：完成拍照后需再次找到健忘说书人提交**
+
+![](https://img.166.net/reunionpub/ds/kol_server/20241018/105942-ieqrph7nfk.png)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20241018/123653-afdore4183.jpeg)
+
+ **任务四：收集蓝色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：霞谷 滑冰场**
+
+![](https://img.166.net/reunionpub/ds/kol_server/20241018/100251-42rtkipgl3.jpg)
+
+![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
+
+ **季节蜡烛**
+
+ **地图：霞谷**
+
+ **位置：B组**
+
+![](https://img.166.net/reunionpub/ds/kol_server/20241018/101212-4ebtfmyw9z.jpg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **伊甸之眼坠落碎片位置**
 
-云野
+ **云野**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：云顶浮石
 
@@ -90,9 +88,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241018/003631-i9g4sdc87y.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241018/111351-7oin53ma9q.png)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241018/003601-dovklcnu7f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241018_73328ddcf061ea4e2db9c747b856c4fc.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -102,11 +100,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 复刻时间：10月17日早上6:00～10月21日中午12:00
 
-位置：晨岛 预言山谷
+ **位置：晨岛 预言山谷**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241017/225512-hp9sonuw0b.jpg)
 
-兑换图
+ **兑换图**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241017/230307-r560iavlq4.jpg)
 
@@ -245,8 +243,4 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 3.禁阁 星光沙漠
 
  **![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)**
-
-100.00%
-
-  
 
