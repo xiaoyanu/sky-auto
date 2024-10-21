@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-21 07:53:05
+date: 2024-10-21 13:30:47
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -32,7 +32,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：云野 圣岛**
 
- **先祖：母语者[叫声]**
+ **先祖：母语者 [叫声]**
 
 ![](https://img.166.net/reunionpub/1_kol_20241021_4b825c78fab04d0762d03aeed2eb79b9.jpeg)
 
@@ -42,11 +42,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
-完成方法一：
+完成方法1：
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：雨林 密林遗迹**
 
  **1.密林遗迹入口亭子右侧**
 
@@ -58,7 +58,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241021/000552-ft4ywm60ng.jpeg)
 
-完成方法二：
+完成方法2：
 
 找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
 
@@ -68,13 +68,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241021/000607-2qf1tzjd46.jpeg)
 
-完成方法三：
+完成方法3：
 
-接触沙滩上的鲲鳐幼仔即可完成
+靠近沙滩上的遥鲲幼仔即可完成
 
  **位置：云野 云峰**
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241021/000627-ykmzqlhtgn.jpg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241021/114332-ofvgshtadq.jpeg)
 
  **任务四：在仙乡的金塔下冥想 0/1**
 
@@ -82,7 +82,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：云野 云中仙乡   [三塔图]**
+ **位置：云野 云中仙乡  [三塔图]**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241021/000705-0yvedn913z.jpeg)
 
