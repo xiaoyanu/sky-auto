@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-22 00:52:15
+date: 2024-10-22 07:26:44
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -18,9 +18,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
@@ -38,7 +38,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241022_d73aa1ceb88e7ea5e5749571571657f7.jpeg)
 
-![](https://img.166.net/reunionpub/ds/kol_server/20241022/000243-p3uztvyodi.jpeg)
+![](https://img.166.net/reunionpub/ds/kol_server/20241022/035319-s3sg9vkmzr.jpeg)
 
  **任务三：净化10株黑暗植物 0/1**
 
@@ -58,7 +58,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林神庙[终点] 后方花园**
+ **位置：雨林神庙 [终点] 后方花园**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20241022/000330-703zb154ed.jpg)
 
