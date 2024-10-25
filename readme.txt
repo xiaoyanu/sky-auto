@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-26 00:50:39
+date: 2024-10-26 07:26:28
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -18,13 +18,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/1_kol_20241026_c0f778c140e53f075765e78914f5fdf7.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241026_64e06fa02bbd35bde8cd938fc5ac1dea.png)
 
  **任务二：在云野重温先祖的美好回忆 0/1**
 
@@ -77,16 +77,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **伊甸之眼坠落碎片位置**
 
 无
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
-
- **恶作剧之日活动代币**
-
- **10月26日0:00:00-11月15日23:59:59**
-
- **收集代币烛火：可获得5枚糖果代币**
-
-![](https://img.166.net/reunionpub/1_kol_20241026_08c447a5f721e158621e2f5922d27a16.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
