@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-10-27 00:48:13
+date: 2024-10-27 07:25:42
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -24,7 +24,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/1_kol_20241027_e9d4cba2bf38fb0723930a2d9fc74a7f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241027_b044b2271c7b2a121484f292f9c6fa76.png)
 
  **任务二：在雨林重温先祖的美好回忆 0/1**
 
@@ -74,35 +74,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
-恶作剧之日活动代币
-
-10月26日-11月15日
-
- **收集烛火：可获得5枚糖果代币**
-
-![](https://img.166.net/reunionpub/1_kol_20241027_5bb021864dead11cb828ba5410c632b2.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241027_ce74cb29fcca8225c26c49b5cf4f9649.jpeg)
-
- **活动免费魔法**
-
- **位置：云巢**
-
-![](https://img.166.net/reunionpub/1_kol_20241027_7a513d33671239aa19bf525ab57cf5a9.jpeg)
-
- **兑换图**
-
- **﻿位置：云巢**
-
-![](https://img.166.net/reunionpub/1_kol_20241027_72324cfe9ec72799f815382c75c10987.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
-
  **伊甸之眼坠落碎片位置**
 
-禁阁
+ **禁阁**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：星光沙漠
 
@@ -113,6 +89,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **获取货币** ：升华蜡烛
 
  **注：此坠落点可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/1_kol_20241027_1d899e078398be5c0e2f531c1a4e0558.png)
 
 ![](https://img.166.net/reunionpub/1_kol_20241026_915be41bcafd598a695cc42c81f259fe.jpeg)
 
