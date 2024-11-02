@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-03 00:49:42
+date: 2024-11-03 07:27:23
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -56,11 +56,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土 巨兽荒原 [四龙图]**
 
-![](https://img.166.net/reunionpub/1_kol_20241103_e777b17fee52320a6181016134d4e1c2.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241103_7ea81d2f04cc900d60a82d9e95348677.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241103_1b8a26f3df06ed6b27ceaedb3fccc785.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241103_9f5f6b0bee7d70b0ed3f4d5ef1754dc8.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241103_b648cf9e76ac55a2238d01c2cb0c4d28.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -78,7 +76,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **云野**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：圣岛
 
@@ -91,52 +89,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **注：此坠落点可完成  [破晓季] 季节任务**
 
 ![](https://img.166.net/reunionpub/1_kol_20241102_a268f0323e85441cffc7e6906e0ee5d6.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241102_8aac55234163ee577bab0821e1f052a6.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241102_285507b52e0a240ad80877bc868ef4d8.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241102_3d0a954bbdef9c161e76a7fa3abde6c8.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
-
- **旅行先祖**
-
-集结季——胆小鬼学员
-
-复刻时间：10月31日早上6:00～11月4日中午12:00
-
- **位置：雨林 荧光森林**
-
-![](https://img.166.net/reunionpub/1_kol_20241102_ee5aa5264d1c0b4076e7d56fdd10af03.jpeg)
-
- **兑换图**
-
-![](https://img.166.net/reunionpub/1_kol_20241102_0a2cedb6a931ff65912802a2579c10a9.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
-
- **恶作剧之日活动代币**
-
-10月26日-11月15日
-
- **收集烛火：可获得5枚糖果代币**
-
-![](https://img.166.net/reunionpub/1_kol_20241102_404aad17502b239d5778fc6d07bac089.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241102_7adcbeb47c87cd5e1f32b0b26d1c359e.jpeg)
-
- **活动免费魔法**
-
- **位置：云巢**
-
-![](https://img.166.net/reunionpub/1_kol_20241102_e23e3cff2a2364fac0030456f60deadc.jpeg)
-
- **兑换图**
-
- **﻿位置：云巢**
-
-![](https://img.166.net/reunionpub/1_kol_20241102_f9b0c0fec64c23f7efd49a6f92448734.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
