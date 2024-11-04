@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-04 07:40:34
+date: 2024-11-04 13:30:56
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -44,7 +44,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241104_39f14812ae90f6378e63da2247f8fa3b.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241104_1cc2994978dc2b1d8d77e9501da09afc.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241104_05da20b8cb3edec97573db049fbae4f2.jpeg)
 
  **任务三：掀翻5只螃蟹 0/5**
 
