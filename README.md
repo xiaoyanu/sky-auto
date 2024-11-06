@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-07 00:51:15
+date: 2024-11-07 07:25:26
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -50,7 +50,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 前往 [圆梦村]，找到 **谦虚舞者** 领取任务，给 **谦虚舞者** 拍3张照片，帮助它改善表演
 
-**位置：霞谷 圆梦村**
+ **位置：霞谷 圆梦村**
 
 ![](https://img.166.net/reunionpub/1_kol_20241107_28e15f80019de35932d4f883118d3576.jpeg)
 
@@ -64,9 +64,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/1_kol_20241107_7391e01578540b6c30b5246b482fb9b6.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241107_aee2f49d2cb9d3ddd41e9b11136a614e.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241107_abb93aff03ac4f376a0cd074bb2f6efd.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241107_f231da8b2e7053337cfe3a9cd26e84ed.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
