@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-14 00:51:01
+date: 2024-11-14 07:26:02
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -16,7 +16,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241114_6ab0bf14f7214ea1425cc2fe25d9e311.jpeg)
 
- **任务一：给一位朋友送礼 0/1**
+  *  **任务一：给一位朋友送礼 0/1**
 
 完成方法：
 
@@ -30,61 +30,61 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241114_b905906651bf269b7604fc237290115d.jpeg)
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+  *  **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁四层  **
+ **位置：禁阁四层**
 
- **先祖：拳礼武僧[动作]**
+ **先祖：拳礼武僧 [动作]**
 
 ![](https://img.166.net/reunionpub/1_kol_20241114_c2b0ab62736fc8960dd444bc5ec33e3c.jpeg)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+  *  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
-完成方法一：
+完成方法1：
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：**
 
- **1.密林遗迹入口亭子右侧**
+ **雨林 密林遗迹**
+
+ **1.密林遗迹中间亭子下方**
 
  **2.密林遗迹右侧矿洞前**
 
  **注：共有两处随机拯救一只即可完成**
 
-![](https://img.166.net/reunionpub/1_kol_20241114_70cdaa48fd5fb5375959edcf26e5d26d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241114_21a6368555364f142ca06efeb9a77fa9.png)
 
-![](https://img.166.net/reunionpub/1_kol_20241114_5eab15baa5fec4586bfb9c9af72a7762.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241114_b0fb9ec2d5648a5b65fafc2e807c92ee.png)
 
-完成方法二：
+完成方法2：
 
 找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
 
  **位置：雨林 风行网道**
 
-![](https://img.166.net/reunionpub/1_kol_20241114_f4ce03c6bdc1338dc965de38865bb6f5.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241114_377350fcc23e25d8533e185634bfd207.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241114_54e6cf6f16d5fa7efe25a9b399271d2d.jpeg)
+完成方法3：
 
-完成方法三：
-
-接触沙滩上的鲲鳐幼仔即可完成
+靠近沙滩上的遥鲲幼仔即可完成
 
  **位置：云野 云峰**
 
-![](https://img.166.net/reunionpub/1_kol_20241114_0781331e07d264f6a6cf0e2a1120f795.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241114_907edb73f8cccf5f56f5dcf166ac0cab.jpeg)
 
- **任务四：在禁阁追逐散落的星光 0/1**
+  *  **任务四：在禁阁追逐散落的星光 0/1**
 
 完成方法：
 
 靠近星光即可完成
 
- **位置：禁阁一层**
+ **位置：禁阁一层/禁阁大厅**
 
 ![](https://img.166.net/reunionpub/1_kol_20241114_02e6d555cbb0c78afef3cae5e9993388.jpeg)
 
@@ -142,7 +142,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **漂浮魔法x1**
 
- **魔法畅享：浪漫烟花×2 绚丽彩虹×2 璀璨之星×2**
+ **魔法畅享：光能药剂×2 元气满满魔法×2**
 
 ![](https://img.166.net/reunionpub/1_kol_20241111_b79c2e9a95d6b42af4a0e2f3aba0aeee.png)
 
@@ -174,7 +174,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 云巢·魔法商店 需完成 [归巢季] 季节任务二
 
-![](https://img.166.net/reunionpub/ds/kol/20240104/233540-rs5n8klws2.jpg)
+![](https://img.166.net/reunionpub/1_kol_20241114_f49a1660bda6bbbf236a66742a517d15.png)
 
  **留影魔法：**
 
@@ -182,13 +182,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-![](https://img.166.net/reunionpub/ds/kol/20240428/232643-hrkcnvb1jq.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241114_df085ae1ffe6124a91be894305a75b54.jpeg)
 
  **球玩魔法：**
 
 位置：圆梦村
 
- **![](https://img.166.net/reunionpub/ds/kol/20231014/005022-4hnlvzm7iu.png)**
+![](https://img.166.net/reunionpub/1_kol_20241114_fe7f834ee8d5f2e2abc828a14fa10870.png)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)**
 
@@ -198,13 +198,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 1.云野 圣岛
 
-**![](https://img.166.net/reunionpub/ds/kol/20231220/071109-so6aef3jyr.jpeg)**
+![](https://img.166.net/reunionpub/1_kol_20241114_d3ab2a60b74e81a2f1ca25e32a872077.jpeg)
 
 2.霞谷 音乐商店 二楼
 
-**![](https://img.166.net/reunionpub/ds/kol/20231220/071120-naym3f5u4g.jpeg)**
+![](https://img.166.net/reunionpub/1_kol_20241114_c847c1ccc28766421e8613dde03b97b5.jpeg)
 
 3.禁阁 星光沙漠
 
- **![](https://img.166.net/reunionpub/ds/kol/20231220/071136-p6b05krfu4.png)**
+![](https://img.166.net/reunionpub/1_kol_20241114_b3ef53b52de5968f0c39b6831ceed2e1.png)
+
+ **![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)**
+
+ **注解**
+
+>  **好友星盘**
+
+![](https://img.166.net/reunionpub/1_kol_20241114_5239da62d41ee523c85e956a47f11537.jpeg)
 
