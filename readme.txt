@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-15 07:42:19
+date: 2024-11-15 13:30:39
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -182,7 +182,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大只佬x1 小不点x1**
 
- **魔法畅享：光能药剂×2 元气满满魔法×2**
+ **魔法畅享：篝火×2 浪漫秋千×2 畅谈长桌×2**
 
 ![](https://img.166.net/reunionpub/1_kol_20241111_b79c2e9a95d6b42af4a0e2f3aba0aeee.png)
 
@@ -247,12 +247,4 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 3.禁阁 星光沙漠
 
 ![](https://img.166.net/reunionpub/1_kol_20241114_b3ef53b52de5968f0c39b6831ceed2e1.png)
-
- **![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)**
-
- **注解**
-
->  **好友星盘**
-
-![](https://img.166.net/reunionpub/1_kol_20241114_5239da62d41ee523c85e956a47f11537.jpeg)
 
