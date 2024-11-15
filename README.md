@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-16 00:52:08
+date: 2024-11-16 07:26:33
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -18,13 +18,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作  **面对好友**  点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/1_kol_20241116_2288752f3a7a92ec22a6588cd15b2836.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241116_084cc346ea815f33e94c679f94d1f08f.png)
 
  **任务二：在雨林重温先祖的美好回忆 0/1**
 
@@ -32,49 +32,47 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：雨林 密林遗迹 [大树屋旁]**
+ **位置：雨林 密林遗迹**
 
  **先祖：白日梦森林人 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20241116_d2966071dd20e384e3646bebdf19be0b.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241116_7b1635964901d4bfb6e2bc523a4a97f8.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241116_944e769544c9d1f2f7cf925fc680f437.png)
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
-完成方法一：
+完成方法1：
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：**
 
- **1.密林遗迹入口亭子右侧**
+ **雨林 密林遗迹**
+
+ **1.密林遗迹中间亭子下方**
 
  **2.密林遗迹右侧矿洞前**
 
  **注：共有两处随机拯救一只即可完成**
 
-![](https://img.166.net/reunionpub/1_kol_20241116_9a3d1efb81fb80b64ab55c947dcfd85f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241116_420410c6bc0edb7492a08d9adaa39062.png)
 
-![](https://img.166.net/reunionpub/1_kol_20241116_ba861fa91d5a1d923bba2cfe3bdfa51d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241116_17a1758566117b6e1538230db062635d.png)
 
-完成方法二：
+完成方法2：
 
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
+前往风行网道 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
 
  **位置：雨林 风行网道**
 
-![](https://img.166.net/reunionpub/1_kol_20241116_71dde36feb7b56a7dab39e0cf583d524.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241116_4de99e4ea3b9d9c8af2899fd4c5275e7.png)
 
-![](https://img.166.net/reunionpub/1_kol_20241116_4b20b5fd09cab33389edcb89aa6571d4.jpeg)
+完成方法3：
 
-完成方法三：
-
-接触沙滩上的鲲鳐幼仔即可完成
+靠近沙滩上的遥鲲幼仔即可完成
 
  **位置：云野 云峰**
 
-![](https://img.166.net/reunionpub/1_kol_20241116_084ca990197641c32883ff3cee093849.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241116_c44e82fae375b924b30ee4aace07aad6.jpeg)
 
  **任务四：在荧光森林冥想 0/1**
 
@@ -84,7 +82,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：雨林 荧光森林**
 
-![](https://img.166.net/reunionpub/1_kol_20241116_0c9bfae9057da1f73b30722d0434bfc2.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241116_0c990b3e823b2e58460a789887f3f273.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -178,7 +176,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **返老还童x1 长大成人x1**
 
- **魔法畅享：篝火×2 浪漫秋千×2 畅谈长桌×2**
+ **魔法畅享：浪漫烟花×2 绚丽彩虹×2 璀璨之星×2**
 
 ![](https://img.166.net/reunionpub/1_kol_20241111_b79c2e9a95d6b42af4a0e2f3aba0aeee.png)
 
