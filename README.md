@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-18 00:48:59
+date: 2024-11-18 07:26:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **暮土**
 
-![](https://img.166.net/reunionpub/1_kol_20241118_aae32274ac91ab697be20b3f22664b97.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241118_862bd03af98c4818d25bbadc1e961ab3.png)
 
  **任务一：向一位朋友做个动作 0/1**
 
@@ -22,17 +22,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20241118_6469f39ea07d66864c99e54964792b21.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241118_689ff2282cbe435a3564f8e5b096c6dd.png)
 
  **任务二： 焦虑渔夫在藏宝岛礁需要帮助 0/1**
 
 完成方法：
 
-前往 ** ** 藏宝岛礁找到 **焦虑渔夫** 接取任务，帮其钓上一条鱼即可完成
+1.前往 藏宝岛礁找到焦虑渔夫接取任务
+
+2.在蓝色光标大叫时点击钓鱼并将小鱼递交给焦虑渔夫即可完成
 
  **位置：暮土 藏宝岛礁**
 
-![](https://img.166.net/reunionpub/1_kol_20241118_ff03802701f48c6b2b1438e7d205b7eb.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241118_d9485940fd397072c5467770f8b20a0b.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241118_e19ab65797e6a836c2d6f72298c90c4e.jpeg)
 
  **任务三：净化10株黑暗植物 0/1**
 
@@ -43,8 +47,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **推荐地图：暮土 雨林 云野圣岛   **
 
 ![](https://img.166.net/reunionpub/1_kol_20241118_d013ca89fc9c549e9a4976c9f034d244.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241118_2841a02a044e95e7ed8abaf7bef28ebf.jpeg)
 
  **任务四：在边陲荒漠的神殿里冥想 0/1**
 
@@ -100,7 +102,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **云野**
 
- **云野大厅**
+云野大厅
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20241001/000934-a6ezoykq5i.jpg)**
 
@@ -138,7 +140,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **雨林**
 
- **雨林大厅**
+雨林大厅
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20241001/000840-feapqm2i9y.jpeg)**
 
@@ -168,7 +170,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **霞谷**
 
- **霞谷大厅**
+霞谷大厅
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20241001/001446-93z5dtpgim.jpg)**
 
@@ -194,7 +196,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **暮土**
 
- **暮土大厅**
+暮土大厅
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20241001/001643-t529g3syzf.jpg)**
 
@@ -228,7 +230,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **禁阁**
 
- **禁阁大厅/禁阁一层**
+禁阁大厅/禁阁一层
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20241001/002118-m7w1a4f8ts.jpg)**
 
@@ -257,10 +259,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **今日免费魔法**
 
  **浪漫烟花x1**
-
- **魔法畅享：体形重塑×2 小不点×2 大只佬×2 长大成人×2 返老还童×2**
-
-![](https://img.166.net/reunionpub/1_kol_20241111_b79c2e9a95d6b42af4a0e2f3aba0aeee.png)
 
  **魔法工坊**
 
