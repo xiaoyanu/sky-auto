@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-17 07:41:10
+date: 2024-11-17 13:31:03
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -24,7 +24,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/1_kol_20241117_a908703ea34f19ee5249c5541b2d7735.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241117_266ba391602cba96333ce0aab8d31a5d.png)
 
  **任务二：在霞谷重温先祖的美好回忆 0/1**
 
@@ -60,9 +60,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/1_kol_20241117_f46e931037caa3ded4496c98d8a9f6be.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241117_9e2cd89321094d5ef1d7cbbc86264693.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241117_abe59dc5c3b9015f8a0d5f5b283d4fa1.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241117_1a41f7ef107946c361875ce54adeaa17.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -178,7 +178,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **体型重塑x1 绚丽彩虹x1**
 
- **魔法畅享：浪漫烟花×2 绚丽彩虹×2 璀璨之星×2**
+ **魔法畅享：体形重塑×2 小不点×2 大只佬×2 长大成人×2 返老还童×2**
 
 ![](https://img.166.net/reunionpub/1_kol_20241111_b79c2e9a95d6b42af4a0e2f3aba0aeee.png)
 
