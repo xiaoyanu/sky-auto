@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-18 13:48:07
+date: 2024-11-19 00:36:28
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,33 +10,33 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **11月18日 星期一**
+ **11月19日 星期二**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/1_kol_20241118_862bd03af98c4818d25bbadc1e961ab3.png)
+![](https://img.166.net/reunionpub/1_kol_20241119_0b31bebb3da06cd09ce374de6c998f62.png)
 
- **任务一：向一位朋友做个动作 0/1**
-
-完成方法：
-
-点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
-
-![](https://img.166.net/reunionpub/1_kol_20241118_689ff2282cbe435a3564f8e5b096c6dd.png)
-
- **任务二： 焦虑渔夫在藏宝岛礁需要帮助 0/1**
+ **任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-1.前往 藏宝岛礁找到焦虑渔夫接取任务
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
-2.在蓝色光标大叫时点击钓鱼并将小鱼递交给焦虑渔夫即可完成
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
- **位置：暮土 藏宝岛礁**
+![](https://img.166.net/reunionpub/1_kol_20241119_abef84cf76672bcb62118b4cf2d161b9.png)
 
-![](https://img.166.net/reunionpub/1_kol_20241118_d9485940fd397072c5467770f8b20a0b.jpeg)
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
-![](https://img.166.net/reunionpub/1_kol_20241118_e19ab65797e6a836c2d6f72298c90c4e.jpeg)
+完成方法：
+
+点燃先祖重温回忆
+
+ **位置：禁阁三层**
+
+ **先祖：礼貌学者 [站姿]**
+
+![](https://img.166.net/reunionpub/1_kol_20241119_dd41b7ec95b67775339d29d4e901771f.jpeg)
 
  **任务三：净化10株黑暗植物 0/1**
 
@@ -46,53 +46,35 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **推荐地图：暮土 雨林 云野圣岛   **
 
-![](https://img.166.net/reunionpub/1_kol_20241118_d013ca89fc9c549e9a4976c9f034d244.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241119_aa2876244c50600bea3a29e1248dd5e5.jpeg)
 
- **任务四：在边陲荒漠的神殿里冥想 0/1**
+![](https://img.166.net/reunionpub/1_kol_20241119_9ba13436a001d13e6bdc0e7cac484f84.jpeg)
+
+ **任务四：在禁阁底层冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 边陲荒漠**
+ **位置：禁阁一层/禁阁大厅 右侧平台**
 
-![](https://img.166.net/reunionpub/1_kol_20241118_14bba80e9574b2afcd5ca2bd9f2ccd73.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241118_24f473dcee2e056a9fe91d20e953e40b.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241119_b438706e6696b69e7417f581d0fb141e.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **季节蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
- **位置：B组**
+ **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20241117_1bfd63d6a126923129fcdfac3d45079f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241118_c9803f02413b33eb6cf9e0d36d8089e8.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
 无
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
-
- **旅行先祖**
-
-集结季——茫然植物学家
-
-复刻时间：11月14日早上6:00～11月18日中午12:00
-
-位置：雨林 静谧庭院
-
-![](https://img.166.net/reunionpub/1_kol_20241112_6e0e56d55cc5eafba91c3471bda273f4.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241113_ca99069204f7a373cbb2098926b6c268.png)
-
-兑换图
-
-![](https://img.166.net/reunionpub/1_kol_20241114_59b835be494fc056a8a33119e4de8a0a.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -258,7 +240,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法工坊**
 
@@ -272,7 +254,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20241117_81dcf547c55eb06fc72f3bea9bf3b0f4.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241118_b3a0068569c2ad4638dee533d651f909.jpeg)
 
  **魔法商店**
 
@@ -280,7 +262,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20241117_3f537e5acdfc23f63522d63d97548cf1.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241118_767d698405add1e70b15fa509423e890.jpeg)
 
  **留言魔法：**
 
