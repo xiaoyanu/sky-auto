@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-20 00:34:28
+date: 2024-11-20 00:53:00
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,17 +14,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **云野**
 
-![](https://img.166.net/reunionpub/1_kol_20241120_eff7c7b425470e9cab80228a216a43ee.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241120_c4b95536b97de11a0876c0152361a089.png)
 
  **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作  **面对好友**  点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/1_kol_20241120_8e42e815c27e779f0048756e8a568c38.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241120_32a2130c13e91804895d0fc2bfa5a61d.png)
 
  **任务二：在云野重温先祖的美好回忆 0/1**
 
@@ -74,11 +74,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-霞谷
+ **霞谷**
 
  **冷却碎片 [黑石]**
 
- **具体位置** ： **滑冰场**
+ **具体位置** ：滑冰场
 
  **坠落时间** ：9、15、21小时的08分40秒左右～50分
 
@@ -88,9 +88,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点不可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/1_kol_20241119_9404cb331666b884fcf7447f022bef2f.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241119_1cd9fbbdc118e6b1bb22d2d73988a808.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241120_b534ce29b5ee2d6ca60f850073bde0d8.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
