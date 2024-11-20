@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-20 13:48:10
+date: 2024-11-21 00:36:08
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,85 +10,97 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **11月20日 星期三**
+ **11月21日 星期四**
 
- **云野**
+ **雨林**
 
-![](https://img.166.net/reunionpub/1_kol_20241120_c4b95536b97de11a0876c0152361a089.png)
+![](https://img.166.net/reunionpub/1_kol_20241121_0b1b57cceaea68cfbd4bffa46c074158.jpeg)
 
- **任务一：向一位朋友招手 0/1**
+ **任务一：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-点击屏幕上方中间动 找到招手动作  **面对好友**  点击并完成招手即可
+和陌生玩家一起坐在石凳上即可完成
 
- **注：1～6级招手动作均可完成**
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
-![](https://img.166.net/reunionpub/1_kol_20241120_32a2130c13e91804895d0fc2bfa5a61d.png)
+![](https://img.166.net/reunionpub/1_kol_20241121_4358e6df10d411066e990d52d1083a8c.jpeg)
 
- **任务二：在云野重温先祖的美好回忆 0/1**
+ **任务二：在雨林重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：云野 蝴蝶平原**
+ **位置：雨林 密林遗迹 [大树屋旁]**
 
- **先祖：引蝶人 [动作]**
+ **先祖：白日梦森林人 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20241120_7ffc7cd393911a188e50c56d51716dcf.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241121_2e6326be0fd59d4d33e13385c5af4f06.jpeg)
 
- **任务三：面对冥龙 0/1**
+![](https://img.166.net/reunionpub/1_kol_20241121_85517a757b29f8049a50cbee3bc90918.jpeg)
+
+ **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+
+完成方法1：
+
+拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
+
+ **位置：**
+
+ **雨林 密林遗迹**
+
+ **1.密林遗迹中间亭子下方**
+
+ **2.密林遗迹右侧矿洞前**
+
+ **注：共有两处随机拯救一只即可完成**
+
+![](https://img.166.net/reunionpub/1_kol_20241116_420410c6bc0edb7492a08d9adaa39062.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241116_17a1758566117b6e1538230db062635d.png)
+
+完成方法2：
+
+前往风行网道 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
+
+ **位置：雨林 风行网道**
+
+![](https://img.166.net/reunionpub/1_kol_20241116_4de99e4ea3b9d9c8af2899fd4c5275e7.png)
+
+完成方法3：
+
+靠近沙滩上的遥鲲幼仔即可完成
+
+ **位置：云野 云峰**
+
+![](https://img.166.net/reunionpub/1_kol_20241116_c44e82fae375b924b30ee4aace07aad6.jpeg)
+
+ **任务四：在雨林追逐散落的星光 0/1**
 
 完成方法：
 
-被冥龙锁定变成红光即可完成
+靠近星光即可完成
 
- **推荐地图：暴风眼 暮土**
+ **位置：雨林 静谧庭院**
 
- **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
-
-![](https://img.166.net/reunionpub/1_kol_20241120_c0d85f1de679c4897846e78228a991a7.jpeg)
-
- **任务四：在蝴蝶平原的神坛旁冥想 0/1**
-
-完成方法：
-
-点击坐下冥想并回答问题即可完成
-
- **位置：云野 蝴蝶平原  **
-
-![](https://img.166.net/reunionpub/1_kol_20241120_125cb4af3d52e046a25d018eb2ec4e3e.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241121_0332dfa0cc6569b8e5dcdd99c900ed86.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
- **位置：B组**
+ **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20241119_8aef425ad29de67d94a4a917d399919a.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241120_ed0577ecd677aed6c247e924b8bb469d.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
- **霞谷**
-
- **冷却碎片 [黑石]**
-
- **具体位置** ：滑冰场
-
- **坠落时间** ：9、15、21小时的08分40秒左右～50分
-
- **清理方式** ：净化黑石碎片周围黑暗植物即可
-
- **获取货币** ：烛光 [普通蜡烛/白蜡烛]
-
- **注：此坠落点不可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20241120_b534ce29b5ee2d6ca60f850073bde0d8.png)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -254,7 +266,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法工坊**
 
@@ -268,7 +280,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20241120_46d772868ae735d39c47e1b1a5a1895a.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241120_ef5ab3e0e6360e8fea7f538f0e6d0140.jpeg)
 
  **魔法商店**
 
@@ -276,7 +288,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20241120_2646daa035089620c6cc3be14dc8f75d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241120_bb544f69c95d6f217e91fc3b348a9fde.jpeg)
 
  **留言魔法：**
 
