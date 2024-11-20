@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-21 00:36:08
+date: 2024-11-21 00:53:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **雨林**
 
-![](https://img.166.net/reunionpub/1_kol_20241121_0b1b57cceaea68cfbd4bffa46c074158.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241121_abe8e283012822ec71c7ab2145886259.png)
 
  **任务一：和陌生人一起坐在长凳上 0/1**
 
@@ -32,13 +32,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：雨林 密林遗迹 [大树屋旁]**
+ **位置：雨林 密林遗迹  **
 
  **先祖：白日梦森林人 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20241121_2e6326be0fd59d4d33e13385c5af4f06.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241121_85517a757b29f8049a50cbee3bc90918.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241121_7f8d78bc802cb0ce7bd4735e726c14d0.png)
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
