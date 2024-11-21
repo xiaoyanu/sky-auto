@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-21 13:47:55
+date: 2024-11-22 00:35:57
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,11 +10,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **11月21日 星期四**
+ **11月22日 星期五**
 
- **雨林**
+ **霞谷**
 
-![](https://img.166.net/reunionpub/1_kol_20241121_abe8e283012822ec71c7ab2145886259.png)
+![](https://img.166.net/reunionpub/1_kol_20241122_ef8b5c7b6f341ef6e590372fce75b4d1.jpeg)
 
  **任务一：和陌生人一起坐在长凳上 0/1**
 
@@ -24,81 +24,73 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
-![](https://img.166.net/reunionpub/1_kol_20241121_4358e6df10d411066e990d52d1083a8c.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241122_e18221d6b43b1964e519cadc843cc167.jpeg)
 
- **任务二：在雨林重温先祖的美好回忆 0/1**
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：雨林 密林遗迹  **
+ **位置：霞谷 滑冰场**
 
- **先祖：白日梦森林人 [动作]**
+ **先祖：自信观光客 [站姿]**
 
-![](https://img.166.net/reunionpub/1_kol_20241121_7f8d78bc802cb0ce7bd4735e726c14d0.png)
+![](https://img.166.net/reunionpub/1_kol_20241122_90e68d8bd437257e55ef3c68eb3ff69b.jpeg)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+![](https://img.166.net/reunionpub/1_kol_20241122_d787386df3d7889a0f7cd23e0568766e.jpeg)
 
-完成方法1：
+ **任务三：老练音乐家在圆梦村等你，它需要你的帮助...... 0/1**
 
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
+完成方法：
 
- **位置：**
+前往圆梦村找到 **老练音乐家** 接取任务 **，** 找到它的 **吉他** 并交给它即可完成
 
- **雨林 密林遗迹**
+ **位置：霞谷 圆梦村**
 
- **1.密林遗迹中间亭子下方**
+![](https://img.166.net/reunionpub/1_kol_20241122_e446ad9b1d57edfda8b653d8acee81ce.jpeg)
 
- **2.密林遗迹右侧矿洞前**
+![](https://img.166.net/reunionpub/1_kol_20241122_98c42df629d0025ce0a1d866b3b288a3.jpeg)
 
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/1_kol_20241116_420410c6bc0edb7492a08d9adaa39062.png)
-
-![](https://img.166.net/reunionpub/1_kol_20241116_17a1758566117b6e1538230db062635d.png)
-
-完成方法2：
-
-前往风行网道 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
- **位置：雨林 风行网道**
-
-![](https://img.166.net/reunionpub/1_kol_20241116_4de99e4ea3b9d9c8af2899fd4c5275e7.png)
-
-完成方法3：
-
-靠近沙滩上的遥鲲幼仔即可完成
-
- **位置：云野 云峰**
-
-![](https://img.166.net/reunionpub/1_kol_20241116_c44e82fae375b924b30ee4aace07aad6.jpeg)
-
- **任务四：在雨林追逐散落的星光 0/1**
+ **任务四：在霞谷追逐散落的星光 0/1**
 
 完成方法：
 
 靠近星光即可完成
 
- **位置：雨林 静谧庭院**
+ **位置：霞谷 滑冰场**
 
-![](https://img.166.net/reunionpub/1_kol_20241121_0332dfa0cc6569b8e5dcdd99c900ed86.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241122_db77ef3629125c99078631188925254e.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
  **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20241120_ed0577ecd677aed6c247e924b8bb469d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241121_425445b8493f645ec2b8fda37e335d44.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
+禁阁
+
+ **灼热碎片 [红石]：**
+
+ **具体位置** ：星光沙漠
+
+ **坠落时间** ：11、17、23小时的08分40秒左右～50分
+
+ **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币** ：升华蜡烛
+
+ **注：此坠落点可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/1_kol_20241121_a9c3d25b4aca85e1cbe63fb5735e1fb7.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -264,7 +256,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+ **大只佬x1 小不点x1**
 
  **魔法工坊**
 
@@ -278,7 +270,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20241120_ef5ab3e0e6360e8fea7f538f0e6d0140.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241121_0195863ca1672209bc93bfd93ecf1b15.jpeg)
 
  **魔法商店**
 
@@ -286,7 +278,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20241120_bb544f69c95d6f217e91fc3b348a9fde.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241121_c6f73f64590405ce6608878847561fcd.jpeg)
 
  **留言魔法：**
 
