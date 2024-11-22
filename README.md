@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-23 00:52:08
+date: 2024-11-23 07:29:01
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **暮土**
 
-![](https://img.166.net/reunionpub/1_kol_20241123_73e0e9dd9ec610565855017401932dba.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241123_e15e842284af69f90a054ba84efef0f6.png)
 
  **任务一：向一位玩家鞠躬 0/1**
 
@@ -24,21 +24,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/1_kol_20241123_a9da8d20505718f5c38271ab6f1217dc.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241123_4536e563d61b829b613c255de4234f5b.png)
 
  **任务二： 焦虑渔夫在藏宝岛礁需要帮助 0/1**
 
 完成方法：
 
-1.前往 **边陲荒漠** 找到焦虑渔夫接取任务
+1.前往 **边陲荒漠  **找到焦虑渔夫接取任务
 
 2.在蓝色光标大叫时点击钓鱼并将小鱼递交给焦虑渔夫即可完成
 
  **位置：暮土 边陲荒漠**
 
-![](https://img.166.net/reunionpub/1_kol_20241123_a7914ae262455ab6dcf1f85a8d10dbf7.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241123_ad7fa38419458d3845f0931a43b74222.png)
 
-![](https://img.166.net/reunionpub/1_kol_20241123_e614d70b7a4a05c5bff70bfdaf44cb1e.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241123_ee8ffe11cc5f264af7a8359abe5c2301.jpeg)
 
  **任务三：掀翻5只螃蟹 0/5**
 
@@ -176,7 +176,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-![](https://img.166.net/reunionpub/1_kol_20241114_df085ae1ffe6124a91be894305a75b54.jpeg)
+**![](https://img.166.net/reunionpub/1_kol_20241114_df085ae1ffe6124a91be894305a75b54.jpeg)**
 
  **球玩魔法：**
 
