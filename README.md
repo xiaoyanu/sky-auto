@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-24 00:50:27
+date: 2024-11-24 07:26:25
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,11 +10,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **11月23日 星期六**
+ **11月24日 星期日**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/1_kol_20241124_792f77a2ca08aedd6dbe5341a15c94cd.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241124_b759869e79b388b9d8ad7459195d7d5a.png)
 
  **任务一：接受一位朋友的礼物 0/1**
 
@@ -32,7 +32,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁一层  **
 
- **先祖：祈祷圣徒[动作]**
+ **先祖：祈祷圣徒 [动作]**
 
 ![](https://img.166.net/reunionpub/1_kol_20241124_c65503906c783e383ae25fcab9e7bfa0.jpeg)
 
@@ -54,7 +54,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 靠近光芒即可完成
 
- **位置：禁阁一层 右侧隐藏图 [档案阁]**
+ **位置：禁阁 档案阁 [禁阁一层右侧隐藏图]**
 
 ![](https://img.166.net/reunionpub/1_kol_20241124_41faea482bba5f821818252f220ed98d.jpeg)
 
@@ -72,9 +72,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-雨林
+ **雨林**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：秘密花园
 
@@ -177,8 +177,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
 ![](https://img.166.net/reunionpub/1_kol_20241117_e9b644d9e6b70d3e98b63d6efb4df107.jpeg)
-
-  
 
  **留言魔法：**
 
