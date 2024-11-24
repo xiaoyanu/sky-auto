@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-25 00:49:45
+date: 2024-11-25 07:27:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,9 +12,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **11月25日 星期一**
 
- **禁阁**
+ **云野**
 
-![](https://img.166.net/reunionpub/1_kol_20241125_5660c177147a1a78e0584b47ce5a5ac6.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241125_cdceb75011e08f81ad33332072f2601a.png)
 
  **任务一：接受一位朋友的礼物 0/1**
 
@@ -30,9 +30,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：云野 三塔图**
+ **位置：云野 仙乡 [三塔图]**
 
- **先祖：鼓掌钟匠[动作]**
+ **先祖：鼓掌钟匠 [动作]**
 
 ![](https://img.166.net/reunionpub/1_kol_20241125_fcb9a06e0ce77588e0c75e70a673f23c.jpeg)
 
@@ -42,7 +42,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
- **位置：雨林 密林遗迹（水母图）**
+ **位置：雨林 密林遗迹**
 
  **1.密林遗迹入口亭子右侧**
 
@@ -56,13 +56,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法二：
 
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
+前往风行网道 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
 
  **位置：雨林 风行网道**
 
-![](https://img.166.net/reunionpub/1_kol_20241115_597e80606ec0ac9917ebf5e697c6461d.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241115_d7769749bd4ab5a44ce4534d7e351d92.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241125_26c44607936ae16bd5319feae317ae67.png)
 
 完成方法三：
 
@@ -70,7 +68,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：云野 云峰**
 
-![](https://img.166.net/reunionpub/1_kol_20241115_a8debc5880f8de8f6106588bebda2a3b.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241125_abc1a517a99da5be315e3add31dba076.jpeg)
 
  **任务四：在蝴蝶平原的神坛旁冥想 0/1**
 
