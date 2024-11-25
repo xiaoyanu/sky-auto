@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-26 00:36:01
+date: 2024-11-26 00:53:28
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,9 +12,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **11月26日 星期二**
 
- **云野**
+ **雨林**
 
-![](https://img.166.net/reunionpub/1_kol_20241126_8a93092206ed565be9058470d244ee3d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241126_966c3d1026743cc0141d843d7dc50ec4.png)
 
  **任务一：和朋友击掌 0/1**
 
@@ -42,7 +42,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：正步冒险家 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20241126_5d5c6ec9db13dc710665e43a04f3b6c3.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241126_cc75830fe0711b3a1ea209dc257735ca.png)
 
  **任务三：点燃20根蜡烛 0/20**
 
