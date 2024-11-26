@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-27 00:37:14
+date: 2024-11-27 00:54:46
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **霞谷**
 
-![](https://img.166.net/reunionpub/1_kol_20241127_ff15d910e4429ff26270ad391264b90b.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241127_22d66c599f8c2d7b43f542742d8ffc56.png)
 
  **任务一：接受一位朋友的礼物 0/1**
 
@@ -40,13 +40,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法：
 
-前往圆梦村找到 **老练音乐家** 领取任务 **，钓上它** 的 **吉他** 并递交给它即可完成
+1.前往圆梦村找到老练音乐家领取任务
+
+2.点击先祖旁的鱼竿吊起吉他并递交即可完成
 
  **位置：霞谷 圆梦村**
 
-![](https://img.166.net/reunionpub/1_kol_20241127_d5124a9f199e49155b8b6fa7a2092c17.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241127_5d771a95b9793265bcabf2de322f38ce.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241127_eac12676143fc1ffddddfb380142ab45.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241127_588b85aa80161d38016fcd28eaff43d4.jpeg)
 
  **任务四：在霞谷追逐散落的星光 0/1**
 
@@ -72,11 +74,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-禁阁
+ **禁阁**
 
  **冷却碎片 [黑石]**
 
- **具体位置** ： **星光沙漠**
+ **具体位置** ：星光沙漠
 
  **坠落时间** ：9、15、21小时的08分40秒左右～50分
 
@@ -86,9 +88,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点不可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/1_kol_20241127_86b8665e27a6910baaa185f54b21781c.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241127_7c33d38a760b716c6db791de6874a803.png)
 
-![](https://img.166.net/reunionpub/1_kol_20241127_26c5d22cdd52ec854a1b8832913cea42.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241127_324e427b5d82d3187f1888fbcdd8f7bc.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
