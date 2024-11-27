@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-28 00:36:21
+date: 2024-11-28 00:54:02
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,33 +14,33 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **暮土**
 
-![](https://img.166.net/reunionpub/1_kol_20241128_583e9886e5c34f023fceab734f377427.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241128_904deecf16c78d72b7d55b2f093018e0.png)
 
- **任务一：向一位朋友招手 0/1**
+  *  **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/1_kol_20241128_f5e19f563267d3550871622ee413ae3f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241128_e6831c5f885f24d3b37c4b8202292d44.png)
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+  *  **任务二：在暮土重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 一龙图**
+ **位置：暮土 巨兽荒原 [一龙图]**
 
  **先祖：无畏士兵 [站姿]**
 
 ![](https://img.166.net/reunionpub/1_kol_20241128_e1e268bfbeaf684c0d9dd0b3e5580258.jpeg)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+  *  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
-完成方法一：
+完成方法1：
 
 拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
@@ -56,7 +56,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241115_9f0bc0010ca14a5113cffd4dc6636355.jpeg)
 
-完成方法二：
+完成方法2：
 
 前往风行网道 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
 
@@ -64,7 +64,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241125_26c44607936ae16bd5319feae317ae67.png)
 
-完成方法三：
+完成方法3：
 
 接触沙滩上的鲲鳐幼仔即可完成
 
@@ -72,7 +72,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241125_abc1a517a99da5be315e3add31dba076.jpeg)
 
- **任务四：在黑水港湾的沉船上冥想 0/1**
+  *  **任务四：在黑水港湾的沉船上冥想 0/1**
 
 完成方法：
 
@@ -80,7 +80,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土 黑水港湾 [沉船图]**
 
-![](https://img.166.net/reunionpub/1_kol_20241128_85a5d5b07299ec1864e00c0ac5633edf.png)
+![](https://img.166.net/reunionpub/1_kol_20241128_d896a1d943619f4d1b10debcda104857.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241128_faf713e43a2b10c03dab6a92265c5ef2.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
