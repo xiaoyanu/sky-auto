@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-28 00:54:02
+date: 2024-11-28 07:27:16
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -93,6 +93,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **位置：B组**
 
 ![](https://img.166.net/reunionpub/1_kol_20241127_7b907e89a6c77c169d2f6512a4ba14ce.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+ **旅行﻿先祖**
+
+预言季——火先知
+
+复刻时间：11/28早上6:00～12/2中午12:00
+
+位置：晨岛 预言山谷
+
+![](https://img.166.net/reunionpub/1_kol_20241128_05d9db529daba319720a9f1b4c897fdb.png)
+
+ **兑换图**
+
+![](https://img.166.net/reunionpub/1_kol_20241128_1e076b70fc3debcb5bc76ee03480a36a.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
