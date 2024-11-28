@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-28 13:48:11
+date: 2024-11-29 00:35:36
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,89 +10,67 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **11月28日 星期四**
+ **11月29日 星期五**
 
- **暮土**
+ **禁阁**
 
-![](https://img.166.net/reunionpub/1_kol_20241128_904deecf16c78d72b7d55b2f093018e0.png)
+![](https://img.166.net/reunionpub/1_kol_20241129_6ecbe07129449766fb69a878d48abb96.jpeg)
 
-  *  **任务一：向一位朋友招手 0/1**
+ **任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
- **注：1～6级招手动作均可完成**
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/1_kol_20241128_e6831c5f885f24d3b37c4b8202292d44.png)
+![](https://img.166.net/reunionpub/1_kol_20241129_6587848a167c132798831e74df5569ee.jpeg)
 
-  *  **任务二：在暮土重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 巨兽荒原 [一龙图]**
+ **位置：禁阁一层  **
 
- **先祖：无畏士兵 [站姿]**
+ **先祖：沉思编导[动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20241128_e1e268bfbeaf684c0d9dd0b3e5580258.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241129_eacb3ae606b0939074a0a391a2627b02.jpeg)
 
-  *  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+![](https://img.166.net/reunionpub/1_kol_20241129_50f522a6d6e07501314198a7dd64eb30.jpeg)
 
-完成方法1：
+ **任务三：点燃20根蜡烛 0/20**
 
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
+完成方法：
 
- **位置：雨林 密林遗迹**
+1.点燃一堆大蜡烛
 
- **1.密林遗迹入口亭子右侧**
+2.或点燃20根蜡烛即可完成
 
- **2.密林遗迹右侧矿洞前**
+ **推荐地图：云野 霞谷 禁阁 遇境**
 
- **注：共有两处随机拯救一只即可完成**
+![](https://img.166.net/reunionpub/1_kol_20241129_1181a6ff49d439b46e9a7ed7312692b3.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241115_876f1cf7491e947cb6b1944e66693290.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241115_9f0bc0010ca14a5113cffd4dc6636355.jpeg)
-
-完成方法2：
-
-前往风行网道 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
- **位置：雨林 风行网道**
-
-![](https://img.166.net/reunionpub/1_kol_20241125_26c44607936ae16bd5319feae317ae67.png)
-
-完成方法3：
-
-接触沙滩上的鲲鳐幼仔即可完成
-
- **位置：云野 云峰**
-
-![](https://img.166.net/reunionpub/1_kol_20241125_abc1a517a99da5be315e3add31dba076.jpeg)
-
-  *  **任务四：在黑水港湾的沉船上冥想 0/1**
+ **任务四：在禁阁顶层神坛旁冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 黑水港湾 [沉船图]**
+ **位置：禁阁顶层**
 
-![](https://img.166.net/reunionpub/1_kol_20241128_d896a1d943619f4d1b10debcda104857.png)
-
-![](https://img.166.net/reunionpub/1_kol_20241128_faf713e43a2b10c03dab6a92265c5ef2.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241129_dbc4565b7e2cfd035954fa7c2cd0762f.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **季节蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
- **位置：B组**
+ **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20241127_7b907e89a6c77c169d2f6512a4ba14ce.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241128_cd2b1fcf5a2571b82d3e09e7eea85b0a.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -114,37 +92,87 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **雨林**
+
+ **灼热碎片 [红石]：**
+
+ **具体位置** ：大树屋
+
+ **坠落时间** ：11、17、23小时的08分40秒左右～50分
+
+ **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币** ：升华蜡烛
+
+ **注：此坠落点可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/1_kol_20241128_e308b301a2d1a055c4429e6e06fbcf9b.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **大蜡烛**
 
- **地图：云野**
+ **地图：云野 雨林 霞谷**
 
-位置
+云野
 
 第一堆：
 
-![](https://img.166.net/reunionpub/1_kol_20241113_2d0efb5655d7d9efb1cb207f0a5fdd1e.jpeg)
+**![](https://img.166.net/reunionpub/1_kol_20241107_83784c165dbf5a0baaf675d0bfbb918a.jpeg)**
 
 第二堆：
 
-![](https://img.166.net/reunionpub/1_kol_20241113_37d35599fd39cf60c4d29911ab70c4d6.jpeg)
+**![](https://img.166.net/reunionpub/1_kol_20241107_0cfb11c954a849662f988a0969c28237.jpeg)**
 
 第三堆：
 
-![](https://img.166.net/reunionpub/1_kol_20241113_1b50118fc421f18e5b16090c7d6b4358.jpeg)
+**![](https://img.166.net/reunionpub/1_kol_20241107_8303949e3889844bee7c2988595d8e44.jpeg)**
 
 第四堆：
 
-![](https://img.166.net/reunionpub/1_kol_20241113_4858063eab7315e342a32d14d97f2549.jpeg)
+**![](https://img.166.net/reunionpub/1_kol_20241107_bc482b5c8ee95083714bd94320d9045b.jpeg)**
+
+雨林
+
+第一堆：
+
+**![](https://img.166.net/reunionpub/1_kol_20241107_1995c6999f2d58bf6281f328a6dfe5da.jpeg)**
+
+第二堆：
+
+**![](https://img.166.net/reunionpub/1_kol_20241107_e505bc4e6dc36338fb17a3626a4117d9.jpeg)**
+
+第三堆：
+
+**![](https://img.166.net/reunionpub/1_kol_20241107_85000b8c4b9af76f837fe69d7d3cc9ee.jpeg)**
+
+第四堆：
+
+**![](https://img.166.net/reunionpub/1_kol_20241107_4add5263bf55edd596edfb2411afd3bb.jpeg)**
+
+霞谷
+
+第一堆：
+
+**![](https://img.166.net/reunionpub/1_kol_20241107_4d92d51da0b331c64d1d7487e2dbf70e.jpeg)**
+
+第二堆：
+
+**![](https://img.166.net/reunionpub/1_kol_20241107_fedf6a0cb07047ece6edc3521bb1b15e.jpeg)**
+
+第三堆：
+
+**![](https://img.166.net/reunionpub/1_kol_20241107_153088c2405a7f8d8a6889f91938118b.jpeg)**
+
+第四堆：
+
+**![](https://img.166.net/reunionpub/1_kol_20241107_86923df74d8ab53187a087cbe951064a.jpeg)**
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+ **大只佬x1 小不点x1**
 
  **魔法工坊**
 
@@ -158,15 +186,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-**![](https://img.166.net/reunionpub/1_kol_20241113_afa79592c6640a684d1c957e4ed760b1.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241107_d28fd6ae9a0bdc7858a0eacf0bccdb37.jpeg)**
 
  **魔法商店**
 
- **位置：云巢**
+位置：云巢
 
- **注：开启 魔法商店 需完成 [归巢季] 季节任务八**
+注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-**![](https://img.166.net/reunionpub/1_kol_20241113_07b8a12d7dfdb6a00cbdb75b27e9ec17.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241107_c30c2915cc5550ca1eab830fb1f3b68b.jpeg)**
 
  **留言魔法：**
 
