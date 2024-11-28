@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-29 00:35:36
+date: 2024-11-29 00:53:37
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **禁阁**
 
-![](https://img.166.net/reunionpub/1_kol_20241129_6ecbe07129449766fb69a878d48abb96.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241129_628a1b63416eef8a8dbe0ee32a5529fc.png)
 
  **任务一：向一位玩家鞠躬 0/1**
 
@@ -24,7 +24,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/1_kol_20241129_6587848a167c132798831e74df5569ee.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241129_805f0ba8c0f1ffcda4b6eeace7f952e4.png)
 
  **任务二：在禁阁重温先祖的美好回忆 0/1**
 
@@ -34,7 +34,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁一层  **
 
- **先祖：沉思编导[动作]**
+ **先祖：沉思编导 [动作]**
 
 ![](https://img.166.net/reunionpub/1_kol_20241129_eacb3ae606b0939074a0a391a2627b02.jpeg)
 
@@ -94,7 +94,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **雨林**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：大树屋
 
@@ -172,7 +172,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **大只佬x1 小不点x1**
+ **小不点×1 大只佬×1**
 
  **魔法工坊**
 
