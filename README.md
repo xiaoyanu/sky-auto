@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-11-30 00:52:27
+date: 2024-11-30 07:27:04
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,9 +14,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **云野**
 
-![](https://img.166.net/reunionpub/1_kol_20241130_09431a21cdf2c5ce5dd2791fcdc1c32a.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241130_10dee1a3e15593b9e68f5dea858ad6a2.png)
 
- **任务一：接受一位朋友的礼物 0/1**
+  *  **任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
@@ -24,7 +24,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241130_dda1d0e1fcbe47cd41589bcaad13db32.jpeg)
 
- **任务二：在云野重温先祖的美好回忆 0/1**
+  *  **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
@@ -34,9 +34,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：彩纸表亲 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20241130_e468f842f69f13c787a635b0ad53e42e.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241130_4c13691ce5e56ceb7384ca3890a20db6.png)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+  *  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
 完成方法1：
 
@@ -64,13 +64,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法3：
 
-接触沙滩上的鲲鳐幼仔即可完成
+接触沙滩上的遥鲲幼仔即可完成
 
  **位置：云野 云峰**
 
 ![](https://img.166.net/reunionpub/1_kol_20241125_abc1a517a99da5be315e3add31dba076.jpeg)
 
- **任务四：在云野的锦鲤池旁冥想 0/1**
+  *  **任务四：在云野的锦鲤池旁冥想 0/1**
 
 完成方法：
 
