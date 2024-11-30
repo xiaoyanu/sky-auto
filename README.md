@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-01 00:50:03
+date: 2024-12-01 07:26:19
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,9 +14,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **云野**
 
-![](https://img.166.net/reunionpub/1_kol_20241201_394fe5291c89999fe03b30da00f7ff83.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241201_07955d6ed4bd34c0a9d23adc99b2c9f6.png)
 
- **任务一：给一位朋友送礼 0/1**
+  *  **任务一：给一位朋友送礼 0/1**
 
 完成方法：
 
@@ -30,7 +30,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241201_4e6895fb5a713d455ecdb5c1f4dffb66.jpeg)
 
- **任务二：在雨林重温先祖的美好回忆 0/1**
+  *  **任务二：在雨林重温先祖的美好回忆 0/1**
 
 完成方法：
 
@@ -76,7 +76,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241125_abc1a517a99da5be315e3add31dba076.jpeg)
 
- **任务四：收集橙色光芒 0/1**
+  *  **任务四：收集橙色光芒 0/1**
 
 完成方法：
 
@@ -118,7 +118,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **暮土**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：失落方舟
 
@@ -131,12 +131,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **注：此坠落点可完成  [破晓季] 季节任务**
 
 ![](https://img.166.net/reunionpub/1_kol_20241201_78b2fdc71f321b773265ed7360bed585.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241201_dfcb86ffdb837827a29ac75077e5a903.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241201_4d4d08ecebad0d4e7ebe51faabe239dd.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241201_41e2a9da8a69568aa85d5975ad1cfaab.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
