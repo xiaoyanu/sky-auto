@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-02 00:50:16
+date: 2024-12-02 07:26:45
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **霞谷**
 
-![](https://img.166.net/reunionpub/1_kol_20241202_384db42985b3d9ef530d10a40bac8130.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241202_4216adc4d637bbc4c8384d396c7c0631.png)
 
  **任务一：向一位玩家鞠躬 0/1**
 
@@ -24,7 +24,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/1_kol_20241202_52eddb1232d7274487bd301ad9a4545a.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241202_bb4b9698614b8deda69549d07fe49b9d.png)
 
  **任务二：在霞谷重温先祖的美好回忆 0/1**
 
@@ -34,7 +34,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：霞谷 霞光城**
 
- **先祖：翻空亚军 [动作]**
+ **先祖：翻空冠军 [动作]**
 
 ![](https://img.166.net/reunionpub/1_kol_20241202_c42cbb6d74fbf5da8babeb25c036d856.jpeg)
 
@@ -46,13 +46,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 1.前往圆梦村找到老练音乐家领取任务
 
-2.点击先祖旁的吉他和它一起完成演奏并递交即可完成
+2.拾取先祖旁的吉他打开弹奏界面，等待乐谱演绎结束即可完成
 
  **位置：霞谷 圆梦村**
 
-![](https://img.166.net/reunionpub/1_kol_20241202_99ff0652158e453255e4bbb526fd49b9.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241202_f40e67a23e90b8bbd992014b665b1290.png)
 
-![](https://img.166.net/reunionpub/1_kol_20241202_c7ad2e8be3544ede475061c061e29f46.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241202_0555951d38947fb64fd23832000e4864.jpeg)
 
  **任务四：收集蓝色光芒 0/1**
 
@@ -124,7 +124,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+浪漫烟花x1
 
  **魔法工坊**
 
