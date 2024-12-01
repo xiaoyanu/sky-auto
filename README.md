@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-01 13:48:00
+date: 2024-12-02 00:33:29
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,91 +10,69 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **12月1日 星期日**
+ **12月2日 星期一**
 
- **云野**
+ **霞谷**
 
-![](https://img.166.net/reunionpub/1_kol_20241201_07955d6ed4bd34c0a9d23adc99b2c9f6.png)
+![](https://img.166.net/reunionpub/1_kol_20241202_384db42985b3d9ef530d10a40bac8130.jpeg)
 
-  *  **任务一：给一位朋友送礼 0/1**
+ **任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-1.点击好友找到击掌右边的礼物花费3根普通蜡烛并送给对方爱心后即可完成
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
-2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标花费3根普通蜡烛完成送礼即可
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
- **[第一种 二种任选其一完成即可]**
+![](https://img.166.net/reunionpub/1_kol_20241202_52eddb1232d7274487bd301ad9a4545a.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241201_d794747125719e0b72517fd153880f7e.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241201_4e6895fb5a713d455ecdb5c1f4dffb66.jpeg)
-
-  *  **任务二：在雨林重温先祖的美好回忆 0/1**
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：雨林 密林遗迹 [水母图/断桥图]**
+ **位置：霞谷 霞光城**
 
- **先祖：歉意伐木工 [动作]**
+ **先祖：翻空亚军 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20241201_ae2c186cf63a359612bb399b883a143c.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241202_c42cbb6d74fbf5da8babeb25c036d856.jpeg)
 
-  *  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+![](https://img.166.net/reunionpub/1_kol_20241202_29069b7f4990af4eae6b8aa7cd12e7d1.jpeg)
 
-完成方法1：
+ **任务三：老练音乐家在圆梦村等你，它需要你的帮助...... 0/1**
 
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
+完成方法：
 
- **位置：雨林 密林遗迹**
+1.前往圆梦村找到老练音乐家领取任务
 
- **1.密林遗迹入口亭子右侧**
+2.点击先祖旁的吉他和它一起完成演奏并递交即可完成
 
- **2.密林遗迹右侧矿洞前**
+ **位置：霞谷 圆梦村**
 
- **注：共有两处随机拯救一只即可完成**
+![](https://img.166.net/reunionpub/1_kol_20241202_99ff0652158e453255e4bbb526fd49b9.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241115_876f1cf7491e947cb6b1944e66693290.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241202_c7ad2e8be3544ede475061c061e29f46.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241115_9f0bc0010ca14a5113cffd4dc6636355.jpeg)
-
-完成方法2：
-
-前往风行网道 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
- **位置：雨林 风行网道**
-
-![](https://img.166.net/reunionpub/1_kol_20241125_26c44607936ae16bd5319feae317ae67.png)
-
-完成方法3：
-
-接触沙滩上的遥鲲幼仔即可完成
-
- **位置：云野 云峰**
-
-![](https://img.166.net/reunionpub/1_kol_20241125_abc1a517a99da5be315e3add31dba076.jpeg)
-
-  *  **任务四：收集橙色光芒 0/1**
+ **任务四：收集蓝色光芒 0/1**
 
 完成方法：
 
 靠近光芒即可完成
 
- **位置：雨林 密林遗迹   **
+ **位置：霞谷 滑冰场**
 
-![](https://img.166.net/reunionpub/1_kol_20241201_5d57fd44cd03141483ebd0db6c02e917.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241202_d9701749afef5c04dea3e459e1df08e3.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
  **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20241201_f9513551ed02c2865d2c22a5718d1beb.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241201_aca15d1122b6b3f5652b2e013348249a.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -116,87 +94,37 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
- **暮土**
-
- **灼热碎片 [红石]**
-
- **具体位置** ：失落方舟
-
- **坠落时间** ：7、13、19小时的08分40秒左右～50分
-
- **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币** ：升华蜡烛
-
- **注：此坠落点可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20241201_78b2fdc71f321b773265ed7360bed585.jpeg)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **大蜡烛**
 
- **地图：雨林 暮土 禁阁**
+ **地图：霞谷**
 
- **雨林**
-
- **第一堆：**
-
-**![](https://img.166.net/reunionpub/1_kol_20241116_cdfdf6ad255e09c9f8e4ab1f49d8bbc3.jpeg)**
-
-第二堆：
-
-**![](https://img.166.net/reunionpub/1_kol_20241116_578d639d77a99d547434cc4b5e50173c.jpeg)**
-
-第三堆：
-
-**![](https://img.166.net/reunionpub/1_kol_20241116_c689ee1a8802b450390ac381c801dee7.jpeg)**
-
-第四堆：
-
-**![](https://img.166.net/reunionpub/1_kol_20241116_1da16d4a8062f183c98b82981cb646d0.jpeg)**
-
- **暮土**
+ **霞谷**
 
  **第一堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20241117_967f071da97769f55d3ec3ab9089b4ab.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241110_da4491ed2e5e8721e5f3d10c3ddac79a.jpeg)**
 
 第二堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20241117_3f30bba2cc3604d59823f7fa18e2b32e.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241110_01cf6cf6ef458004ff217f8f9781d9a3.jpeg)**
 
 第三堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20241117_de3bf3424806b7be64f44a8f8662ce35.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241110_633c92e916b7e6d8f88f4280dddc13aa.jpeg)**
 
 第四堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20241117_b2d03ec30ab42199ceeda6899ebff638.jpeg)**
-
- **禁阁**
-
- **第一堆：**
-
-**![](https://img.166.net/reunionpub/1_kol_20241117_6d65030a4bad18aeb465d70459c46038.jpeg)**
-
-第二堆：
-
-**![](https://img.166.net/reunionpub/1_kol_20241117_e70b22860ba7f7b6d45087c8b6eb311e.jpeg)**
-
-第三堆：
-
-**![](https://img.166.net/reunionpub/1_kol_20241117_8b8d564516fb0350e7d96e2dd914110c.jpeg)**
-
-第四堆：
-
-**![](https://img.166.net/reunionpub/1_kol_20241117_f9f6521096fbd66d09c145aeddf1b283.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241110_28d5274be102dac900f0a7c78ce386ee.jpeg)**
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **体型重塑x1 绚丽彩虹x1**
+ **浪漫烟花x1**
 
  **魔法工坊**
 
@@ -208,7 +136,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置：遇境
 
-**![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**![](https://img.166.net/reunionpub/1_kol_20241117_ff6efcefc134b17d3807e02e62469024.jpeg)
+ **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
+
+**![](https://img.166.net/reunionpub/1_kol_20241110_dfdeb85a3452111dd4cdeb48c44c31e2.jpeg)**
 
  **魔法商店**
 
@@ -216,7 +146,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20241201_8250e64aef6dcc048249f5ac1bd1e638.jpeg)
+**![](https://img.166.net/reunionpub/1_kol_20241110_4f62415e9c3bd46ff85bec35c4474fb6.jpeg)**
 
  **留言魔法：**
 
