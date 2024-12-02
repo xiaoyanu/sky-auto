@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-03 00:37:18
+date: 2024-12-03 00:54:33
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **暮土**
 
-![](https://img.166.net/reunionpub/1_kol_20241203_6939d1d9dc2621c771e327745fcfd4f3.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241203_4fb46508f252927e395b2f8d4c74e3d5.png)
 
  **任务一：和陌生人一起坐在长凳上 0/1**
 
@@ -32,7 +32,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：暮土 巨兽荒原[四龙图]**
+ **位置：暮土 巨兽荒原 [四龙图]**
 
  **先祖：隐秘幸存者 [站姿]**
 
@@ -58,7 +58,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：暮土  1.遗忘方舟 2.黑水港湾**
 
- ***注：此光芒共有两处位置任选其一完成即可**
+ **注：此光芒共有两处位置任选其一完成即可**
 
 ![](https://img.166.net/reunionpub/1_kol_20241203_ca271ecc4ad05ed3746ff1b98b8e9b18.jpeg)
 
@@ -78,11 +78,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-云野
+ **云野**
 
  **冷却碎片 [黑石]**
 
- **具体位置** ： **滑冰场**
+ **具体位置** ：蝴蝶平原
 
  **坠落时间** ：9、14、19小时的08分40秒左右～50分
 
@@ -102,19 +102,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置
 
-第一堆：
+第一堆：暮土大厅
 
 **![](https://img.166.net/reunionpub/1_kol_20241111_0ad48561dd254f6e5a0a0bcccdd2c7a0.jpeg)**
 
-第二堆：
+第二堆：边陲荒漠
 
 **![](https://img.166.net/reunionpub/1_kol_20241111_eaa1df28614cacdf0deab36d6eab08f5.jpeg)**
 
-第三堆：
+第三堆：巨兽荒原
 
 **![](https://img.166.net/reunionpub/1_kol_20241111_2e604b01a7a872f3e7f3fed5c5e05b8f.jpeg)**
 
-第四堆：
+第四堆：远古战场
 
 **![](https://img.166.net/reunionpub/1_kol_20241111_101af3ded9724ff9edfccc6853bcfd13.jpeg)**
 
