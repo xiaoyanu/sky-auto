@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-04 00:55:26
+date: 2024-12-04 07:27:29
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,15 +14,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **禁阁**
 
-![](https://img.166.net/reunionpub/1_kol_20241204_f48114e46546430eb4282451c952a167.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241204_e35839f98807326aa4634b8a73f18281.png)
 
  **任务一：点亮一位玩家 0/1**
 
 完成方法：
 
-用心火点亮任意一位陌生玩家即可完成
+靠近天空王国中的任意其他玩家举起心火蜡烛等待对方点亮即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20241204_7aef8fce06e996a25cc9442f6ec9e613.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241204_b28a1b92c445c6e6e0799db23a0226ba.png)
 
  **任务二：在禁阁重温先祖的美好回忆 0/1**
 
@@ -30,9 +30,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
-位置： **禁阁二层**  [ **四人门内左侧柱子后方** ]
+ **位置：禁阁二层  [四人门内左侧柱子后方]**
 
-先祖： **气功高人/移物学者 [动作]**
+ **先祖：浮空宗师 [动作]**
 
 ![](https://img.166.net/reunionpub/1_kol_20241204_48441480a48a5d3db9ac6a3dc5e3f2bd.jpeg)
 
