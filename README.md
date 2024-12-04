@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-05 00:56:02
+date: 2024-12-05 07:28:07
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,11 +10,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **12月6日 星期四**
+ **12月5日 星期四**
 
-云野
+ **云野**
 
-![](https://img.166.net/reunionpub/1_kol_20241205_33f1180b3e10bf5b8169e26d430978d3.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241205_55f56354547bd8be032c9c7685ff66f7.png)
 
  **任务一：和朋友击掌 0/1**
 
@@ -42,9 +42,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：内秀书虫 [站姿]**
 
-![](https://img.166.net/reunionpub/1_kol_20241205_4ab8be2e6bb70b90de80dfdc8c9a5cc3.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241205_1f94bb3dd4b1f31c0cbeaf5b5d4ae98f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241205_b10f8837177687f3b5a2fdd4991785cf.png)
 
  **任务三：点燃20根蜡烛 0/20**
 
