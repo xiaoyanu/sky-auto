@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-04 13:48:10
+date: 2024-12-05 00:37:57
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,33 +10,41 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **12月4日 星期三**
+ **12月6日 星期四**
 
- **禁阁**
+云野
 
-![](https://img.166.net/reunionpub/1_kol_20241204_e35839f98807326aa4634b8a73f18281.png)
+![](https://img.166.net/reunionpub/1_kol_20241205_33f1180b3e10bf5b8169e26d430978d3.jpeg)
 
- **任务一：点亮一位玩家 0/1**
+ **任务一：和朋友击掌 0/1**
 
 完成方法：
 
-靠近天空王国中的任意其他玩家举起心火蜡烛等待对方点亮即可完成
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
-![](https://img.166.net/reunionpub/1_kol_20241204_b28a1b92c445c6e6e0799db23a0226ba.png)
+ **注：一级二级都可以完成**
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+2.找到对应季节向导，与季节向导完成击掌即可
+
+ **注：需要完成前置的剧情任务**
+
+![](https://img.166.net/reunionpub/1_kol_20241205_3c7668d619dafb52d8c5205a976a002b.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241205_cfa09939879b5d251a9b768633d3e822.jpeg)
+
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁二层  [四人门内左侧柱子后方]**
+ **位置：云野 圣岛**
 
- **先祖：浮空宗师 [动作]**
+ **先祖：内秀书虫 [站姿]**
 
-![](https://img.166.net/reunionpub/1_kol_20241204_48441480a48a5d3db9ac6a3dc5e3f2bd.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241205_4ab8be2e6bb70b90de80dfdc8c9a5cc3.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241204_702374058d6fa4ec93e75e80698f6dfb.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241205_1f94bb3dd4b1f31c0cbeaf5b5d4ae98f.jpeg)
 
  **任务三：点燃20根蜡烛 0/20**
 
@@ -50,25 +58,29 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241203_57f7300b5593536f258c9e4cc7ce11f6.jpeg)
 
- **任务四：在禁阁底层冥想 0/1**
+ **任务四：收集绿色光芒 0/1**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+靠近光芒即可完成
 
- **位置：禁阁一层/禁阁大厅 右侧平台**
+ **位置：云野 云顶浮石 [右侧隐藏图]**
 
-![](https://img.166.net/reunionpub/1_kol_20241204_75717d5c44dbf922b566e1adefd72422.png)
+ **注：此光芒每整十分下落**
+
+![](https://img.166.net/reunionpub/1_kol_20241205_4fc4124f55c48405311f6b3e11e4b951.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241205_504bc1d612096d39e1863157ee20e1a7.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **季节蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
- **位置：B组**
+ **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20241204_a6fa73516ce765ad58668e4cd504c508.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241204_37091db03c106ed182645e9b977f0009.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -80,31 +92,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 位置
 
 第一堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20241113_28eebe357256fd6c95dc3052eab257ef.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241113_2d0efb5655d7d9efb1cb207f0a5fdd1e.jpeg)**
 
 第二堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20241113_9da1a91abdc0b9e18b56c13e91a1fb55.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241113_37d35599fd39cf60c4d29911ab70c4d6.jpeg)**
 
 第三堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20241113_4a3b795fbcbb4b098e3e560e7198a55e.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241113_1b50118fc421f18e5b16090c7d6b4358.jpeg)**
 
 第四堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20241113_dec12eafbc28fc19c9deb293c43827e1.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241113_4858063eab7315e342a32d14d97f2549.jpeg)**
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法工坊**
 
@@ -118,7 +130,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20241204_eaac025d8ef4475457251844f1803f3c.jpeg)
+**![](https://img.166.net/reunionpub/1_kol_20241113_afa79592c6640a684d1c957e4ed760b1.jpeg)**
+
+ **魔法商店**
+
+位置：云巢
+
+注：开启 魔法商店 需完成 [归巢季] 季节任务八
+
+**![](https://img.166.net/reunionpub/1_kol_20241113_07b8a12d7dfdb6a00cbdb75b27e9ec17.jpeg)**
 
  **魔法商店**
 
