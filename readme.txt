@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-06 00:55:13
+date: 2024-12-06 07:28:20
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **雨林**
 
-![](https://img.166.net/reunionpub/1_kol_20241206_e7fe91c4a5c65172476c43c8da69ffc4.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241206_9acdad068e6acd3fb64b13ebe4486b43.png)
 
  **任务一：向一位朋友做个动作 0/1**
 
@@ -22,7 +22,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20241206_85c3cca0a13ce8dc65d8f461d2c322a2.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241206_a8966ddc00feb9850889be307e89cd32.jpeg)
 
  **任务二：在雨林重温先祖的美好回忆 0/1**
 
@@ -54,7 +54,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：雨林 静谧庭院**
 
-![](https://img.166.net/reunionpub/1_kol_20241206_c383db0db4ada0c01b825dd154fa4bef.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241206_ed6c225be591e231e703eed364d79bad.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
