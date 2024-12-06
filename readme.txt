@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-07 00:53:03
+date: 2024-12-07 07:27:25
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **霞谷**
 
-![](https://img.166.net/reunionpub/1_kol_20241207_744097e77812adca6606fca6ce2c9c92.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241207_8c5f9fe98e3993a332e5e60541925de9.png)
 
  **任务一：和朋友击掌 0/1**
 
@@ -48,15 +48,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法：
 
-前往 [圆梦村]，找到 **忙碌舞台管理员** 接取任务后，帮其找到 **谦逊舞者** 领到其身边即可
+1.前往 [圆梦村剧场]，找到 **忙碌舞台管理员** 接取任务
 
-**位置：霞谷 圆梦村**
+2.根据指引将 **谦逊的舞者** 带到 **忙碌舞台管理员** 旁即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20241207_e40c636c61e9ae2c885dc55cd8b65ec3.jpeg)
+ **位置：霞谷 圆梦村剧场**
 
-![](https://img.166.net/reunionpub/1_kol_20241207_76ca8301f5118ec96b08ad6c301cb2b0.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241207_378c5d41c1e75eaf95ae5efb41cf9731.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241207_e26f6c9166d9388afb11670ec9eecfe0.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241207_a4625f7dca540332976961cece88a5a1.png)
 
  **任务四：在霞光城上层冥想 0/1**
 
@@ -66,9 +66,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/1_kol_20241207_d57df6f993b8cc75c29ad830b70e7369.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241207_e6c0ca76f51d396bb0b1e8bc07793cb8.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241207_8c0ec0b830a1ae3bed649e1ceffcb0d7.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241207_a4aa09d8dc1f4181d7311e1caeb23e77.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
@@ -84,11 +84,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-禁阁
+ **禁阁**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
- **具体位置** ：星光沙漠
+ **具体位置** ：星光沙漠海滩
 
  **坠落时间** ：10、14、22小时的08分40秒左右～50分
 
@@ -98,7 +98,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/1_kol_20241207_fbb5cb0b0d747c6cd2f97a7865f441e8.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241207_d85e9aa1852a8306b0e698f60fb04c02.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241207_7e072e64ca6cbdbcd5791aba9fd8f2d3.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -168,9 +170,10 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **云野**
 
-**第一堆：![](https://img.166.net/reunionpub/1_kol_20241115_68a31451328d5de4d798f0be9837bb5f.jpeg)**
+第一堆：
+**![](https://img.166.net/reunionpub/1_kol_20241115_68a31451328d5de4d798f0be9837bb5f.jpeg)**
 
- **第二堆：**
+第二堆：
 
 **![](https://img.166.net/reunionpub/1_kol_20241115_2ccd94c383175bcb66411959b192887c.jpeg)**
 
@@ -184,7 +187,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **雨林**
 
- **第一堆：**
+第一堆：
 
 **![](https://img.166.net/reunionpub/1_kol_20241114_689c7024e9583e7a60aec4531e046947.jpeg)**
 
@@ -202,7 +205,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **暮土**
 
- **第一堆：**
+第一堆：
 
 **![](https://img.166.net/reunionpub/1_kol_20241115_67ac766932b4ec1f6ae8d97612988c0a.jpeg)**
 
@@ -223,8 +226,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **今日免费魔法**
 
  **返老还童x1 长大成人x1**
-
- **分享音符魔法×1 [可领取两次]**
 
  **魔法工坊**
 
