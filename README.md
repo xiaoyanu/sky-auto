@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-06 07:42:42
+date: 2024-12-06 13:31:37
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -16,13 +16,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241206_9acdad068e6acd3fb64b13ebe4486b43.png)
 
- **任务一：向一位朋友做个动作 0/1**
+ **任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
-![](https://img.166.net/reunionpub/1_kol_20241206_a8966ddc00feb9850889be307e89cd32.jpeg)
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
+
+![](https://img.166.net/reunionpub/1_kol_20241206_3a47e8208c9ad992817c712c0fb75caf.png)
 
  **任务二：在雨林重温先祖的美好回忆 0/1**
 
