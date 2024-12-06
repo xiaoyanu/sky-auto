@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-06 13:48:09
+date: 2024-12-07 00:35:05
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -76,6 +76,66 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
+ **音符代币**
+
+ **活动时间：12月6日～12月20日**
+
+ **直接拾取**
+
+可获音符代币×15
+
+注：活动期间仅可拾取一次
+
+![](https://img.166.net/reunionpub/1_kol_20241206_d001a0a56b490e2229dcfec54fccbbb7.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_97025761759b3574ef3afffe01f271ec.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_71da289695de4629fcd9c53784582616.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_a8cfdec02e8fcbc3821877d6af6251eb.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_85a6af568f39011aac1c1d634d7aea02.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_cde8904194c80ab32005c2d9b1c50df7.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_0f7289d80cd9636417f9009d6536a905.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_eb31aa4173ad47e4ffbc98b1de68a171.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_eddf2430124cd8b5676627ad2effcc21.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_fe7b4f333f4a0d4462a4db31e2c264cd.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_0e8ebeeebffb6c9865d4f2b902fbbc53.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_5af90c1763d533ec29e4dfa279d14f6f.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_eda7b5a7ee61494a4e0d2e65cd6974b3.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_c3926cf5d2c8d69ce1ad67419b37fb91.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241206_dcce633ccb6c5ad3c04ed8747df5e5f1.jpeg)
+
+ **互动收集**
+
+与活动向导互动可获 音符代币×1
+
+练习乐器可获 音符代币×1
+
+靠近独奏表演舞台可获 音符代币×2
+
+![](https://img.166.net/reunionpub/1_kol_20241207_6260eba592c0869f2b0008bbbcb0cc4b.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241207_4e3b8664851c92bb49395d2b46e7469e.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241207_9c82a557e977025fb546816f07302bc8.jpeg)
+
+ **货币兑换**
+
+![](https://img.166.net/reunionpub/1_kol_20241207_3918dfd3c50d2bd35538b085255a7ddf.png)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
  **大蜡烛**
 
  **地图：云野 雨林 霞谷**
@@ -139,6 +199,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **今日免费魔法**
 
  **小不点×1 大只佬×1**
+
+ **分享音符魔法×1 [可领取两次]**
 
  **魔法工坊**
 
