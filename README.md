@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-08 00:50:28
+date: 2024-12-08 07:26:22
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **暮土**
 
-![](https://img.166.net/reunionpub/1_kol_20241208_40496ccd1e1d72850bc73a71abc36f11.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241208_287af75fb3fa1b02fa76c66272a9568b.png)
 
  **任务一：点亮一位玩家 0/1**
 
@@ -30,7 +30,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：暮土 一龙图**
+ **位置：暮土 巨兽荒原 [一龙图]**
 
  **先祖：无畏士兵 [站姿]**
 
@@ -74,7 +74,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **云野**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：圣岛
 
@@ -98,7 +98,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 可获音符代币×15
 
-注：活动期间仅可拾取一次
+>  **注：活动期间仅可拾取一次**
 
 ![](https://img.166.net/reunionpub/1_kol_20241206_d001a0a56b490e2229dcfec54fccbbb7.jpeg)
 
@@ -132,17 +132,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **互动收集**
 
-与活动向导互动可获 音符代币×1
+与活动向导互动查看演奏主题 可获音符代币×1
 
-练习乐器可获 音符代币×1
+![](https://img.166.net/reunionpub/1_kol_20241208_e6f22d1b19d870920cd7da7a07cba36d.jpeg)
 
-靠近独奏表演舞台可获 音符代币×2
+试用乐器 可获音符代币×2
 
-![](https://img.166.net/reunionpub/1_kol_20241207_6260eba592c0869f2b0008bbbcb0cc4b.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241208_bf374ae412d6e8d271caf0eded801774.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241207_4e3b8664851c92bb49395d2b46e7469e.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241208_7136fa882ba284454f351b0cd2824ad3.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241207_9c82a557e977025fb546816f07302bc8.jpeg)
+靠近独奏表演舞台 可获音符代币×2
+
+![](https://img.166.net/reunionpub/1_kol_20241208_72a607a0793cc94a494366c4cd681493.jpeg)
 
  **货币兑换**
 
@@ -156,7 +158,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **雨林**
 
- **第一堆：**
+第一堆：
 
 **![](https://img.166.net/reunionpub/1_kol_20241116_cdfdf6ad255e09c9f8e4ab1f49d8bbc3.jpeg)**
 
@@ -174,7 +176,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **暮土**
 
- **第一堆：**
+第一堆：
 
 **![](https://img.166.net/reunionpub/1_kol_20241117_967f071da97769f55d3ec3ab9089b4ab.jpeg)**
 
@@ -192,7 +194,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **禁阁**
 
- **第一堆：**
+第一堆：
 
 **![](https://img.166.net/reunionpub/1_kol_20241117_6d65030a4bad18aeb465d70459c46038.jpeg)**
 
