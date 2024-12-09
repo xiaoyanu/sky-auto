@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-09 07:53:14
+date: 2024-12-09 13:32:29
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **禁阁**
 
-![](https://img.166.net/reunionpub/1_kol_20241209_9272030a5d71265c86e8f4c54d038d88.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241209_c496749734b493b8e6702904f75c251c.png)
 
  **任务一：和朋友击掌 0/1**
 
@@ -32,17 +32,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241209_5dca5760a50cdf22bb0a31eebe1468d3.jpeg)
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+ **任务二：重温先祖的美好回忆 0/1**
 
 完成方法：
 
-点燃先祖重温回忆
+在天空王国中选择任意一位先祖重温回忆，并点燃石像收取动作才可完成
 
- **位置：禁阁四层  **
+ **位置：晨岛 云野 雨林 霞谷 暮土 禁阁**
 
- **先祖：拳礼武僧[动作]**
+![](https://img.166.net/reunionpub/1_kol_20241209_9c9f512c2cc46e97fd9cdb39cfe3846a.png)
 
-![](https://img.166.net/reunionpub/1_kol_20241209_f571d1bbcdf495a7bb6ae2492d1346b0.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241209_a75dfaab0de7e87d0d5392302e05c59e.png)
 
  **任务三：掀翻5只螃蟹 0/5**
 
@@ -60,7 +60,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 靠近星光即可完成
 
- **位置：禁阁一层**
+ **位置：禁阁一层/禁阁大厅**
 
 ![](https://img.166.net/reunionpub/1_kol_20241209_322afe4a24a3d3326e9d4484c52b8529.jpeg)
 
