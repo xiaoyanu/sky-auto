@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-11 00:56:01
+date: 2024-12-11 07:27:13
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,19 +12,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **12月11日 星期三**
 
- **云野**
+ **雨林**
 
-![](https://img.166.net/reunionpub/1_kol_20241211_ddf65b5484e602acd6bb2f343b852ebc.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241211_b2b01d460f33c0a89941d32ce6b90cad.png)
 
  **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作  **面对好友**  点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/1_kol_20241211_590c128a0c71f4f04b9d5eb3510eb098.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241211_956263504c4889f24c2d35616f43fc60.png)
 
  **任务二：在雨林重温先祖的美好回忆 0/1**
 
@@ -38,15 +38,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241211_4cff13e1c0b533b2b3d35c89ba1b9ae0.png)
 
- **任务三：铸成一根蜡烛   0/1**
+ **任务三：铸成一根蜡烛  0/1**
 
 完成方法：
 
-在地图内收集烛火，铸成一根蜡烛即可完成
+在天空王国中收集 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光/季节蜡烛烛光
 
- **注：不包含代币，普通蜡烛、季节蜡烛、升华蜡烛皆可**
+铸成一整根蜡烛后点击对应货币即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20241211_7609ff74e56045e41ae4b0746c73e6fa.jpeg)
+ **推荐地图：**
+
+ **当日含有季节蜡烛/大蜡烛的地图 [雨林(季节蜡烛) /禁阁(大蜡烛)]**
+
+![](https://img.166.net/reunionpub/1_kol_20241211_d04175437f818a7a7db23604630ed2e9.png)
 
  **任务四：在静谧庭院外冥想 0/1**
 
@@ -56,7 +60,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：雨林 静谧庭院**
 
-![](https://img.166.net/reunionpub/1_kol_20241211_042c95935a687be60f2ce158256cd0d7.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241211_fc6a00262d28070fb52b4634fadb5c50.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
