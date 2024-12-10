@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-10 07:42:28
+date: 2024-12-10 13:32:00
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **云野**
 
-![](https://img.166.net/reunionpub/1_kol_20241210_4954b468251eee39e025caf739612af8.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241210_a95d8bc47dd616e7a674df8fe1dd1820.png)
 
  **任务一：向一位玩家鞠躬 0/1**
 
@@ -24,7 +24,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/1_kol_20241210_7ebc75a544aa7b6db227c67e40ea0cac.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241210_936892fe2798ae4f80666275ca768f02.png)
 
  **任务二：在云野重温先祖的美好回忆 0/1**
 
@@ -36,9 +36,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：热血运动员 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20241210_2f89368e45da2488d45236d92790ef87.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241210_07523083a71cd72e3dd3674e1fde9cc1.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241210_d1cf07d99c081b6d60a888a05bfa6b0c.png)
 
  **任务三：点燃20根蜡烛 0/20**
 
@@ -128,17 +126,17 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 与活动向导互动查看演奏主题 可获音符代币×1
 
-![](https://img.166.net/reunionpub/1_kol_20241208_e6f22d1b19d870920cd7da7a07cba36d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241210_fa7562d079eeabfa13be1c0acfddbed4.jpeg)
 
 试用乐器 可获音符代币×2
 
-![](https://img.166.net/reunionpub/1_kol_20241208_bf374ae412d6e8d271caf0eded801774.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241210_4c9ec7f9808c3cbfe35ef7c3435cce1b.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241208_7136fa882ba284454f351b0cd2824ad3.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241208_bf374ae412d6e8d271caf0eded801774.jpeg)
 
 靠近独奏表演舞台 可获音符代币×2
 
-![](https://img.166.net/reunionpub/1_kol_20241208_72a607a0793cc94a494366c4cd681493.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241210_fccf099c03ff9281359fddf70de4b500.jpeg)
 
  **货币兑换**
 
