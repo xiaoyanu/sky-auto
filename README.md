@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-12 00:55:12
+date: 2024-12-12 07:27:35
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **霞谷**
 
-![](https://img.166.net/reunionpub/1_kol_20241212_3dbeb2073db57e5b4d0c2f0f4a859a0e.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241212_6f93969d7fdbd5658e6458e98b4226ac.png)
 
  **任务一：给一位朋友送礼 0/1**
 
@@ -40,19 +40,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：自豪冠军 [站姿]**
 
-![](https://img.166.net/reunionpub/1_kol_20241212_1de98ea4c3b49456d195e1a1ea894483.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241212_f587f289d3e8668292bc55a17a76abbf.png)
 
- **任务三：忙碌舞台管理员在圆梦村剧场等你，它需要你的帮助 0/1**
+ **任务三：忙碌舞台管理员在圆梦村剧场，需要你的帮助 0/1**
 
 完成方法：
 
-前往 [圆梦村 圆梦剧场]找到 **忙碌舞台管理员** 接取任务后，和其互动完成各种动作即可完成任务
+1.前往圆梦村剧场找到 忙碌舞台管理员 领取任务
 
- **位置：霞谷 圆梦村 圆梦剧场**
+2.引领忙碌舞台管理员做三个动作并拥抱后即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20241212_153a5b2afef9c8815974de234a9c34c4.jpeg)
+ **位置：霞谷 圆梦村剧场**
 
-![](https://img.166.net/reunionpub/1_kol_20241212_e68575ff54cd1dfaba27d2ff81b86aa7.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241212_c3bbae634a7daffa773aa87732d228f7.png)
 
  **任务四：在霞光城拱门上冥想 0/1**
 
@@ -81,6 +81,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **伊甸之眼坠落碎片位置**
 
 无
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+ **旅行﻿先祖**
+
+风行季——风铃修补匠
+
+复刻时间：12/12早上6:00～12/16中午12:00
+
+ **位置：雨林 风行网道**
+
+![](https://img.166.net/reunionpub/1_kol_20241212_8a5538062b08dad2cf6eafc554d5bac2.png)
+
+ **兑换图**
+
+![](https://img.166.net/reunionpub/1_kol_20241212_3bc30802d2f184f414d8bc07138959c2.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -128,17 +144,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 与活动向导互动查看演奏主题 可获音符代币×1
 
-![](https://img.166.net/reunionpub/1_kol_20241210_fa7562d079eeabfa13be1c0acfddbed4.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241212_d842fed06ea36d5c2fd82aeb2f73fcf8.jpeg)
 
 试用乐器 可获音符代币×2
 
-![](https://img.166.net/reunionpub/1_kol_20241210_4c9ec7f9808c3cbfe35ef7c3435cce1b.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241212_8e10507bb446a82c6a9112e4ccde482f.jpeg)
 
 ![](https://img.166.net/reunionpub/1_kol_20241208_bf374ae412d6e8d271caf0eded801774.jpeg)
 
 靠近独奏表演舞台 可获音符代币×2
 
-![](https://img.166.net/reunionpub/1_kol_20241210_fccf099c03ff9281359fddf70de4b500.jpeg)
+注：今日独奏表演舞台在音乐餐厅，可通过活动向导传送
+
+![](https://img.166.net/reunionpub/1_kol_20241212_4cf5f62f806efb9b8308dbde55863c99.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241212_92aabe09b02bfba48d27788d0492a732.jpeg)
 
  **货币兑换**
 
