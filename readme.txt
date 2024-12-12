@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-13 00:55:08
+date: 2024-12-13 07:28:19
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,29 +12,35 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **12月13日 星期五**
 
- **霞谷**
+ **暮土**
 
-![](https://img.166.net/reunionpub/1_kol_20241213_b6d8a2acccc0a2e49b99d0b952fc9de2.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241213_2c1863cb73a50053127bb57ea85d440f.png)
 
  **任务一：向一位朋友招手 0/1**
 
 完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/1_kol_20241213_bcb85e16562c2578c19ad4a02930c9dc.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241213_96fe026305713822d27f61ccf86fe8ff.png)
 
  **任务二：威严舰长在藏宝岛礁需要帮助 0/1**
 
 完成方法：
 
-在暮土藏宝岛礁找到 **威严舰长** 领取任务，靠近有光柱的岛屿，拍照后交给 **威严舰长** 即可完成
+1.前往藏宝岛礁找到 威严舰长 领取任务 [靠近岛屿，拍张照片]
 
-![](https://img.166.net/reunionpub/1_kol_20241213_0641c26971a571992f4126514c5b3fc2.jpeg)
+2.根据指引来到岛屿旁使用留影相机拍照即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20241213_d5e74c1a82e43633bd595aff62540ec5.jpeg)
+ **位置：暮土 藏宝岛礁**
+
+![](https://img.166.net/reunionpub/1_kol_20241213_4dc19520429175c34da707f1cd0156d9.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241213_e265f7c3b81baee6e143bd133c71c2ae.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241213_995664bd9aaaa79239e6a8c1af19691d.jpeg)
 
  **任务三：点燃20根蜡烛 0/20**
 
@@ -150,7 +156,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241212_4cf5f62f806efb9b8308dbde55863c99.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241212_92aabe09b02bfba48d27788d0492a732.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241213_8f6453006686b03daa6192fd09d4d725.jpeg)
 
  **货币兑换**
 
