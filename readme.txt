@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-14 00:36:18
+date: 2024-12-14 00:53:09
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **禁阁**
 
-![](https://img.166.net/reunionpub/1_kol_20241214_b47d58418a9cbe319e19ad4d437c6753.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241214_1553d40f3836e53675189b7b138767e8.png)
 
  **任务一：向一位玩家鞠躬 0/1**
 
@@ -24,13 +24,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/1_kol_20241214_cf14d5318dbbec7c1224d08a8b38fc4d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241214_7f4287cb482d3d9b490c1cd4f44984dc.png)
 
  **任务二：点亮一位玩家 0/1**
 
 完成方法：
 
-用心火点亮任意一位陌生玩家即可完成
+靠近天空王国中的任意其他玩家举起心火蜡烛等待对方点亮即可完成
 
 ![](https://img.166.net/reunionpub/1_kol_20241214_61e70626c1f3a2ac98ad9f62958017df.png)
 
@@ -70,9 +70,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-雨林
+ **雨林**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：雨林神殿
 
@@ -84,9 +84,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/1_kol_20241213_61cd249603f56437c0d8fd66085d7039.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241213_8305c7b824a8a3291237f3d40f485acb.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241214_0a773efe95f71298139d14b02970a60a.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -150,21 +148,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 与活动向导互动查看演奏主题 可获音符代币×1
 
-![](https://img.166.net/reunionpub/1_kol_20241212_d842fed06ea36d5c2fd82aeb2f73fcf8.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241214_06e9182270c537fc96c343d3535dc9b2.jpeg)
 
 试用乐器 可获音符代币×2
 
-![](https://img.166.net/reunionpub/1_kol_20241212_8e10507bb446a82c6a9112e4ccde482f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241214_45ea5d45e93dd902b1446a9621703595.jpeg)
 
 ![](https://img.166.net/reunionpub/1_kol_20241208_bf374ae412d6e8d271caf0eded801774.jpeg)
 
 靠近独奏表演舞台 可获音符代币×2
 
-注：今日独奏表演舞台在音乐餐厅，可通过活动向导传送
+注：今日独奏表演舞台在星光沙漠，可通过活动向导传送
 
 ![](https://img.166.net/reunionpub/1_kol_20241212_4cf5f62f806efb9b8308dbde55863c99.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241213_8f6453006686b03daa6192fd09d4d725.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241214_ae548a4ea5ac99d96606820b8b107b24.jpeg)
 
  **货币兑换**
 
@@ -176,11 +174,12 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图：云野 雨林 暮土**
 
- **云野**
+云野
 
-**第一堆：![](https://img.166.net/reunionpub/1_kol_20241115_68a31451328d5de4d798f0be9837bb5f.jpeg)**
+第一堆：
+**![](https://img.166.net/reunionpub/1_kol_20241115_68a31451328d5de4d798f0be9837bb5f.jpeg)**
 
- **第二堆：**
+第二堆：
 
 **![](https://img.166.net/reunionpub/1_kol_20241115_2ccd94c383175bcb66411959b192887c.jpeg)**
 
@@ -192,9 +191,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 **![](https://img.166.net/reunionpub/1_kol_20241115_372585f16ad761d21a778246af4d1129.jpeg)**
 
- **雨林**
+雨林
 
- **第一堆：**
+第一堆：
 
 **![](https://img.166.net/reunionpub/1_kol_20241114_689c7024e9583e7a60aec4531e046947.jpeg)**
 
@@ -210,9 +209,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 **![](https://img.166.net/reunionpub/1_kol_20241114_fe204b8dfabc8795787c172b53c03c34.jpeg)**
 
- **暮土**
+暮土
 
- **第一堆：**
+第一堆：
 
 **![](https://img.166.net/reunionpub/1_kol_20241115_67ac766932b4ec1f6ae8d97612988c0a.jpeg)**
 
