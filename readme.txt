@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-16 00:33:23
+date: 2024-12-16 00:49:46
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **雨林**
 
-![](https://img.166.net/reunionpub/1_kol_20241216_d2c3de052769fddc7ac6359af9f05656.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241216_81b2373eaa4b5eb9f81e988353aba410.png)
 
  **任务一：点亮一位玩家 0/1**
 
@@ -34,7 +34,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：发抖开拓者 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20241216_55e13f05e4779ab0af2bcc520386665e.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241216_cc34ff3f34af9c86d18c090c73005396.jpeg)
 
  **任务三：点燃20根蜡烛 0/20**
 
@@ -164,9 +164,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图：霞谷**
 
- **霞谷**
-
- **第一堆：**
+第一堆：
 
 **![](https://img.166.net/reunionpub/1_kol_20241110_da4491ed2e5e8721e5f3d10c3ddac79a.jpeg)**
 
