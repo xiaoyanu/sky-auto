@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-17 00:37:31
+date: 2024-12-17 00:54:31
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **霞谷**
 
-![](https://img.166.net/reunionpub/1_kol_20241217_9c2575a5520b02ac4fdad44dc0196f67.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241217_bd878465bda5fea866b4ee2a966b0b6b.png)
 
  **任务一：和陌生人一起坐在长凳上 0/1**
 
@@ -32,7 +32,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20241217_3b49f75a3c2c71474b54c63231eac52f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241217_c6dfd0e484bfd2fecd52fe1efb043ad0.jpeg)
 
  **任务三：忙碌舞台管理员在圆梦村剧场，需要你的帮助 0/1**
 
@@ -40,7 +40,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 1.前往圆梦村剧场找到 忙碌舞台管理员 领取任务
 
-2.引领忙碌舞台管理员做三个动作并拥抱后即可完成
+2.引领忙碌舞台管理员做三个动作后并击掌即可完成
 
  **位置：霞谷 圆梦村剧场**
 
@@ -120,21 +120,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 与活动向导互动查看演奏主题 可获音符代币×1
 
-![](https://img.166.net/reunionpub/1_kol_20241214_06e9182270c537fc96c343d3535dc9b2.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241217_bf808d0627361046504707baa132418a.jpeg)
 
 试用乐器 可获音符代币×2
 
-![](https://img.166.net/reunionpub/1_kol_20241214_45ea5d45e93dd902b1446a9621703595.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241217_34de07a754f3db390f571bae803dc140.jpeg)
 
 ![](https://img.166.net/reunionpub/1_kol_20241208_bf374ae412d6e8d271caf0eded801774.jpeg)
 
 靠近独奏表演舞台 可获音符代币×2
 
-注：今日独奏表演舞台在星光沙漠，可通过活动向导传送
+注：今日独奏表演舞台在落日竞技场，可通过活动向导传送
 
 ![](https://img.166.net/reunionpub/1_kol_20241212_4cf5f62f806efb9b8308dbde55863c99.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241214_ae548a4ea5ac99d96606820b8b107b24.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241217_d1a377099fac480a476d339f6b0aa5b2.jpeg)
 
  **货币兑换**
 
