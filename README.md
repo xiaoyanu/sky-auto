@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-20 16:21:16
+date: 2024-12-21 00:32:51
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,47 +10,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
 **每日任务 大蜡烛 季节蜡烛 免费魔法**
 
- **12月20日 星期五**
+ **12月21日 星期六**
 
- **云野**
+ **雨林**
 
-![](https://img.166.net/reunionpub/1_kol_20241220_3b4beff623d98aaff190dd6ff461dd71.png)
-
- **任务一：给一位朋友送礼 0/1**
-
-完成方法：
-
-1.点击好友找到击掌右边的礼物花费3根普通蜡烛并送给对方爱心后即可完成
-
-2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标花费3根普通蜡烛完成送礼即可
-
- **[第一种 二种任选其一完成即可]**
-
-![](https://img.166.net/reunionpub/1_kol_20241220_9afc05db746e1049b863adb3257a60ff.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241220_bb652cb5b70bb63633eb39358dba2905.jpeg)
-
- **任务二：在云野重温先祖的美好回忆 0/1**
-
-完成方法：
-
-点燃先祖重温回忆
-
- **位置：云野 蝴蝶平原**
-
- **先祖：引蝶人 [动作]**
-
-![](https://img.166.net/reunionpub/1_kol_20241220_ac70369a36e41948295cdb951558ec7d.jpeg)
-
- **任务三：在云野追逐散落的星光 0/1**
-
-完成方法：
-
-靠近星光即可完成
-
- **位置：云野 蝴蝶平原**
-
-![](https://img.166.net/reunionpub/1_kol_20241220_3558a6f67904aeb59b18c4f4445c7151.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241221_d1ef991a58848834d237ad601bcecf9a.jpeg)
 
  **任务一：向一位朋友招手 0/1**
 
@@ -62,15 +26,71 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241220_39840c736bdd6b152ec135f24a378cfe.png)
 
+ **任务二：在雨林重温先祖的美好回忆 0/1**
+
+完成方法：
+
+点燃先祖重温回忆
+
+ **位置：雨林 静谧庭院**
+
+ **先祖：管事小队长[动作]**
+
+![](https://img.166.net/reunionpub/1_kol_20241221_860c4726b93e2e6f276bd55da666c916.jpeg)
+
+ **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+
+完成方法1：
+
+拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
+
+ **位置：雨林 密林遗迹**
+
+ **1.密林遗迹入口亭子右侧**
+
+ **2.密林遗迹右侧矿洞前**
+
+ **注：共有两处随机拯救一只即可完成**
+
+![](https://img.166.net/reunionpub/1_kol_20241221_5e3d0dffa44b83568e0794059402de15.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241221_e7b1b8d005e1d6da9aee549140925750.jpeg)
+
+完成方法2：
+
+前往风行网道 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
+
+ **位置：雨林 风行网道**
+
+![](https://img.166.net/reunionpub/1_kol_20241221_b09e205f4c5061ddae86492f1e0a7e1e.png)
+
+完成方法3：
+
+接触沙滩上的遥鲲幼仔即可完成
+
+ **位置：云野 云峰**
+
+![](https://img.166.net/reunionpub/1_kol_20241221_156bfb63307d17ee6de7d6d48336fc6b.jpeg)
+
+ **任务四：在雨林的神庙内冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：雨林神庙[终点] 后方花园**
+
+![](https://img.166.net/reunionpub/1_kol_20241221_ace7bc5fa159afc94d9994e694a5d8ff.jpeg)
+
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
- **位置：B组**
+ **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20241219_759f2935f11bd24cfbc925a3a52ff707.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241220_461cf0e73d7b83a069b3b367ba47c00e.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -94,23 +114,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
- **霞谷**
-
- **灼热碎片 [红石]**
-
- **具体位置** ：圆梦村
-
- **坠落时间** ：11、17、23小时的08分40秒左右～50分
-
- **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币** ：升华蜡烛
-
- **注：此坠落点可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20241220_c8d7c1cf4841af0cc8ad0d5161ca63f8.png)
-
-![](https://img.166.net/reunionpub/1_kol_20241220_4f31234a3fb09882fb5df51a73eb2e3e.png)
+ **无**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -276,7 +280,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **小不点×1 大只佬×1**
+ **返老还童x1 长大成人x1**
 
  **魔法工坊**
 
@@ -290,7 +294,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-**![](https://img.166.net/reunionpub/1_kol_20241107_d28fd6ae9a0bdc7858a0eacf0bccdb37.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241207_4ce4a8f3ff57f2cca47ee11de3bbc123.jpeg)**
 
  **魔法商店**
 
@@ -298,7 +302,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-**![](https://img.166.net/reunionpub/1_kol_20241107_c30c2915cc5550ca1eab830fb1f3b68b.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241207_2e9f62267e6cd07ee176fa2dcbcf323e.jpeg)**
 
  **留言魔法：**
 
@@ -323,72 +327,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/1_kol_20241114_fe7f834ee8d5f2e2abc828a14fa10870.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
-
- **音符代币**
-
- **活动时间：12月6日～12月20日**
-
- **直接拾取**
-
-可获音符代币×15
-
- **注：活动期间仅可拾取一次**
-
-![](https://img.166.net/reunionpub/1_kol_20241206_d001a0a56b490e2229dcfec54fccbbb7.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_97025761759b3574ef3afffe01f271ec.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_71da289695de4629fcd9c53784582616.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_a8cfdec02e8fcbc3821877d6af6251eb.png)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_85a6af568f39011aac1c1d634d7aea02.png)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_cde8904194c80ab32005c2d9b1c50df7.png)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_0f7289d80cd9636417f9009d6536a905.png)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_eb31aa4173ad47e4ffbc98b1de68a171.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_eddf2430124cd8b5676627ad2effcc21.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_fe7b4f333f4a0d4462a4db31e2c264cd.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_0e8ebeeebffb6c9865d4f2b902fbbc53.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_5af90c1763d533ec29e4dfa279d14f6f.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_eda7b5a7ee61494a4e0d2e65cd6974b3.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_c3926cf5d2c8d69ce1ad67419b37fb91.png)
-
-![](https://img.166.net/reunionpub/1_kol_20241206_dcce633ccb6c5ad3c04ed8747df5e5f1.jpeg)
-
- **互动收集**
-
-与活动向导互动查看演奏主题 可获音符代币×1
-
-![](https://img.166.net/reunionpub/1_kol_20241217_bf808d0627361046504707baa132418a.jpeg)
-
-试用乐器 可获音符代币×2
-
-![](https://img.166.net/reunionpub/1_kol_20241217_34de07a754f3db390f571bae803dc140.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241208_bf374ae412d6e8d271caf0eded801774.jpeg)
-
-靠近独奏表演舞台 可获音符代币×2
-
-注：今日独奏表演舞台在落日竞技场，可通过活动向导传送
-
-![](https://img.166.net/reunionpub/1_kol_20241212_4cf5f62f806efb9b8308dbde55863c99.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241217_d1a377099fac480a476d339f6b0aa5b2.jpeg)
-
- **货币兑换**
-
-![](https://img.166.net/reunionpub/1_kol_20241207_3918dfd3c50d2bd35538b085255a7ddf.png)
-
- **![](https://img.166.net/reunionpub/ds/kol/20231220/070757-w9oeg612sl.png)**
 
  **“一起听”**
 
