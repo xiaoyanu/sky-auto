@@ -6,40 +6,41 @@ on:
   workflow_dispatch:
 
 jobs:
-  
   build:
-    
     runs-on: ubuntu-latest
-    
     env:
       TZ: Asia/Shanghai
-    
+
     steps:
-      
       - name: Checkout
         uses: actions/checkout@v3
 
-
-      - name: import py 3.12.8
+      - name: Setup Python
         uses: actions/setup-python@v3
         with:
-           python-version: 3.12.8
+          python-version: "3.10"  
+          architecture: "x64"
 
-      - name: install python module
+      - name: Install python module
         run: pip3 install -r requirements.txt
 
-      - name: run python script
+      - name: Run python script
         run: 
           python3 main.py
 
-      - name: commit github
+      - name: Commit github
         run: |
           git config --global user.email action@github.com
           git config --global user.name GitHub Action
-          git add .
+          git add.
           time=$(date "+%Y-%m-%d %H:%M:%S")
           git commit -m "${time} 自动更新" -a
-        
+          # 增加异常处理，若没有文件变更则不执行后续推送，避免无意义的提交
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
