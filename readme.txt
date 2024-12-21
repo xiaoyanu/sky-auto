@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-21 07:51:13
+date: 2024-12-21 13:28:30
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **雨林**
 
-![](https://img.166.net/reunionpub/1_kol_20241221_d1ef991a58848834d237ad601bcecf9a.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241221_640093aeb1f53a1ccf05b5c55c6f6036.png)
 
  **任务一：向一位朋友招手 0/1**
 
@@ -24,7 +24,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：1～6级招手动作均可完成**
 
-![](https://img.166.net/reunionpub/1_kol_20241220_39840c736bdd6b152ec135f24a378cfe.png)
+![](https://img.166.net/reunionpub/1_kol_20241221_71fddb5f89cebc8e227cef280ef287aa.png)
 
  **任务二：在雨林重温先祖的美好回忆 0/1**
 
@@ -34,9 +34,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：雨林 静谧庭院**
 
- **先祖：管事小队长[动作]**
+ **先祖：管事小队长 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20241221_860c4726b93e2e6f276bd55da666c916.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241221_a5b675d78b647d2d0c33e8f3e09010c9.png)
 
  **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
@@ -78,7 +78,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林神庙[终点] 后方花园**
+ **位置：雨林神庙 [后方花园]**
 
 ![](https://img.166.net/reunionpub/1_kol_20241221_ace7bc5fa159afc94d9994e694a5d8ff.jpeg)
 
