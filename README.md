@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-22 00:48:08
+date: 2024-12-22 07:24:04
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -14,7 +14,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **霞谷**
 
-![](https://img.166.net/reunionpub/1_kol_20241222_344a46d9a76d764586241d467a875838.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241222_a933d5ff0f9d68986db66dfa9df5bcab.png)
 
  **任务一：给一位朋友送礼 0/1**
 
@@ -98,9 +98,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **禁阁**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
- **具体位置** ：星光沙漠
+ **具体位置** ：星光沙漠海滩
 
  **坠落时间** ：7、13、19小时的08分40秒左右～50分
 
