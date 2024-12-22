@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-23 00:30:20
+date: 2024-12-23 00:43:43
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,15 +8,9 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-**每日任务 大蜡烛 季节蜡烛 免费魔法**
+![](https://img.166.net/reunionpub/1_kol_20241223_248c11391788a777e075ecc4e8d1d124.png)
 
- **12月23日 星期一**
-
- **暮土**
-
-![](https://img.166.net/reunionpub/1_kol_20241223_4af83ec0d35ab887ce89d1b2fd37c336.jpeg)
-
- **任务一：向一位玩家鞠躬 0/1**
+**任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
@@ -24,7 +18,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/1_kol_20241223_753a9b9fb81c6d66e12dc696a8a1b8b2.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241223_00537e28687f5227e36cc1680439c406.png)
 
  **任务二：在暮土重温先祖的美好回忆 0/1**
 
@@ -32,7 +26,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：暮土 巨兽荒原[四龙图]**
+ **位置：暮土 巨兽荒原 [四龙图]**
 
  **先祖：隐秘幸存者 [站姿]**
 
