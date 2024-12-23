@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-24 00:48:27
+date: 2024-12-24 07:25:02
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,15 +8,9 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-**每日任务 大蜡烛 季节蜡烛 免费魔法**
+![](https://img.166.net/reunionpub/1_kol_20241224_f50257ed869062af1e8491832db12152.png)
 
- **12月24日 星期二**
-
- **禁阁**
-
-![](https://img.166.net/reunionpub/1_kol_20241224_ef4c61cb88f4e4a3cdd3686da89afa68.jpeg)
-
- **任务一：给一位朋友送礼 0/1**
+**任务一：给一位朋友送礼 0/1**
 
 完成方法：
 
@@ -212,6 +206,10 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20241001/001829-fo9ac6wbiq.jpg)**
 
+![](https://img.166.net/reunionpub/1_kol_20241224_2eb742de2be7ecd3c5d84b90b428b15f.png)
+
+  
+
 巨兽荒原
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20241001/001919-syl960iua8.jpg)**
@@ -262,25 +260,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **光能药剂x1**
+光能药剂x1
 
  **魔法工坊**
 
- **位置：暮土 失落方舟**
+位置：暮土 失落方舟
 
- **注：开启 魔法工坊 需完成 [魔法季] 全部季节任务**
+注：开启 魔法工坊 需完成 [魔法季] 全部季节任务
 
  **魔法商船**
 
- **位置：遇境**
+位置：遇境
 
 **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)![](https://img.166.net/reunionpub/1_kol_20241125_f5df58b5024e22771549094df549ab90.jpeg)**
 
  **魔法商店**
 
- **位置：云巢**
+位置：云巢
 
- **注：开启 魔法商店 需完成 [归巢季] 季节任务八**
+注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
 **![](https://img.166.net/reunionpub/1_kol_20241202_8e770c4a669b4a380d04e4df11f9409b.jpeg)**
 
