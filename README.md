@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-24 00:32:49
+date: 2024-12-24 00:48:27
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,59 +8,71 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20241223_248c11391788a777e075ecc4e8d1d124.png)
+**每日任务 大蜡烛 季节蜡烛 免费魔法**
 
-**任务一：向一位玩家鞠躬 0/1**
+ **12月24日 星期二**
+
+ **禁阁**
+
+![](https://img.166.net/reunionpub/1_kol_20241224_ef4c61cb88f4e4a3cdd3686da89afa68.jpeg)
+
+ **任务一：给一位朋友送礼 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
+1.点击好友找到击掌右边的礼物花费3根普通蜡烛并送给对方爱心后即可完成
 
- **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
+2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标花费3根普通蜡烛完成送礼即可
 
-![](https://img.166.net/reunionpub/1_kol_20241223_00537e28687f5227e36cc1680439c406.png)
+ **[第一种 二种任选其一完成即可]**
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/1_kol_20241224_a51bbb0156666d53e8b7995c7921d0a0.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241224_ee4205d95ecbf72510d14929dcb0f113.jpeg)
+
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 巨兽荒原 [四龙图]**
+ **位置：禁阁三层**
 
- **先祖：隐秘幸存者 [站姿]**
+ **先祖：礼貌学士 [站姿]**
 
-![](https://img.166.net/reunionpub/1_kol_20241223_095ae5c1198deb79a0faeeb44b6eec7d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241224_d106b550a5681bd40b366e8f1ae68bf2.jpeg)
 
- **任务三：掀翻5只螃蟹 0/5**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+1.点燃一堆大蜡烛
 
- **推荐地图：暮土 云野圣岛**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20241223_dc6dfbe3d1f6ffaebca705654c5e896f.jpeg)
+ **推荐地图：云野 霞谷 禁阁 遇境**
 
- **任务四：在远古战场中央冥想 0/1**
+![](https://img.166.net/reunionpub/1_kol_20241224_c8d51bb3e152ae51dc84c30daba222ad.jpeg)
+
+ **任务四：在禁阁底层冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 远古战场 [三龙图]**
+ **位置：禁阁一层/禁阁大厅 右侧平台**
 
-![](https://img.166.net/reunionpub/1_kol_20241223_e726f78aad8f4b98a39a510a413fddfd.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241224_71cd51d9f5dd684beb37ca36a8ad4e57.png)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **季节蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
- **位置：A组**
+ **位置：B组**
 
-![](https://img.166.net/reunionpub/1_kol_20241222_c9d69dece681b5181a50c4c5cc47b37d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241224_701ade5740f2c170d4ccb9cde5e88083.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -250,29 +262,27 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法工坊**
 
-位置：暮土 失落方舟
+ **位置：暮土 失落方舟**
 
-注：开启 魔法工坊 需完成 [魔法季] 全部季节任务
+ **注：开启 魔法工坊 需完成 [魔法季] 全部季节任务**
 
  **魔法商船**
 
-位置：遇境
+ **位置：遇境**
 
- **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
-
-**![](https://img.166.net/reunionpub/1_kol_20241208_d39ee050baeae83d65979161570a76c7.jpeg)**
+**![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)![](https://img.166.net/reunionpub/1_kol_20241125_f5df58b5024e22771549094df549ab90.jpeg)**
 
  **魔法商店**
 
-位置：云巢
+ **位置：云巢**
 
-注：开启 魔法商店 需完成 [归巢季] 季节任务八
+ **注：开启 魔法商店 需完成 [归巢季] 季节任务八**
 
-**![](https://img.166.net/reunionpub/1_kol_20241208_842d9309dcdaaaa3479904457d162c94.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20241202_8e770c4a669b4a380d04e4df11f9409b.jpeg)**
 
  **留言魔法：**
 
