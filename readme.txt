@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-25 07:51:17
+date: 2024-12-25 13:29:49
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,9 +8,7 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-  
-
-![](https://img.166.net/reunionpub/1_kol_20241225_626f611f2b1ac9cbf00f7c594b1cc977.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241225_7b521310ec44444d6de37dc108ccf763.png)
 
 **任务一：和陌生人一起坐在长凳上 0/1**
 
@@ -30,9 +28,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：云野 圣岛**
 
- **先祖：母语者[叫声]**
+ **先祖：母语者 [叫声]**
 
-![](https://img.166.net/reunionpub/1_kol_20241225_e11060f63c3c384098623e4ae0abbede.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241225_b8a2007a6c4461a3e4900425003bbaae.jpeg)
 
 ![](https://img.166.net/reunionpub/1_kol_20241225_cada4ca4dd1c296d2bcff93366805fa5.jpeg)
 
@@ -78,7 +76,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 归属季——智慧长者
 
-复刻时间：12月21日早上6:00～12月25日中午12:00
+复刻时间：12/21早上6:00～12/25中午12:00
 
  **位置：禁阁 档案阁**
 
@@ -92,9 +90,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
+ **旅行﻿先祖**
+
+音韵季——致敬钢琴家
+
+复刻时间：12/26早上6:00～12/30中午12:00
+
+ **位置：暮土 巨兽荒原**
+
+![](https://img.166.net/reunionpub/1_kol_20241225_0f0825eb38d623de82d171b4ba489552.png)
+
+ **兑换图**
+
+![](https://img.166.net/reunionpub/1_kol_20241225_b6f2267aea179a5b90909e8e84ee4648.png)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
  **伊甸之眼坠落碎片位置**
 
-霞谷
+ **霞谷**
 
  **冷却碎片 [黑石]**
 
@@ -107,6 +121,60 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **获取货币** ：烛光 [普通蜡烛/白蜡烛]
 
  **注：此坠落点不可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/1_kol_20241225_1a2dd3d4a35055245be3ba7faaa5b04e.png)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+ **雪花代币**
+
+ **活动时间：12月24日～1月13日**
+
+ **互动收集**
+
+今日在仙境茶会的茶桌入座后直接可获 [雪花代币×5]
+
+![](https://img.166.net/reunionpub/1_kol_20241225_faf2df553943e3f97bc98bdb4e293a32.jpeg)
+
+ **地图拾取**
+
+可获雪花代币×15
+
+ **注：活动期间仅可拾取一次**
+
+![](https://img.166.net/reunionpub/1_kol_20241225_11d93831a33f8c16ed4b8484d27d132c.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_5b8cd034531f0fc463c9ea6bc02eeaba.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_e07fa1232dbc40f943e64a2cbd1bbd6e.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_f833378cf2db11c9da5695b64e41e5e6.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_9076063bef90aa86377ebd219d010f61.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_ca8dadc6b25b2cbddbb5dbd198476ebd.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_a2e1460ad2822623094375535b326799.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_ef196e12f58aac3b12b462bf7432c9ee.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_4734c82624ebb72a377fc551db565774.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_37620c369c3c779072989bcfe7c347dc.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_79414a93bb4a8977a8e75e1092e08fb2.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_7c592913ff9e4fdda121b80085351d23.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_7ea8e29f094c4d840cf8033391b8067e.png)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_9a03b08c531c6d5cab6b83839961e653.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241225_1bb4200fc4b8b34dd947a0b01b96a795.png)
+
+ **货币兑换**
+
+![](https://img.166.net/reunionpub/1_kol_20241225_2a2a365b483a968076f1655efe56534f.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
