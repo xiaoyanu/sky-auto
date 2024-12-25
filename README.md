@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-26 00:48:04
+date: 2024-12-26 07:25:08
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,9 +8,7 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-  
-
-![](https://img.166.net/reunionpub/1_kol_20241226_eeb3157fa4f2f3781fc3c56cdf88e9aa.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241226_4c03a3be2e4d7255d89c39df6549e68d.png)
 
 **任务一：接受一位朋友的礼物 0/1**
 
@@ -20,19 +18,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241226_128a3856412202d895974c57a1ae280d.jpeg)
 
- **任务二：躲猫猫拓荒者想在密林遗迹与你玩个游戏 0/1**
+ **任务二：躲猫猫拓荒者在密林遗迹需要帮助 0/1**
 
 完成方法：
 
-1.前往密林遗迹找到躲猫猫拓荒者领取任务
+1.前往 密林遗迹 找到躲猫猫拓荒者 领取任务 [躲猫猫拓荒者想在密林遗迹与你玩个游戏]
 
-2.躲在另一个先祖所在地即可完成
+2.找到在树下躲藏的先祖即可完成
 
  **位置：雨林 密林遗迹**
 
-![](https://img.166.net/reunionpub/1_kol_20241226_f17f810d5d972729281d9ccdf7eee8e2.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241226_553da23843244c4830c2367a61012eef.png)
 
-![](https://img.166.net/reunionpub/1_kol_20241226_e2a07c139830dff18df1c1165004e7fd.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241226_53bf1dcb7a7ed7a0778ea42aed7f1473.png)
 
  **任务三：面对冥龙 0/1**
 
@@ -70,24 +68,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **旅行﻿先祖**
 
-归属季——智慧长者
-
-复刻时间：12/21早上6:00～12/25中午12:00
-
- **位置：禁阁 档案阁**
-
-![](https://img.166.net/reunionpub/1_kol_20241220_20d9723f6975fb2ca71ff437c60d4df0.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241220_bdfbd1246b2920f8e3e211b6444e8633.jpeg)
-
- **兑换图**
-
-![](https://img.166.net/reunionpub/1_kol_20241220_b039688c2f88d677b8db68ef94803d0c.png)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
-
- **旅行﻿先祖**
-
 音韵季——致敬钢琴家
 
 复刻时间：12/26早上6:00～12/30中午12:00
@@ -114,9 +94,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **互动收集**
 
-今日在仙境茶会的茶桌入座后直接可获 [雪花代币×5]
+>  **找到瞌睡海牛领取任务：在一分钟后叫醒他 可获 [雪花代币×2.5]**
 
-![](https://img.166.net/reunionpub/1_kol_20241225_faf2df553943e3f97bc98bdb4e293a32.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241226_3f92d9f6c6f476e0fb9904708a0139d2.png)
+
+>  **找到帽匠领取任务，根据蓝色光标清理干净黑暗植物 可获  [雪花代币×2.5]**
+
+![](https://img.166.net/reunionpub/1_kol_20241226_3702d37e60ef61ec7544c3eac567a376.png)
 
  **地图拾取**
 
