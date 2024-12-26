@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-27 00:48:45
+date: 2024-12-27 07:25:03
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,8 +8,6 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-  
-
 ![](https://img.166.net/reunionpub/1_kol_20241227_2d50ff46bf76129004b7a7ea5fae28de.jpeg)
 
 **任务一：向一位玩家鞠躬 0/1**
@@ -28,7 +26,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：霞谷 滑冰场 山洞口里侧**
+ **位置：霞谷 滑冰场**
 
  **先祖：抛球杂耍 [动作]**
 
@@ -88,7 +86,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **禁阁**
+
+ **灼热碎片 [红石]**
+
+ **具体位置：** 星光沙漠海滩
+
+ **坠落时间：** 11、17、23小时的08分40秒左右～50分
+
+ **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币：** 升华蜡烛
+
+ **注：此坠落点可完成 [破晓季] 季节任务**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -98,13 +108,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **互动收集**
 
->  **找到瞌睡海牛领取任务：在一分钟后叫醒他 可获 [雪花代币×2.5]**
+> 进入活动地图后点击人物发出叫声可查看任务先祖
 
-![](https://img.166.net/reunionpub/1_kol_20241226_3f92d9f6c6f476e0fb9904708a0139d2.png)
-
->  **找到帽匠领取任务，根据蓝色光标清理干净黑暗植物 可获  [雪花代币×2.5]**
-
-![](https://img.166.net/reunionpub/1_kol_20241226_3702d37e60ef61ec7544c3eac567a376.png)
+> 今日共两位任务先祖，每完成一位可获 雪花代币×2.5
 
  **地图拾取**
 
