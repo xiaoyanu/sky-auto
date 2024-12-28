@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-29 00:48:10
+date: 2024-12-29 07:25:13
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,9 +8,7 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-  
-
-![](https://img.166.net/reunionpub/1_kol_20241229_335e34f9f4a7a2f3b03738dd5cd4e578.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241229_f8764d08013c579d5e04f9979bac0f30.png)
 
 **任务一：给一位朋友送礼 0/1**
 
@@ -92,9 +90,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-雨林
+ **雨林**
 
- **灼热碎片 [红石]：**
+ **灼热碎片 [红石]**
 
  **具体位置** ：秘密花园
 
