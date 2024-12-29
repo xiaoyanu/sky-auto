@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-30 00:43:56
+date: 2024-12-30 07:24:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,9 +8,7 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-  
-
-![](https://img.166.net/reunionpub/1_kol_20241230_4154f3a06f2278fdef15977e4e9ac8bc.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241230_4011236d742b6f3178108d3e73b3827c.png)
 
 **任务一：收集30点烛光 0/30**
 
@@ -20,7 +18,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
-![](https://img.166.net/reunionpub/1_kol_20241230_96b72a352ba6a461aa0fb684d094d6af.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241230_b9da4bcf91dfff468eb09e279f3e9569.png)
 
  **任务二：在云野重温先祖的美好回忆 0/1**
 
@@ -32,9 +30,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：母语者 [叫声]**
 
-![](https://img.166.net/reunionpub/1_kol_20241230_a12a549fa60ce9df3b4c639435563088.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241230_66dd879edb343c8495d794f4dc055151.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241230_3761b3953574225725f2aa9e07d83700.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241230_fb59b92f6365181d51ab8538bc077b35.png)
 
  **任务三：掀翻5只螃蟹 0/5**
 
