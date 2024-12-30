@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-31 00:32:54
+date: 2024-12-31 00:49:01
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,79 +8,61 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20241230_4011236d742b6f3178108d3e73b3827c.png)
+  
 
-**任务一：收集30点烛光 0/30**
+![](https://img.166.net/reunionpub/1_kol_20241231_66eb34d9f4d09d02255233b6b6232467.jpeg)
 
-完成方法：
-
-1.领取任务
-
-2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
-
-![](https://img.166.net/reunionpub/1_kol_20241230_b9da4bcf91dfff468eb09e279f3e9569.png)
-
- **任务二：在云野重温先祖的美好回忆 0/1**
+**任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-点燃先祖重温回忆
+接受好友赠送的 **爱心/心火** 即可完成
 
- **位置：云野 圣岛**
+![](https://img.166.net/reunionpub/1_kol_20241231_5c3810ae1b8b835105ff826f9028a2bc.jpeg)
 
- **先祖：母语者 [叫声]**
-
-![](https://img.166.net/reunionpub/1_kol_20241230_66dd879edb343c8495d794f4dc055151.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20241230_fb59b92f6365181d51ab8538bc077b35.png)
-
- **任务三：掀翻5只螃蟹 0/5**
+ **任务二：躲猫猫拓荒者想在雨林的秘密花园玩游戏 0/1**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+1.前往 秘密花园 找到躲猫猫拓荒者 领取任务 [躲猫猫拓荒者想在雨林的秘密花园玩游戏]
 
- **推荐地图：暮土 云野圣岛**
+2.找到在树下躲藏的先祖即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20241230_68b3109ccb410ac781c1d0f5c78ee4af.jpeg)
+ **位置：雨林 秘密花园**
 
- **任务四：在云野的锦鲤池旁冥想 0/1**
+![](https://img.166.net/reunionpub/1_kol_20241231_4350139fc3117af70b7f691a8d059dbb.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20241231_f45925cc9ae3f8ba3c1766076c8effe3.jpeg)
+
+ **任务三：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+和陌生玩家一起坐在石凳上即可完成
 
- **位置：云野 云中仙乡 [三塔图]**
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
-![](https://img.166.net/reunionpub/1_kol_20241230_400c1ed0fa97a0e574619a649749baed.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241231_212794da0a56776bbdc09b9829ccf97a.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241230_058f8324c471ff98c700d48da23b7d60.jpeg)
+ **任务四：收集橙色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：雨林 密林遗迹   **
+
+![](https://img.166.net/reunionpub/1_kol_20241231_73e2f5dd29e584de829c4a975d12d2e2.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
- **位置：B组**
+ **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20241229_687221066192d66d48ac4656897eeaff.jpeg)
-
-![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
-
- **旅行﻿先祖**
-
-音韵季——致敬钢琴家
-
-复刻时间：12/26早上6:00～12/30中午12:00
-
- **位置：暮土 巨兽荒原**
-
-![](https://img.166.net/reunionpub/1_kol_20241225_0f0825eb38d623de82d171b4ba489552.png)
-
- **兑换图**
-
-![](https://img.166.net/reunionpub/1_kol_20241225_b6f2267aea179a5b90909e8e84ee4648.png)
+![](https://img.166.net/reunionpub/1_kol_20241230_21469da7f53a03075194d9ce5bebdda6.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -100,7 +82,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 > 今日共两位任务先祖，每完成一位可获 雪花代币×2.5
 
-![](https://img.166.net/reunionpub/1_kol_20241230_3abb50bd21ed833d00eddc4bf9fb5bf4.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241231_9c9e89669fb4761e9ea62d62b91eb956.jpeg)
 
  **地图拾取**
 
@@ -308,7 +290,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法工坊**
 
@@ -322,7 +304,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20241229_0a9462af28b925f605a3c11a9bfb4b19.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241231_6b53231aa88492b2995ec9405a486850.jpeg)
 
  **魔法商店**
 
@@ -330,7 +312,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20241229_b2ed99b783684f1f0e88cba89778d4dd.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241231_b8d47edf2c3e39ca09e3523edd42c424.jpeg)
 
  **留言魔法：**
 
