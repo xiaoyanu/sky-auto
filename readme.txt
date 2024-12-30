@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2024-12-31 00:49:01
+date: 2024-12-31 07:25:02
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,9 +8,7 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-  
-
-![](https://img.166.net/reunionpub/1_kol_20241231_66eb34d9f4d09d02255233b6b6232467.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241231_43489e77aae7b09cbafd59fe45943826.png)
 
 **任务一：接受一位朋友的礼物 0/1**
 
@@ -20,19 +18,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241231_5c3810ae1b8b835105ff826f9028a2bc.jpeg)
 
- **任务二：躲猫猫拓荒者想在雨林的秘密花园玩游戏 0/1**
+ **任务二：躲猫猫拓荒者在秘密花园需要帮助 0/1**
 
 完成方法：
 
-1.前往 秘密花园 找到躲猫猫拓荒者 领取任务 [躲猫猫拓荒者想在雨林的秘密花园玩游戏]
+1.前往 秘密花园 找到躲猫猫拓荒者 领取任务 [躲猫猫拓荒者想在秘密花园与你玩个游戏]
 
 2.找到在树下躲藏的先祖即可完成
 
  **位置：雨林 秘密花园**
 
-![](https://img.166.net/reunionpub/1_kol_20241231_4350139fc3117af70b7f691a8d059dbb.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241231_46da3f2f6bfdee4ddc3fb031488d6dc8.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20241231_f45925cc9ae3f8ba3c1766076c8effe3.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20241231_fa18f8988aaa28762cb92df6c1033e1c.png)
 
  **任务三：和陌生人一起坐在长凳上 0/1**
 
