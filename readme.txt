@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-01-02 13:42:27
+date: 2025-01-03 00:32:59
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,63 +8,61 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250102_5bdbfde652463790f9239deb60f85f71.jpeg)
+  
 
-**任务一：向一位朋友招手 0/1**
+![](https://img.166.net/reunionpub/1_kol_20250103_0c789fd49c9517242a1d09bce2140fbf.jpeg)
+
+**任务一：向一位朋友做个动作 0/1**
 
 完成方法：
 
-点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
+点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
 
- **注：1～6级招手动作均可完成**
+![](https://img.166.net/reunionpub/1_kol_20250103_4f1573a2c221ea425667bd102ea85d2e.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250102_153db9fee834f959a3968648be0a72b5.jpeg)
-
- **任务二：在暮土谷重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 远古战场 [三龙图]**
+ **位置：禁阁四层  **
 
- **先祖：望远哨兵[动作]**
+ **先祖：拳礼武僧[动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20250102_6da24702ff8248b820783238b4e7f6b4.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250103_1a83a8c00596e114cad597728ce31448.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250102_9de7a495ac89404b2080ca9ab641d2c7.jpeg)
-
- **任务三：收集30点烛光 0/30**
+ **任务三：面对冥龙 0/1**
 
 完成方法：
 
-1.领取任务
+被冥龙锁定变成红光即可完成
 
-2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
+ **推荐地图：暴风眼 暮土**
 
-![](https://img.166.net/reunionpub/1_kol_20250102_8237157d37d3b4f7662af55120907b7d.jpeg)
+ **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
- **任务四：在边陲荒漠的神殿里冥想 0/1**
+![](https://img.166.net/reunionpub/1_kol_20250103_d3b28e62afc173cd8fc6e75bb3c58b2b.jpeg)
+
+ **任务四：在禁阁顶层神坛旁冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 边陲荒漠**
+ **位置：禁阁顶层**
 
-![](https://img.166.net/reunionpub/1_kol_20250102_13c2f45fd4064dbe075fd099fd496304.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250102_af3d5ee21468775c964561f2e801721e.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250103_b0a600c352caa9acdbb0881a22218016.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol/20240127/072300-y4gsrkwvcm.png)
 
  **季节蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
- **位置：A组**
+ **位置：B组**
 
-![](https://img.166.net/reunionpub/1_kol_20250101_5aa8c30587825b82bf1c41ef85dd481d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250102_e8c996ebee2c6b5ec4f9c088c70d0e29.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -84,7 +82,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 > 今日共两位任务先祖，每完成一位可获 雪花代币×2.5
 
-![](https://img.166.net/reunionpub/1_kol_20250102_2b5b65eb0a13cdf76370eabf77126e5e.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250103_a16da14e8a90261643e186f79f3bb51f.jpeg)
 
  **地图拾取**
 
@@ -292,7 +290,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法x1**
+ **大只佬x1 小不点x1**
 
  **魔法工坊**
 
@@ -306,7 +304,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250101_db49522b9d1068761ddb4165c7a0f2bb.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250102_7a7c06ffaab64747d3a6da2b816b46e4.jpeg)
 
  **魔法商店**
 
@@ -314,7 +312,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250101_d80d754bfe6ddd69f2d84f45ab04f2b2.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250102_9a5fa61e84f8faa30fb0ff4839afc691.jpeg)
 
  **留言魔法：**
 
