@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-01-06 07:51:44
+date: 2025-01-06 13:29:50
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -28,11 +28,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：霞谷 圆梦村**
+ **位置：霞谷 滑冰场**
 
- **先祖：回旋大师 [动作]**
+ **先祖：螺旋舞冠 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20250106_9e0d5bcad06cae611bbeb7c63944ba54.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250106_b88b841a700a709d1de735b3fe87cbc9.jpeg)
 
  **任务三：谦虚舞者在圆梦村，需要你的帮助 0/1**
 
@@ -42,9 +42,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：霞谷 圆梦村**
 
-![](https://img.166.net/reunionpub/1_kol_20250106_9dc818fa44e89a01e78829ea0f9cb4d0.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250106_9c3d69f18a7b96f9a0f37290e9f7c28e.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250106_36841e7f1a057a714f61d7b038003612.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250106_d92c28b536edabe9d6421688fc18c366.jpeg)
 
  **任务四：收集蓝色光芒 0/1**
 
