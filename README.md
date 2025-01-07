@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-01-07 13:29:23
+date: 2025-01-08 07:25:20
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,69 +10,57 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
   
 
-![](https://img.166.net/reunionpub/1_kol_20250107_548efea9cb28777251ada2a7180d4770.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250108_10ffcb45631d0d4788dcc2d005546af2.jpeg)
 
-**任务一：向一位朋友做个动作 0/1**
+**任务一：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
+和陌生玩家一起坐在石凳上即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20250107_194959814ef3c464e1a269e61e1d8848.jpeg)
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/1_kol_20250108_0976cc590cf121db06f6d1febd0e4167.jpeg)
+
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 巨兽荒原[四龙图]**
+ **位置：禁阁一层  **
 
- **先祖：隐秘幸存者 [站姿]**
+ **先祖：祈祷圣徒[动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20250107_5d908e52957779bcd2c973fa0315ea08.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250108_dcae54866d06899ac962ae6f322daf81.jpeg)
 
- **任务三：收集30点烛光 0/30**
+![](https://img.166.net/reunionpub/1_kol_20250108_4801e9fb4eab5124c97b2380cafd7366.jpeg)
+
+ **任务三：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-1.领取任务
+点击人物头部长按大叫即可掀翻螃蟹
 
-2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
+ **推荐地图：暮土 云野圣岛**
 
-![](https://img.166.net/reunionpub/1_kol_20250107_beaf003793686d53065fb86d45f9d80d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250108_61aa3c9085ba0720b6e1247552274801.jpeg)
 
- **任务四：在远古战场中央冥想 0/1**
+ **任务四：在禁阁顶层神坛旁冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 远古战场 [三龙图]**
+ **位置：禁阁顶层**
 
-![](https://img.166.net/reunionpub/1_kol_20250107_9a05651d68486f5d630384a9fe46e702.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250108_7502213fd9761a5f19647b589a7ae93a.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
-禁阁
-
- **冷却碎片 [黑石]**
-
- **具体位置** ：星光沙漠
-
- **坠落时间** ：9、14、19小时的08分40秒左右～50分
-
- **清理方式** ：净化黑石碎片周围黑暗植物即可
-
- **获取货币** ：烛光 [普通蜡烛/白蜡烛]
-
- **注：此坠落点不可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20250106_fede029b9d8a1c194abd06b9cd48dd74.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250106_4cc6e3b7ad7f25037c96c0989655a459.jpeg)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -86,7 +74,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 > 今日共两位任务先祖，每完成一位可获 雪花代币×2.5
 
-![](https://img.166.net/reunionpub/1_kol_20250107_c21d0d2106872aa0aafca32d26051fdc.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250108_2c34e990a9128f952c7617a4a2077753.jpeg)
 
  **地图拾取**
 
@@ -294,7 +282,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **光能药剂x1**
+ **璀璨之星x1**
 
  **魔法工坊**
 
@@ -308,7 +296,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250106_3d4fb546a221ee85de1d3032b2b1f828.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250107_702158601d15ab80cec0a19fba1a88c7.jpeg)
 
  **魔法商店**
 
@@ -316,7 +304,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250106_a62000178474abe69d07202219466bf1.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250107_9582cc342a183068636a5f6357876fd0.jpeg)
 
  **留言魔法：**
 
