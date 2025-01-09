@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-01-08 13:29:39
+date: 2025-01-09 09:06:51
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,57 +10,73 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
   
 
-![](https://img.166.net/reunionpub/1_kol_20250108_10ffcb45631d0d4788dcc2d005546af2.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250109_f8195e3eddbd476774ba7798f39972d6.jpeg)
 
-**任务一：和陌生人一起坐在长凳上 0/1**
+**任务一：向一位朋友做个动作 0/1**
 
 完成方法：
 
-和陌生玩家一起坐在石凳上即可完成
+点击屏幕上方中间动作栏 **  面对好友** 随机点击任意动作即可完成
 
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
+![](https://img.166.net/reunionpub/1_kol_20250109_2c4cdbadb93d016db9d7115710abae32.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250108_0976cc590cf121db06f6d1febd0e4167.jpeg)
-
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁一层  **
+ **位置：云野 云中仙乡[三塔图]**
 
- **先祖：祈祷圣徒[动作]**
+ **先祖：挥手钟匠[动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20250108_dcae54866d06899ac962ae6f322daf81.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250109_2c3b1895524a0a4c608e87539ed37511.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250108_4801e9fb4eab5124c97b2380cafd7366.jpeg)
-
- **任务三：掀翻5只螃蟹 0/5**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+1.点燃一堆大蜡烛
 
- **推荐地图：暮土 云野圣岛**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20250108_61aa3c9085ba0720b6e1247552274801.jpeg)
+ **推荐地图：云野 霞谷 禁阁 遇境**
 
- **任务四：在禁阁顶层神坛旁冥想 0/1**
+![](https://img.166.net/reunionpub/1_kol_20250109_90507cb34a5bf51a92c8152779bc87ad.jpeg)
+
+ **任务四：在云顶浮石上冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：禁阁顶层**
+ **位置：云野 云顶浮石 [右侧隐藏图]**
 
-![](https://img.166.net/reunionpub/1_kol_20250108_7502213fd9761a5f19647b589a7ae93a.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250109_c159802064f29e30fc23e8508934d456.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250109_b87c13bab033d94b17584d0d6737b10f.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
 无
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+ **旅行﻿先祖**
+
+音韵季——沉思编导
+
+复刻时间：1月9日早上6:00～1/13中午12:00
+
+ **位置：禁阁 一层**
+
+![](https://img.166.net/reunionpub/1_kol_20250108_15ca3d1546608dc11f434f7cba7e8a65.jpeg)
+
+ **兑换图**
+
+![](https://img.166.net/reunionpub/1_kol_20250109_c6b24c88370e5ef36cfe19f4f1b98149.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -74,7 +90,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 > 今日共两位任务先祖，每完成一位可获 雪花代币×2.5
 
-![](https://img.166.net/reunionpub/1_kol_20250108_2c34e990a9128f952c7617a4a2077753.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250109_6714981974c62093ff5ee55339f21eb2.jpeg)
 
  **地图拾取**
 
@@ -120,169 +136,31 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：云野 雨林 霞谷 暮土 禁阁**
+ **地图：云野**
 
- **云野**
+位置
 
-云野大厅
+第一堆：
 
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000934-a6ezoykq5i.jpg)**
+**![](https://img.166.net/reunionpub/1_kol_20241113_2d0efb5655d7d9efb1cb207f0a5fdd1e.jpeg)**
 
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000946-qyg4kfzsab.jpg)**
+第二堆：
 
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000958-0phskal59c.jpg)**
+**![](https://img.166.net/reunionpub/1_kol_20241113_37d35599fd39cf60c4d29911ab70c4d6.jpeg)**
 
-蝴蝶平原
+第三堆：
 
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001048-qsk0rcd74j.jpg)**
+**![](https://img.166.net/reunionpub/1_kol_20241113_1b50118fc421f18e5b16090c7d6b4358.jpeg)**
 
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001032-8pksfjy032.jpg)**
+第四堆：
 
-幽光山洞
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001114-unelwvz7o2.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001126-rpue9h645y.jpg)**
-
-云顶浮石
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001200-ez5p482lmn.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001150-ip8bwk7fd1.jpg)**
-
-云中仙乡
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001247-6cjk3z0dht.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001239-n7tiasfyoq.jpg)**
-
-云野神殿
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001302-wdnflhsbez.jpg)**
-
- **雨林**
-
-雨林大厅
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000840-feapqm2i9y.jpeg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000840-tz4ig0v5su.jpeg)**
-
-静谧庭院
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000839-vlcsigqyfp.jpeg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000839-3z6dphs9a0.jpeg)**
-
-荧光森林
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000839-pqdnzi4os6.jpeg)**
-
-秘密花园
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001357-wsuy81pm4c.jpg)**
-
-密林遗迹
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001413-kfy2md0tis.jpg)**
-
-雨林神殿
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001425-sm1atpq5j9.jpg)**
-
- **霞谷**
-
-霞谷大厅
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001446-93z5dtpgim.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001455-ngi2odbwv5.jpg)**
-
-滑冰场
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001512-s8i3vl7hk5.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001522-gpiqhvb97f.jpg)**
-
-霞光城
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001544-ew68as2lfs.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001552-k0nvwde9ho.jpg)**
-
-落日竞技场
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001616-1tm49ys7r6.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001608-mw0ys6p4qd.jpg)**
-
- **暮土**
-
-暮土大厅
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001643-t529g3syzf.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001652-d6usmce2jb.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001702-gssfmnpqz2.jpg)**
-
-边陲荒漠
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001829-fo9ac6wbiq.jpg)**
-
-![](https://img.166.net/reunionpub/1_kol_20241224_2eb742de2be7ecd3c5d84b90b428b15f.png)
-
-巨兽荒原
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001919-syl960iua8.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001932-mj3l0kqv9i.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001942-743lzoc5jy.jpg)**
-
-黑水港湾
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001959-o13lwpk79s.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002014-9ahrjkoc8l.jpg)**
-
-远古战场
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002051-m7rncog306.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002038-ydvwbrgf98.jpg)**
-
- **禁阁**
-
-禁阁大厅/禁阁一层
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002118-m7w1a4f8ts.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002134-90mtj6g35v.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002125-h5asryj8sn.jpg)**
-
-禁阁二层
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002152-qcgp4s5aov.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002205-qzen39s14t.jpg)**
-
-禁阁四层
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002238-ih8kbta57m.jpg)**
-
-禁阁顶层
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002336-8spczi942u.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002310-ei6fbksgoc.jpg)**
+**![](https://img.166.net/reunionpub/1_kol_20241113_4858063eab7315e342a32d14d97f2549.jpeg)**
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **璀璨之星x1**
+ **漂浮魔法x1**
 
  **魔法工坊**
 
@@ -296,7 +174,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250107_702158601d15ab80cec0a19fba1a88c7.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250108_5b3aaaad232f1306e9f65457fc42e959.jpeg)
 
  **魔法商店**
 
@@ -304,7 +182,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250107_9582cc342a183068636a5f6357876fd0.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250108_8e67e1ec1ea4ade2ae75243d98f19789.jpeg)
 
  **留言魔法：**
 
