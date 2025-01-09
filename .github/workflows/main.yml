@@ -25,6 +25,11 @@ jobs:
         with:
            python-version: 3.11.11
 
+      - name: Install libxml2 and libxslt development packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libxml2-dev libxsft-dev
+
       - name: install python module
         run: pip3 install -r requirements.txt
 
@@ -36,7 +41,7 @@ jobs:
         run: |
           git config --global user.email action@github.com
           git config --global user.name GitHub Action
-          git add .
+          git add.
           time=$(date "+%Y-%m-%d %H:%M:%S")
           git commit -m "${time} 自动更新" -a
         
