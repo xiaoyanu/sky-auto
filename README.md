@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-01-22 07:51:17
+date: 2025-01-22 13:29:33
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,8 +8,6 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-  
-
 ![](https://img.166.net/reunionpub/1_kol_20250122_2f65c2900320441b9a09c06f17774742.jpeg)
 
 **任务一：向一位朋友做个动作 0/1**
@@ -86,7 +84,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **冷却碎片 [黑石]**
 
- **具体位置** ： **滑冰场**
+ **具体位置** ：星光沙漠
 
  **坠落时间** ：9、15、21小时的08分40秒左右～50分
 
