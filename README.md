@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-01-28 13:41:10
+date: 2025-01-29 00:32:59
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -84,6 +84,26 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
+ **旅行﻿先祖**
+
+表演季——健忘说书人
+
+复刻时间：1/28早上6:00～2/1中午12:00
+
+ **位置：霞谷 圆梦剧场**
+
+![](https://img.166.net/reunionpub/1_kol_20250128_9b598944ca3065a470a1a666ac799d9f.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250128_1fbfaf3a98e77b77b53b9455fd9abb2e.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250128_435d9b451effb8c1ac438600f3ea579d.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/1_kol_20250128_565ac054b7159a6801b169afc5d1b65c.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
  **春节活动 铜板代币**
 
  **活动时间：1月23日～2月10日**
@@ -143,6 +163,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
   * 白色染料 [上限1个]
 
 ![](https://img.166.net/reunionpub/1_kol_20250121_14691ccced7771ffbe27d81267e2161f.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250128_67c9bcfa670ee5c1912f9c7b3acbf1c7.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
