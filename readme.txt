@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-02-12 00:51:35
+date: 2025-02-12 07:27:22
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -81,6 +81,54 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **伊甸之眼坠落碎片位置**
 
 无
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+ **同心节活动代币**
+
+ **活动时间：2月12日-2月25日**
+
+ **直接拾取   一次性15枚**
+
+位置一：水晶旁5枚
+
+![](https://img.166.net/reunionpub/1_kol_20250212_badace5aea2b2693e304a8357a2abfc2.jpeg)
+
+位置二：活动先祖旁1枚
+
+![](https://img.166.net/reunionpub/1_kol_20250212_dcf0f417d585e9a2daaa31d308d7806a.jpeg)
+
+位置三：石像中间1枚
+
+![](https://img.166.net/reunionpub/1_kol_20250212_f08167fbcfa0800300b6327c623b8de7.jpeg)
+
+位置四：沉船附近5枚
+
+![](https://img.166.net/reunionpub/1_kol_20250212_ac2fc56438fa8b92062e559f79acb198.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250212_f6a27840e8cbf1be45edc1bb86f22b6c.jpeg)
+
+位置五：沉船最右侧小岛上的大伞下3枚
+
+![](https://img.166.net/reunionpub/1_kol_20250212_818d4173ee025fc879484faf1fef99de.jpeg)
+
+ **每天水晶共鸣5枚**
+
+ **注：在小水晶旁配合特定地图动作点亮水晶或和好友拥抱等动作获得代币烛火**
+
+![](https://img.166.net/reunionpub/1_kol_20250212_11e355d711536fab523d0af6dea1dc12.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250212_c596764fd6fcbc4aac7ad5bf6ceeb8ad.jpeg)
+
+ **兑换获取**
+
+位置一：先祖旁兑换商店
+
+![](https://img.166.net/reunionpub/1_kol_20250212_3d72732c2699095d3172739f57305276.jpeg)
+
+或位置二：
+
+![](https://img.166.net/reunionpub/1_kol_20250212_a7066f30e3424752ba4a348d8fdb153b.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
