@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-02-12 07:53:04
+date: 2025-02-12 13:29:27
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,8 +8,6 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-  
-
 ![](https://img.166.net/reunionpub/1_kol_20250212_d10fc2439a310cf1ca43a7bb0c2c4e85.jpeg)
 
 **任务一：向一位朋友做个动作 0/1**
@@ -88,45 +86,51 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **活动时间：2月12日-2月25日**
 
- **直接拾取   一次性15枚**
+ **地图拾取**
 
-位置一：水晶旁5枚
+> 可获蝴蝶结代币×15
+
+> 注：活动期间仅可拾取一次
+
+位置一：水晶旁 代币×5
 
 ![](https://img.166.net/reunionpub/1_kol_20250212_badace5aea2b2693e304a8357a2abfc2.jpeg)
 
-位置二：活动先祖旁1枚
+位置二：活动先祖旁 代币×1
 
 ![](https://img.166.net/reunionpub/1_kol_20250212_dcf0f417d585e9a2daaa31d308d7806a.jpeg)
 
-位置三：石像中间1枚
+位置三：石像中间 代币×1
 
 ![](https://img.166.net/reunionpub/1_kol_20250212_f08167fbcfa0800300b6327c623b8de7.jpeg)
 
-位置四：沉船附近5枚
+位置四：沉船附近 代币×1
 
 ![](https://img.166.net/reunionpub/1_kol_20250212_ac2fc56438fa8b92062e559f79acb198.jpeg)
 
 ![](https://img.166.net/reunionpub/1_kol_20250212_f6a27840e8cbf1be45edc1bb86f22b6c.jpeg)
 
-位置五：沉船最右侧小岛上的大伞下3枚
+位置五：沉船最右侧小岛上的伞下 代币×3
 
 ![](https://img.166.net/reunionpub/1_kol_20250212_818d4173ee025fc879484faf1fef99de.jpeg)
 
- **每天水晶共鸣5枚**
+ **互动收集**
 
- **注：在小水晶旁配合特定地图动作点亮水晶或和好友拥抱等动作获得代币烛火**
+> 每日可获蝴蝶结代币×4
 
-![](https://img.166.net/reunionpub/1_kol_20250212_11e355d711536fab523d0af6dea1dc12.jpeg)
+在水晶簇旁根据提示使用特定地图的动作即可与水晶簇共鸣获得代币烛火
+
+ **注：与好友在大水晶旁发起拥抱等互动动作时，会触发强烈的共鸣效果，水晶簇将全部亮起**
 
 ![](https://img.166.net/reunionpub/1_kol_20250212_c596764fd6fcbc4aac7ad5bf6ceeb8ad.jpeg)
 
- **兑换获取**
+ **货币兑换**
 
-位置一：先祖旁兑换商店
+位置一：先祖旁
 
 ![](https://img.166.net/reunionpub/1_kol_20250212_3d72732c2699095d3172739f57305276.jpeg)
 
-或位置二：
+位置二：
 
 ![](https://img.166.net/reunionpub/1_kol_20250212_a7066f30e3424752ba4a348d8fdb153b.jpeg)
 
