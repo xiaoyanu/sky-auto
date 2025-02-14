@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-02-14 13:41:59
+date: 2025-02-15 00:32:14
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,7 +10,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
   
 
-![](https://img.166.net/reunionpub/1_kol_20250214_99fb2dcfa6b65b48bf02a37530efa658.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250215_3ab839f02969723744e327e8abe751da.jpeg)
 
 **任务一：向一位玩家鞠躬 0/1**
 
@@ -22,67 +22,85 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250214_08cf7290414c69637b62ec027702e062.jpeg)
 
- **任务二：在雨林重温先祖的美好回忆 0/1**
+ **任务二：在霞谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：雨林 密林遗迹 [大树屋旁]**
+ **位置：霞谷 霞光城**
 
- **先祖：白日梦森林人 [动作]**
+ **先祖：倒立运动员 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20250214_dc50eeae84865384447edd9e2664e241.png)
+![](https://img.166.net/reunionpub/1_kol_20250215_733756bc21fc2e06454a00661ed3418a.jpeg)
 
- **任务三：面对冥龙 0/1**
-
-完成方法：
-
-被冥龙锁定变成红光即可完成
-
- **推荐地图：暴风眼 暮土**
-
- **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
-
-![](https://img.166.net/reunionpub/1_kol_20250214_fa185df21e68573ee28c01d4dcd7e178.jpeg)
-
- **任务四：收集橙色光芒 0/1**
+ **任务三：健忘说书人在圆梦村需要帮忙   0/1**
 
 完成方法：
 
-靠近光芒即可完成
+前往 [圆梦村] 找到健忘说书人查看提示 (拍摄一张你和花滑雕塑的照片) 使用留影相机选择固定模式站在雕塑前拍照即可
 
- **位置：雨林 密林遗迹   **
+ **注：完成拍照后需再次找到健忘说书人提交**
 
-![](https://img.166.net/reunionpub/1_kol_20250214_1cfe97bb54a1f10aa3db65990efa2964.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250215_844b59fd13d0fda386194508fed73a3f.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250215_7789fc0619745172f15969832d3e532d.jpeg)
+
+ **任务四：在滑冰场旁冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：霞谷 滑冰场**
+
+![](https://img.166.net/reunionpub/1_kol_20250215_c2888fe16fd0a7312dba2100f54eb66a.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250215_51294526d56da5f07c49ff0963522c45.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250214_ce49f9e2aeb2df5d4cdaecda0b991f3b.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250214_8483d190bf982073939e0bbf4c79ced1.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250214_f3f858507f0bdf10b1a45f76b0d52329.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250214_68d6356400fe4acfed79eca5fc5e37ec.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250214_fd8391358dd762964545b7de87635609.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250214_cd1ae954a2a46d3e62de2cd27a3b967f.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250214_99f0641f36c69f4790fb46e8bd71e788.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250214_58c2db300b5b848b5b511283a0529b22.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
+霞谷
+
+ **灼热碎片 [红石]：**
+
+ **具体位置** ：圆梦村
+
+ **坠落时间** ：10、14、22小时的08分40秒左右～50分
+
+ **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币** ：升华蜡烛
+
+ **注：此坠落点可完成  [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/1_kol_20250214_2e566888537b52ad571cb786e157de63.png)
+
+![](https://img.166.net/reunionpub/1_kol_20250214_e279ba99c7169c1c7ffc8204f0b3e578.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -314,7 +332,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **大只佬x1 小不点x1**
+ **返老还童x1 长大成人x1**
 
  **魔法工坊**
 
@@ -328,7 +346,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250213_5ebe45f72b98e39482b920522712ae82.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250214_6281da930fcccfefb8861a58a40da4f8.jpeg)
 
  **魔法商店**
 
@@ -336,7 +354,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250213_620a4361533f69eeac8bb58a13aba7ab.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250214_0e9f52cbf3a874d1d06aa2c9d24fdc5b.jpeg)
 
  **留言魔法：**
 
