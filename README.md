@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-02-15 13:41:38
+date: 2025-02-16 00:31:38
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,87 +10,85 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
   
 
-![](https://img.166.net/reunionpub/1_kol_20250215_3ab839f02969723744e327e8abe751da.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250216_df64c2cbe505f9d8a46b6746ef547d32.jpeg)
 
-**任务一：向一位玩家鞠躬 0/1**
+**任务一：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
+和陌生玩家一起坐在石凳上即可完成
 
- **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
-![](https://img.166.net/reunionpub/1_kol_20250214_08cf7290414c69637b62ec027702e062.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250216_d4b1f4bc05a36646238773bcfb3690f3.jpeg)
 
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+ **任务二：在暮土重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 霞光城**
+ **位置：暮土 巨兽荒原[四龙图]**
 
- **先祖：倒立运动员 [动作]**
+ **先祖：隐秘幸存者 [站姿]**
 
-![](https://img.166.net/reunionpub/1_kol_20250215_733756bc21fc2e06454a00661ed3418a.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250216_2f27517e65b7ffb862a0ed327099f090.jpeg)
 
- **任务三：健忘说书人在圆梦村需要帮忙   0/1**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-前往 [圆梦村] 找到健忘说书人查看提示 (拍摄一张你和花滑雕塑的照片) 使用留影相机选择固定模式站在雕塑前拍照即可
+1.点燃一堆大蜡烛
 
- **注：完成拍照后需再次找到健忘说书人提交**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20250215_844b59fd13d0fda386194508fed73a3f.jpeg)
+ **推荐地图：云野 霞谷 禁阁 遇境**
 
-![](https://img.166.net/reunionpub/1_kol_20250215_7789fc0619745172f15969832d3e532d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250216_4e568162bed0fefd214f9b3d413e053b.jpeg)
 
- **任务四：在滑冰场旁冥想 0/1**
+ **任务四：在远古战场中央冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：霞谷 滑冰场**
+ **位置：暮土 远古战场 [三龙图]**
 
-![](https://img.166.net/reunionpub/1_kol_20250215_c2888fe16fd0a7312dba2100f54eb66a.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250215_51294526d56da5f07c49ff0963522c45.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250216_1738b41322699d8ff8eb742839332d22.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250214_8483d190bf982073939e0bbf4c79ced1.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250215_7263c15b513bbcd494f728e42ffeda75.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250214_68d6356400fe4acfed79eca5fc5e37ec.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250215_750352db39afc9b6854e277d66f3226b.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250214_cd1ae954a2a46d3e62de2cd27a3b967f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250215_ab51daaa8d397fd3ab063d4832857eef.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250214_58c2db300b5b848b5b511283a0529b22.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250215_d697cd51d584ab54e80421cc1da9ef9f.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
-霞谷
+暮土
 
  **灼热碎片 [红石]：**
 
- **具体位置** ：圆梦村
+ **具体位置** ：失落方舟
 
- **坠落时间** ：10、14、22小时的08分40秒左右～50分
+ **坠落时间** ：7、13、19小时的08分40秒左右～50分
 
  **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
 
@@ -98,9 +96,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点可完成  [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/1_kol_20250214_2e566888537b52ad571cb786e157de63.png)
+![](https://img.166.net/reunionpub/1_kol_20250215_6dbbc441b1672e8a61666d5015cfd9dd.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250214_e279ba99c7169c1c7ffc8204f0b3e578.png)
+![](https://img.166.net/reunionpub/1_kol_20250215_73dc0df2e51c310d40ab3eef9022cc0d.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250215_fce6f10413b49ec6b5f5b685ae285994.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250215_b44a9d7415398cfc972a589c05ec9963.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -332,7 +334,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **返老还童x1 长大成人x1**
+ **体型重塑x1 绚丽彩虹x1**
 
  **魔法工坊**
 
@@ -346,7 +348,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250214_6281da930fcccfefb8861a58a40da4f8.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250215_17c52cfd67a9f1141c963de919c0bad7.jpeg)
 
  **魔法商店**
 
@@ -354,7 +356,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250214_0e9f52cbf3a874d1d06aa2c9d24fdc5b.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250215_0325c707a433f6a1ac44cc150ae6b2e6.jpeg)
 
  **留言魔法：**
 
