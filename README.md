@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-02-17 13:48:03
+date: 2025-02-18 00:33:17
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -10,75 +10,93 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇每日任务标题
   
 
-![](https://img.166.net/reunionpub/1_kol_20250217_77d22bf286c27af3ae2a60a3c0e84f33.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250218_998c88fb3fc1b8d0794c90707037f278.jpeg)
 
-**任务一：向一位玩家鞠躬 0/1**
+**任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
+接受好友赠送的 **爱心/心火** 即可完成
 
- **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
+![](https://img.166.net/reunionpub/1_kol_20250218_eff64c81f61051223223c5cfbff77f1d.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250217_a1929b1a4f4ea1da5bb122c8a0ff4c17.jpeg)
-
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁一层   右侧隐藏图 [档案阁]**
+ **位置：云野 圣岛**
 
- **先祖：智慧长者[站姿]**
+ **先祖：母语者[叫声]**
 
-![](https://img.166.net/reunionpub/1_kol_20250217_9281ab4a5b3fb20d6d182417b754073b.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250218_eb1f9e451926354a4bae0dfea74aee71.png)
 
-![](https://img.166.net/reunionpub/1_kol_20250217_35a469df884d526added4ff11cfebf9c.jpeg)
+ **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
- **任务三：点燃20根蜡烛 0/20**
+完成方法1：
 
-完成方法：
+拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
-1.点燃一堆大蜡烛
+ **位置：雨林 密林遗迹**
 
-2.或点燃20根蜡烛即可完成
+ **1.密林遗迹入口亭子右侧**
 
- **推荐地图：云野 霞谷 禁阁 遇境**
+ **2.密林遗迹右侧矿洞前**
 
-![](https://img.166.net/reunionpub/1_kol_20250217_59d44eae8f4a859e8bb37b002e5c66de.jpeg)
+ **注：共有两处随机拯救一只即可完成**
 
- **任务四：在禁阁底层冥想 0/1**
+![](https://img.166.net/reunionpub/1_kol_20250120_757c4d5b5217014911695137dfab8800.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250120_2c9902987850151783084576977ceafa.jpeg)
+
+完成方法2：
+
+前往风行网道 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
+
+ **位置：雨林 风行网道**
+
+![](https://img.166.net/reunionpub/1_kol_20250120_e3f2c80e27b537ac57fc80da1a18735c.png)
+
+完成方法3：
+
+接触沙滩上的遥鲲幼仔即可完成
+
+ **位置：云野 云峰**
+
+![](https://img.166.net/reunionpub/1_kol_20250120_7e01151731316b906b5591c15d931de9.jpeg)
+
+ **任务四：在仙乡的金塔下冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：禁阁一层/禁阁大厅 右侧平台**
+ **位置：云野 云中仙乡  [三塔图]**
 
-![](https://img.166.net/reunionpub/1_kol_20250217_1f1dce4790c39f044acef26d23ee878d.png)
+![](https://img.166.net/reunionpub/1_kol_20250218_7f4675aec1ed8de0e0665369981371ab.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250216_f89b5faee166f71a7307a79edaf57367.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250217_d332077f77a844165bbf5db7b13ecd07.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250216_bcce5bbc1d5bd29dc2f5605b776f3844.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250217_15b8382688c833885a6094181450bc12.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250216_858c63559278dfddc1d6b7c6b2eec23b.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250217_151f5b48bbf43403f97e827fa06dbeb0.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250216_478872d87048e220993b72202a467f6f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250217_166d41c9972f81a3a5e63df820338b47.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -316,7 +334,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花x1**
+ **光能药剂x1**
 
  **魔法工坊**
 
@@ -330,7 +348,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250216_e82234ab71b1748cc8d2821944c94a8b.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250217_2fad1ccd90fc995be1548939f88b643a.jpeg)
 
  **魔法商店**
 
@@ -338,7 +356,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250216_7ee55ee718a2fc166d88d67512802db6.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250217_d0d011776ae6235e3097483b49d67711.jpeg)
 
  **留言魔法：**
 
