@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-02-19 00:51:06
+date: 2025-02-19 07:25:07
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,15 +8,13 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-  
-
 ![](https://img.166.net/reunionpub/1_kol_20250219_6470724247345bbf29576e2deb50a6ea.jpeg)
 
 **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作 面对好友 点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
@@ -34,7 +32,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250219_bb372f25d503dc6c591cd4dd2f4f53c8.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250219_9c56f3905bee7bb7b7dd18b2e445903e.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250219_7f00e266ddd7e1100633f503eebf429c.jpeg)
 
  **任务三：净化10株黑暗植物 0/1**
 
@@ -54,7 +52,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林神庙[终点] 后方花园**
+ **位置：雨林神庙 [后方花园]**
 
 ![](https://img.166.net/reunionpub/1_kol_20250219_40d2e0f43919f141a0a48c33c7c9322e.jpeg)
 
@@ -84,7 +82,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-雨林
+ **雨林**
 
  **冷却碎片 [黑石]**
 
