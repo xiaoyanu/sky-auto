@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-03-05 00:52:10
+date: 2025-03-05 07:25:55
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -28,9 +28,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **先祖：鸣谢收藏家 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20250305_38558aff048381de6ae10f6bf6bb2606.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250305_cfc4374292c57743ba823dabd92612fd.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250305_0f86bce74d5e8a2858366036c13383a5.jpeg)
 
  **任务三：净化10株黑暗植物 0/1**
 
@@ -50,7 +48,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点击坐下冥想并回答问题即可完成
 
- **位置：云野 云中仙乡  【三塔图】**
+ **位置：云野 云中仙乡**
 
 ![](https://img.166.net/reunionpub/1_kol_20250305_b323cd6890cd04f5e0fbe919554db9fa.jpeg)
 
@@ -97,6 +95,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/1_kol_20250204_575af0a72e62030571755b89b16f4bef.jpeg)
 
 ![](https://img.166.net/reunionpub/1_kol_20250204_d12ae75c06b13aca78e27961da7f2322.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250305_f33485f7a7fb521bb2cb1323b37ce2a7.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
