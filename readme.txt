@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-03-13 00:53:04
+date: 2025-03-13 07:27:15
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -87,6 +87,40 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **伊甸之眼坠落碎片位置**
 
 无
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+ **寻宝节活动代币**
+
+活动时间：2025.3.13 00:00:00-2025.3.26 23:59:59
+
+ **地图内固定拾取 3枚**
+
+位置：禁阁 星光沙漠
+
+![](https://img.166.net/reunionpub/1_kol_20250313_1c0953ea727fa7f49921b8186089db5d.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_6ca1f20d17b5d78fff60cdf671c3cd29.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_8fc591fd9ab9512e0f918ee030e3678b.jpeg)
+
+ **每日寻宝获取：6枚**
+
+通过遇境/云巢的寻宝姐向导传送至活动地图，在活动场景任选一个先祖团队，用寻宝产在标记旗子处挖出宝物即可
+
+ **位置：禁阁 星光沙漠**
+
+![](https://img.166.net/reunionpub/1_kol_20250313_6f3f1c3e9e6b2b8e37b6b469bbc1d6ee.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_7fcc68ba3e4768d11dea3762085a9828.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_87303d3cb2eb888c220dcd59b0623834.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_edcaa459e3b22b165ef812e0e3382314.jpeg)
+
+ **兑换获取**
+
+![](https://img.166.net/reunionpub/1_kol_20250313_cc01b406e1fe6ed4ee3c8c15d896574f.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
