@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-03-13 07:41:53
+date: 2025-03-13 13:30:08
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -48,7 +48,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 完成方法：
 
-通过遇境/云巢的寻宝姐向导传送至活动地图，在活动场景任选一个先祖团队，用寻宝产在标记旗子处挖出宝物即可完成任务
+通过遇境/云巢的 寻宝节向导 传送至活动地图，在活动场景任选一个先祖团队，用寻宝铲在标记旗子处挖出宝物即可完成任务
 
  **位置：禁阁 星光沙漠**
 
@@ -90,13 +90,53 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
- **寻宝节活动代币**
+ **宝藏代币**
 
-活动时间：2025.3.13 00:00:00-2025.3.26 23:59:59
+活动时间：3月13日～.3月26日
 
- **地图内固定拾取 3枚**
+活动地图：禁阁 星光沙漠
 
-位置：禁阁 星光沙漠
+ **地图拾取**
+
+ **位置：云野 圣岛**
+
+   可获铜板代币×3
+
+  
+
+![](https://img.166.net/reunionpub/1_kol_20250313_22801028282c20b36379ef974ea44015.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_cf4089808686fe5c813e6f71edf7f812.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_a8b6a6ba483ae3026fedaffd754527b3.jpeg)
+
+位置：雨林 荧光森林
+
+   可获铜板代币×3
+
+![](https://img.166.net/reunionpub/1_kol_20250313_06d7a8d2042989964a0e8642abd515cf.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_dd346c5660226e8dba3f55b5b94fde33.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_6610cfc6b550e3124302f25d6ad5b3d7.jpeg)
+
+位置：霞谷 圆梦村
+
+    可获铜板代币×3
+
+![](https://img.166.net/reunionpub/1_kol_20250313_a34440bd2cf326f9344cd8c9f0ce3fe7.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_3c8f9099aa0aa959a734f8160d2405ee.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_79878188f1bf03cfe7a2b8836e6d175f.jpeg)
+
+位置：暮土 藏宝岛礁
+
+    可获铜板代币×3
+
+ **位置：禁阁 星光沙漠**
+
+> 可获铜板代币×3
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_1c0953ea727fa7f49921b8186089db5d.jpeg)
 
@@ -104,11 +144,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_8fc591fd9ab9512e0f918ee030e3678b.jpeg)
 
- **每日寻宝获取：6枚**
+ **互动收集**
 
-通过遇境/云巢的寻宝姐向导传送至活动地图，在活动场景任选一个先祖团队，用寻宝产在标记旗子处挖出宝物即可
+> 可获铜板代币×6
 
- **位置：禁阁 星光沙漠**
+通过遇境/云巢的 寻宝节向导 传送至活动地图，在活动场景任意加入一个先祖团队，用寻宝铲在标记旗子处挖出宝物即可
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_6f3f1c3e9e6b2b8e37b6b469bbc1d6ee.jpeg)
 
@@ -118,7 +158,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_edcaa459e3b22b165ef812e0e3382314.jpeg)
 
- **兑换获取**
+ **货币兑换**
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_cc01b406e1fe6ed4ee3c8c15d896574f.jpeg)
 
