@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-03-13 13:43:57
+date: 2025-03-14 00:36:37
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -94,15 +94,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 活动时间：3月13日～.3月26日
 
-活动地图：禁阁 星光沙漠
-
- **地图拾取**
+ **地图拾取   共15枚**
 
  **位置：云野 圣岛**
 
    可获铜板代币×3
-
-  
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_22801028282c20b36379ef974ea44015.jpeg)
 
@@ -110,7 +106,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_a8b6a6ba483ae3026fedaffd754527b3.jpeg)
 
-位置：雨林 荧光森林
+ **位置：雨林 荧光森林**
 
    可获铜板代币×3
 
@@ -120,7 +116,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_6610cfc6b550e3124302f25d6ad5b3d7.jpeg)
 
-位置：霞谷 圆梦村
+ **位置：霞谷 圆梦村**
 
     可获铜板代币×3
 
@@ -130,9 +126,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_79878188f1bf03cfe7a2b8836e6d175f.jpeg)
 
-位置：暮土 藏宝岛礁
+ **位置：暮土 藏宝岛礁**
 
     可获铜板代币×3
+
+![](https://img.166.net/reunionpub/1_kol_20250313_4238e03c1050d64bb0641df8126d9f47.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_7e69602037f284d061e5e6444d502207.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250313_4c380c61ab9cbdd6f52c447cb9b1b355.jpeg)
 
  **位置：禁阁 星光沙漠**
 
