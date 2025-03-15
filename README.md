@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-03-15 07:41:14
+date: 2025-03-15 13:29:15
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -72,7 +72,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **季节蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 第一堆：
 
