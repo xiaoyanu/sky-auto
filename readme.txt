@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-03-17 00:33:08
+date: 2025-03-17 00:48:46
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -12,9 +12,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 **任务一：向一位朋友招手 0/1**
 
- **完成方法：**
+完成方法：
 
- **点击屏幕上方中间动 找到招手动作  面对好友** 点击并完成招手即可
+点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
 
  **注：1～6级招手动作均可完成**
 
@@ -52,9 +52,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 通过遇境/云巢的 寻宝节向导 传送至活动地图，在活动场景任选一个先祖团队，用寻宝铲在标记旗子处挖出宝物即可完成任务
 
- **位置：禁阁 星光沙漠**
+ **位置：暮土 藏宝岛礁**
 
-![](https://img.166.net/reunionpub/1_kol_20250313_6f3f1c3e9e6b2b8e37b6b469bbc1d6ee.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250317_7ce0b057e3e20db6f0999c9ce7d079fc.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250317_3d1a7fc6f04c294e55984fd81d0223e5.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250317_3577695908fc0ef6f6daf11cf1b911d9.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250317_4fe1b62b287e0699acb57e9d451acd2f.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -86,9 +92,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图拾取  共15枚**
 
- **位置：云野 圣岛**
+  * 位置：云野 圣岛
 
-   可获铜板代币×3
+> 可获铜板代币×3
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_22801028282c20b36379ef974ea44015.jpeg)
 
@@ -96,9 +102,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_a8b6a6ba483ae3026fedaffd754527b3.jpeg)
 
- **位置：雨林 荧光森林**
+  * 位置：雨林 荧光森林
 
-   可获铜板代币×3
+> 可获铜板代币×3
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_06d7a8d2042989964a0e8642abd515cf.jpeg)
 
@@ -106,9 +112,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_6610cfc6b550e3124302f25d6ad5b3d7.jpeg)
 
- **位置：霞谷 圆梦村**
+  * 位置：霞谷 圆梦村
 
-    可获铜板代币×3
+> 可获铜板代币×3
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_a34440bd2cf326f9344cd8c9f0ce3fe7.jpeg)
 
@@ -116,9 +122,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_79878188f1bf03cfe7a2b8836e6d175f.jpeg)
 
- **位置：暮土 藏宝岛礁**
+  * 位置：暮土 藏宝岛礁
 
-    可获铜板代币×3
+> 可获铜板代币×3
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_4238e03c1050d64bb0641df8126d9f47.jpeg)
 
@@ -126,7 +132,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250313_4c380c61ab9cbdd6f52c447cb9b1b355.jpeg)
 
- **位置：禁阁 星光沙漠**
+  * 位置：禁阁 星光沙漠
 
 > 可获铜板代币×3
 
@@ -140,15 +146,14 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 > 可获铜板代币×6
 
-通过遇境/云巢的 寻宝节向导 传送至活动地图，在活动场景任意加入一个先祖团队，用寻宝铲在标记旗子处挖出宝物即可
+通过遇境/云巢的 寻宝节向导
+传送至活动地图，在活动场景任意加入一个先祖团队，用寻宝铲在标记旗子处挖出宝物即可![](https://img.166.net/reunionpub/1_kol_20250317_7ce0b057e3e20db6f0999c9ce7d079fc.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250313_6f3f1c3e9e6b2b8e37b6b469bbc1d6ee.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250317_3d1a7fc6f04c294e55984fd81d0223e5.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250313_7fcc68ba3e4768d11dea3762085a9828.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250317_3577695908fc0ef6f6daf11cf1b911d9.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250313_87303d3cb2eb888c220dcd59b0623834.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250313_edcaa459e3b22b165ef812e0e3382314.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250317_4fe1b62b287e0699acb57e9d451acd2f.png)
 
  **货币兑换**
 
