@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-03-18 00:53:28
+date: 2025-03-18 07:26:47
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -44,7 +44,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250318_883d5bbf2d7b035d61956aca4e34274f.jpeg)
 
- **任务四：帮助焦虑渔夫或管事小队长在星光沙漠寻找宝藏 0/1**
+ **任务四：帮助嬉笑炮手或偷笑童子军在禁阁寻找宝藏 0/1**
 
 完成方法：
 
