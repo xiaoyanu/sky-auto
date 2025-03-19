@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-03-19 07:52:52
+date: 2025-03-19 13:30:20
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -86,9 +86,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
-雨林
+ **雨林**
 
- **灼热碎片 [红石]**
+ **冷却碎片 [黑石]**
 
  **具体位置** ：密林遗迹
 
