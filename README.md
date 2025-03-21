@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-03-22 00:35:45
+date: 2025-03-22 00:53:39
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -18,7 +18,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
-![](https://img.166.net/reunionpub/1_kol_20250322_26250f91a0878b51ac0622865b6d533f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250322_44a7f1e62d918a0cf0ef114dda974b9b.jpeg)
 
  **任务二：在霞谷重温先祖的美好回忆  0/1**
 
@@ -32,7 +32,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250322_30812f76cc727e23b16e60ee37e64384.jpeg)
 
- **任务三 健忘说书人在圆梦村，需要你的帮助 0/1**
+ **任务三 健忘说书人在圆梦村需要帮助 0/1**
 
 完成方法：
 
@@ -42,7 +42,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250322_f96e1fd5a155043cd71725fb4c392259.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250322_ad9399194f72645de8413d42a10532cd.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250322_4a31f63e368c8eebb3ad8828de22b725.jpeg)
 
  **任务四：帮助嬉笑炮手或偷笑童子军在暮土寻找宝藏 0/1**
 
