@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-03-28 00:54:07
+date: 2025-03-28 07:28:35
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -110,9 +110,49 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **地图拾取  共15枚**
 
+![](https://img.166.net/reunionpub/1_kol_20250328_fe675077833098cfdf998c60e9f26e0c.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_133063bab4bfd3e33100e8bc3715c0e8.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_69d2be022ec212545b9197f8fe8850fd.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_fd99a852c3b3a9620cc45f9418b23a99.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_936e220ea13e90157449be2c8af00494.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_6760e5e660e797b6a6ee5199693a8f2c.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_4db54df260d477f61be05e5b0d85c677.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_2db3a58a81950bd5ed02cb28f5561bdd.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_183393c4efdd32492bbb6b8b8ea9ec21.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_5f7e7d5ca88994c4f24b59d52aeeaaa7.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_df7dd4c207fe48cbf6a4f1c8310a70c1.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_b9d67547a2fea2a1cd76b1dbfb55e0dc.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_dc3dddd5883713b6f379bab460f4d4bd.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_d9bf28b6809eef855696daf697b1c697.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_e5c6144dd81e4a4d84a825b650885497.jpeg)
+
  **互动收集**
 
+![](https://img.166.net/reunionpub/1_kol_20250328_56ba1601e327295ae29a39f8426880b5.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_38cbc054c528a0e7e15189a7226cca0b.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_ce3ec5ff55a2df6435f6c4c76084f950.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250328_4adfa4339f2ad1648a8857528a9fd1f8.jpeg)
+
  **﻿货币兑换**
+
+![](https://img.166.net/reunionpub/1_kol_20250328_8df9ddcf3a90563d9844e57c5abdcdec.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
