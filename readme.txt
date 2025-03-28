@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-03-28 13:48:41
+date: 2025-03-29 00:35:36
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,99 +8,81 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250328_1026f6c9475c45e402d5cc281fde5ee9.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250329_e7d73ee2b7625407f0a80ad84e86b91a.jpeg)
 
-**任务一：向一位朋友招手 0/1**
+**任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
- **注：1～6级招手动作均可完成**
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/1_kol_20250328_448cf2feacbe2c0450b49255a375e23c.png)
+![](https://img.166.net/reunionpub/1_kol_20250329_6e30fecb1c09abef6e2e7a048a9fe202.png)
 
- **任务二：在暮土重温先祖的美好回忆 0/1**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：暮土 巨兽荒原 [一龙图]**
+ **位置：禁阁一层  **
 
- **先祖：无畏士兵 [站姿]**
+ **先祖：沉思编导 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20250328_8d63235624a3c2891efe584baabc6b2a.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250329_5ba5b843ef8541432b59691b30f28d02.jpeg)
 
- **任务三：净化10株黑暗植物 0/1**
+![](https://img.166.net/reunionpub/1_kol_20250329_b0f384721bd10f7abd185bf493904c87.jpeg)
+
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-拿出心火光影燃烧10株黑暗植物即可完成
+1.点燃一堆大蜡烛
 
- **推荐地图：暮土 雨林 云野圣岛  **
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20250328_31e03074597feab4e8361931dee26230.jpeg)
+ **推荐地图：云野 霞谷 禁阁 遇境**
 
-![](https://img.166.net/reunionpub/1_kol_20250328_6d3aa5f24fdae4cc8eeb3b8be489467d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250329_8f8916caac57d6dbb2dc6a67ef959adc.jpeg)
 
- **任务四：在黑水港湾的沉船上冥想 0/1**
+ **任务四：在禁阁顶层神坛旁冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：暮土 黑水港湾 [沉船图]**
+ **位置：禁阁顶层**
 
-![](https://img.166.net/reunionpub/1_kol_20250328_18c9414fe72f162daecce4276b28f795.png)
-
-![](https://img.166.net/reunionpub/1_kol_20250328_27026ff380a01aab635e341ee3541c79.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250329_81dc25e44f8eec248a571c4a01298ea7.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：**
-
- **地图：暮土**
+ **地图：禁阁**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250328_434c2840963e0b009d9c609e484661c6.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250328_89a4f1400e5683b16480430c751b8009.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250328_bcb863b4b644b9939840939c9fd55bbb.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250328_6cd4c3eb175f6f3e19586332fd46340f.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250328_6c3a8cb96a8714405da7088d11a8e60d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250328_4ede25d73f7263e554dde96233c58d14.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250328_b13097ac5e16451b20dca5ff4cf03f72.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250328_a5e6a2dcd56534a2592e624fe58a22bf.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
-云野
-
- **灼热碎片 [红石]：**
-
- **具体位置** ：云顶浮石
-
- **坠落时间** ：11、17、23小时的08分40秒左右～50分
-
- **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币** ：升华蜡烛
-
- **注：此坠落点可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20250328_40e6fd3d8936d65088f21182bda55404.png)
-
-![](https://img.166.net/reunionpub/1_kol_20250328_b6940021ca3b78bffa29fa99ebc5e17d.jpeg)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
