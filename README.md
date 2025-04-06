@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-04-07 00:32:47
+date: 2025-04-07 00:49:11
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -107,6 +107,24 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 兑换图
 
 ![](https://img.166.net/reunionpub/1_kol_20250403_ea3d599e01d7ab62e745d27bdc3053d2.jpeg)
+
+小王子季-集体复刻
+
+复刻时间：4/08早上00:00～4/21中午23:59
+
+兑换图
+
+![](https://img.166.net/reunionpub/1_kol_20250407_17e4bda07034fd8fde81fd9cb51052ed.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250407_e712e3c8c5b07a4c3aa1214020901df6.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250407_7b135563e8c593d52ba5c1f3f774de6c.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250407_8afabb3d4d524632e4b40e8da8dd9e91.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250407_babfd19d22295c28dfcda97f1feb79bd.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250407_a35fc87200367ecb8ac727eb940ed5d5.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
