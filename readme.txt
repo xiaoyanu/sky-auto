@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-04-06 13:42:43
+date: 2025-04-07 00:32:47
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,99 +8,87 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250406_68f7db621c69799e5c567a62096d3b72.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250407_6c3e5372a2b342b4e22e42a0c6caa9a7.jpeg)
 
-**任务一：向一位玩家鞠躬 0/1**
+**任务一：和朋友击掌 0/1**
 
-完成方法：
+ **完成方法：**
 
-点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
+ **1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可**
 
- **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
+ **注：一级二级都可以完成**
 
-![](https://img.166.net/reunionpub/1_kol_20250406_bcb03f258d913b8d404c0583f8d07af7.jpeg)
+ **2.找到对应季节向导，与季节向导完成击掌即可**
 
- **任务二：在霞谷重温先祖的美好回忆 0/1**
+ **注：需要完成前置的剧情任务**
+
+![](https://img.166.net/reunionpub/1_kol_20250407_56abd64c1bd201d9b626b2e9ae50728f.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250407_61c0d7669502905e378d9c2cdeab33e4.jpeg)
+
+ **任务二：在暮土谷重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 滑冰场**
+ **位置：暮土 远古战场 [三龙图]**
 
- **先祖：螺旋舞冠 [动作]**
+ **先祖：望远哨兵[动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20250406_181f94f4700f4ba400ea5f80b4f3d15b.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250407_2beb38b85a6751c5d5e8e9bbb19f59af.jpeg)
 
- **任务三：谦虚舞者在圆梦村，需要你的帮助 0/1**
+![](https://img.166.net/reunionpub/1_kol_20250407_6fa773ec8b83c0b93b304d5828f0cf1d.jpeg)
 
-完成方法：
-
-前往 [圆梦村]，找到谦虚舞者接取物品，递送到另一位先祖
-
- **位置：霞谷 圆梦村**
-
-![](https://img.166.net/reunionpub/1_kol_20250406_ca802708062a6699ddc41213005b8b4f.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250406_c90b44d7ef03486ee85c59ec5640d534.jpeg)
-
- **任务四：收集蓝色光芒 0/1**
+ **任务三：收集30点烛光 0/30**
 
 完成方法：
 
-靠近光芒即可完成
+1.领取任务
 
- **位置：霞谷 滑冰场**
+2.靠近地图当中点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
-![](https://img.166.net/reunionpub/1_kol_20250406_5b34d1045179baddbc4ca8654b9ea194.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250407_98891851705bd6f20e3690b036e87c42.jpeg)
+
+ **任务四：在边陲荒漠的神殿里冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：暮土 边陲荒漠**
+
+![](https://img.166.net/reunionpub/1_kol_20250407_0e6f1a018558c7b846cf864c362b7ef3.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250407_393a6fc5cda2bcb7bdaae3e5583d5276.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250406_967bbbfccba077d65aca3f26f160016d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250407_6547201e153aa79083da50c28778cf7d.jpeg)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250406_83e6c6197f14a080bb1560a6ebab116d.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250407_826318deee1a4387d98ee0e64230a0d3.jpeg)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250406_ea64883595e5805b8c69f4140c591a21.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250407_d16a2168703513e00c874128ab904c2e.jpeg)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250406_e9501cf050fe252f0cfe0896a4e20024.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250407_d5f46acd0d518a05707b8df16fcc0fbe.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
-暮土
-
- **灼热碎片 [红石]：**
-
- **具体位置** ：失落方舟
-
- **坠落时间** ：7、13、19小时的08分40秒左右～50分
-
- **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币** ：升华蜡烛
-
- **注：此坠落点可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20250405_a3c27ea6e1631705a714e87c1f6dd9bd.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250405_927073482d0d1fc3a14fcb6b1b0ffc16.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250405_cff7d2a69d3a40087c252485886253cc.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250405_b2d9b73db3e4337bb0bae1028ab0b3a4.jpeg)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -362,7 +350,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体型重塑x1 绚丽彩虹x1**
+ **浪漫烟花×1**
 
  **魔法工坊**
 
@@ -374,9 +362,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置：遇境
 
-![](https://img.166.net/reunionpub/1_kol_20250405_106c9d80c2c3a9bfba45996d5a9e1473.png)
+![](https://img.166.net/reunionpub/1_kol_20250406_33392134f396fd3dd5b94853d1a6f87a.png)
 
-![](https://img.166.net/reunionpub/1_kol_20250405_dace46b3691118dd53c5a5399883c4e6.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250406_3ca8ccf2073fd8131102a8bd0a20b5d5.png)
 
  **魔法商店**
 
@@ -384,7 +372,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250405_7926a5fa06870ad22c97124340c9d0db.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250406_ba7a2e47ab34ca73d35e017ce38ee835.png)
 
  **留影魔法：**
 
