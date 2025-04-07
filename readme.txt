@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-04-08 00:52:45
+date: 2025-04-08 07:28:28
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -105,19 +105,29 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 复刻时间：4/08早上00:00～4/21中午23:59
 
+位置：禁阁 星光沙漠
+
+![](https://img.166.net/reunionpub/1_kol_20250408_325a676637cc21740959caa1f1f190ff.jpeg)
+
 兑换图
 
-![](https://img.166.net/reunionpub/1_kol_20250407_17e4bda07034fd8fde81fd9cb51052ed.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250408_cacba8e2200fa3151150b19d7bcb3b23.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250407_e712e3c8c5b07a4c3aa1214020901df6.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250408_8561d31c6a36dd2c36058871d15ab33e.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250407_7b135563e8c593d52ba5c1f3f774de6c.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250408_d0b2922fb27f7797a6e21a96ebca25cb.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250407_8afabb3d4d524632e4b40e8da8dd9e91.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250408_d742e99be37a04c99dbb94c408a60ae4.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250407_babfd19d22295c28dfcda97f1feb79bd.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250408_58d24aaf554e8145f8734056aa34c9b1.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250407_a35fc87200367ecb8ac727eb940ed5d5.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250408_fa959a697149e6df421a3c5febdd83ac.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250408_5bab64e0b21655ce5a115df359ed6af9.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250408_affafccfe86f2f52db765d9d0ff74296.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250408_f908b03b3f60e1d2e2af0b8f7fd7de52.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -203,163 +213,25 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：云野 雨林 霞谷 暮土 禁阁**
+ **地图：暮土**
 
- **云野**
+位置
 
- **云野大厅**
+第一堆：暮土大厅
 
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000934-a6ezoykq5i.jpg)**
+![](https://img.166.net/reunionpub/1_kol_20250408_1e09396a06d9f766a081470a87a56478.jpeg)
 
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000946-qyg4kfzsab.jpg)**
+第二堆：边陲荒漠
 
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000958-0phskal59c.jpg)**
+![](https://img.166.net/reunionpub/1_kol_20250408_c7cd148cc404ab675f32e9d546626584.jpeg)
 
-蝴蝶平原
+第三堆：巨兽荒原
 
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001048-qsk0rcd74j.jpg)**
+![](https://img.166.net/reunionpub/1_kol_20250408_4a0cbb6268223a93dc2e4f89e2e19bbd.jpeg)
 
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001032-8pksfjy032.jpg)**
+第四堆：远古战场
 
-幽光山洞
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001114-unelwvz7o2.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001126-rpue9h645y.jpg)**
-
-云顶浮石
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001200-ez5p482lmn.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001150-ip8bwk7fd1.jpg)**
-
-云中仙乡
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001247-6cjk3z0dht.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001239-n7tiasfyoq.jpg)**
-
-云野神殿
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001302-wdnflhsbez.jpg)**
-
- **雨林**
-
- **雨林大厅**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000840-feapqm2i9y.jpeg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000840-tz4ig0v5su.jpeg)**
-
-静谧庭院
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000839-vlcsigqyfp.jpeg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000839-3z6dphs9a0.jpeg)**
-
-荧光森林
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/000839-pqdnzi4os6.jpeg)**
-
-秘密花园
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001357-wsuy81pm4c.jpg)**
-
-密林遗迹
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001413-kfy2md0tis.jpg)**
-
-雨林神殿
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001425-sm1atpq5j9.jpg)**
-
- **霞谷**
-
- **霞谷大厅**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001446-93z5dtpgim.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001455-ngi2odbwv5.jpg)**
-
-滑冰场
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001512-s8i3vl7hk5.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001522-gpiqhvb97f.jpg)**
-
-霞光城
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001544-ew68as2lfs.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001552-k0nvwde9ho.jpg)**
-
-落日竞技场
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001616-1tm49ys7r6.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001608-mw0ys6p4qd.jpg)**
-
- **暮土**
-
- **暮土大厅**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001643-t529g3syzf.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001652-d6usmce2jb.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001702-gssfmnpqz2.jpg)**
-
-边陲荒漠
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001829-fo9ac6wbiq.jpg)**
-
-**![](https://img.166.net/reunionpub/1_kol_20241224_2eb742de2be7ecd3c5d84b90b428b15f.png)**
-
-巨兽荒原
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001919-syl960iua8.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001932-mj3l0kqv9i.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001942-743lzoc5jy.jpg)**
-
-黑水港湾
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/001959-o13lwpk79s.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002014-9ahrjkoc8l.jpg)**
-
-远古战场
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002051-m7rncog306.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002038-ydvwbrgf98.jpg)**
-
- **禁阁**
-
- **禁阁大厅/禁阁一层**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002118-m7w1a4f8ts.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002134-90mtj6g35v.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002125-h5asryj8sn.jpg)**
-
-禁阁二层
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002152-qcgp4s5aov.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002205-qzen39s14t.jpg)**
-
-禁阁四层
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002238-ih8kbta57m.jpg)**
-
-禁阁顶层
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002336-8spczi942u.jpg)**
-
-**![](https://img.166.net/reunionpub/ds/kol_server/20241001/002310-ei6fbksgoc.jpg)**
+![](https://img.166.net/reunionpub/1_kol_20250408_efbe1d27a7f0f3320d2153f855a7d614.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20250324/234812-zndh9jgm0v.png)
 
