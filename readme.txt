@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-04-24 07:42:40
+date: 2025-04-24 13:32:09
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,17 +8,23 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250424_6d9b8d7f50587ff18ac041d401a2b014.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250424_c909ea65135688d0eaefd473ea6c45a8.jpeg)
 
-**任务一：向一位朋友招手 0/1**
+**任务一：和朋友击掌 0/1**
 
-完成方法：
+ **完成方法：**
 
-点击屏幕上方中间动 找到招手动作 **  面对好友** 点击并完成招手即可
+ **1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可**
 
- **注：1～6级招手动作均可完成**
+ **注：一级二级都可以完成**
 
-![](https://img.166.net/reunionpub/1_kol_20250424_a1e74c59c489580a11f351987c3eb041.jpeg)
+ **2.找到对应季节向导，与季节向导完成击掌即可**
+
+ **注：需要完成前置的剧情任务**
+
+![](https://img.166.net/reunionpub/1_kol_20250424_5dd7c80daeb8f9f31781b38420eb809f.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250424_7c06577dd91b71064ee41bf558f7e8c8.jpeg)
 
  **任务二：在云野重温先祖的美好回忆 0/1**
 
@@ -26,57 +32,43 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：云野 蝴蝶平原**
+ **位置：云野 云顶浮石 [右侧隐藏图]**
 
- **先祖：引蝶人 [动作]**
+ **先祖：鸟语者 [叫声]**
 
-![](https://img.166.net/reunionpub/1_kol_20250424_2f52cfd7308580bd2aeafa9841026822.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250424_d5ce0079454a229ca26ad864b92129a8.jpeg)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+![](https://img.166.net/reunionpub/1_kol_20250424_1f4be845ea1af97d21f31c26273fa350.jpeg)
 
-完成方法一：
-
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
-
- **位置：雨林 密林遗迹**
-
- **1.密林遗迹入口亭子右侧**
-
- **2.密林遗迹右侧矿洞前**
-
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/1_kol_20250424_fbeafbfcaf70b4fe91a179c28a70df13.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250424_5f4f3467b63513dc72a883ec23df998c.jpeg)
-
-完成方法二：
-
-找到风行向导 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
- **位置：雨林 风行网道**
-
-![](https://img.166.net/reunionpub/1_kol_20250424_d2744b93e61e8dc1d8e950dae851dfdd.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250424_59782ed995deb194858abcdda45b4a60.jpeg)
-
-完成方法三：
-
-接触沙滩上的鲲鳐幼仔即可完成
-
- **位置：云野 云峰**
-
-![](https://img.166.net/reunionpub/1_kol_20250424_f60d2082ef83b12c97c2f119f3e0fdea.jpeg)
-
- **任务四：在仙乡的金塔下冥想 0/1**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+1.点燃一堆大蜡烛
 
- **位置：云野 云中仙乡  [三塔图]**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20250424_ead08a9e9f242ec42bef961a07968b05.jpeg)
+ **推荐地图：云野 霞谷 禁阁 遇境**
+
+![](https://img.166.net/reunionpub/1_kol_20250424_a5f41c027994e1c5f95881ba2b4c13c8.jpeg)
+
+ **任务四：接受一位朋友的礼物 0/1**
+
+ **完成方法：**
+
+ **接受好友赠送的爱心/心火** 即可完成
+
+![](https://img.166.net/reunionpub/1_kol_20250424_f9ab5b344e3e78f1dbaf7b24997f5a3b.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+ **季节蜡烛**
+
+ **地图：云野**
+
+ **B组**
+
+![](https://img.166.net/reunionpub/1_kol_20250424_0c13042243471a59ff9e77562fd3224c.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
