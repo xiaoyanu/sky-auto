@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-05-01 00:54:11
+date: 2025-05-01 07:27:32
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -75,16 +75,69 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 无
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+**旅行﻿先祖**
 
-                                                                                                        **珍珠代币**
+圣岛季——鸣谢收藏家
 
-活动时间：5月1日～5月21日
+复刻时间：5/1早上6:00～5/5中午12:00
+
+ **位置：** 云野 圣岛
+
+![](https://img.166.net/reunionpub/1_kol_20250501_ba88b6718646db63af3b1fbfeabf13f8.jpeg)
+
+兑换图
+
+![](https://img.166.net/reunionpub/1_kol_20250501_0920e76488e8db09508e8084cbc340a8.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+                                                                                                         **珍珠代币**
+
+ **活动时间：5月1日～5月21日**
 
  **地图拾取  共15枚**
 
-位置：
+位置：云野 圣岛
 
-  
+![](https://img.166.net/reunionpub/1_kol_20250501_0e35e757e20b1cb1af0186c62e3cb66d.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_54746b55a2a12035fc7d85df1d0fe020.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_17cf4ce68839850af6e3af4c9083e148.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_fef731e8fb3060c1253e91f98ccbc413.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_a9b607f8dce6aa8b4e63da506ed27eae.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_9828f0a7fb0233f1a729b90e26b08898.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_91ae41c84a8a23ceb31639eea075db7c.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_ecc2b217dc4de71a4ce1e1e035432032.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_6edda57f2fc9cde91d2137fb9581dd06.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_71bbd8e30e9b5f5849b9a5b547d3b43e.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_6792268d348c1b5a6d68d49d69b8b65f.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_ba87235759d08f22771c42d257be1216.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_61aa797b05d0ca9c798d254badebab26.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_518aec237d38333c3e4079c172fa8a9a.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250501_bd67c9800eb8950991bf70ef35a893ec.jpeg)
+
+ **互动获取   每天5枚**
+
+![](https://img.166.net/reunionpub/1_kol_20250501_4131e5f281a230f580586937bd4b50b9.jpeg)
+
+ **兑换获取**
+
+![](https://img.166.net/reunionpub/1_kol_20250501_653cfa8a574a1f68b837ac1c54d3dbcd.jpeg)
+
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **大蜡烛**
 
