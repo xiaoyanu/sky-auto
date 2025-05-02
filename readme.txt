@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-05-03 00:36:38
+date: 2025-05-03 00:53:28
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -72,7 +72,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **具体位置** ：幽光山洞
 
- **坠落时间** ：、、小时的08分40秒左右～50分
+ **坠落时间** ：10、14、22小时的08分40秒左右～50分
 
  **清理方式** ：净化红石碎片周围黑暗植物，并完成净化任务
 
@@ -139,7 +139,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **互动获取   每天5枚**
 
-![](https://img.166.net/reunionpub/1_kol_20250502_4faeb1fa95ec71f2af7c220e991bff43.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250503_f9f927736147f25192ba8a27eb59606b.jpeg)
 
  **兑换获取**
 
