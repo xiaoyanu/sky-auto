@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-05-04 00:50:39
+date: 2025-05-04 07:26:49
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -101,7 +101,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
-                                                     **  珍珠代币**
+                                                                                                         **  珍珠代币**
 
  **活动时间：5月1日～5月21日**
 
@@ -141,7 +141,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **互动获取   每天5枚**
 
-![](https://img.166.net/reunionpub/1_kol_20250503_f9f927736147f25192ba8a27eb59606b.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250504_21c44624020a04725314c9100eaafa24.jpeg)
 
  **兑换获取**
 
