@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-05-06 13:48:05
+date: 2025-05-07 00:35:52
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,89 +8,71 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250506_566735696ffa01b07cb364b465d81928.jpeg)
+  
 
-**任务一：和朋友击掌 0/1**
+![](https://img.166.net/reunionpub/1_kol_20250507_31ddfdca4d2a04a6c9bfdd7656c1be36.jpeg)
 
-完成方法：
-
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
-
- **注：一级二级都可以完成**
-
-2.找到对应季节向导，与季节向导完成击掌即可
-
- **注：需要完成前置的剧情任**
-
-![](https://img.166.net/reunionpub/1_kol_20250302_e858e4bb37de064a673086e8396ffab3.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250302_5521b353f6eadb0572174bdea3160792.jpeg)
-
- **任务二：健忘说书人在圆梦村需要帮忙   0/1**
+**任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-前往 [圆梦村] 找到健忘说书人查看提示 (拍摄一张你在温泉池前的照片) 使用留影相机选择固定模式站在温泉池前自拍照即可
+接受好友赠送的 **爱心/心火** 即可完成
 
- **注：完成拍照后需再次找到健忘说书人提交**
+![](https://img.166.net/reunionpub/1_kol_20250507_a6addf013db0e7785f748473b5e0be11.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250302_15cd2a4572b05ef3fcfc6c6be1861e2d.jpeg)
+ **任务二：在暮土重温先祖的美好回忆 0/1**
 
-![](https://img.166.net/reunionpub/1_kol_20250302_bd38cda78c5c0f217ffb5cf93e20c204.jpeg)
+完成方法：
 
- **任务三：在霞光城上层冥想 0/1**
+点燃先祖重温回忆
+
+ **位置：暮土 巨兽荒原[四龙图]**
+
+ **先祖：隐秘幸存者 [站姿]**
+
+![](https://img.166.net/reunionpub/1_kol_20250507_84dd5ce123c57e36e78d2b7ce67b2e89.jpeg)
+
+ **任务三：面对冥龙 0/1**
+
+完成方法：
+
+被冥龙锁定变成红光即可完成
+
+ **推荐地图：暴风眼 暮土**
+
+ **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
+
+![](https://img.166.net/reunionpub/1_kol_20250507_3ddf59ebad2e6aaa7a95726d2cf2c85e.jpeg)
+
+ **任务四：在巨兽荒原的神坛旁冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：霞谷 霞光城**
+ **位置：暮土 巨兽荒原 [四龙图]**
 
-![每日任务 大蜡烛 季节蜡烛 免费魔法_光·遇 |
-大神](https://img.166.net/reunionpub/1_kol_20250101_0f2bf0748cbdd415b9a09ca566e3363a.jpeg?imageView&tostatic=0&thumbnail=1500x0)
+![](https://img.166.net/reunionpub/1_kol_20250507_68b9e70bc00557ecd0b165e00f36bb0d.jpeg)
 
-![每日任务 大蜡烛 季节蜡烛 免费魔法_光·遇 |
-大神](https://img.166.net/reunionpub/1_kol_20250101_ffc79dae02338cbac4d7c24e9d542d54.jpeg?imageView&tostatic=0&thumbnail=1500x0)
+![](https://img.166.net/reunionpub/1_kol_20250507_8cbc7ea11cbb9ad0e162903c59c7b5a5.jpeg)
 
- **任务四：在霞谷追逐散落的星光 0/1**
-
-完成方法：
-
-靠近星光即可完成
-
- **位置：霞谷 滑冰场**
-
-![](https://img.166.net/reunionpub/1_kol_20250302_255e01b8e5ae8c52a14f9495a107a64c.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250507_4460777cd904b1c9fe17ec37f8963655.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
  **B组**
 
-![](https://img.166.net/reunionpub/1_kol_20250506_aed920aea732d7eff93cd91f46bf3ce0.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250506_6b06c182e726aeeff7046f53b577e4c7.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
-暮土
-
- **冷却碎片 [黑石]**
-
- **具体位置** ：边陲荒漠
-
- **坠落时间** ：9、14、19小时的08分40秒左右～50分
-
- **清理方式** ：净化黑石碎片周围黑暗植物即可
-
- **获取货币** ：烛光 [普通蜡烛/白蜡烛]
-
- **注：此坠落点不可完成  [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20250506_f4ca61742df93b8149d2d99474fe0c51.jpeg)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -134,7 +116,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **互动获取   每天5枚**
 
-![](https://img.166.net/reunionpub/1_kol_20250506_4d4ab9e9310b613d94d99751ab7e1477.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250507_dd096d4b0b49ede598043fd751f1453f.jpeg)
 
  **兑换获取**
 
@@ -306,7 +288,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **光能药剂x1**
+ **璀璨之星x1**
 
  **魔法工坊**
 
@@ -318,10 +300,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置：遇境
 
- **![每日任务 大蜡烛 季节蜡烛 免费魔法_光·遇 |
-大神](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png?imageView&tostatic=0&thumbnail=1500x0)![每日任务
-大蜡烛 季节蜡烛 免费魔法_光·遇 |
-大神](https://img.166.net/reunionpub/1_kol_20241125_f5df58b5024e22771549094df549ab90.jpeg?imageView&tostatic=0&thumbnail=1500x0)**
+**![](https://img.166.net/reunionpub/1_kol_20250506_a755ee32384075887c4a10f615b287e0.jpeg)**
+
+**![](https://img.166.net/reunionpub/1_kol_20250429_244cde99f9b69360173e39f40091470d.jpeg)**
 
  **魔法商店**
 
@@ -329,8 +310,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
- **![每日任务 大蜡烛 季节蜡烛 免费魔法_光·遇 |
-大神](https://img.166.net/reunionpub/1_kol_20241202_8e770c4a669b4a380d04e4df11f9409b.jpeg?imageView&tostatic=0&thumbnail=1500x0)**
+**![](https://img.166.net/reunionpub/1_kol_20250429_01c51705638bbe8200edd3340b77f2fb.jpeg)**
 
  **留影魔法：**
 
