@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-06-20 00:38:54
+date: 2025-06-20 00:56:47
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,95 +8,85 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250619_3c25303eb5012942e5d391be8e0bc0e6.png)
+![](https://img.166.net/reunionpub/1_kol_20250620_81d981e3cfc14975c4c34c5da5b58cba.png)
 
-**任务一：给一位朋友送礼 0/1**
-
-完成方法：
-
-1.点击好友 找到击掌右边的礼物 花费3根蜡烛并送给对方爱心后即可完成
-
-2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
-
- **注：任意选择一种方式即可**
-
-![](https://img.166.net/reunionpub/1_kol_20250619_6d0303e76365ad4db2ed898e9abb20c8.png)
-
-![](https://img.166.net/reunionpub/1_kol_20250619_f703088e33129089c7f7ff9374bf0430.jpeg)
-
- **任务二：在雨林重温先祖的美好回忆 0/1**
+**任务一：收集30点烛光 0/30**
 
 完成方法：
 
-点燃先祖重温回忆
+1.领取任务
 
- **位置：雨林 密林遗迹**
+2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
- **先祖：歉意伐木工 [动作]**
+![](https://img.166.net/reunionpub/1_kol_20250620_32f34690a067ffb95c7cb23b63375583.png)
 
-![](https://img.166.net/reunionpub/1_kol_20250619_4976d55297a9f75c6b8d0ad3855fa7a2.png)
+ **任务二：掀翻5只螃蟹 0/5**
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
+完成方法：
 
-  * 完成方法1：
+点击人物头部长按大叫即可掀翻螃蟹
 
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
+ **推荐位置：**
 
- **位置：**
+ **云野 圣岛**
 
- **雨林 密林遗迹**
+ **暮土 边陲荒漠/巨兽荒原**
 
- **1.密林遗迹中间亭子下方**
+![](https://img.166.net/reunionpub/1_kol_20250620_cedb63754df20c27a7adec4ab601c299.jpeg)
 
- **2.密林遗迹右侧矿洞前**
+ **任务三：老练音乐家在圆梦村需要帮助 0/1**
 
- **注：共有两处随机拯救一只即可完成**
+完成方法：
 
-![](https://img.166.net/reunionpub/1_kol_20250618_099b549a0b4625df4d181a3b030a78a3.png)
+1.前往圆梦村找到老练音乐家领取任务
 
-![](https://img.166.net/reunionpub/1_kol_20250618_ff6e3920f936f221c10c15650dc2a4de.png)
+2.拾取先祖旁的吉他打开弹奏界面，等待乐谱演绎结束即可完成
 
-  * 完成方法2：
+ **位置：霞谷 圆梦村**
 
-前往风行网道 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
+![](https://img.166.net/reunionpub/1_kol_20250620_8f5119aaa081e8036da605e10857db7d.png)
 
- **位置：雨林 风行网道**
+![](https://img.166.net/reunionpub/1_kol_20250620_f497f1e8d4ef81f26dccbf51215be0d7.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250618_7a033ab303c06ed84f6641506c96b4c9.png)
-
-  * 完成方法3：
-
-靠近沙滩上的遥鲲幼仔即可完成
-
- **位置：云野 云峰**
-
-![](https://img.166.net/reunionpub/1_kol_20250618_b614f446c4c7a895c2f6270a0eb221ec.jpeg)
-
- **任务四：收集橙色光芒 0/1**
+ **任务四：收集蓝色光芒 0/1**
 
 完成方法：
 
 靠近光芒即可完成
 
- **位置：雨林 密林遗迹**
+ **位置：霞谷 滑冰场**
 
-![](https://img.166.net/reunionpub/1_kol_20250619_0307306ec633040127181d06457fc700.png)
+![](https://img.166.net/reunionpub/1_kol_20250620_50687e3f39deca87989aa6167cdf6e02.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
  **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20250619_2520e846195df08c78b91533c98f676d.png)
+![](https://img.166.net/reunionpub/1_kol_20250620_c4d4ca26f599539529c5f10b2f2f34a2.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **霞谷**
+
+ **灼热碎片 [红石]**
+
+ **具体位置：** 圆梦村
+
+ **坠落时间：** 11、17、23小时的08分40秒左右～50分
+
+ **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币：** 升华蜡烛
+
+ **注：此坠落点可完成 [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/1_kol_20250620_d0c5ccaeb27c84a73a7fd9592b39dccf.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -264,7 +254,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法×1**
+ **小不点×1 大只佬×1**
 
  **魔法工坊**
 
@@ -278,7 +268,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250619_185ade8140af580fc0e54c1d9adb0338.png)
+![](https://img.166.net/reunionpub/1_kol_20250620_ca68bc943e9dc0df03fb0ead439e8632.png)
 
  **魔法商店**
 
@@ -286,7 +276,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250619_ab77ba779e11909b17cf2d7d21758201.png)
+![](https://img.166.net/reunionpub/1_kol_20250620_78696c825656523757086f45b5d01a43.png)
 
  **留影魔法：**
 
