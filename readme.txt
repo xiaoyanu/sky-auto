@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-06-20 13:50:30
+date: 2025-06-21 00:37:37
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,85 +8,67 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250620_81d981e3cfc14975c4c34c5da5b58cba.png)
+![](https://img.166.net/reunionpub/1_kol_20250621_e88f713902633951c465b96fdfe7fada.png)
 
-**任务一：收集30点烛光 0/30**
-
-完成方法：
-
-1.领取任务
-
-2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
-
-![](https://img.166.net/reunionpub/1_kol_20250620_32f34690a067ffb95c7cb23b63375583.png)
-
- **任务二：掀翻5只螃蟹 0/5**
+**任务一：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
- **推荐位置：**
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
- **云野 圣岛**
+![](https://img.166.net/reunionpub/1_kol_20250621_161b1b8436c38183222c91f456e86efb.png)
 
- **暮土 边陲荒漠/巨兽荒原**
-
-![](https://img.166.net/reunionpub/1_kol_20250620_cedb63754df20c27a7adec4ab601c299.jpeg)
-
- **任务三：老练音乐家在圆梦村需要帮助 0/1**
+ **任务二：焦虑渔夫在暮土需要帮助 0/1**
 
 完成方法：
 
-1.前往圆梦村找到老练音乐家领取任务
+1.前往 边陲荒漠找到焦虑渔夫接取任务
 
-2.拾取先祖旁的吉他打开弹奏界面，等待乐谱演绎结束即可完成
+2.在蓝色光标大叫时点击钓鱼并将小鱼递交给焦虑渔夫即可完成
 
- **位置：霞谷 圆梦村**
+ **位置：暮土 边陲荒漠**
 
-![](https://img.166.net/reunionpub/1_kol_20250620_8f5119aaa081e8036da605e10857db7d.png)
+![](https://img.166.net/reunionpub/1_kol_20250621_919556ebc98691244687c7aa309b4bf4.png)
 
-![](https://img.166.net/reunionpub/1_kol_20250620_f497f1e8d4ef81f26dccbf51215be0d7.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250621_94b006fbb535854ac2ba50492e141742.jpeg)
 
- **任务四：收集蓝色光芒 0/1**
+ **任务三：净化10株黑暗植物 0/10**
 
 完成方法：
 
-靠近光芒即可完成
+拿出心火蜡烛燃烧10株黑暗植物即可完成
 
- **位置：霞谷 滑冰场**
+ **推荐地图：雨林 暮土**
 
-![](https://img.166.net/reunionpub/1_kol_20250620_50687e3f39deca87989aa6167cdf6e02.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250621_72881a68507eccccafdeba324b2f37fc.jpeg)
+
+ **任务四：在远古战场中央冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：暮土 远古战场**
+
+![](https://img.166.net/reunionpub/1_kol_20250621_6485ee7fb84c08b733b2fdb9eb953504.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
  **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20250620_c4d4ca26f599539529c5f10b2f2f34a2.png)
+![](https://img.166.net/reunionpub/1_kol_20250621_7694ad5a56465a4c9b736a27cd4a668e.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
- **霞谷**
-
- **灼热碎片 [红石]**
-
- **具体位置：** 圆梦村
-
- **坠落时间：** 11、17、23小时的08分40秒左右～50分
-
- **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币：** 升华蜡烛
-
- **注：此坠落点可完成 [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20250620_d0c5ccaeb27c84a73a7fd9592b39dccf.png)
+无
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -254,7 +236,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **小不点×1 大只佬×1**
+ **返老还童×1 长大成人×1**
 
  **魔法工坊**
 
@@ -268,7 +250,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250620_ca68bc943e9dc0df03fb0ead439e8632.png)
+![](https://img.166.net/reunionpub/1_kol_20250620_c1b61a3ac300a1d00fe44d41ec610ec3.png)
 
  **魔法商店**
 
@@ -276,7 +258,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250620_78696c825656523757086f45b5d01a43.png)
+![](https://img.166.net/reunionpub/1_kol_20250620_a864790b7515b110f5d111736916f983.png)
 
  **留影魔法：**
 
@@ -284,7 +266,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-**![](https://img.166.net/reunionpub/1_kol_20241114_df085ae1ffe6124a91be894305a75b54.jpeg)**
+![](https://img.166.net/reunionpub/1_kol_20250620_4ac2c064c39880f23445ccafec1418e4.png)
 
  **球玩魔法：**
 
