@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-06-21 13:49:09
+date: 2025-06-22 00:36:55
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -273,6 +273,22 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 位置：圆梦村
 
 ![](https://img.166.net/reunionpub/1_kol_20241114_fe7f834ee8d5f2e2abc828a14fa10870.png)
+
+﻿![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+
+ **黑暗藤蔓**
+
+ **注：每天每种染料有获取上限**
+
+![](https://img.166.net/reunionpub/1_kol_20250121_14691ccced7771ffbe27d81267e2161f.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250128_67c9bcfa670ee5c1912f9c7b3acbf1c7.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250204_575af0a72e62030571755b89b16f4bef.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250204_d12ae75c06b13aca78e27961da7f2322.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250305_f33485f7a7fb521bb2cb1323b37ce2a7.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
