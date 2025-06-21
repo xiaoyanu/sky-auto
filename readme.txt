@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-06-22 00:54:24
+date: 2025-06-22 07:28:08
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,67 +8,85 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250621_e88f713902633951c465b96fdfe7fada.png)
+![](https://img.166.net/reunionpub/1_kol_20250622_5bbb01069c653577f004b790a2ac55d4.png)
 
-**任务一：向一位玩家鞠躬 0/1**
-
-完成方法：
-
-点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
-
- **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
-
-![](https://img.166.net/reunionpub/1_kol_20250621_161b1b8436c38183222c91f456e86efb.png)
-
- **任务二：焦虑渔夫在暮土需要帮助 0/1**
+**任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-1.前往 边陲荒漠找到焦虑渔夫接取任务
+接受好友赠送的爱心/心火即可完成
 
-2.在蓝色光标大叫时点击钓鱼并将小鱼递交给焦虑渔夫即可完成
+![](https://img.166.net/reunionpub/1_kol_20250622_eea4bb383437661e872739df9daa9d4f.jpeg)
 
- **位置：暮土 边陲荒漠**
-
-![](https://img.166.net/reunionpub/1_kol_20250621_919556ebc98691244687c7aa309b4bf4.png)
-
-![](https://img.166.net/reunionpub/1_kol_20250621_94b006fbb535854ac2ba50492e141742.jpeg)
-
- **任务三：净化10株黑暗植物 0/10**
+ **任务二：在禁阁重温先祖的美好回忆 0/1**
 
 完成方法：
 
-拿出心火蜡烛燃烧10株黑暗植物即可完成
+点燃先祖重温回忆
 
- **推荐地图：雨林 暮土**
+ **位置：禁阁一层 四人门内**
 
-![](https://img.166.net/reunionpub/1_kol_20250621_72881a68507eccccafdeba324b2f37fc.jpeg)
+ **先祖：祈祷圣徒 [动作]**
 
- **任务四：在远古战场中央冥想 0/1**
+![](https://img.166.net/reunionpub/1_kol_20250622_0250cb74c2445d41265e376e16d5e314.png)
+
+![](https://img.166.net/reunionpub/1_kol_20250622_cd8404fc64476623ffd0a4dc93cae8ef.png)
+
+ **任务三：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+点击人物头部长按大叫即可掀翻螃蟹
 
- **位置：暮土 远古战场**
+ **推荐位置：**
 
-![](https://img.166.net/reunionpub/1_kol_20250621_6485ee7fb84c08b733b2fdb9eb953504.png)
+ **云野 圣岛**
+
+ **暮土 边陲荒漠/巨兽荒原**
+
+![](https://img.166.net/reunionpub/1_kol_20250622_154feed907c7abf221983c68d2ea4adf.jpeg)
+
+ **任务四：收集紫色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：禁阁 档案阁**
+
+![](https://img.166.net/reunionpub/1_kol_20250622_cf82de9dbe2e4afddb124e256f1be879.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：暮土**
+ **地图：禁阁**
 
- **位置：A组**
+ **位置：B组**
 
-![](https://img.166.net/reunionpub/1_kol_20250621_7694ad5a56465a4c9b736a27cd4a668e.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250622_fc64671eaf13cbbe0fe68dda27a31512.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **地图：禁阁**
+
+ **灼热碎片 [红石]**
+
+ **具体位置：** 星光沙漠海滩
+
+ **坠落时间：** 7、13、19小时的08分40秒左右～50分
+
+ **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币：** 升华蜡烛
+
+ **注：此坠落点可完成 [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/1_kol_20250622_e9a63a0a377570426d3743d64871fda8.png)
+
+![](https://img.166.net/reunionpub/1_kol_20250622_3b8294801e59653f86d9261d504eea8c.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -236,7 +254,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **返老还童×1 长大成人×1**
+ **体形重塑×1 绚丽彩虹×1**
 
  **魔法工坊**
 
@@ -250,7 +268,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250620_c1b61a3ac300a1d00fe44d41ec610ec3.png)
+![](https://img.166.net/reunionpub/1_kol_20250622_5db32f9fd36d102b638178d5c7192134.png)
 
  **魔法商店**
 
@@ -258,7 +276,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250620_a864790b7515b110f5d111736916f983.png)
+![](https://img.166.net/reunionpub/1_kol_20250622_48e3e30b687e15cfea4cc87725c7744d.png)
 
  **留影魔法：**
 
@@ -274,7 +292,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20241114_fe7f834ee8d5f2e2abc828a14fa10870.png)
 
-﻿![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
+![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **黑暗藤蔓**
 
