@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-06-24 07:42:30
+date: 2025-06-24 13:34:54
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,85 +8,67 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250623_2b84af73fca6552da3c59ce8d3399f75.png)
+![](https://img.166.net/reunionpub/1_kol_20250624_c5adcc57185a4759d97290673897c815.png)
 
-**任务一：向一位朋友招手 0/1**
+**任务一：和朋友击掌 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成招手即可
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
- **注：1～6级招手动作均可完成**
+ **注：一级二级都可以完成**
 
-![](https://img.166.net/reunionpub/1_kol_20250623_a9cb4e7ec01d656c6efb3ec619e43640.png)
+2.找到对应季节向导，与季节向导完成击掌即可
 
- **任务二：在云野重温先祖的美好回忆 0/1**
+ **注：需要完成前置的季节任务**
+
+![](https://img.166.net/reunionpub/1_kol_20250624_e3ca89ec967d7658ade4fd01be1e6933.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250624_d29e4ea9c4433693cf895ea0cc738d2f.jpeg)
+
+ **任务二：在雨林重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：云野 仙乡**
+ **位置：雨林 荧光森林**
 
- **先祖：鼓掌钟匠 [动作]**
+ **先祖：正步冒险家 [动作]**
 
-![](https://img.166.net/reunionpub/1_kol_20250623_b6a04a7131f72705f1ebac24aa28e622.png)
+![](https://img.166.net/reunionpub/1_kol_20250624_4ae73276e80435e8dd60a51738246e39.png)
 
- **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
-
-  * 完成方法1：
-
-拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
-
- **位置：**
-
- **雨林 密林遗迹**
-
- **1.密林遗迹中间亭子下方**
-
- **2.密林遗迹右侧矿洞前**
-
- **注：共有两处随机拯救一只即可完成**
-
-![](https://img.166.net/reunionpub/1_kol_20250623_325ec6d82d0c1b6f1bf6a7d7a31f9cda.png)
-
-![](https://img.166.net/reunionpub/1_kol_20250623_420303bc9cc55045f6d97d835d3cad61.png)
-
-  * 完成方法2：
-
-前往风行网道 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
-
- **位置：雨林 风行网道**
-
-![](https://img.166.net/reunionpub/1_kol_20250623_d2c7307c00a20a735edf6ef8be3a1d19.png)
-
-  * 完成方法3：
-
-靠近沙滩上的遥鲲幼仔即可完成
-
- **位置：云野 云峰**
-
-![](https://img.166.net/reunionpub/1_kol_20250623_095005f5ef082f65e7e33be6dfc0f594.jpeg)
-
- **任务四：在蝴蝶平原的神坛旁冥想 0/1**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+1.点燃一堆大蜡烛
 
- **位置：云野 蝴蝶平原**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20250623_f9b2fbde9e8fe8b353bb32a720f7a723.png)
+ **推荐地图：云野 霞谷 禁阁 遇境 云巢**
+
+![](https://img.166.net/reunionpub/1_kol_20250624_03f6a84b41d25458f3c2e75d1f2ef9a1.jpeg)
+
+ **任务四：在雨林追逐散落的星光 0/1**
+
+完成方法：
+
+靠近星光即可完成
+
+ **位置：雨林 静谧庭院**
+
+![](https://img.166.net/reunionpub/1_kol_20250624_1ba30787f7ac8efe8df74d178686beb2.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
  **位置：B组**
 
-![](https://img.166.net/reunionpub/1_kol_20250623_305d0c44301bfa15fbb290218813c9e9.png)
+![](https://img.166.net/reunionpub/1_kol_20250624_7505a032e0dbfca1b056cc9f73f10966.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -260,7 +242,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星×1**
+ **光能药剂×1**
 
  **魔法工坊**
 
@@ -274,7 +256,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250623_6d80a791f53cf5b693e8971101ce5eb4.png)
+![](https://img.166.net/reunionpub/1_kol_20250624_a2ef3570ae87424cc3bb47d1b52cf83f.png)
 
  **魔法商店**
 
@@ -282,7 +264,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250623_bbcdb04b2f052f2d337361471a33ed46.png)
+![](https://img.166.net/reunionpub/1_kol_20250624_31247b384a1a9d4630d7eb214a3c64d6.png)
 
  **留影魔法：**
 
