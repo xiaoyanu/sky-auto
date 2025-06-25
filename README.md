@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-06-26 00:41:15
+date: 2025-06-26 07:46:37
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,79 +8,71 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250625_2c8c253b3c4c0151fd59ac131cd511e9.png)
+![](https://img.166.net/reunionpub/1_kol_20250626_24a20d1a67968e55dbd33c84c918d5db.png)
 
-**任务一：接受一位朋友的礼物 0/1**
-
-完成方法：
-
-接受好友赠送的爱心/心火即可完成
-
-![](https://img.166.net/reunionpub/1_kol_20250625_6601c3142dba383c5e735f370b28a1a0.jpeg)
-
- **任务二：收集30点烛火 0/30**
+**任务一：给一位朋友送礼 0/1**
 
 完成方法：
 
-1.领取任务
+1.点击好友 找到击掌右边的礼物 花费3根蜡烛并送给对方爱心后即可完成
 
-2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
+2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
 
-![](https://img.166.net/reunionpub/1_kol_20250625_9b4bde1b736af988b930d47365d6a422.png)
+ **注：任意选择一种方式即可**
 
- **任务三：老练音乐家在圆梦村需要帮助 0/1**
+![](https://img.166.net/reunionpub/1_kol_20250626_9c7e132114e10fac3058ca5d7c382d68.png)
 
-完成方法：
+![](https://img.166.net/reunionpub/1_kol_20250626_da55016a417c5b2186ceae90dd662242.jpeg)
 
-1.前往圆梦村找到老练音乐家领取任务
-
-2.点击先祖旁的鱼竿吊起吉他并递交即可完成
-
- **位置：霞谷 圆梦村**
-
-![](https://img.166.net/reunionpub/1_kol_20250625_5a127b4c1e9604b000db9311a471ed21.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250625_5be6ea2e88367a29cd0ac25a1655ca38.jpeg)
-
- **任务四：在霞谷追逐散落的星光 0/1**
+ **任务二 笨拙水手在藏宝岛礁需要帮助 0/1**
 
 完成方法：
 
-靠近星光即可完成
+前往 ** ** 藏宝岛礁找到 **笨拙水手** 接取任务，清除船体的黑暗即可完成任务
 
- **位置：霞谷 滑冰场**
+ **位置：暮土 藏宝岛礁**
 
-![](https://img.166.net/reunionpub/1_kol_20250625_c2282738ed9c74346c1a513975a0e980.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250626_f3769647d0b6683f91136a2e94fa6676.jpeg)
+
+ **任务三：掀翻5只螃蟹 0/5**
+
+完成方法：
+
+点击人物头部长按大叫即可掀翻螃蟹
+
+ **推荐位置：**
+
+ **云野 圣岛**
+
+ **暮土 边陲荒漠/巨兽荒原**
+
+![](https://img.166.net/reunionpub/1_kol_20250626_9eeb2b79cdee01986a7258d1290caa51.jpeg)
+
+ **任务四：在远古战场中央冥想 0/1**
+
+完成方法：
+
+点击坐下冥想并回答问题即可完成
+
+ **位置：暮土 远古战场**
+
+![](https://img.166.net/reunionpub/1_kol_20250626_5e3a5cd24972d2ad511853a7cb3c7ee1.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
  **位置：B组**
 
-![](https://img.166.net/reunionpub/1_kol_20250625_09fc652afe95b783b50f2c4449c26a4c.png)
+![](https://img.166.net/reunionpub/1_kol_20250626_882eee21ca7541af9a3c54eabd33def1.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
- **霞谷**
-
- **冷却碎片 [黑石]**
-
- **具体位置：** 滑冰场
-
- **坠落时间：** 9、15、21小时的08分40秒左右～50分
-
- **清理方式：** 净化黑石碎片周围黑暗植物即可
-
- **获取货币：** 烛光 [普通蜡烛/白蜡烛]
-
- **注：此坠落点不可完成 [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20250625_212f75c0e6f340930341cad54027a542.png)
+ **无**
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -248,7 +240,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星×1**
+ **漂浮魔法×1**
 
  **魔法工坊**
 
@@ -262,7 +254,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250625_ac9e88b6a6504840c760a243f0258309.png)
+![](https://img.166.net/reunionpub/1_kol_20250626_8b1b43c9a4f66d4eb9f42cd1d1c55730.png)
 
  **魔法商店**
 
@@ -270,7 +262,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250625_922d30a3fe0c4c79794d22f9e251c665.png)
+![](https://img.166.net/reunionpub/1_kol_20250626_f67b5b464ec6020f5380bcbb114d472e.png)
 
  **留影魔法：**
 
