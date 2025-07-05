@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-07-05 13:49:33
+date: 2025-07-06 00:35:26
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -38,7 +38,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250705_1365b804a83ac68547b35414bca75f78.jpeg)
 
- **任务二：健忘说书人在圆梦村需要帮忙   0/1**
+ **任务三：健忘说书人在圆梦村需要帮忙   0/1**
 
 完成方法：
 
@@ -186,7 +186,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-![](https://img.166.net/reunionpub/1_kol_20250701_b833ff35f9f4b57971ffae7069b4d6f0.png)
+![](https://img.166.net/reunionpub/1_kol_20250706_117ac37cb9ec02b5f5cffd8f66faa5ba.png)
 
  **球玩魔法：**
 
