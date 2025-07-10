@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-07-11 00:43:00
+date: 2025-07-11 07:29:52
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,51 +8,53 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250710_8f9d824c3fee3fe87f72fdd8376e41c3.png)
+![](https://img.166.net/reunionpub/1_kol_20250711_ff28bc2278d30278bff271d96556bc31.png)
 
-**任务一：和陌生人一起坐在长凳上 0/1**
-
-完成方法：
-
-和陌生玩家一起坐在石凳上即可完成
-
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
-
-![](https://img.166.net/reunionpub/1_kol_20250710_b4262af81e57fc9d90ff53e494dd73b2.png)
-
- **任务二：向一位朋友招手 0/1**
+**任务一：净化10株黑暗植物 0/10**
 
 完成方法：
 
-点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成招手即可
+拿出心火蜡烛燃烧10株黑暗植物即可完成
 
- **注：1～6级招手动作均可完成**
+ **推荐地图：雨林 暮土**
 
-![](https://img.166.net/reunionpub/1_kol_20250710_098605b2f5f33b7a22167de00d5f1324.png)
+![](https://img.166.net/reunionpub/1_kol_20250711_8c25ecc66c41debbd9d474ec8d49c124.jpeg)
 
- **任务三：忙碌舞台管理员在圆梦村剧场，需要你的帮助 0/1**
+ **任务二：在暮土重温先祖的美好回忆 0/1**
 
 完成方法：
 
-1.前往圆梦村剧场找到 忙碌舞台管理员 领取任务
+点燃先祖重温回忆
 
-2.引领忙碌舞台管理员做三个动作并拥抱后即可完成
+ **位置：巨兽荒原 一龙图**
 
- **位置：霞谷 圆梦村剧场**
+ **先祖：无畏士兵 [站姿]**
 
-![](https://img.166.net/reunionpub/1_kol_20250710_2fae3e77183ad87d45848f50e9739379.png)
+![](https://img.166.net/reunionpub/1_kol_20250711_27ef4407312305e0311cae0638840740.jpeg)
 
- **任务四：在滑冰场旁冥想 0/1**
+ **任务三：面对冥龙 0/1**
+
+完成方法：
+
+被冥龙锁定变成红光即可完成
+
+ **推荐地图：暴风眼 暮土  **
+
+ **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
+
+![](https://img.166.net/reunionpub/1_kol_20250711_fcd4095b43027d9949d686ee4f164f34.png)
+
+ **任务四：在黑水港湾的沉船上冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：霞谷 滑冰场**
+ **位置：暮土 黑水港湾**
 
-![](https://img.166.net/reunionpub/1_kol_20250710_e2e72d2305f04849ade8c77da5256691.png)
+![](https://img.166.net/reunionpub/1_kol_20250711_4c73552550ec6068589a50351cf2d74e.png)
 
-![](https://img.166.net/reunionpub/1_kol_20250710_69ef9377c5f9548f97e8dc5c78be8b68.png)
+![](https://img.166.net/reunionpub/1_kol_20250711_be3c4275b3778dd38038fa70c86236d2.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -226,7 +228,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法×1**
+ **小不点×1 大只佬×1**
 
  **魔法工坊**
 
@@ -240,7 +242,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250626_8b1b43c9a4f66d4eb9f42cd1d1c55730.png)
+![](https://img.166.net/reunionpub/1_kol_20250627_461c45d0f3bb3bf77220b21fd5c7ea70.png)
 
  **魔法商店**
 
@@ -248,7 +250,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250626_f67b5b464ec6020f5380bcbb114d472e.png)
+![](https://img.166.net/reunionpub/1_kol_20250627_4d6210bedd8ba2d38dafab2bf8eb96d2.png)
 
  **留影魔法：**
 
