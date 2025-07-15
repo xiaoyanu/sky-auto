@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-07-15 07:45:47
+date: 2025-07-15 13:39:48
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,57 +8,69 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250714_dd19f3eddc3bce59eb76a8b268223e80.png)
+![](https://img.166.net/reunionpub/1_kol_20250715_92eda84d44a3cbadc686e0f4f8d9ce0b.png)
 
-**任务一：收集橙色光芒 0/1**
-
-完成方法：
-
-靠近光芒即可完成
-
- **位置：雨林 密林遗迹**
-
-![](https://img.166.net/reunionpub/1_kol_20250714_16e5893be1c9cb00a70dfb8a6f7a1c63.png)
-
- **任务二：在雨林重温先祖的美好回忆 0/1**
+**任务一：向一位朋友招手 0/1**
 
 完成方法：
 
-点燃先祖重温回忆
+点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成招手即可
 
- **位置：雨林 密林遗迹**
+ **注：1～6级招手动作均可完成**
 
- **先祖：白日梦森林人 [动作]**
+![](https://img.166.net/reunionpub/1_kol_20250715_8a26e5e6e5e26b9ee73bac82befc9284.png)
 
-![](https://img.166.net/reunionpub/1_kol_20250714_83edaa87518d144d554fea851c2f935f.png)
-
- **任务三：点燃20根蜡烛 0/20**
+ **任务二：收集30点烛光 0/30**
 
 完成方法：
 
-1.点燃一堆大蜡烛
+1.领取任务
 
-2.或点燃20根蜡烛即可完成
+2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
- **推荐地图：云野 霞谷 禁阁 遇境 云巢**
+![](https://img.166.net/reunionpub/1_kol_20250715_1ea80482caa9e2cad579755cfbc87ab6.png)
 
-![](https://img.166.net/reunionpub/1_kol_20250714_72db2a9f34e32b228cadb033d81d1436.jpeg)
+ **任务三：找到霞谷的彩虹下的蜡烛 0/1**
 
- **任务四：在静谧庭院外冥想 0/1**
+完成方法：
+
+靠近彩虹下的大蜡烛即可完成
+
+ **位置：霞谷 霞光城**
+
+![](https://img.166.net/reunionpub/1_kol_20250715_efa7bb0a1d3627a6b26f77f4e29adecc.jpeg)
+
+ **任务四：在霞光城拱门上冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林 静谧庭院**
+ **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/1_kol_20250714_006938fdb509b11e77f26d4a7480832f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250715_85864ec0172e4dec525457b7a47396b4.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250715_5b6550d492584f1298f9a98bf912a5af.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **地图：霞谷**
+
+ **冷却碎片 [黑石]**
+
+ **具体位置：** 滑冰场
+
+ **坠落时间：** 9、14、19小时的08分40秒左右～50分
+
+ **清理方式：** 净化黑石碎片周围黑暗植物即可
+
+ **获取货币：** 烛光 [普通蜡烛/白蜡烛]
+
+ **注：此坠落点不可完成 [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/1_kol_20250715_f228cef2c3d63289b9371d794eb98316.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -226,7 +238,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花×1**
+ **光能药剂×1**
 
  **魔法工坊**
 
@@ -240,7 +252,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250706_63f74eb45e29da0175f9a6d70633ddc5.png)
+![](https://img.166.net/reunionpub/1_kol_20250708_c428db6b2f8af513cbcd954ad1b8eaa0.png)
 
  **魔法商店**
 
@@ -248,7 +260,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250706_a68bc1dbce077f2636f189679178774d.png)
+![](https://img.166.net/reunionpub/1_kol_20250708_a7619ad9c802ad4d68241051031782b8.png)
 
  **留影魔法：**
 
