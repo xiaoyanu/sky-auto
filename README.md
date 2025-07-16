@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-07-16 13:41:41
+date: 2025-07-17 00:43:27
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,61 +8,61 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250715_92eda84d44a3cbadc686e0f4f8d9ce0b.png)
+![](https://img.166.net/reunionpub/1_kol_20250716_4ef0486f74f54f2f71c545f4d9253cc0.png)
 
-**任务一：向一位朋友招手 0/1**
-
-完成方法：
-
-点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成招手即可
-
- **注：1～6级招手动作均可完成**
-
-![](https://img.166.net/reunionpub/1_kol_20250715_8a26e5e6e5e26b9ee73bac82befc9284.png)
-
- **任务二：收集30点烛光 0/30**
+**任务一：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-1.领取任务
+接受好友赠送的爱心/心火即可完成
 
-2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
+![](https://img.166.net/reunionpub/1_kol_20250716_3b41577663eca7b6fbace1b4f9f894af.jpeg)
 
-![](https://img.166.net/reunionpub/1_kol_20250715_1ea80482caa9e2cad579755cfbc87ab6.png)
-
- **任务三：找到霞谷的彩虹下的蜡烛 0/1**
+ **任务二：在暮土重温先祖的美好回忆 0/1**
 
 完成方法：
 
-靠近彩虹下的大蜡烛即可完成
+点燃先祖重温回忆
 
- **位置：霞谷 霞光城**
+ **位置：暮土 巨兽荒原**
 
-![](https://img.166.net/reunionpub/1_kol_20250715_efa7bb0a1d3627a6b26f77f4e29adecc.jpeg)
+ **先祖：无畏士兵 [站姿]**
 
- **任务四：在霞光城拱门上冥想 0/1**
+![](https://img.166.net/reunionpub/1_kol_20250716_fe8f964e9cb6d72f5d3d9ff68d207404.jpeg)
+
+ **任务三：面对冥龙 0/1**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+被冥龙锁定变成红光即可完成
 
- **位置：霞谷 霞光城**
+ **推荐地图：暴风眼 暮土  **
 
-![](https://img.166.net/reunionpub/1_kol_20250715_85864ec0172e4dec525457b7a47396b4.jpeg)
+ **注：完成后要及时躲到遮蔽物下面，避免丢失光之翼**
 
-![](https://img.166.net/reunionpub/1_kol_20250715_5b6550d492584f1298f9a98bf912a5af.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250716_d49123fcc2bb8a95d4f0eab006937715.png)
+
+ **任务四：在暮土追逐散落的星光 0/1**
+
+完成方法：
+
+靠近星光即可完成
+
+ **位置：暮土 边陲荒漠**
+
+![](https://img.166.net/reunionpub/1_kol_20250716_19a9e8259cbb8eabddf9e5dcfd9e9810.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **伊甸之眼坠落碎片位置**
 
- **地图：霞谷**
+ **地图：暮土**
 
  **冷却碎片 [黑石]**
 
- **具体位置：** 滑冰场
+ **具体位置：远古战场**
 
- **坠落时间：** 9、14、19小时的08分40秒左右～50分
+ **坠落时间：** 9、15、21小时的08分40秒左右～50分
 
  **清理方式：** 净化黑石碎片周围黑暗植物即可
 
@@ -70,7 +70,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点不可完成 [破晓季] 季节任务**
 
-![](https://img.166.net/reunionpub/1_kol_20250715_f228cef2c3d63289b9371d794eb98316.png)
+![](https://img.166.net/reunionpub/1_kol_20250716_ff472efd7b5f9d5f1bb7047e80e9a046.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
@@ -238,7 +238,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **光能药剂×1**
+ **璀璨之星×1**
 
  **魔法工坊**
 
@@ -252,7 +252,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250708_c428db6b2f8af513cbcd954ad1b8eaa0.png)
+![](https://img.166.net/reunionpub/1_kol_20250702_ce40b78a3bf6a5e9938cb1e55145ee7f.png)
 
  **魔法商店**
 
@@ -260,7 +260,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250708_a7619ad9c802ad4d68241051031782b8.png)
+![](https://img.166.net/reunionpub/1_kol_20250702_be3531622a89b10e7faebb198d750ebd.png)
 
  **留影魔法：**
 
