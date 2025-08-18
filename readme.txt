@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-08-19 07:27:58
+date: 2025-08-19 07:42:37
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,85 +8,75 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250818_e894d3e6c941238c9d3bdd3c4dc7b488.png)
+![](https://img.166.net/reunionpub/1_kol_20250819_659092dc0563a888d1c717014cc2d20b.png)
 
-**任务一：在水母上恢复能量 0/1**
-
-完成方法：
-
-1.将斗篷能量全部消耗
-
-2.靠近水母恢复能量即可完成
-
- **推荐位置：**
-
- **云野 圣岛**
-
- **雨林 密林遗迹**
-
-![](https://img.166.net/reunionpub/1_kol_20250818_105a942b3318ca0aa44b7cd23856cd10.png)
-
- **任务二：在雨林重温先祖的美好回忆 0/1**
+**任务一：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-点燃先祖重温回忆
+和陌生玩家一起坐在石凳上即可完成
 
- **位置：雨林 荧光森林**
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
- **先祖：躲猫猫拓荒者**
+![](https://img.166.net/reunionpub/1_kol_20250819_f324b21a2934400424dceea66f12a5f3.png)
 
-![](https://img.166.net/reunionpub/1_kol_20250818_03dc884184b906cd3f20c97d7b9f592c.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250818_441c55e2cb8dbeaf072e2072ccd18d09.png)
-
- **任务三：掀翻5只螃蟹 0/5**
+ **任务二：苦修行者在云巢需要帮助 0/1**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+1.前往云巢 冥想之地 找到苦修行者 领取任务 [与苦修行者一同静心散步]
 
- **推荐位置：**
+2.在先祖附近等待60秒即可完成
 
- **云野 圣岛**
+ **位置：云巢 冥想之地**
 
- **暮土 边陲荒漠/巨兽荒原**
+![](https://img.166.net/reunionpub/1_kol_20250805_98698b1020f3cc339f57c1948a2eab56.png)
 
-![](https://img.166.net/reunionpub/1_kol_20250818_f6cce42ed6181e48917cb04aea70f1e0.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250805_7a98746d4af207515f427514c5edbfb2.jpeg)
 
- **任务四：在秘密花园里冥想 0/1**
+ **任务三：收集蓝色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：霞谷 滑冰场**
+
+![](https://img.166.net/reunionpub/1_kol_20250819_967ab7858d259b38daec536cbbde306e.jpeg)
+
+ **任务四：在滑冰场旁冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林 秘密花园**
+ **位置：霞谷 滑冰场**
 
-![](https://img.166.net/reunionpub/1_kol_20250818_cac7722f8fa2dc5a1c5ffbf5d4a6b554.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250730_25688e55f3e5ce49d25af1cd92d8bd19.png)
 
-![](https://img.166.net/reunionpub/1_kol_20250818_51d1f52e8fb6cc459f1c1bfe568319fc.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250730_59d72b3462aa6a3b6b9d1df3309c6a30.png)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
 第一堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20250808_aad4e67f86370bfaec7c6da0a9ec8942.png)**
+![](https://img.166.net/reunionpub/1_kol_20250730_f11e272ceda64e0c8ed290d6db151a41.jpeg)
 
 第二堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20250808_76dc40b4fabeb6cf0d2f1b180aeca716.png)**
+![](https://img.166.net/reunionpub/1_kol_20250730_cfc8298c55490f5cd633bdfa48535048.jpeg)
 
 第三堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20250808_8fa1fc49cb959ee9642549d6abeccd8f.png)**
+![](https://img.166.net/reunionpub/1_kol_20250730_6ed1e0635e240b5869ccf48c32eac509.jpeg)
 
 第四堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20250808_350b93ad9dd6d3f05292c71afcc64a13.png)**
+![](https://img.166.net/reunionpub/1_kol_20250730_fccac2d266e3bfc9b72dea4980c8d447.png)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
