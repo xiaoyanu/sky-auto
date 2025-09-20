@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-09-21 00:48:01
+date: 2025-09-21 07:24:49
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,7 +8,7 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20250920_edd72c0bfa66403e99e51e77e1f80e53.png)
+![](https://img.166.net/reunionpub/1_kol_20250921_58482331e9fd471571224bfc6771c1b9.png)
 
 **任务一：帮助祈祷侍从在档案阁中重温夏天 0/1**
 
@@ -20,65 +20,85 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 ![](https://img.166.net/reunionpub/1_kol_20250914_fcb0390f83906a33de45f5514186f850.jpeg)
 
- **任务二：在禁阁重温先祖的美好回忆 0/1**
+ **任务二：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁三层**
+ **位置：云野 圣岛**
 
- **先祖：礼貌学者**
+ **先祖：鸣谢收藏家**
 
-![](https://img.166.net/reunionpub/1_kol_20250821_b28eed8292ae8b246570441b8fb9581f.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20250921_0ba62a07002309c568f03a17360d3c47.jpeg)
 
- **任务三：在禁阁顶层神坛旁冥想 0/1**
-
-完成方法：
-
-点击坐下冥想并回答问题即可完成
-
- **位置：禁阁顶层**
-
-![](https://img.166.net/reunionpub/1_kol_20250821_32a5821b719039945790a5505d271981.png)
-
- **任务四：在禁阁追逐散落的星光 0/1**
+ **任务三：点燃20根蜡烛 0/20**
 
 完成方法：
 
-靠近星光即可完成
+1.点燃一堆大蜡烛
 
- **位置：禁阁大厅/禁阁一层**
+2.或点燃20根蜡烛即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20250811_5b8b8440c48b7ae8b1edf230883af15a.png)
+ **推荐地图：云野 霞谷 禁阁 遇境**
+
+![](https://img.166.net/reunionpub/1_kol_20250807_70f2399df7e1944a7a103817e8f47498.jpeg)
+
+ **任务四：收集绿色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：云野 云顶浮石**
+
+ **注：此光芒每整十分下落**
+
+![](https://img.166.net/reunionpub/1_kol_20250817_be3b67eb72e0a5b984e207d464c37352.jpeg)
+
+![](https://img.166.net/reunionpub/1_kol_20250817_32d5f9b84b364a6553ff451ea425b33c.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 第一堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20250801_db642c43663d964c37916a520bf4bc10.png)**
+![](https://img.166.net/reunionpub/1_kol_20250802_dbd51c64f6673c3bac4888630f5dd12c.png)
 
 第二堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20250801_0eaf578f217bb34b6f3da82ef714f83c.png)**
+![](https://img.166.net/reunionpub/1_kol_20250802_179fbe6e361dee55916dc6d6ea7f2558.png)
 
 第三堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20250801_ffd8022433fa4a65957f8135a39824e7.png)**
+![](https://img.166.net/reunionpub/1_kol_20250802_3672a40aea7c4b2b3228866abdd0053c.png)
 
 第四堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20250801_68d5cdf0a1c7021a2e98f234545dc706.png)**
+![](https://img.166.net/reunionpub/1_kol_20250802_ff666ece0e122ace8f78036617cd208c.png)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **伊甸之眼坠落碎片位置**
 
- **无**
+ **地图：暮土**
+
+ **灼热碎片 [红石]**
+
+ **具体位置：** 失落方舟
+
+ **坠落时间：** 7、13、19小时的08分40秒左右～50分
+
+ **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币：** 升华蜡烛
+
+ **注：此坠落点可完成 [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/1_kol_20250921_600b0fa86c4cd17badfc85cccc7fb3f3.jpeg)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -167,6 +187,14 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
 ![](https://img.166.net/reunionpub/1_kol_20250628_306e6437c338bb23190eec649d531d15.png)
+
+ **留影魔法：**
+
+位置：音乐商店
+
+注：开启 音乐商店 需完成 [表演季] 季节任务四
+
+![](https://img.166.net/reunionpub/1_kol_20250706_117ac37cb9ec02b5f5cffd8f66faa5ba.png)
 
  **留影魔法：**
 
