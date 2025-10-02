@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-10-02 13:29:27
+date: 2025-10-02 13:42:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,79 +8,71 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20251001_de5627f85c46977ae2778be4e380a72e.png)
+![](https://img.166.net/reunionpub/1_kol_20251002_af6f45cfb4e23c94591432a978f4a065.png)
 
-**任务一：在云野重温先祖的美好回忆 0/1**
-
-完成方法：
-
-点燃先祖重温回忆
-
- **位置：云野 蝴蝶平原**
-
- **先祖：引蝶人**
-
-![](https://img.166.net/reunionpub/1_kol_20251001_e71a527048ec52f505cd2974474392e0.png)
-
- **任务二：在云野重温先祖的美好回忆 0/1**
+**任务一：在雨林重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：云野 仙乡**
+ **位置：雨林 密林遗迹**
 
- **先祖：鼓掌钟匠**
+ **先祖：沮丧猎人**
 
-![](https://img.166.net/reunionpub/1_kol_20251001_6f4b11a297ee4045debb740d17194992.png)
+![](https://img.166.net/reunionpub/1_kol_20251002_16467515e1b06a18dbee27bb42401e29.png)
 
- **任务三：在水母上恢复能量 0/1**
-
-完成方法：
-
-1.将斗篷能量全部消耗
-
-2.靠近水母恢复能量即可完成
-
- **推荐位置：**
-
- **云野 圣岛**
-
- **雨林 密林遗迹**
-
-![](https://img.166.net/reunionpub/1_kol_20251001_07516c9d673d84da4455a5e465e83aaa.png)
-
- **任务四：在蝴蝶平原的神坛旁冥想 0/1**
+ **任务二：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
- **位置：云野 蝴蝶平原**
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
-![](https://img.166.net/reunionpub/1_kol_20251001_aac21cd66d53e03013bba1d80e3ff117.png)
+![](https://img.166.net/reunionpub/1_kol_20250831_51b40fc0d55617fb58c2815c85e6e537.png)
+
+ **任务三：向一位朋友做个动作 0/1**
+
+完成方法：
+
+点击屏幕上方中间的表情菜单 面对好友 随机点击任意动作即可完成
+
+![](https://img.166.net/reunionpub/1_kol_20251002_7a91486290bf248544f6d9287e049f67.jpeg)
+
+ **任务四：在雨林重温先祖的美好回忆 0/1**
+
+完成方法：
+
+点燃先祖重温回忆
+
+ **位置：雨林 静谧庭院**
+
+ **先祖：发抖开拓者**
+
+![](https://img.166.net/reunionpub/1_kol_20251002_a7462010aa7c44cccb7f860049b8c8f8.jpeg)
 
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250802_dbd51c64f6673c3bac4888630f5dd12c.png)
+![](https://img.166.net/reunionpub/1_kol_20250803_11f3429653e3e86b6c5262a30f5278cc.png)
 
 第二堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250802_179fbe6e361dee55916dc6d6ea7f2558.png)
+![](https://img.166.net/reunionpub/1_kol_20250803_88da1243432c0e3e6e8cb98563024ba0.png)
 
 第三堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250802_3672a40aea7c4b2b3228866abdd0053c.png)
+![](https://img.166.net/reunionpub/1_kol_20250803_07a24cb987a54c47d696e81ded60b5c3.png)
 
 第四堆：
 
-![](https://img.166.net/reunionpub/1_kol_20250802_ff666ece0e122ace8f78036617cd208c.png)
+![](https://img.166.net/reunionpub/1_kol_20250803_753e9e1a035c2138142f6dc21416deb1.png)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -254,7 +246,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星×1**
+ **漂浮魔法×1**
 
  **魔法工坊**
 
@@ -268,7 +260,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250702_ce40b78a3bf6a5e9938cb1e55145ee7f.png)
+![](https://img.166.net/reunionpub/1_kol_20250703_06117fc2a94fb142292b2cb331956084.png)
 
  **魔法商店**
 
@@ -276,7 +268,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250702_be3531622a89b10e7faebb198d750ebd.png)
+![](https://img.166.net/reunionpub/1_kol_20250724_d2bd1afbe9dcfa2e1a3d1f5ee497ba3d.png)
 
  **留影魔法：**
 
