@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-10-24 13:48:04
+date: 2025-10-25 00:36:58
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,21 +8,19 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20251023_072711cf0eaa152163fbfdc1721dd0a9.png)
+![](https://img.166.net/reunionpub/1_kol_20251024_fcfb307824a0e158af7fe00bcb6c91e0.png)
 
-**任务一：给一位朋友送礼 0/1**
+**任务一：点燃20根蜡烛 0/20**
 
 完成方法：
 
-1.点击好友 找到击掌右边的礼物 花费3根蜡烛并送给对方爱心后即可完成
+1.点燃一堆大蜡烛
 
-2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
+2.或点燃20根蜡烛即可完成
 
- **注：任意选择一种方式即可**
+ **推荐地图：云野 霞谷 禁阁 遇境 云巢**
 
-![](https://img.166.net/reunionpub/1_kol_20250701_62240139969f4d5b974e9ad0a4e4cee4.png)
-
-![](https://img.166.net/reunionpub/1_kol_20250701_69113785fc5c41cb891c497953b1c649.jpeg)
+![](https://img.166.net/reunionpub/1_kol_20251017_c0e6b2d3c0b1d9c88a80d9f4c3533ddf.jpeg)
 
  **任务二：在暮土重温先祖的美好回忆 0/1**
 
@@ -30,39 +28,37 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 点燃先祖重温回忆
 
- **位置：暮土 边陲荒漠**
+ **位置：暮土 巨兽荒原**
 
- **先祖：惊恐难民**
+ **先祖：无畏士兵**
 
-![](https://img.166.net/reunionpub/1_kol_20251024_819ef7a717c84e35bc97a1ccca20aad7.png)
+![](https://img.166.net/reunionpub/1_kol_20250830_9fbaf36d2c2318cf3937d59abcb9698c.jpeg)
 
- **任务三：和朋友击掌 0/1**
-
-完成方法：
-
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
-
- **注：一级二级都可以完成**
-
-2.找到对应季节向导，与季节向导完成击掌即可
-
- **注：需要完成前置的季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20250728_3a65fc57db044bb6fa884270b2ac6ff5.jpeg)
-
-![](https://img.166.net/reunionpub/1_kol_20250728_074e3e7222786c0e314f0a0aa18086c1.jpeg)
-
- **任务四：在荧光小菇旁恢复能量 0/1**
+ **任务三：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-1.将斗篷能量全部消耗
+接受好友赠送的爱心/心火即可完成
 
-2.靠近荧光小菇恢复能量即可完成
+![](https://img.166.net/reunionpub/1_kol_20251007_d0fb2da5a872967120b97721b0dafe2e.jpeg)
 
- **位置：雨林 荧光森林 密林遗迹 大树屋等**
+ **任务四：向一位朋友做个动作 0/1**
 
-![](https://img.166.net/reunionpub/1_kol_20251020_e575be10af035b38b71465d8ebcf40ad.jpeg)
+完成方法：
+
+点击屏幕上方中间的表情菜单 面对好友 随机点击任意动作即可完成
+
+![](https://img.166.net/reunionpub/1_kol_20251004_0f62a8bcaecbad47876f29cec098c037.jpeg)
+
+**![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
+
+ **季节蜡烛**
+
+ **地图：暮土**
+
+ **位置：B组**
+
+![](https://img.166.net/reunionpub/1_kol_20251024_5be5e386c2844c1dce6db88ffd86e5df.jpeg)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
