@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-11-17 00:34:27
+date: 2025-11-17 00:50:09
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,85 +8,63 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20251116_9d269577f575e3abe2dad3f91dc053f4)
+![](https://img.166.net/reunionpub/1_kol_20251117_7421281d7ce308d83506e20db7945dee)
 
-**任务一：在水母上恢复能量 0/1**
-
-完成方法：
-
-1.将斗篷能量全部消耗
-
-2.靠近水母恢复能量即可完成
-
- **推荐位置：**
-
- **云野 圣岛**
-
- **雨林 密林遗迹/大树屋**
-
-**![](https://img.166.net/reunionpub/1_kol_20250818_105a942b3318ca0aa44b7cd23856cd10.png)**
-
- **任务二：掀翻5只螃蟹 0/5**
+**任务一：收集30点烛火 0/30**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+1.领取任务
 
- **推荐位置：**
+2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
- **云野 圣岛**
+**![](https://img.166.net/reunionpub/1_kol_20251006_904146ea633d7507084b73346fe1b462.png)**
 
- **暮土 边陲荒漠/巨兽荒原**
-
-**![](https://img.166.net/reunionpub/1_kol_20251113_905f87414c402536ed12074504ae7ee3)**
-
- **任务三：向一位朋友做个动作 0/1**
+ **任务二：净化10株黑暗植物 0/10**
 
 完成方法：
 
-点击屏幕上方中间的表情菜单 面对好友 随机点击任意动作即可完成
+拿出心火蜡烛燃烧10株黑暗植物即可完成
 
-**![](https://img.166.net/reunionpub/1_kol_20251110_cdd0a218e4798a4f5718b0450a8fa077.jpeg)**
+ **推荐地图：雨林 暮土**
 
- **任务四：收集橙色光芒 0/1**
+**![](https://img.166.net/reunionpub/1_kol_20251110_d399ee22d008f8bf6e636985b9e336db.jpeg)**
+
+ **任务三：点亮一位玩家 0/1**
 
 完成方法：
 
-靠近光芒即可完成
+在天空王国中靠近任意其他玩家举起心火蜡烛等待对方点亮即可完成
 
- **位置：雨林 密林遗迹**
+![](https://img.166.net/reunionpub/1_kol_20251117_2a1c118bf86c2ce4a17b74652d34dddc)
 
-![](https://img.166.net/reunionpub/1_kol_20251116_61d66628109c3b94a2335f172a5e0f9e)
+ **任务四：在霞谷重温先祖的美好回忆 0/1**
+
+完成方法：
+
+点燃先祖重温回忆
+
+ **位置：霞谷 霞光城**
+
+ **先祖：倒立运动员**
+
+![](https://img.166.net/reunionpub/1_kol_20251117_135754f6cf8e8f961839737b98b32f3f)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
  **位置：B组**
 
-![](https://img.166.net/reunionpub/1_kol_20251027_4abd8802fb06618cbb556c6ad56db717.png)
+![](https://img.166.net/reunionpub/1_kol_20251028_f3727926c312886be7fe05d7cf542501.png)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **伊甸之眼坠落碎片位置**
 
- **地图：暮土**
-
- **灼热碎片 [红石]**
-
- **具体位置：失落方舟**
-
- **坠落时间：7** 、13、19小时的08分40秒左右～50分
-
- **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币：** 升华蜡烛
-
- **注：此坠落点可完成 [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20251116_793f325023a70522b85abddd0240ee3a)
+无
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -254,7 +232,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体形重塑×1 绚丽彩虹×1**
+ **璀璨之星×1**
 
  **魔法工坊**
 
@@ -268,7 +246,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250629_bf8fe53dcf9295cfb636d054cf93b416.png)
+![](https://img.166.net/reunionpub/1_kol_20250702_ce40b78a3bf6a5e9938cb1e55145ee7f.png)
 
  **魔法商店**
 
@@ -276,7 +254,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250629_e28e9cd6118636522f5f76d9da212926.png)
+![](https://img.166.net/reunionpub/1_kol_20250702_be3531622a89b10e7faebb198d750ebd.png)
+
+ **留影魔法：**
+
+位置：音乐商店
+
+注：开启 音乐商店 需完成 [表演季] 季节任务四
+
+![](https://img.166.net/reunionpub/1_kol_20250706_dcdb776a8894455e40eb780e90bbb1aa.png)
 
  **留影魔法：**
 
