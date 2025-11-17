@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-11-18 07:28:35
+date: 2025-11-18 07:43:02
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,57 +8,71 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20251117_7421281d7ce308d83506e20db7945dee)
+![](https://img.166.net/reunionpub/1_kol_20251118_38d106588f39b2acada3e33121f0945a)
 
-**任务一：收集30点烛火 0/30**
-
-完成方法：
-
-1.领取任务
-
-2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
-
-**![](https://img.166.net/reunionpub/1_kol_20251006_904146ea633d7507084b73346fe1b462.png)**
-
- **任务二：净化10株黑暗植物 0/10**
+**任务一：在巨兽荒原的神坛旁冥想 0/1**
 
 完成方法：
 
-拿出心火蜡烛燃烧10株黑暗植物即可完成
+点击坐下冥想并回答问题即可完成
 
- **推荐地图：雨林 暮土**
+ **位置：暮土 巨兽荒原**
 
-**![](https://img.166.net/reunionpub/1_kol_20251110_d399ee22d008f8bf6e636985b9e336db.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20251113_f8b1f173ad7c0a83801806c92f3be6c5)**
 
- **任务三：点亮一位玩家 0/1**
+**![](https://img.166.net/reunionpub/1_kol_20251113_c433b3c548664453b8045c455a961ed2)**
 
-完成方法：
-
-在天空王国中靠近任意其他玩家举起心火蜡烛等待对方点亮即可完成
-
-![](https://img.166.net/reunionpub/1_kol_20251117_2a1c118bf86c2ce4a17b74652d34dddc)
-
- **任务四：在霞谷重温先祖的美好回忆 0/1**
+ **任务二：和朋友击掌 0/1**
 
 完成方法：
 
-点燃先祖重温回忆
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
- **位置：霞谷 霞光城**
+ **注：一级二级都可以完成**
 
- **先祖：倒立运动员**
+2.找到对应季节向导，与季节向导完成击掌即可
 
-![](https://img.166.net/reunionpub/1_kol_20251117_135754f6cf8e8f961839737b98b32f3f)
+ **注：需要完成前置的季节任务**
+
+**![](https://img.166.net/reunionpub/1_kol_20250728_3a65fc57db044bb6fa884270b2ac6ff5.jpeg)**
+
+**![](https://img.166.net/reunionpub/1_kol_20250728_074e3e7222786c0e314f0a0aa18086c1.jpeg)**
+
+ **任务三：给一位朋友送礼 0/1**
+
+完成方法：
+
+1.点击好友 找到击掌右边的礼物 花费3根蜡烛并送给对方爱心后即可完成
+
+2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
+
+ **注：任意选择一种方式即可**
+
+**![](https://img.166.net/reunionpub/1_kol_20250701_62240139969f4d5b974e9ad0a4e4cee4.png)**
+
+**![](https://img.166.net/reunionpub/1_kol_20250701_69113785fc5c41cb891c497953b1c649.jpeg)**
+
+ **任务四：收集红色光芒 0/1**
+
+完成方法：
+
+靠近光芒即可完成
+
+ **位置：暮土 黑水港湾/失落方舟**
+
+![](https://img.166.net/reunionpub/1_kol_20251118_e9ca2e8fa160b8d2f07205b1ade6a4c4)
+
+![](https://img.166.net/reunionpub/1_kol_20251118_5be593055a714dfb6a26e9168353110e)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
- **位置：B组**
+ **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20251028_f3727926c312886be7fe05d7cf542501.png)
+![](https://img.166.net/reunionpub/1_kol_20251024_5be5e386c2844c1dce6db88ffd86e5df.jpeg)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -232,7 +246,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星×1**
+ **光能药剂×1**
 
  **魔法工坊**
 
@@ -246,7 +260,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250702_ce40b78a3bf6a5e9938cb1e55145ee7f.png)
+![](https://img.166.net/reunionpub/1_kol_20250708_c428db6b2f8af513cbcd954ad1b8eaa0.png)
 
  **魔法商店**
 
@@ -254,7 +268,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250702_be3531622a89b10e7faebb198d750ebd.png)
+![](https://img.166.net/reunionpub/1_kol_20250708_a7619ad9c802ad4d68241051031782b8.png)
 
  **留影魔法：**
 
