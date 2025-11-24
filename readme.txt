@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-11-25 00:52:58
+date: 2025-11-25 07:28:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,61 +8,67 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20251124_dc0426793a0513e509074fa10097dede)
+![](https://img.166.net/reunionpub/1_kol_20251125_222cc260e49c0c7ba9a7a4d39b6f4df3)
 
-**任务一：点燃20根蜡烛 0/20**
-
-完成方法：
-
-1.点燃一堆大蜡烛
-
-2.或点燃20根蜡烛即可完成
-
- **推荐地图：云野 霞谷 禁阁 遇境 云巢**
-
-![](https://img.166.net/reunionpub/1_kol_20251112_44a17c81e9e66ee32253dc18232de5c2)
-
- **任务二：点亮一位玩家 0/1**
+**﻿任务一：掀翻5只螃蟹 0/5**
 
 完成方法：
 
-在天空王国中靠近任意其他玩家举起心火蜡烛等待对方点亮即可完成
+点击人物头部长按大叫即可掀翻螃蟹
 
-**![](https://img.166.net/reunionpub/1_kol_20251117_2a1c118bf86c2ce4a17b74652d34dddc)**
+ **推荐位置：**
 
- **任务三：净化10株黑暗植物 0/10**
+ **云野 圣岛**
 
-完成方法：
+ **暮土 边陲荒漠/巨兽荒原**
 
-拿出心火蜡烛燃烧10株黑暗植物即可完成
+**![](https://img.166.net/reunionpub/1_kol_20251113_905f87414c402536ed12074504ae7ee3)**
 
- **推荐地图：雨林 暮土**
-
-**![](https://img.166.net/reunionpub/1_kol_20251110_d399ee22d008f8bf6e636985b9e336db.jpeg)**
-
- **任务四：给一位朋友送礼 0/1**
+ **任务二：在水母上恢复能量 0/1**
 
 完成方法：
 
-1.点击好友 找到击掌右边的礼物 花费3根蜡烛并送给对方爱心后即可完成
+1.将斗篷能量全部消耗
 
-2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
+2.靠近水母恢复能量即可完成
 
- **注：任意选择一种方式即可**
+ **推荐位置：**
 
-**![](https://img.166.net/reunionpub/1_kol_20250701_62240139969f4d5b974e9ad0a4e4cee4.png)**
+ **云野 圣岛**
 
-**![](https://img.166.net/reunionpub/1_kol_20250701_69113785fc5c41cb891c497953b1c649.jpeg)**
+ **雨林 密林遗迹/大树屋**
 
-**![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250818_105a942b3318ca0aa44b7cd23856cd10.png)**
+
+ **任务三：向一位玩家鞠躬 0/1**
+
+完成方法：
+
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
+
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
+
+**![](https://img.166.net/reunionpub/1_kol_20251112_103dfc725a53aa0264ed305612860a3d)**
+
+ **任务四：在云野重温先祖的美好回忆 0/1**
+
+完成方法：
+
+点燃先祖重温回忆
+
+ **位置：云野 蝴蝶平原**
+
+ **先祖：彩纸表亲**
+
+**![](https://img.166.net/reunionpub/1_kol_20251011_c60703fd7f8848399d51fa119adb7d4d.png)![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **季节蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
  **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20251025_c20831a974c0c7494210daf81402ddcf.png)
+![](https://img.166.net/reunionpub/1_kol_20251026_403ffeb88dc861a62fda3a3d68156f6d.png)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -74,29 +80,29 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
 第一堆
 
-![](https://img.166.net/reunionpub/1_kol_20250707_97c9dab8a0de5ae0bea2b42151660e82.png)
+![](https://img.166.net/reunionpub/1_kol_20250708_2a1d90f09689bbb843dc5d9e55828cab.png)
 
 第二堆
 
-![](https://img.166.net/reunionpub/1_kol_20250707_7719ddd7ced54e6bb9f0855c9729d759.png)
+![](https://img.166.net/reunionpub/1_kol_20250708_a0df04a8231922179e97043e5ccce407.png)
 
 第三堆
 
-![](https://img.166.net/reunionpub/1_kol_20250707_bfae780ce10e768dd86a66a1486e0a96.png)
+![](https://img.166.net/reunionpub/1_kol_20250708_4cac9aae2684d9fce7d31c79e8ec83fa.png)
 
 第四堆
 
-![](https://img.166.net/reunionpub/1_kol_20250707_3728d167b0db5df9eae5440b168b8b2b.png)
+![](https://img.166.net/reunionpub/1_kol_20250708_09e8eb050bf1a1cb9a882974c6410144.png)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **浪漫烟花×1**
+ **光能药剂×1**
 
  **魔法工坊**
 
@@ -110,7 +116,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250706_63f74eb45e29da0175f9a6d70633ddc5.png)
+![](https://img.166.net/reunionpub/1_kol_20250708_c428db6b2f8af513cbcd954ad1b8eaa0.png)
 
  **魔法商店**
 
@@ -118,7 +124,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250706_a68bc1dbce077f2636f189679178774d.png)
+![](https://img.166.net/reunionpub/1_kol_20250708_a7619ad9c802ad4d68241051031782b8.png)
 
  **留影魔法：**
 
