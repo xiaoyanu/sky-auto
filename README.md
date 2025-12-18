@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-12-18 13:37:07
+date: 2025-12-18 13:53:38
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,73 +8,65 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20251217_ff94e65deec388722c4c64a2095780f7)
+![](https://img.166.net/reunionpub/1_kol_20251218_56656ab98ff95c6e11f0165644f71dec)
 
-**任务一：在霞谷追逐散落的星光 0/1**
-
-完成方法：
-
-靠近星光即可完成
-
- **位置：霞谷 滑冰场**
-
-![](https://img.166.net/reunionpub/1_kol_20251202_245416d3283d4f0095dcb1565c648a5c)
-
- **任务二：与其他人牵手 0/1**
-
-  * 完成方法一：
-
-点击好友邀请牵手 等待好友点击即可完成
-
-![](https://img.166.net/reunionpub/1_kol_20251217_f9ca62f4a90130de2d1f5f368ad3ff27)
-
-  * 完成方法二：
-
-重温可与先祖牵手的季节任务，如：表演季任务四
-
-![](https://img.166.net/reunionpub/1_kol_20251217_875c69af6f7a57705bfd56b09ac54bcf)
-
-  * 完成方法三：
-
-在完成今日任务四 [忙碌舞台管理员在圆梦村剧场需要帮助] 时
-
-可与老练音乐家牵手即可完成
-
-![](https://img.166.net/reunionpub/1_kol_20251217_e8d57af01a532eb3d7c9b2f1ce13c71f)
-
- **任务三：净化10株黑暗植物 0/10**
+**任务一：邀请一位迁徙季的先祖与您同行 0/1**
 
 完成方法：
 
-拿出心火蜡烛燃烧10株黑暗植物即可完成
+在迁徙季 [先祖星盘¹] 上任意选择一位季节先祖
 
- **推荐地图：雨林 暮土**
+点击右下角 邀请同行 并确认即可完成
 
-**![](https://img.166.net/reunionpub/1_kol_20251110_d399ee22d008f8bf6e636985b9e336db.jpeg)**
+ **位置：遇境/云巢**
 
- **任务四：忙碌舞台管理员在圆梦村剧场需要帮助 0/1**
+![](https://img.166.net/reunionpub/1_kol_20251211_1fba626e241ac229d3c75fa6a03c46cd)
+
+![](https://img.166.net/reunionpub/1_kol_20251211_8aa0e63c9ff3de5111b80b1c2d7632f3)
+
+ **任务二：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-1.前往圆梦村剧场找到 忙碌舞台管理员 领取任务
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
-2.根据指引将 老练音乐家 带到 忙碌舞台管理员 旁即可完成
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
- **位置：霞谷 圆梦村剧场**
+**![](https://img.166.net/reunionpub/1_kol_20251112_103dfc725a53aa0264ed305612860a3d)**
 
-![](https://img.166.net/reunionpub/1_kol_20251202_c2dd40d5a4604888f2702d27b4cdbfd3)
+ **任务三：在荧光小菇旁恢复能量 0/1**
 
-![](https://img.166.net/reunionpub/1_kol_20251202_42bb71a58f583fedca8719988a7170b4)
+完成方法：
+
+1.将斗篷能量全部消耗
+
+2.靠近荧光小菇恢复能量即可完成
+
+ **位置：雨林 荧光森林 密林遗迹 大树屋等**
+
+![](https://img.166.net/reunionpub/1_kol_20251218_56ff20c5745f33f1df671e6534681929)
+
+ **任务四：在暮土重温先祖的美好回忆 0/1**
+
+完成方法：
+
+点燃先祖重温回忆
+
+ **位置：暮土 边陲荒漠**
+
+ **先祖：惊恐难民**
+
+![](https://img.166.net/reunionpub/1_kol_20251213_c7ec0f06dcfe019cd0ffae704ed42238)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
- **位置：B﻿组**
+ **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20251028_f3727926c312886be7fe05d7cf542501.png)
+![](https://img.166.net/reunionpub/1_kol_20251024_5be5e386c2844c1dce6db88ffd86e5df.jpeg)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -248,7 +240,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星×1**
+ **漂浮魔法×1**
 
  **魔法工坊**
 
@@ -262,7 +254,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250702_ce40b78a3bf6a5e9938cb1e55145ee7f.png)
+![](https://img.166.net/reunionpub/1_kol_20250703_06117fc2a94fb142292b2cb331956084.png)
 
  **魔法商店**
 
@@ -270,7 +262,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250702_be3531622a89b10e7faebb198d750ebd.png)
+![](https://img.166.net/reunionpub/1_kol_20250724_d2bd1afbe9dcfa2e1a3d1f5ee497ba3d.png)
 
  **留影魔法：**
 
