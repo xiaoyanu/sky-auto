@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2025-12-21 13:50:09
+date: 2025-12-22 00:36:12
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,67 +8,89 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20251220_94e63620d2467efdf8a97e584f2f136e)
+![](https://img.166.net/reunionpub/1_kol_20251221_9bdd0a967ff2e1d731b8c271057ead37)
 
-**﻿任务一：收集绿色光芒 0/1**
-
-完成方法：
-
-靠近光芒即可完成
-
- **位置：云野 云顶浮石**
-
- **注：此光芒每整十分下落**
-
-**![](https://img.166.net/reunionpub/1_kol_20251115_335b4eecf66aeb719d945e6b21aa0050)**
-
-**![](https://img.166.net/reunionpub/1_kol_20251115_3710c173a352ebfd0ec31bfbf8ccffc4)**
-
- **任务二：向一位朋友做个动作 0/1**
+**﻿任务一：在雨林追逐散落的星光 0/1**
 
 完成方法：
 
-点击屏幕上方中间的表情菜单 面对好友 随机点击任意动作即可完成
+靠近星光即可完成
 
-**![](https://img.166.net/reunionpub/1_kol_20251110_cdd0a218e4798a4f5718b0450a8fa077.jpeg)**
+ **位置：雨林 静谧庭院**
 
- **任务三：收集30点烛火 0/30**
+![](https://img.166.net/reunionpub/1_kol_20251221_497107cfc4385131f7d3ca215bab6f7e)
+
+ **任务二：和朋友击掌 0/1**
 
 完成方法：
 
-1.领取任务
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
-2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
+ **注：一级二级都可以完成**
 
-**![](https://img.166.net/reunionpub/1_kol_20251006_904146ea633d7507084b73346fe1b462.png)**
+2.找到对应季节向导，与季节向导完成击掌即可
 
- **任务四：在云野重温先祖的美好回忆 0/1**
+ **注：需要完成前置的季节任务**
+
+**![](https://img.166.net/reunionpub/1_kol_20250728_3a65fc57db044bb6fa884270b2ac6ff5.jpeg)**
+
+**![](https://img.166.net/reunionpub/1_kol_20250728_074e3e7222786c0e314f0a0aa18086c1.jpeg)**
+
+ **任务三：点燃20根蜡烛 0/20**
+
+完成方法：
+
+1.点燃一堆大蜡烛
+
+2.或点燃20根蜡烛即可完成
+
+ **推荐地图：云野 霞谷 禁阁 遇境 云巢**
+
+![](https://img.166.net/reunionpub/1_kol_20251112_44a17c81e9e66ee32253dc18232de5c2)
+
+ **任务四：在雨林重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：云野 仙乡**
+位置：雨林 荧光森林
 
- **先祖：鼓掌钟匠**
+先祖：羞涩勘探者
 
-![](https://img.166.net/reunionpub/1_kol_20251220_3db3450377f5b2c5cb523f814692192a)
+![](https://img.166.net/reunionpub/1_kol_20251221_66e6c74335018f8138ba1c8941b544a9)
+
+![](https://img.166.net/reunionpub/1_kol_20251221_32e32c938135eca5d3b01baaf72f2e65)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
  **位置：A组**
 
-![](https://img.166.net/reunionpub/1_kol_20251026_403ffeb88dc861a62fda3a3d68156f6d.png)
+![](https://img.166.net/reunionpub/1_kol_20251027_4abd8802fb06618cbb556c6ad56db717.png)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **地图：暮土**
+
+ **灼热碎片 [红石]**
+
+ **具体位置：失落方舟**
+
+ **坠落时间：** 7、13、19小时的08分40秒左右～50分
+
+ **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币：** 升华蜡烛
+
+ **注：此坠落点可完成 [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/1_kol_20251221_a5a61fba620c0ffd53d5443eea86406e)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -236,7 +258,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **返老还童×1 长大成人×1**
+ **体形重塑×1 绚丽彩虹×1**
 
  **魔法工坊**
 
@@ -250,7 +272,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-**![](https://img.166.net/reunionpub/1_kol_20250628_b85828aad362761fa4b51816f54e3077.png)**
+![](https://img.166.net/reunionpub/1_kol_20250629_bf8fe53dcf9295cfb636d054cf93b416.png)
 
  **魔法商店**
 
@@ -258,23 +280,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-**![](https://img.166.net/reunionpub/1_kol_20250628_306e6437c338bb23190eec649d531d15.png)**
-
- **留影魔法：**
-
-位置：音乐商店
-
-注：开启 音乐商店 需完成 [表演季] 季节任务四
-
-**![](https://img.166.net/reunionpub/1_kol_20250706_117ac37cb9ec02b5f5cffd8f66faa5ba.png)**
-
- **留影魔法：**
-
-位置：音乐商店
-
-注：开启 音乐商店 需完成 [表演季] 季节任务四
-
-**![](https://img.166.net/reunionpub/1_kol_20250706_117ac37cb9ec02b5f5cffd8f66faa5ba.png)**
+![](https://img.166.net/reunionpub/1_kol_20250629_e28e9cd6118636522f5f76d9da212926.png)
 
  **留影魔法：**
 
