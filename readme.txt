@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-01-04 07:45:17
+date: 2026-01-04 13:40:09
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,9 +8,9 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20260103_77b6f25db02996d3065ed9cce1b4bd95)
+![](https://img.166.net/reunionpub/1_kol_20260104_d125780dd4dbc3e6a8d17f83ca4f27a9)
 
-**任务一：在禁阁顶层神坛旁冥想 0/1**
+**任务一：在禁阁顶层的神坛旁冥想 0/1**
 
 完成方法：
 
@@ -18,7 +18,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **位置：禁阁顶层**
 
-![](https://img.166.net/reunionpub/1_kol_20251025_52dee8844a5a970309810c463e587817.png)
+![](https://img.166.net/reunionpub/1_kol_20260104_7486052f371ab1c7b399b2cea7395353)
 
  **任务二：点亮一位玩家 0/1**
 
@@ -83,6 +83,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 ![](https://img.166.net/reunionpub/1_kol_20260103_ce165ab1c5b7e28339484dc038ccd261)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
+
+ **大蜡烛**
 
  **地图：云野 雨林 暮土**
 
