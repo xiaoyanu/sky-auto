@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-01-16 13:55:30
+date: 2026-01-17 00:46:32
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,65 +8,71 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20260115_181dd5852dca50d9c98cefb0a4928823)
+![](https://img.166.net/reunionpub/1_kol_20260116_d038076c5a715080683bf6c34e28e78d)
 
-**任务一：在密林遗迹冥想 0/1**
+**任务一：在霞光城拱门上冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：雨林 密林遗迹**
+ **位置：霞谷 霞光城**
 
-![](https://img.166.net/reunionpub/1_kol_20251231_4f516efd4084077ee156dce2b4af127d)
+**![](https://img.166.net/reunionpub/1_kol_20251212_c9bfb0bdb9c4f1d7e585fce42dad892a)**
 
-![](https://img.166.net/reunionpub/1_kol_20251231_e775714acd0bbc6b977f7e72c1ab3f35)
+**![](https://img.166.net/reunionpub/1_kol_20251212_9e407e070a857709978ad3764c70d571)**
 
- **任务二：和朋友击掌 0/1**
-
-完成方法：
-
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
-
- **注：一级二级都可以完成**
-
-2.找到对应季节向导，与季节向导完成击掌即可
-
- **注：需要完成前置的季节任务**
-
-**![](https://img.166.net/reunionpub/1_kol_20250728_3a65fc57db044bb6fa884270b2ac6ff5.jpeg)**
-
-**![](https://img.166.net/reunionpub/1_kol_20250728_074e3e7222786c0e314f0a0aa18086c1.jpeg)**
-
- **任务三：在荧光小菇旁恢复能量 0/1**
+ **任务二：点亮一位玩家 0/1**
 
 完成方法：
 
-将斗篷能量全部消耗
+在天空王国中靠近任意其他玩家举起心火蜡烛等待对方点亮即可完成
 
-靠近荧光小菇恢复能量即可完成
+**![](https://img.166.net/reunionpub/1_kol_20251117_2a1c118bf86c2ce4a17b74652d34dddc)**
 
- **位置：雨林 荧光森林/密林遗迹/大树屋等**
-
-![](https://img.166.net/reunionpub/1_kol_20251007_929321b9590ffc1622a39ea8400a475d.jpeg)
-
- **任务四：在雨林重温先祖的美好回忆 0/1**
+ **任务三：净化10株黑暗植物 0/10**
 
 完成方法：
 
-点燃先祖重温回忆
+拿出心火蜡烛燃烧10株黑暗植物即可完成
 
- **位置：雨林 密林遗迹**
+ **推荐地图：雨林 暮土**
 
- **先祖：白日梦森林人**
+**![](https://img.166.net/reunionpub/1_kol_20251110_d399ee22d008f8bf6e636985b9e336db.jpeg)**
 
-![](https://img.166.net/reunionpub/1_kol_20260115_74826ad7c86cc6347fda0542601e218a)
+ **任务四：忙碌舞台管理员在圆梦村剧场需要帮助 0/1**
+
+完成方法：
+
+1.前往圆梦村剧场找到 忙碌舞台管理员 领取任务
+
+2.根据指引将 老练音乐家 带到 忙碌舞台管理员 旁即可完成
+
+ **位置：霞谷 圆梦村剧场**
+
+![](https://img.166.net/reunionpub/1_kol_20251202_c2dd40d5a4604888f2702d27b4cdbfd3)
+
+![](https://img.166.net/reunionpub/1_kol_20251202_42bb71a58f583fedca8719988a7170b4)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **地图：暮土**
+
+ **灼热碎片 [红石]**
+
+ **具体位置：** 黑水港湾
+
+ **坠落时间：** 11、17、23小时的08分40秒左右～50分
+
+ **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
+
+ **获取货币：** 升华蜡烛
+
+ **注：此坠落点可完成 [破晓季] 季节任务**
+
+![](https://img.166.net/reunionpub/1_kol_20260116_723df96b181493fc80b28393e83e820d)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -234,7 +240,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **漂浮魔法×1**
+ **小不点×1 大只佬×1**
 
  **魔法工坊**
 
@@ -246,9 +252,9 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 位置：遇境
 
- **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
+![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)
 
-![](https://img.166.net/reunionpub/1_kol_20250703_06117fc2a94fb142292b2cb331956084.png)
+![](https://img.166.net/reunionpub/1_kol_20250627_461c45d0f3bb3bf77220b21fd5c7ea70.png)
 
  **魔法商店**
 
@@ -256,7 +262,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250724_d2bd1afbe9dcfa2e1a3d1f5ee497ba3d.png)
+![](https://img.166.net/reunionpub/1_kol_20250627_4d6210bedd8ba2d38dafab2bf8eb96d2.png)
 
  **留影魔法：**
 
