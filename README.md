@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-01-19 13:47:36
+date: 2026-01-20 00:47:22
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,71 +8,65 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20260118_0531bd578464d570dda471b9e6650e7d)
+![](https://img.166.net/reunionpub/1_kol_20260119_f2afac87773cd307a39a0684ccdd20fd)
 
-**任务一：在禁阁顶层的神坛旁冥想 0/1**
+**任务一：在云野的锦鲤池旁冥想 0/1**
 
 完成方法：
 
 点击坐下冥想并回答问题即可完成
 
- **位置：禁阁顶层**
+ **位置：云野 仙乡**
 
-![](https://img.166.net/reunionpub/1_kol_20260104_7486052f371ab1c7b399b2cea7395353)
+![](https://img.166.net/reunionpub/1_kol_20251120_5c4351e7a068d67b11cb925cb3d5347d)
 
- **任务二：向一位朋友招手 0/1**
+![](https://img.166.net/reunionpub/1_kol_20251120_252e00410e5e69015339f9adbf02822b)
 
-完成方法：
-
-点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成招手即可
-
- **注：1～6级招手动作均可完成**
-
-![](https://img.166.net/reunionpub/1_kol_20260106_8aafd8f0602cf514c59b93fc26516bb0)
-
- **任务三：点燃20根蜡烛 0/20**
+ **任务二：给一位朋友送礼 0/1**
 
 完成方法：
 
-1.点燃一堆大蜡烛
+1.点击好友 找到击掌右边的礼物 花费3根蜡烛并送给对方爱心后即可完成
 
-2.或点燃20根蜡烛即可完成
+2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
 
- **推荐地图：云野 霞谷 禁阁 遇境 云巢**
+ **注：任意选择一种方式即可**
 
-![](https://img.166.net/reunionpub/1_kol_20251112_44a17c81e9e66ee32253dc18232de5c2)
+![](https://img.166.net/reunionpub/1_kol_20260119_7b30d810bc7f3051abf2aa918ea520bb)
 
- **任务四：在禁阁重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/1_kol_20260119_c8f9bd309402cb3ed637d2ffb74eb482)
+
+ **任务三：掀翻5只螃蟹 0/5**
+
+完成方法：
+
+点击人物头部长按大叫即可掀翻螃蟹
+
+ **推荐位置：**
+
+ **云野 圣岛**
+
+ **暮土 边陲荒漠/巨兽荒原**
+
+**![](https://img.166.net/reunionpub/1_kol_20251113_905f87414c402536ed12074504ae7ee3)**
+
+ **任务四：在云野重温先祖的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：禁阁四层**
+ **位置：云野 云顶浮石**
 
- **先祖：礼拳大师**
+ **先祖：旋转舞者**
 
-![](https://img.166.net/reunionpub/1_kol_20260118_c28862412ab5ae699a75b760d56b020b)
+![](https://img.166.net/reunionpub/1_kol_20251110_2bb5289735f2953da27bf3919dd4eba0.png)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **伊甸之眼坠落碎片位置**
 
- **地图：云野**
-
- **灼热碎片 [红石]**
-
- **具体位置：圣岛**
-
- **坠落时间：** 7、13、19小时的08分40秒左右～50分
-
- **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币：** 升华蜡烛
-
- **注：此坠落点可完成 [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20260118_5b172c78861101f0252cba487299f487)
+无
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -240,7 +234,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体形重塑×1 绚丽彩虹×1**
+ **浪漫烟花×1**
 
  **魔法工坊**
 
@@ -254,7 +248,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250629_bf8fe53dcf9295cfb636d054cf93b416.png)
+![](https://img.166.net/reunionpub/1_kol_20250706_63f74eb45e29da0175f9a6d70633ddc5.png)
 
  **魔法商店**
 
@@ -262,7 +256,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250629_e28e9cd6118636522f5f76d9da212926.png)
+![](https://img.166.net/reunionpub/1_kol_20250706_a68bc1dbce077f2636f189679178774d.png)
 
  **留影魔法：**
 
@@ -270,7 +264,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-**![](https://img.166.net/reunionpub/1_kol_20250706_117ac37cb9ec02b5f5cffd8f66faa5ba.png)**
+![](https://img.166.net/reunionpub/1_kol_20250706_dcdb776a8894455e40eb780e90bbb1aa.png)
 
  **球玩魔法：**
 
