@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-02-04 07:40:49
+date: 2026-02-04 14:02:31
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,19 +8,9 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20260203_c0f211ecb2a47e224524dfd0a54a72a9)
+![](https://img.166.net/reunionpub/1_kol_20260204_1f04f4ea5e3a3aae1ab459151962533c)
 
-**任务一：向一位玩家鞠躬 0/1**
-
-完成方法：
-
-点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
-
- **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
-
-![](https://img.166.net/reunionpub/1_kol_20260121_e188104272a29ec961e27f78eaebaffb)
-
- **任务二：参加锦标赛 0/1**
+**任务一：参加锦标赛 0/1**
 
 完成方法：
 
@@ -34,71 +24,75 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 **![](https://img.166.net/reunionpub/1_kol_20260130_51bf3dc042235946f2a7ab16d1f06c64)**
 
- **任务三：拾起一只螃蟹 0/1**
+ **任务二：在水母上恢复能量 0/1**
 
-完成方法:
+完成方法：
 
-长按人物大叫后掀翻螃蟹
+1.将斗篷能量全部消耗
 
-靠近螃蟹点击拾取图标即可完成
+2.靠近水母恢复能量即可完成
 
-![](https://img.166.net/reunionpub/1_kol_20260203_9f2d620d3f77906b36c62a3f2fd34d4f)
+ **推荐位置：**
 
- **任务四：愉悦地理学家在圣岛需要帮助 0/1**
+ **云野 圣岛**
 
-完成方法:
+ **雨林 密林遗迹 大树屋**
 
-前往圣岛找到愉悦地理学家领取任务 [带愉悦地理学家去岩石旁拍照]
+ **禁阁 星光沙漠海滩**
 
-使用相机根据提示光圈完成拍照即可
+![](https://img.166.net/reunionpub/1_kol_20260126_9f45c04157b425f4a20ec7fd7f6a0e93)
 
- **位置：云野 圣岛**
+![](https://img.166.net/reunionpub/1_kol_20260123_dc079e786f6169a6b63baf143b020fed)
 
-![](https://img.166.net/reunionpub/1_kol_20260203_292bedfba9cf1e4e530b230ef5ad6578)
+ **任务三：和陌生人一起坐在长凳上 0/1**
 
-![](https://img.166.net/reunionpub/1_kol_20260203_b76a438e8a9145920784da8c6393ecd3)
+完成方法：
+
+和陌生玩家一起坐在石凳上即可完成
+
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
+
+![](https://img.166.net/reunionpub/1_kol_20260204_5d5d7f2c6ab1337635b2dad0673a94b8)
+
+ **任务四：在雨林重温先祖的美好回忆 0/1**
+
+完成方法：
+
+点燃先祖重温回忆
+
+ **位置：雨林 密林遗迹**
+
+ **先祖：白日梦护林员**
+
+![](https://img.166.net/reunionpub/1_kol_20260204_deb75d3947f8be018ddfc8f6d572ae41)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/1_kol_20260124_051ed5f4ca02d756554b14ff143e4e2a)
+**![](https://img.166.net/reunionpub/1_kol_20260125_83843221672ff2494a40184f561a2580)**
 
-第二堆：
+ **第二堆：**
 
-![](https://img.166.net/reunionpub/1_kol_20260124_6aee22d70ba24c57ae3cec716cdf7a39)
+**![](https://img.166.net/reunionpub/1_kol_20260125_f8f9dc155a36bf01fb05b14668b3fa25)**
 
-第三堆：
+ **第三堆：**
 
-![](https://img.166.net/reunionpub/1_kol_20260124_200d32c4249209eb72631247203f75ad)
+**![](https://img.166.net/reunionpub/1_kol_20260125_f01065c2c599e54d5648e60fab910af0)**
 
-第四堆：
+ **第四堆：**
 
-![](https://img.166.net/reunionpub/1_kol_20260124_db8fc42274bef1307c38478c5e1b1d85)
+**![](https://img.166.net/reunionpub/1_kol_20260125_f994b99493f2d3dec1ff55fa1bb8499a)**
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **伊甸之眼坠落碎片位置**
 
- **地图：云野**
-
- **冷却碎片 [黑石]**
-
- **具体位置：** 蝴蝶平原
-
- **坠落时间：** 9、14、19小时的08分40秒左右～50分
-
- **清理方式：** 净化黑石碎片周围黑暗植物即可
-
- **获取货币：** 烛光 [普通蜡烛/白蜡烛]
-
- **注：此坠落点不可完成 [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20260203_413f783e66272a9d762d6ed369d0aae4)
+ **无**
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -266,7 +260,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **光能药剂×1**
+ **璀璨之星×1**
 
  **魔法工坊**
 
@@ -280,7 +274,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-**![](https://img.166.net/reunionpub/1_kol_20250708_c428db6b2f8af513cbcd954ad1b8eaa0.png)**
+![](https://img.166.net/reunionpub/1_kol_20250702_ce40b78a3bf6a5e9938cb1e55145ee7f.png)
 
  **魔法商店**
 
@@ -288,7 +282,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-**![](https://img.166.net/reunionpub/1_kol_20250708_a7619ad9c802ad4d68241051031782b8.png)**
+![](https://img.166.net/reunionpub/1_kol_20250702_be3531622a89b10e7faebb198d750ebd.png)
 
  **留影魔法：**
 
