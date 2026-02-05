@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-02-05 07:41:47
+date: 2026-02-05 14:09:26
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,7 +8,7 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20260204_1f04f4ea5e3a3aae1ab459151962533c)
+![](https://img.166.net/reunionpub/1_kol_20260205_b586631599b44c5064149411a36f49ba)
 
 **任务一：参加锦标赛 0/1**
 
@@ -24,69 +24,65 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 **![](https://img.166.net/reunionpub/1_kol_20260130_51bf3dc042235946f2a7ab16d1f06c64)**
 
- **任务二：在水母上恢复能量 0/1**
+ **任务二：在荧光小菇旁恢复能量 0/1**
 
 完成方法：
 
 1.将斗篷能量全部消耗
 
-2.靠近水母恢复能量即可完成
+2.靠近荧光小菇恢复能量即可完成
 
- **推荐位置：**
+ **位置：雨林 荧光森林 密林遗迹 大树屋等**
 
- **云野 圣岛**
+![](https://img.166.net/reunionpub/1_kol_20260131_3b6ef780bd8a8479a93cfaa89b0a0751)
 
- **雨林 密林遗迹 大树屋**
-
- **禁阁 星光沙漠海滩**
-
-![](https://img.166.net/reunionpub/1_kol_20260126_9f45c04157b425f4a20ec7fd7f6a0e93)
-
-![](https://img.166.net/reunionpub/1_kol_20260123_dc079e786f6169a6b63baf143b020fed)
-
- **任务三：和陌生人一起坐在长凳上 0/1**
+ **任务三：给一位朋友送礼 0/1**
 
 完成方法：
 
-和陌生玩家一起坐在石凳上即可完成
+1.点击好友 找到击掌右边的礼物 花费3根蜡烛并送给对方爱心后即可完成
 
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
+2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
 
-![](https://img.166.net/reunionpub/1_kol_20260204_5d5d7f2c6ab1337635b2dad0673a94b8)
+ **注：任意选择一种方式即可**
 
- **任务四：在雨林重温先祖的美好回忆 0/1**
+![](https://img.166.net/reunionpub/1_kol_20260119_7b30d810bc7f3051abf2aa918ea520bb)
+
+![](https://img.166.net/reunionpub/1_kol_20260119_c8f9bd309402cb3ed637d2ffb74eb482)
+
+ **任务四：忙碌舞台管理员在圆梦村剧场需要帮助 0/1**
 
 完成方法：
 
-点燃先祖重温回忆
+1.前往圆梦村剧场找到 忙碌舞台管理员 领取任务
 
- **位置：雨林 密林遗迹**
+2.引领忙碌舞台管理员做三个动作并拥抱后即可完成
 
- **先祖：白日梦护林员**
+ **位置：霞谷 圆梦村剧场**
 
-![](https://img.166.net/reunionpub/1_kol_20260204_deb75d3947f8be018ddfc8f6d572ae41)
+![](https://img.166.net/reunionpub/1_kol_20260121_5abb13dd4387c7abf0e1b05d684bf237)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
 第一堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260125_83843221672ff2494a40184f561a2580)**
+**![](https://img.166.net/reunionpub/1_kol_20260126_9bf4f90136d241dc75ac9265214b66a9)**
 
  **第二堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260125_f8f9dc155a36bf01fb05b14668b3fa25)**
+**![](https://img.166.net/reunionpub/1_kol_20260126_4b845447cad24a960509b49c11e1ba3a)**
 
  **第三堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260125_f01065c2c599e54d5648e60fab910af0)**
+**![](https://img.166.net/reunionpub/1_kol_20260126_3982cecbd034b2111b48fb071fdfeed8)**
 
  **第四堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260125_f994b99493f2d3dec1ff55fa1bb8499a)**
+**![](https://img.166.net/reunionpub/1_kol_20260126_1259b1c15d222c935ee08cbfa3ab20a6)**
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -260,29 +256,29 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星×1**
+ **漂浮魔法×1**
 
  **魔法工坊**
 
-位置：暮土 失落方舟
+ **位置：暮土 失落方舟**
 
-注：开启 魔法工坊 需完成 [魔法季] 全部季节任务
+ **注：开启 魔法工坊 需完成 [魔法季] 全部季节任务**
 
  **魔法商船**
 
-位置：遇境
+ **位置：遇境**
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250702_ce40b78a3bf6a5e9938cb1e55145ee7f.png)
+**![](https://img.166.net/reunionpub/1_kol_20250703_06117fc2a94fb142292b2cb331956084.png)**
 
  **魔法商店**
 
-位置：云巢
+ **位置：云巢**
 
-注：开启 魔法商店 需完成 [归巢季] 季节任务八
+ **注：开启 魔法商店 需完成 [归巢季] 季节任务八**
 
-![](https://img.166.net/reunionpub/1_kol_20250702_be3531622a89b10e7faebb198d750ebd.png)
+**![](https://img.166.net/reunionpub/1_kol_20250724_d2bd1afbe9dcfa2e1a3d1f5ee497ba3d.png)**
 
  **留影魔法：**
 
