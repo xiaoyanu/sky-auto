@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-02-09 07:45:15
+date: 2026-02-10 01:10:32
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,7 +8,7 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20260208_1d3f916afca1063f8256518fe9e41363)
+![](https://img.166.net/reunionpub/1_kol_20260209_41dcc5a0813e524ea26be2e5de2d882f)
 
 **任务一：参加锦标赛 0/1**
 
@@ -24,79 +24,65 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 **![](https://img.166.net/reunionpub/1_kol_20260130_51bf3dc042235946f2a7ab16d1f06c64)**
 
- **﻿任务二：向一位朋友做个动作 0/1**
+ **﻿任务三：拾起一只螃蟹 0/1**
+
+完成方法:
+
+长按人物大叫后掀翻螃蟹
+
+靠近螃蟹点击拾取图标即可完成
+
+![](https://img.166.net/reunionpub/1_kol_20260203_9f2d620d3f77906b36c62a3f2fd34d4f)
+
+ **任务三：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-点击屏幕上方中间的表情菜单 面对好友 随机点击任意动作即可完成
+和陌生玩家一起坐在石凳上即可完成
 
-**![](https://img.166.net/reunionpub/1_kol_20251226_63154b5ecce5d9fdd69faab83221a49b)**
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
- **任务三：点燃20根蜡烛 0/20**
+![](https://img.166.net/reunionpub/1_kol_20260209_3fbe6e280af13e442259b6802d3fa647)
 
-完成方法：
-
-1.点燃一堆大蜡烛
-
-2.或点燃20根蜡烛即可完成
-
- **推荐地图：云野 霞谷 禁阁 遇境 云巢**
-
-**![](https://img.166.net/reunionpub/1_kol_20251112_44a17c81e9e66ee32253dc18232de5c2)**
-
- **任务四：翻滚捣蛋鬼在幽光山洞需要帮助 0/1**
+ **任务四：颤抖开拓者在荧光森林需要帮助  0/1**
 
 完成方法：
 
-找到 翻滚捣蛋鬼 后领取任务 [加入翻滚捣蛋鬼一起捣蛋! ]
+找到 颤抖拓荒者 后领取任务 [颤抖开拓者想让你在雨林溪边见证一些事情]
 
-接受翻滚捣蛋鬼的牵手邀请 并完成捣蛋即可
+等待完成即可
 
- **位置：云野 幽光山洞**
+ **位置：雨林 荧光森林**
 
-![](https://img.166.net/reunionpub/1_kol_20260208_2b8b0dc249fe6830e32b1abe9f486d18)
+![](https://img.166.net/reunionpub/1_kol_20260209_a3ea7d4a6ce8c8bcf375505c2fe06d5b)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
 第一堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260129_a8e21fc8ff40a32b02f2d64ac027fa00)**
+**![](https://img.166.net/reunionpub/1_kol_20260130_0facc50c928388afc56d18ea794eaa75)**
 
  **第二堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260129_d2d65e3ea5b2db6de6c4eabdd991add2)**
+**![](https://img.166.net/reunionpub/1_kol_20260130_bedfc4961e4c63d9d1eff9c5d9eeab29)**
 
  **第三堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260129_c442fc5a6035674844ad017efce90d2b)**
+**![](https://img.166.net/reunionpub/1_kol_20260130_9daebc3faaca154d2340d9ce052abf5c)**
 
  **第四堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260129_634cd594897193a7af314f1b06d7c3a8)**
+**![](https://img.166.net/reunionpub/1_kol_20260130_a8951a4bd90f8cddb1cd3cef05157916)**
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **伊甸之眼坠落碎片位置**
 
- **地图：云野**
-
- **灼热碎片 [红石]**
-
- **具体位置：圣岛**
-
- **坠落时间：** 7、13、19小时的08分40秒左右～50分
-
- **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币：** 升华蜡烛
-
- **注：此坠落点可完成 [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20260208_a309a6d63ff6732e39afc2e31bc78ae6)
+无
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -264,37 +250,37 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体形重塑×1 绚丽彩虹×1**
+ **浪漫烟花×1**
 
  **魔法工坊**
 
-位置：暮土 失落方舟
+ **位置：暮土 失落方舟**
 
-注：开启 魔法工坊 需完成 [魔法季] 全部季节任务
+ **注：开启 魔法工坊 需完成 [魔法季] 全部季节任务**
 
  **魔法商船**
 
-位置：遇境
+ **位置：遇境**
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-**![](https://img.166.net/reunionpub/1_kol_20250629_bf8fe53dcf9295cfb636d054cf93b416.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250706_63f74eb45e29da0175f9a6d70633ddc5.png)**
 
  **魔法商店**
 
-位置：云巢
+ **位置：云巢**
 
-注：开启 魔法商店 需完成 [归巢季] 季节任务八
+ **注：开启 魔法商店 需完成 [归巢季] 季节任务八**
 
-**![](https://img.166.net/reunionpub/1_kol_20250629_e28e9cd6118636522f5f76d9da212926.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250706_a68bc1dbce077f2636f189679178774d.png)**
 
  **留影魔法：**
 
-位置：音乐商店
+ **位置：音乐商店**
 
-注：开启 音乐商店 需完成 [表演季] 季节任务四
+ **注：开启 音乐商店 需完成 [表演季] 季节任务四**
 
-**![](https://img.166.net/reunionpub/1_kol_20250706_117ac37cb9ec02b5f5cffd8f66faa5ba.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250706_dcdb776a8894455e40eb780e90bbb1aa.png)**
 
  **球玩魔法：**
 
