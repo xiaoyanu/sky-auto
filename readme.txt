@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-02-21 00:58:02
+date: 2026-02-21 07:42:08
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -84,11 +84,11 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **伊甸之眼坠落碎片位置**
 
- **地图：霞谷**
+ **地图：雨林**
 
  **灼热碎片 [红石]**
 
- **具体位置：** 圆梦村
+ **具体位置：大树屋**
 
  **坠落时间：** 11、17、23小时的08分40秒左右～50分
 
@@ -97,10 +97,6 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
  **获取货币：** 升华蜡烛
 
  **注：此坠落点可完成 [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20260220_dba51be34f4dbbdd1f611f0871020a3f)
-
-![](https://img.166.net/reunionpub/1_kol_20260220_c31571ca68e49d6ae72cf2e6f2445175)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
