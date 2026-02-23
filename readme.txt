@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-02-24 01:16:25
+date: 2026-02-24 07:46:15
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,69 +8,78 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20260223_400f26edc8c20b325a12fab237b4f065)
+![](https://img.166.net/reunionpub/1_kol_20260224_7542dcf809df2010d541e60ae5656082)
 
-**任务一：点亮一位玩家 0/1**
-
-完成方法：
-
-在天空王国中靠近任意其他玩家举起心火蜡烛等待对方点亮即可完成
-
-**![](https://img.166.net/reunionpub/1_kol_20251117_2a1c118bf86c2ce4a17b74652d34dddc)**
-
- **任务二：收集30点烛火 0/30**
+**任务一：和朋友击掌 0/1**
 
 完成方法：
 
-1.领取任务
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
-2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
+ **注：一级二级都可以完成**
 
-**![](https://img.166.net/reunionpub/1_kol_20251006_904146ea633d7507084b73346fe1b462.png)**
+2.找到对应季节向导，与季节向导完成击掌即可
 
- **任务三：前往云野-圣岛乘坐最大的那只遥鲲 0/1**
+ **注：需要完成前置的季节任务**
 
-完成方法：
+**![](https://img.166.net/reunionpub/1_kol_20250728_3a65fc57db044bb6fa884270b2ac6ff5.jpeg)**
 
-前往圣岛飞向围绕岛屿遨游的遥鲲
+**![](https://img.166.net/reunionpub/1_kol_20250728_074e3e7222786c0e314f0a0aa18086c1.jpeg)**
 
-乘坐后等待60秒即可完成
-
-![](https://img.166.net/reunionpub/1_kol_20260223_7115e4968dbeda844d77ea60587b89ff)
-
- **任务四：苦修行者在圣岛需要帮助 0/1**
+ **任务二：点燃20根蜡烛 0/20**
 
 完成方法：
 
-前往圣岛找到 苦修行者 领取任务 [和苦修行者一起做伸展动作]
+1.点燃一堆大蜡烛
 
-点击人物头顶伸展动作即可完成
+2.或点燃20根蜡烛即可完成
 
-位置：云野 圣岛
+ **推荐地图：云野 霞谷 禁阁 遇境 云巢**
 
-![](https://img.166.net/reunionpub/1_kol_20260223_f187462508427605ee9d4533e3acf86d)
+**![](https://img.166.net/reunionpub/1_kol_20251112_44a17c81e9e66ee32253dc18232de5c2)**
+
+ **任务三：颤抖开拓者在荧光森林需要帮助  0/1**
+
+完成方法：
+
+找到 颤抖拓荒者 后领取任务 [颤抖开拓者想让你在雨林溪边见证一些事情]
+
+等待完成即可
+
+ **位置：雨林 荧光森林**
+
+![](https://img.166.net/reunionpub/1_kol_20260209_a3ea7d4a6ce8c8bcf375505c2fe06d5b)
+**任务四：前往雨林-秘密花园帮助老奶奶整理餐桌 0/1**
+
+完成方法：
+
+前往秘密花园的大树屋餐桌
+
+整理两堆杂物即可完成
+
+![](https://img.166.net/reunionpub/1_kol_20260224_7f9e7ef61eef3f1724a484ba20df71a3)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
 第一堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260124_051ed5f4ca02d756554b14ff143e4e2a)**
+**![](https://img.166.net/reunionpub/1_kol_20260125_83843221672ff2494a40184f561a2580)**
 
  **第二堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260124_6aee22d70ba24c57ae3cec716cdf7a39)**
+**![](https://img.166.net/reunionpub/1_kol_20260125_f8f9dc155a36bf01fb05b14668b3fa25)**
 
  **第三堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260124_200d32c4249209eb72631247203f75ad)**
+**![](https://img.166.net/reunionpub/1_kol_20260125_f01065c2c599e54d5648e60fab910af0)**
 
  **第四堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260124_db8fc42274bef1307c38478c5e1b1d85)**
+**![](https://img.166.net/reunionpub/1_kol_20260125_f994b99493f2d3dec1ff55fa1bb8499a)**
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -244,7 +253,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花×1**
+ **光能药剂×1**
 
  **魔法工坊**
 
@@ -258,7 +267,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250706_63f74eb45e29da0175f9a6d70633ddc5.png)
+**![](https://img.166.net/reunionpub/1_kol_20250708_c428db6b2f8af513cbcd954ad1b8eaa0.png)**
 
  **魔法商店**
 
@@ -266,7 +275,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250706_a68bc1dbce077f2636f189679178774d.png)
+**![](https://img.166.net/reunionpub/1_kol_20250708_a7619ad9c802ad4d68241051031782b8.png)**
 
  **留影魔法：**
 
