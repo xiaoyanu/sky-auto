@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-03-12 07:58:30
+date: 2026-03-12 14:04:55
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,81 +8,71 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20260311_b5a21a95a3d48f3c09fc1f6a21e95e31)
+![](https://img.166.net/reunionpub/1_kol_20260312_99a48dafde3d6b75ac5161de92eaee1e)
 
-**任务一：和朋友击掌 0/1**
-
-完成方法：
-
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
-
- **注：一级二级都可以完成**
-
-2.找到对应季节向导，与季节向导完成击掌即可
-
- **注：需要完成前置的季节任务**
-
-**![](https://img.166.net/reunionpub/1_kol_20250728_3a65fc57db044bb6fa884270b2ac6ff5.jpeg)**
-
-**![](https://img.166.net/reunionpub/1_kol_20250728_074e3e7222786c0e314f0a0aa18086c1.jpeg)**
-
- **任务二：点燃20根蜡烛 0/20**
+**任务一：在霞谷追逐散落的星光 0/1**
 
 完成方法：
 
-1.点燃一堆大蜡烛
+靠近星光即可完成
 
-2.或点燃20根蜡烛即可完成
+ **位置：霞谷 滑冰场**
 
- **推荐地图：云野 霞谷 禁阁 遇境 云巢**
+![](https://img.166.net/reunionpub/1_kol_20260312_541707e7288c2b2d59e811647bba1476)
 
-**![](https://img.166.net/reunionpub/1_kol_20251112_44a17c81e9e66ee32253dc18232de5c2)**
-
- **任务三：在密林遗迹冥想 0/1**
+ **任务二：收集30点烛火 0/30**
 
 完成方法：
 
-点击坐下冥想并回答问题即可完成
+1.领取任务
 
- **位置：雨林 密林遗迹**
+2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
 
-![](https://img.166.net/reunionpub/1_kol_20260311_a3459be2b228e9e66d680bdd76d260bc)
+**![](https://img.166.net/reunionpub/1_kol_20251006_904146ea633d7507084b73346fe1b462.png)**
 
- **任务四：羞涩勘探者在荧光森林需要帮助 0/1**
+ **任务三：接受一位朋友的礼物 0/1**
 
 完成方法：
 
-找到 羞涩勘探 后领取任务 [带羞涩勘探者避雨]
+接受好友赠送的爱心/心火即可完成
 
-将羞涩勘探者带到指定位置即可完成
+**![](https://img.166.net/reunionpub/1_kol_20251110_e1620c5dff171e1b3bf2a5702b8d60d5.jpeg)**
 
- **位置：雨林 荧光森林**
+ **任务四：忙碌舞台管理员在圆梦村剧场需要帮助 0/1**
 
-![](https://img.166.net/reunionpub/1_kol_20260301_77fa9b89848b1b4c9c1d4253335eb436)
+完成方法：
 
-![](https://img.166.net/reunionpub/1_kol_20260301_9bcd5c9dd8b9c0d5beb58140744ea5e3)
+1.前往圆梦村剧场找到 忙碌舞台管理员 领取任务
+
+2.根据指引将 谦逊的舞者 带到 忙碌舞台管理员 旁即可完成
+
+ **位置：霞谷 圆梦村剧场**
+
+![](https://img.166.net/reunionpub/1_kol_20260312_3aa62a6d594a7add07800c5126703de1)
+
+![](https://img.166.net/reunionpub/1_kol_20260312_405fc6fd39475d175e89ea935ef00e48)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **季节蜡烛**
 
- **地图：雨林**
+ **地图：霞谷**
 
 第一堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260130_0facc50c928388afc56d18ea794eaa75)**
+**![](https://img.166.net/reunionpub/1_kol_20260131_47fbf419b8eba3a80a71419c5de8003b)**
 
  **第二堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260130_bedfc4961e4c63d9d1eff9c5d9eeab29)**
+**![](https://img.166.net/reunionpub/1_kol_20260131_9b22e11b2c122d8eea36c830335599e0)**
 
  **第三堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260130_9daebc3faaca154d2340d9ce052abf5c)**
+**![](https://img.166.net/reunionpub/1_kol_20260131_0a42b8df0369aecd147225ddf8880371)**
 
  **第四堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260130_a8951a4bd90f8cddb1cd3cef05157916)**
+**![](https://img.166.net/reunionpub/1_kol_20260131_868174ac90e81d5ac92d492caaa68ac5)**
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -94,51 +84,51 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：禁阁**
+ **地图：云野**
 
 第一堆
 
-**![](https://img.166.net/reunionpub/1_kol_20250702_d5c7caa2c4a5ca28e8d3d9286f96597d.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250703_5a16dff37a40ff2bee04ba868c30a049.png)**
 
 第二堆
 
-**![](https://img.166.net/reunionpub/1_kol_20250702_0d8a24417434d23ccf71d53a80eb0e04.jpeg)**
+**![](https://img.166.net/reunionpub/1_kol_20250703_72882ae9d12544a83482a78427b21526.png)**
 
 第三堆
 
-**![](https://img.166.net/reunionpub/1_kol_20250702_70d65719822100447e1bcde1c840cca0.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250703_30baffa791373a321c2dbfe7bd70628a.png)**
 
 第四堆
 
-**![](https://img.166.net/reunionpub/1_kol_20250702_bba443c074f064f7196b33cd16de9e96.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250703_ba0bbd165bb68314356a72473b3cb6e2.png)**
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **璀璨之星×1**
+ **漂浮魔法×1**
 
  **魔法工坊**
 
-位置：暮土 失落方舟
+ **位置：暮土 失落方舟**
 
-注：开启 魔法工坊 需完成 [魔法季] 全部季节任务
+ **注：开启 魔法工坊 需完成 [魔法季] 全部季节任务**
 
  **魔法商船**
 
-位置：遇境
+ **位置：遇境**
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250702_ce40b78a3bf6a5e9938cb1e55145ee7f.png)
+**![](https://img.166.net/reunionpub/1_kol_20250703_06117fc2a94fb142292b2cb331956084.png)**
 
  **魔法商店**
 
-位置：云巢
+ **位置：云巢**
 
-注：开启 魔法商店 需完成 [归巢季] 季节任务八
+ **注：开启 魔法商店 需完成 [归巢季] 季节任务八**
 
-![](https://img.166.net/reunionpub/1_kol_20250702_be3531622a89b10e7faebb198d750ebd.png)
+**![](https://img.166.net/reunionpub/1_kol_20250724_d2bd1afbe9dcfa2e1a3d1f5ee497ba3d.png)**
 
  **留影魔法：**
 
