@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-03-13 07:41:24
+date: 2026-03-13 14:02:35
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,71 +8,73 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20260312_99a48dafde3d6b75ac5161de92eaee1e)
+![](https://img.166.net/reunionpub/1_kol_20260313_73a1b14cbb7f3a65e3d282320f1d7d69)
 
-**任务一：在霞谷追逐散落的星光 0/1**
-
-完成方法：
-
-靠近星光即可完成
-
- **位置：霞谷 滑冰场**
-
-![](https://img.166.net/reunionpub/1_kol_20260312_541707e7288c2b2d59e811647bba1476)
-
- **任务二：收集30点烛火 0/30**
+**任务一：点亮一位玩家 0/1**
 
 完成方法：
 
-1.领取任务
+在天空王国中靠近任意其他玩家举起心火蜡烛等待对方点亮即可完成
 
-2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可
+![](https://img.166.net/reunionpub/1_kol_20260313_91eeafc762bf781eab256860e2a82712)
 
-**![](https://img.166.net/reunionpub/1_kol_20251006_904146ea633d7507084b73346fe1b462.png)**
-
- **任务三：接受一位朋友的礼物 0/1**
+ **任务二：在巨兽荒原的神坛旁冥想 0/1**
 
 完成方法：
 
-接受好友赠送的爱心/心火即可完成
+点击坐下冥想并回答问题即可完成
 
-**![](https://img.166.net/reunionpub/1_kol_20251110_e1620c5dff171e1b3bf2a5702b8d60d5.jpeg)**
+ **位置：暮土 巨兽荒原**
 
- **任务四：忙碌舞台管理员在圆梦村剧场需要帮助 0/1**
+![](https://img.166.net/reunionpub/1_kol_20260313_33a4007fc2ef21c8913bbe77e9851ee1)
+
+![](https://img.166.net/reunionpub/1_kol_20260313_f83ca3e88dec0bcfb2f1343c9d5e8139)
+
+ **任务三：净化10株黑暗植物 0/10**
 
 完成方法：
 
-1.前往圆梦村剧场找到 忙碌舞台管理员 领取任务
+拿出心火蜡烛燃烧10株黑暗植物即可完成
 
-2.根据指引将 谦逊的舞者 带到 忙碌舞台管理员 旁即可完成
+ **推荐地图：雨林 暮土**
 
- **位置：霞谷 圆梦村剧场**
+![](https://img.166.net/reunionpub/1_kol_20260225_3e55a06df3add99c69ed67a32a25580e)
 
-![](https://img.166.net/reunionpub/1_kol_20260312_3aa62a6d594a7add07800c5126703de1)
+![](https://img.166.net/reunionpub/1_kol_20260225_1fb91a66d7cb1584765884dbd05dd897)
 
-![](https://img.166.net/reunionpub/1_kol_20260312_405fc6fd39475d175e89ea935ef00e48)
+ **任务四：焦虑渔夫在藏宝岛礁需要帮助 0/1**
+
+完成方法：
+
+前往 藏宝岛礁找到焦虑渔夫接取任务：[和船员们一起演奏一首歌]
+
+点击音符图标领取乐器开启演奏界面并退出即可完成
+
+ **位置：暮土 藏宝岛礁**
+
+![](https://img.166.net/reunionpub/1_kol_20260206_f11fa6f6577de4bdbd4077a4c0176d76)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
 第一堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260131_47fbf419b8eba3a80a71419c5de8003b)**
+![](https://img.166.net/reunionpub/1_kol_20260201_8bbbd9faf80961e6e59d9a8072697232)
 
- **第二堆：**
+第二堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260131_9b22e11b2c122d8eea36c830335599e0)**
+![](https://img.166.net/reunionpub/1_kol_20260201_a700eeba9e3a25434ad4b8942079e797)
 
- **第三堆：**
+第三堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260131_0a42b8df0369aecd147225ddf8880371)**
+![](https://img.166.net/reunionpub/1_kol_20260201_5de0800a40931d8c52b221aa3b1a8331)
 
- **第四堆：**
+第四堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260131_868174ac90e81d5ac92d492caaa68ac5)**
+![](https://img.166.net/reunionpub/1_kol_20260201_54b28efff795345b0945854bc0c4d756)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -84,51 +86,89 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **大蜡烛**
 
- **地图：云野**
+ **地图：云野 雨林 霞谷**
 
-第一堆
+云野
 
-**![](https://img.166.net/reunionpub/1_kol_20250703_5a16dff37a40ff2bee04ba868c30a049.png)**
+第一堆：
 
-第二堆
+![](https://img.166.net/reunionpub/1_kol_20241107_83784c165dbf5a0baaf675d0bfbb918a.jpeg)
 
-**![](https://img.166.net/reunionpub/1_kol_20250703_72882ae9d12544a83482a78427b21526.png)**
+第二堆：
 
-第三堆
+![](https://img.166.net/reunionpub/1_kol_20241107_0cfb11c954a849662f988a0969c28237.jpeg)
 
-**![](https://img.166.net/reunionpub/1_kol_20250703_30baffa791373a321c2dbfe7bd70628a.png)**
+第三堆：
 
-第四堆
+![](https://img.166.net/reunionpub/1_kol_20241107_8303949e3889844bee7c2988595d8e44.jpeg)
 
-**![](https://img.166.net/reunionpub/1_kol_20250703_ba0bbd165bb68314356a72473b3cb6e2.png)**
+第四堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_bc482b5c8ee95083714bd94320d9045b.jpeg)
+
+雨林
+
+第一堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_1995c6999f2d58bf6281f328a6dfe5da.jpeg)
+
+第二堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_e505bc4e6dc36338fb17a3626a4117d9.jpeg)
+
+第三堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_85000b8c4b9af76f837fe69d7d3cc9ee.jpeg)
+
+第四堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_4add5263bf55edd596edfb2411afd3bb.jpeg)
+
+霞谷
+
+第一堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_4d92d51da0b331c64d1d7487e2dbf70e.jpeg)
+
+第二堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_fedf6a0cb07047ece6edc3521bb1b15e.jpeg)
+
+第三堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_153088c2405a7f8d8a6889f91938118b.jpeg)
+
+第四堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_86923df74d8ab53187a087cbe951064a.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **漂浮魔法×1**
+ **小不点×1 大只佬×1**
 
  **魔法工坊**
 
- **位置：暮土 失落方舟**
+位置：暮土 失落方舟
 
- **注：开启 魔法工坊 需完成 [魔法季] 全部季节任务**
+注：开启 魔法工坊 需完成 [魔法季] 全部季节任务
 
  **魔法商船**
 
- **位置：遇境**
+位置：遇境
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-**![](https://img.166.net/reunionpub/1_kol_20250703_06117fc2a94fb142292b2cb331956084.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250627_461c45d0f3bb3bf77220b21fd5c7ea70.png)**
 
  **魔法商店**
 
- **位置：云巢**
+位置：云巢
 
- **注：开启 魔法商店 需完成 [归巢季] 季节任务八**
+注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-**![](https://img.166.net/reunionpub/1_kol_20250724_d2bd1afbe9dcfa2e1a3d1f5ee497ba3d.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250627_4d6210bedd8ba2d38dafab2bf8eb96d2.png)**
 
  **留影魔法：**
 
