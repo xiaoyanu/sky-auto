@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-03-15 07:41:29
+date: 2026-03-16 14:47:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,165 +8,115 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![](https://img.166.net/reunionpub/1_kol_20260314_c25b5d7b09d8901eaa5d7d2e064a2e4a)
+![](https://img.166.net/reunionpub/1_kol_20260316_168a0f71421f3775bc12d8c1c5858ce3)
 
-**任务一：和朋友击掌 0/1**
-
-完成方法：
-
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
-
- **注：一级二级都可以完成**
-
-2.找到对应季节向导，与季节向导完成击掌即可
-
- **注：需要完成前置的季节任务**
-
-**![](https://img.166.net/reunionpub/1_kol_20250728_3a65fc57db044bb6fa884270b2ac6ff5.jpeg)**
-
-**![](https://img.166.net/reunionpub/1_kol_20250728_074e3e7222786c0e314f0a0aa18086c1.jpeg)**
-
- **任务二：点燃20根蜡烛 0/20**
+**任务一：在水母上恢复能量 0/1**
 
 完成方法：
 
-1.点燃一堆大蜡烛
+1.将斗篷能量全部消耗
 
-2.或点燃20根蜡烛即可完成
+2.靠近水母恢复能量即可完成
 
- **推荐地图：云野 霞谷 禁阁 遇境 云巢**
+ **推荐位置：云野:圣岛/雨林:密林遗迹 大树屋/禁阁:星光沙漠海滩**
 
-**![](https://img.166.net/reunionpub/1_kol_20251112_44a17c81e9e66ee32253dc18232de5c2)**
+![](https://img.166.net/reunionpub/1_kol_20260126_9f45c04157b425f4a20ec7fd7f6a0e93)
 
- **任务三：在禁阁追逐散落的星光 0/1**
+![](https://img.166.net/reunionpub/1_kol_20260123_dc079e786f6169a6b63baf143b020fed)
 
-完成方法：
-
-靠近星光即可完成
-
- **位置：禁阁大厅/禁阁一层**
-
-![](https://img.166.net/reunionpub/1_kol_20260314_fa497e984a0485d479656c898c313ef5)
-
- **任务四：二重奏季向导在星光沙漠需要帮助 0/1**
+ **任务二：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-在星光沙漠海滩与二重奏季向导一起完成演奏
+和陌生玩家一起坐在石凳上即可完成
 
-演奏结束后与先祖拥抱即可完成
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
- **位置：禁阁 星光沙漠海滩**
+![](https://img.166.net/reunionpub/1_kol_20260316_339727d0f71f5ebfd58f46e339870799)
 
-**![](https://img.166.net/reunionpub/1_kol_20260123_f3da019b1e86c3ddf860f3d395fdf437)**
+ **任务三：躲猫猫拓荒者在秘密花园需要帮助 0/1**
+
+完成方法：
+
+1.前往 秘密花园 找到躲猫猫拓荒者 领取任务 [躲猫猫拓荒者想在秘密花园与你玩个游戏]
+
+2.找到在树下躲藏的先祖即可完成
+
+ **位置：雨林 秘密花园**
+
+![](https://img.166.net/reunionpub/1_kol_20260316_9389c0dc53d6792b7c6c2b8569b4816d)
+
+![](https://img.166.net/reunionpub/1_kol_20260316_f93cd4d457851371191bad2d077d3743)
+
+ **任务四：进入风行网道加速区 0/1**
+
+完成方法：
+
+前往风行网道 进入加速区 (图中高亮区域)
+
+等待任务完成提示出现即可
+
+ **位置：雨林 风行网道**
+
+ **注：完成 [归巢季] 季节任务9 的旅人可直接从云巢进入风行网道**
+
+![](https://img.166.net/reunionpub/1_kol_20260316_0f08d8fc100a3acf1b7dd5b6f8afee08)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **季节蜡烛**
 
- **地图：禁阁**
+ **地图：雨林**
 
 第一堆：
 
-![](https://img.166.net/reunionpub/1_kol_20260123_1415b1a4a2b6bc5598e422e81bc94275)
+**![](https://img.166.net/reunionpub/1_kol_20260125_83843221672ff2494a40184f561a2580)**
 
-第二堆：
+ **第二堆：**
 
-![](https://img.166.net/reunionpub/1_kol_20260123_b723d63a01b49b35f64489762a921f74)
+**![](https://img.166.net/reunionpub/1_kol_20260125_f8f9dc155a36bf01fb05b14668b3fa25)**
 
-第三堆：
+ **第三堆：**
 
-![](https://img.166.net/reunionpub/1_kol_20260123_d36ec16f7f52295636032ab5d3810d82)
+**![](https://img.166.net/reunionpub/1_kol_20260125_f01065c2c599e54d5648e60fab910af0)**
 
-第四堆：
+ **第四堆：**
 
-![](https://img.166.net/reunionpub/1_kol_20260123_8bac699e03c92fd6468444c978412e70)
+**![](https://img.166.net/reunionpub/1_kol_20260125_f994b99493f2d3dec1ff55fa1bb8499a)**
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **伊甸之眼坠落碎片位置**
 
- **地图：雨林**
-
- **灼热碎片 [红石]**
-
- **具体位置：** 雨林神殿 栖光雨潭
-
- **坠落时间：** 10、14、22小时的08分40秒左右～50分
-
- **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币：** 升华蜡烛
-
- **注：此坠落点可完成 [破晓季] 季节任务**
-
-![](https://img.166.net/reunionpub/1_kol_20260314_2a50a850b4e643ce79b5ff7708331bcc)
+无
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **大蜡烛**
 
- **地图：云野 雨林 暮土**
+ **地图：霞谷**
 
- **云野**
+第一堆
 
-云野大厅
+![](https://img.166.net/reunionpub/1_kol_20250707_97c9dab8a0de5ae0bea2b42151660e82.png)
 
-**![](https://img.166.net/reunionpub/1_kol_20250614_befb402f79ff851032dfcb53bcb6b610.png)**
+第二堆
 
-蝴蝶平原
+![](https://img.166.net/reunionpub/1_kol_20250707_7719ddd7ced54e6bb9f0855c9729d759.png)
 
-**![](https://img.166.net/reunionpub/1_kol_20250614_756dd0c665e548aacfeba349afa0952a.png)**
+第三堆
 
-仙乡
+![](https://img.166.net/reunionpub/1_kol_20250707_bfae780ce10e768dd86a66a1486e0a96.png)
 
-**![](https://img.166.net/reunionpub/1_kol_20250614_ec7a279ddd36906c7af7b0837a378781.png)**
+第四堆
 
-云野神庙
-
-**![](https://img.166.net/reunionpub/1_kol_20250614_87b25304941150e82c9615c130d25226.png)**
-
- **雨林**
-
-雨林大厅
-
-**![](https://img.166.net/reunionpub/1_kol_20250614_bdf240cba3e8f497f15c6049f985ca70.jpeg)**
-
-静谧庭院
-
-**![](https://img.166.net/reunionpub/1_kol_20250628_4583ea8eaf2085cb82d71d027c8c2c1d.jpeg)**
-
-荧光森林
-
-**![](https://img.166.net/reunionpub/1_kol_20250614_68648c707d664d2ab587f1ed85c9e2dd.jpeg)**
-
-秘密花园
-
-**![](https://img.166.net/reunionpub/1_kol_20250614_b6570f2c7a7894f602e89cb1fcc9a96f.jpeg)**
-
- **暮土**
-
-暮土大厅
-
-**![](https://img.166.net/reunionpub/1_kol_20250614_6d06df16a307ffc60f79276353ec41d1.png)**
-
-边陲荒漠
-
-**![](https://img.166.net/reunionpub/1_kol_20250614_7ccb1e1811ed9a38553ababe0f7e0b43.png)**
-
-巨兽荒原
-
-**![](https://img.166.net/reunionpub/1_kol_20250614_dc25c821fb9d37c20693cce224cfbf08.png)**
-
-黑水港湾
-
-**![](https://img.166.net/reunionpub/1_kol_20250614_095a07a1a41219d77d5c00f3a0728d26.png)**
+![](https://img.166.net/reunionpub/1_kol_20250707_3728d167b0db5df9eae5440b168b8b2b.png)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **返老还童×1 长大成人×1**
+ **浪漫烟花×1**
 
  **魔法工坊**
 
@@ -180,7 +130,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-**![](https://img.166.net/reunionpub/1_kol_20250628_b85828aad362761fa4b51816f54e3077.png)**
+![](https://img.166.net/reunionpub/1_kol_20250706_63f74eb45e29da0175f9a6d70633ddc5.png)
 
  **魔法商店**
 
@@ -188,7 +138,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-**![](https://img.166.net/reunionpub/1_kol_20250628_306e6437c338bb23190eec649d531d15.png)**
+![](https://img.166.net/reunionpub/1_kol_20250706_a68bc1dbce077f2636f189679178774d.png)
 
  **留影魔法：**
 
@@ -196,7 +146,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-**![](https://img.166.net/reunionpub/1_kol_20250706_117ac37cb9ec02b5f5cffd8f66faa5ba.png)**
+![](https://img.166.net/reunionpub/1_kol_20250706_dcdb776a8894455e40eb780e90bbb1aa.png)
 
  **球玩魔法：**
 
