@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-04-02 14:18:04
+date: 2026-04-03 01:07:58
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,81 +8,75 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![每日任务.001](https://img.166.net/reunionpub/1_kol_20260401_4ea7685ff6977eba7e7c24f5962f47e3)
+![每日任务.001](https://img.166.net/reunionpub/1_kol_20260402_919f64748b7d7906e3ba0f54013012c0)
 
-**任务一：在霞谷的滑行比赛中捕捉浮动的光点 0/1**
-
-完成方法：
-
-靠近收集三个光点即可完成
-
- **位置：霞谷 滑行赛道**
-
-![](https://img.166.net/reunionpub/1_kol_20260322_45b027b83bdad0bd90def169b4c7d6ad)
-
-![](https://img.166.net/reunionpub/1_kol_20260322_70fbcc37b6bd1899b98c4287358c6c18)
-
-![](https://img.166.net/reunionpub/1_kol_20260322_e30e5a4fa6831ffc7ccccb30532b148c)
-
- **任务二：净化10株黑暗植物 0/10**
+**任务一：与欢笑追光者在云野共奏一曲 0/1**
 
 完成方法：
 
-拿出心火蜡烛燃烧10株黑暗植物即可完成
+由活动向导传送至活动地点
 
- **推荐地图：雨林 暮土**
+找到欢笑追光者一起弹奏即可完成 (点击弹奏界面后再取消可直接完成)
 
-![](https://img.166.net/reunionpub/1_kol_20260225_3e55a06df3add99c69ed67a32a25580e)
+ **位置：云野 仙乡**
 
-![](https://img.166.net/reunionpub/1_kol_20260225_1fb91a66d7cb1584765884dbd05dd897)
+![](https://img.166.net/reunionpub/1_kol_20260323_d43a86f3ec389507a897ca5e3f3fd9c0)
 
- **任务三：给一位朋友送礼 0/1**
+![](https://img.166.net/reunionpub/1_kol_20260325_df851351738f5243e29f1d1450b4d2ad)
+
+ **任务二：点燃20根蜡烛 0/20**
 
 完成方法：
 
-1.点击好友 找到击掌右边的礼物 花费3根蜡烛并送给对方爱心后即可完成
+1.点燃一堆大蜡烛
 
-2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
+2.或点燃20根蜡烛即可完成
 
- **注：任意选择一种方式即可**
+ **推荐地图：云野 霞谷 禁阁 遇境 云巢**
 
-![](https://img.166.net/reunionpub/1_kol_20260119_7b30d810bc7f3051abf2aa918ea520bb)
+**![](https://img.166.net/reunionpub/1_kol_20251112_44a17c81e9e66ee32253dc18232de5c2)**
 
-![](https://img.166.net/reunionpub/1_kol_20260119_c8f9bd309402cb3ed637d2ffb74eb482)
+ **任务三：点亮一位玩家 0/1**
 
- **任务四：前往霞谷-滑冰场，重温螺旋舞蹈冠军的美好回忆 0/1**
+完成方法：
+
+在天空王国中靠近任意其他玩家举起心火蜡烛等待对方点亮即可完成
+
+![](https://img.166.net/reunionpub/1_kol_20260325_e71a9b6c837ab82c8945fb3274684bdc)
+
+ **任务四：前往暮土-巨兽荒原，重温无畏士兵的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
- **位置：霞谷 滑冰场**
+ **位置：暮土 巨兽荒原**
 
- **先祖：螺旋舞蹈冠军**
+ **先祖：无畏士兵**
 
-![IMG_4330](https://img.166.net/reunionpub/1_kol_20260401_e0056275fd7a6e29aac7e5e776b74a9f)
+![](https://img.166.net/reunionpub/1_kol_20260323_e1fdc460407120759ea0446cb8ab9716)
 
 ![分栏图片](https://img.166.net/reunionpub/1_kol_20260331_06c082c588307912392e9cc04e0be8c3)
 
  **季节蜡烛**
 
- **地图：霞谷**
+ **地图：暮土**
 
 第一堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260131_47fbf419b8eba3a80a71419c5de8003b)**
+![](https://img.166.net/reunionpub/1_kol_20260201_8bbbd9faf80961e6e59d9a8072697232)
 
- **第二堆：**
+第二堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260131_9b22e11b2c122d8eea36c830335599e0)**
+![](https://img.166.net/reunionpub/1_kol_20260201_a700eeba9e3a25434ad4b8942079e797)
 
- **第三堆：**
+第三堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260131_0a42b8df0369aecd147225ddf8880371)**
+![](https://img.166.net/reunionpub/1_kol_20260201_5de0800a40931d8c52b221aa3b1a8331)
 
- **第四堆：**
+第四堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260131_868174ac90e81d5ac92d492caaa68ac5)**
+![](https://img.166.net/reunionpub/1_kol_20260201_54b28efff795345b0945854bc0c4d756)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -256,7 +250,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星×1**
+ **漂浮魔法×1**
 
  **魔法工坊**
 
@@ -270,7 +264,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250702_ce40b78a3bf6a5e9938cb1e55145ee7f.png)
+**![](https://img.166.net/reunionpub/1_kol_20250703_06117fc2a94fb142292b2cb331956084.png)**
 
  **魔法商店**
 
@@ -278,7 +272,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250702_be3531622a89b10e7faebb198d750ebd.png)
+**![](https://img.166.net/reunionpub/1_kol_20250724_d2bd1afbe9dcfa2e1a3d1f5ee497ba3d.png)**
 
  **留影魔法：**
 
