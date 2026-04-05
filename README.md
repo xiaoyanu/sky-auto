@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-04-05 07:44:46
+date: 2026-04-05 14:19:40
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,87 +8,119 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![每日任务.001](https://img.166.net/reunionpub/1_kol_20260404_ea9a7dcf1fb3b71cbe7b5085621bdd7e)
+![每日任务.001](https://img.166.net/reunionpub/1_kol_20260405_171ea6fcd7783f4282178be1878bbf00)
 
-**任务一：收集绿色光芒 0/1**
-
-完成方法：
-
-靠近光芒即可完成
-
- **位置：云野 云顶浮石  
-注：此光芒每整十分下落**
-
-![收集绿色光芒
-1](https://img.166.net/reunionpub/1_kol_20260404_5e579494659e2ebad069a7a850953e32)
-
-![收集绿色光芒
-2](https://img.166.net/reunionpub/1_kol_20260404_52c697bc0ad1afac91393151b09d11a7)
-
- **任务二：接受一位朋友的礼物 0/1**
+**任务一：和朋友击掌 0/1**
 
 完成方法：
 
-接受好友赠送的爱心/心火即可完成
+1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
 
-**![](https://img.166.net/reunionpub/1_kol_20251110_e1620c5dff171e1b3bf2a5702b8d60d5.jpeg)任务三：掀翻5只螃蟹
-0/5**
+ **注：一级二级都可以完成**
+
+2.找到对应季节向导，与季节向导完成击掌即可
+
+ **注：需要完成前置的季节任务**
+
+**![](https://img.166.net/reunionpub/1_kol_20250728_3a65fc57db044bb6fa884270b2ac6ff5.jpeg)**
+
+**![](https://img.166.net/reunionpub/1_kol_20250728_074e3e7222786c0e314f0a0aa18086c1.jpeg)**
+
+ **任务二：净化10株黑暗植物 0/10**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+拿出心火蜡烛燃烧10株黑暗植物即可完成
 
- **推荐位置：**
+ **推荐地图：雨林 暮土**
 
- **云野 圣岛**
+![](https://img.166.net/reunionpub/1_kol_20260225_3e55a06df3add99c69ed67a32a25580e)
 
- **暮土 边陲荒漠/巨兽荒原**
+![](https://img.166.net/reunionpub/1_kol_20260225_1fb91a66d7cb1584765884dbd05dd897)
 
-![](https://img.166.net/reunionpub/1_kol_20260310_634b1076f17b95837458657f7a93493b)
+ **任务三：拯救一只被黑暗藤蔓困住的遥鲲 0/1**
 
- **任务四：光之低语者在云顶浮石需要帮助 0/1**  
-完成方法：  
-前往云顶浮石 找到光之低语者 领取任务 [找到并取回旗帜]  
-站在飞船上等待飞行结束即可完成  
- **位置：云野 云顶浮石**
+完成方法1：
 
-![C775C499-9A75-46D9-AE8C-56B824429F26](https://img.166.net/reunionpub/1_kol_20260404_ac02aef49d6282455d6b56a379f1c0fd)
+拿出心火蜡烛燃烧黑暗藤蔓拯救遥鲲即可完成
 
-![994549CE-C1BA-48E7-A332-E1C0147B7621](https://img.166.net/reunionpub/1_kol_20260404_cde850e7d561faf6aa7fa12a57b534bd)
+ **位置：**
+
+ **雨林 密林遗迹**
+
+ **1.密林遗迹中间亭子下方**
+
+ **2.密林遗迹右侧矿洞前**
+
+ **注：共有两处随机拯救一只即可完成**
+
+![IMG_8962](https://img.166.net/reunionpub/1_kol_20260405_646f1448bded2bc3a9fa6ad432cb7c14)
+
+![IMG_8961](https://img.166.net/reunionpub/1_kol_20260405_36f554d5be427d75ec2338149c1a91b4)
+
+完成方法2：
+
+前往风行网道 重温剧情任务五 燃烧黑暗植物 拯救遥鲲即可
+
+ **位置：雨林 风行网道**
+
+![风行网道
+任务五](https://img.166.net/reunionpub/1_kol_20260405_4403a8b9e588e044c2176be3f99af8a5)
+
+完成方法3：
+
+靠近沙滩上的遥鲲幼仔即可完成
+
+ **位置：云野 云峰**
+
+**![云峰](https://img.166.net/reunionpub/1_kol_20260405_1b02607f12a5ad2239c7e34dc010976f)  
+任务四：前往雨林-荧光森林，重温躲猫猫拓荒者的美好回忆 0/1**
+
+完成方法：
+
+点燃先祖重温回忆
+
+ **位置：雨林 荧光森林**
+
+ **先祖：躲猫猫拓荒者**
+
+![](https://img.166.net/reunionpub/1_kol_20251211_cab4efaf6c3bdb7c919185902111176c)
+
+![](https://img.166.net/reunionpub/1_kol_20251211_1142ab05582d4fb2518e746e17274214)
 
 ![分栏图片](https://img.166.net/reunionpub/1_kol_20260403_e60db6f745c18f3ce5c512d56aad7985)
 
  **季节蜡烛**
 
- **地图：云野**
+ **地图：雨林**
 
 第一堆：
 
-**![](https://img.166.net/reunionpub/1_kol_20260124_051ed5f4ca02d756554b14ff143e4e2a)**
+**![](https://img.166.net/reunionpub/1_kol_20260125_83843221672ff2494a40184f561a2580)**
 
  **第二堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260124_6aee22d70ba24c57ae3cec716cdf7a39)**
+**![](https://img.166.net/reunionpub/1_kol_20260125_f8f9dc155a36bf01fb05b14668b3fa25)**
 
  **第三堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260124_200d32c4249209eb72631247203f75ad)**
+**![](https://img.166.net/reunionpub/1_kol_20260125_f01065c2c599e54d5648e60fab910af0)**
 
  **第四堆：**
 
-**![](https://img.166.net/reunionpub/1_kol_20260124_db8fc42274bef1307c38478c5e1b1d85)**
+**![](https://img.166.net/reunionpub/1_kol_20260125_f994b99493f2d3dec1ff55fa1bb8499a)**
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **伊甸之眼坠落碎片位置**
 
- **地图：雨林**
+ **地图：霞谷**
 
  **灼热碎片 [红石]**
 
- **具体位置：** 雨林神殿
+ **具体位置：** 雪隐峰
 
- **坠落时间：** 10、14、22小时的08分40秒左右～50分
+ **坠落时间：** 7、13、19小时的08分40秒左右～50分
 
  **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
 
@@ -96,8 +128,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点可完成 [破晓季] 季节任务**
 
-![雨林神殿
-位置1](https://img.166.net/reunionpub/1_kol_20260404_f9df6fea93c543dbbb482243e01cc07f)
+![雪隐峰](https://img.166.net/reunionpub/1_kol_20260405_67258d16a7461a2e7d9b449a0ce737c2)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -265,7 +296,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **返老还童×1 长大成人×1**
+ **体形重塑×1 绚丽彩虹×1**
 
  **魔法工坊**
 
@@ -279,7 +310,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-**![](https://img.166.net/reunionpub/1_kol_20250628_b85828aad362761fa4b51816f54e3077.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250629_bf8fe53dcf9295cfb636d054cf93b416.png)**
 
  **魔法商店**
 
@@ -287,7 +318,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-**![](https://img.166.net/reunionpub/1_kol_20250628_306e6437c338bb23190eec649d531d15.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250629_e28e9cd6118636522f5f76d9da212926.png)**
 
  **留影魔法：**
 
