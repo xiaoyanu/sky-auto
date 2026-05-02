@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-05-03 01:04:58
+date: 2026-05-03 07:59:03
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,70 +8,69 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![每日任务.001](https://img.166.net/reunionpub/1_kol_20260502_f5296b1331fa7ef22acd06a381292d45)
+![每日任务.001](https://img.166.net/reunionpub/1_kol_20260503_2300b5c74a350a04557ad9f5c68f1b1e)
 
-**任务一：在暮土追逐散落的星光 0/1**
+**任务一：在禁阁追逐散落的星光 0/1**
 
 完成方法：
 
 靠近星光即可完成
 
- **位置：暮土 边陲荒漠**
+ **位置：禁阁大厅/禁阁一层**
 
-![暮土](https://img.166.net/reunionpub/1_kol_20260422_44e818612123b9f45bc7c8e745107ffe)  
- **任务二：接受一位朋友的礼物 0/1**
+![](https://img.166.net/reunionpub/1_kol_20260314_fa497e984a0485d479656c898c313ef5)
 
-完成方法：
-
-接受好友赠送的爱心/心火即可完成
-
-**![](https://img.166.net/reunionpub/1_kol_20251110_e1620c5dff171e1b3bf2a5702b8d60d5.jpeg)**
-
- **任务三：掀翻5只螃蟹 0/5**
+ **任务二：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
- **推荐位置：**
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
- **云野 圣岛**
+![IMG_8994](https://img.166.net/reunionpub/1_kol_20260419_72355be93bfa7b1ec2864a25bbb2c43e)
 
- **暮土 边陲荒漠/巨兽荒原**
+ **任务三：拾起一只螃蟹 0/1**
 
-![](https://img.166.net/reunionpub/1_kol_20260310_634b1076f17b95837458657f7a93493b)
+完成方法:
 
- **任务四：找到一名位于暮土的先祖 0/1**
+长按人物大叫后掀翻螃蟹
+
+靠近螃蟹点击拾取图标即可完成
+
+ **![截屏2026-02-03
+06.26.22](https://img.166.net/reunionpub/1_kol_20260419_cd8fb228730804b24964240bbcbbcb4e)**  
+ **任务四：前往禁阁-三层，重温礼貌学者的美好回忆 0/1**
 
 完成方法：
 
-在暮土地图中选择任意一位先祖重温回忆即可完成
+点燃先祖重温回忆
 
- **推荐先祖：惊恐难民 无畏士兵**
+位置：禁阁三层
 
-![惊恐难民](https://img.166.net/reunionpub/1_kol_20260417_3d3c1da735f3cfbf20832bfab712cf36)
+先祖：礼貌学者
 
-![WechatIMG614](https://img.166.net/reunionpub/1_kol_20260417_040122e82311e970d1004edd7e11ee62)
+![礼貌学者](https://img.166.net/reunionpub/1_kol_20260503_f6a2db3ba2ea19f10f67ea8fc0ab7930)
 **  
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)  
 季节蜡烛**
 
- **地图：暮土  
+ **地图：禁阁  
 位置：A组**
 
-![暮土](https://img.166.net/reunionpub/1_kol_20260427_76ff6b7bf096d3f26a1a72c9f38d6443)
+![禁阁](https://img.166.net/reunionpub/1_kol_20260423_b574777d49a1c2258fd2b98bfeb94276)
 
 ![分栏图片](https://img.166.net/reunionpub/1_kol_20260423_427ee57e11d64e577cf7df70ba68ad25)
 
  **伊甸之眼坠落碎片位置**
 
- **地图：禁阁**
+ **地图：云野**
 
  **灼热碎片 [红石]**
 
- **具体位置：** 星光沙漠海滩
+ **具体位置：** 圣岛
 
- **坠落时间：** 10、14、22小时的08分40秒左右～50分
+ **坠落时间：** 7、13、19小时的08分40秒左右～50分
 
  **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
 
@@ -79,11 +78,8 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **注：此坠落点可完成 [破晓季] 季节任务**
 
-![星光沙漠
-1](https://img.166.net/reunionpub/1_kol_20260502_611611722e7e13787ad8a03723579156)
-
-![星光沙漠
-位置2](https://img.166.net/reunionpub/1_kol_20260502_b7581fb0c207e6048a2f6c0fcc21e8f0)
+![圣岛
+位置1](https://img.166.net/reunionpub/1_kol_20260503_63ce4b82130f4ae1a2ce5c2dfadfd61a)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -250,7 +246,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **返老还童×1 长大成人×1**
+ **体形重塑×1 绚丽彩虹×1**
 
  **魔法工坊**
 
@@ -264,7 +260,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-**![](https://img.166.net/reunionpub/1_kol_20250628_b85828aad362761fa4b51816f54e3077.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250629_bf8fe53dcf9295cfb636d054cf93b416.png)**
 
  **魔法商店**
 
@@ -272,7 +268,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-**![](https://img.166.net/reunionpub/1_kol_20250628_306e6437c338bb23190eec649d531d15.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250629_e28e9cd6118636522f5f76d9da212926.png)**
 
  **留影魔法：**
 
