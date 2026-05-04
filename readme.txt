@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-05-04 08:01:31
+date: 2026-05-04 16:02:26
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,78 +8,64 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![每日任务.001](https://img.166.net/reunionpub/1_kol_20260503_2300b5c74a350a04557ad9f5c68f1b1e)
+![每日任务.001](https://img.166.net/reunionpub/1_kol_20260504_53527ae44c2a75c26550834861a4bd33)
 
-**任务一：在禁阁追逐散落的星光 0/1**
+**任务一：在云野的山洞里找到篝火堆 0/1**
 
-完成方法：
+完成方法：  
+前往 云野-幽光山洞 靠近篝火堆即可完成
 
-靠近星光即可完成
+![幽光山洞
+](https://img.166.net/reunionpub/1_kol_20260424_5930fd7ba7c07692dc8026a9cba97c6e)
 
- **位置：禁阁大厅/禁阁一层**
-
-![](https://img.166.net/reunionpub/1_kol_20260314_fa497e984a0485d479656c898c313ef5)
-
- **任务二：向一位玩家鞠躬 0/1**
-
-完成方法：
-
-点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
-
- **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
-
-![IMG_8994](https://img.166.net/reunionpub/1_kol_20260419_72355be93bfa7b1ec2864a25bbb2c43e)
-
- **任务三：拾起一只螃蟹 0/1**
-
-完成方法:
-
-长按人物大叫后掀翻螃蟹
-
-靠近螃蟹点击拾取图标即可完成
-
- **![截屏2026-02-03
-06.26.22](https://img.166.net/reunionpub/1_kol_20260419_cd8fb228730804b24964240bbcbbcb4e)**  
- **任务四：前往禁阁-三层，重温礼貌学者的美好回忆 0/1**
+**![每日任务.004](https://img.166.net/reunionpub/1_kol_20260424_e6ad382e00751ea47dbe70abf4553d5f)  
+任务二：和陌生人一起坐在长凳上 0/1**
 
 完成方法：
 
-点燃先祖重温回忆
+和陌生玩家一起坐在石凳上即可完成
 
-位置：禁阁三层
+ **注：除晨岛和遇境外 其他地图大厅前均有石凳**
 
-先祖：礼貌学者
+![云野](https://img.166.net/reunionpub/1_kol_20260504_77fc6531640ec1acd9c30ac99d770a73)
 
-![礼貌学者](https://img.166.net/reunionpub/1_kol_20260503_f6a2db3ba2ea19f10f67ea8fc0ab7930)
+ **任务三：点燃20根蜡烛 0/20**
+
+完成方法：
+
+1.点燃一堆大蜡烛
+
+2.或点燃20根蜡烛即可完成
+
+ **推荐地图：云野 霞谷 禁阁 遇境 云巢**
+
+**![](https://img.166.net/reunionpub/1_kol_20251112_44a17c81e9e66ee32253dc18232de5c2)**
+
+ **任务四：夜行鸟语者在仙乡需要帮助 0/1**
+
+完成方法：
+
+找到 夜行鸟语者 领取任务 [和夜行鸟语者一起召唤蝴蝶]
+
+与夜行鸟语者牵手后点击人物大叫召唤蝴蝶即可完成
+
+ **位置：云野 仙乡**
+
+![每日任务.004](https://img.166.net/reunionpub/1_kol_20260504_85225d20da394f7ffd12d6dcfaf767e5)
 **  
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)  
 季节蜡烛**
 
- **地图：禁阁  
-位置：A组**
+ **地图：云野  
+位置：B组**
 
-![禁阁](https://img.166.net/reunionpub/1_kol_20260423_b574777d49a1c2258fd2b98bfeb94276)
+![云野](https://img.166.net/reunionpub/1_kol_20260424_54717847f0b907c112dfea471b2f0dd4)
 
 ![分栏图片](https://img.166.net/reunionpub/1_kol_20260423_427ee57e11d64e577cf7df70ba68ad25)
 
  **伊甸之眼坠落碎片位置**
 
- **地图：云野**
-
- **灼热碎片 [红石]**
-
- **具体位置：** 圣岛
-
- **坠落时间：** 7、13、19小时的08分40秒左右～50分
-
- **清理方式：** 净化红石碎片周围黑暗植物，并完成净化任务
-
- **获取货币：** 升华蜡烛
-
- **注：此坠落点可完成 [破晓季] 季节任务**
-
-![圣岛
-位置1](https://img.166.net/reunionpub/1_kol_20260503_63ce4b82130f4ae1a2ce5c2dfadfd61a)
+无
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -246,7 +232,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **体形重塑×1 绚丽彩虹×1**
+ **浪漫烟花×1**
 
  **魔法工坊**
 
@@ -260,7 +246,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-**![](https://img.166.net/reunionpub/1_kol_20250629_bf8fe53dcf9295cfb636d054cf93b416.png)**
+![](https://img.166.net/reunionpub/1_kol_20250706_63f74eb45e29da0175f9a6d70633ddc5.png)
 
  **魔法商店**
 
@@ -268,7 +254,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-**![](https://img.166.net/reunionpub/1_kol_20250629_e28e9cd6118636522f5f76d9da212926.png)**
+![](https://img.166.net/reunionpub/1_kol_20250706_a68bc1dbce077f2636f189679178774d.png)
 
  **留影魔法：**
 
@@ -276,7 +262,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 音乐商店 需完成 [表演季] 季节任务四
 
-**![](https://img.166.net/reunionpub/1_kol_20250706_117ac37cb9ec02b5f5cffd8f66faa5ba.png)**
+![](https://img.166.net/reunionpub/1_kol_20250706_dcdb776a8894455e40eb780e90bbb1aa.png)
 
  **球玩魔法：**
 
