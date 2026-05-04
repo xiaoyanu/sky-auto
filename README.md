@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-05-04 16:02:26
+date: 2026-05-05 01:49:46
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,64 +8,77 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![每日任务.001](https://img.166.net/reunionpub/1_kol_20260504_53527ae44c2a75c26550834861a4bd33)
+![每日任务.001](https://img.166.net/reunionpub/1_kol_20260505_0081e0317ac2325743781b0ec19ed02f)
 
-**任务一：在云野的山洞里找到篝火堆 0/1**
-
-完成方法：  
-前往 云野-幽光山洞 靠近篝火堆即可完成
-
-![幽光山洞
-](https://img.166.net/reunionpub/1_kol_20260424_5930fd7ba7c07692dc8026a9cba97c6e)
-
-**![每日任务.004](https://img.166.net/reunionpub/1_kol_20260424_e6ad382e00751ea47dbe70abf4553d5f)  
-任务二：和陌生人一起坐在长凳上 0/1**
+**任务一：在雨林神殿的栖光雨潭旁冥想 0/1**
 
 完成方法：
 
-和陌生玩家一起坐在石凳上即可完成
+点击坐下冥想并回答问题即可完成
 
- **注：除晨岛和遇境外 其他地图大厅前均有石凳**
+ **位置：雨林神殿  
+问题：你收到最好的礼物是什么？**
 
-![云野](https://img.166.net/reunionpub/1_kol_20260504_77fc6531640ec1acd9c30ac99d770a73)
-
- **任务三：点燃20根蜡烛 0/20**
-
-完成方法：
-
-1.点燃一堆大蜡烛
-
-2.或点燃20根蜡烛即可完成
-
- **推荐地图：云野 霞谷 禁阁 遇境 云巢**
-
-**![](https://img.166.net/reunionpub/1_kol_20251112_44a17c81e9e66ee32253dc18232de5c2)**
-
- **任务四：夜行鸟语者在仙乡需要帮助 0/1**
+![在雨林的神庙内冥想](https://img.166.net/reunionpub/1_kol_20260410_a2b1ccd4698468c4ae5266828aaa72f9)  
+ **任务二：向一位朋友做个动作 0/1**
 
 完成方法：
 
-找到 夜行鸟语者 领取任务 [和夜行鸟语者一起召唤蝴蝶]
+点击屏幕上方中间的表情菜单 面对好友 随机点击任意动作即可完成
 
-与夜行鸟语者牵手后点击人物大叫召唤蝴蝶即可完成
+**![](https://img.166.net/reunionpub/1_kol_20260317_363faabb5db8dd97edb1e382f5490936)**
 
- **位置：云野 仙乡**
+ **任务三：拾起一只螃蟹 0/1**
 
-![每日任务.004](https://img.166.net/reunionpub/1_kol_20260504_85225d20da394f7ffd12d6dcfaf767e5)
+完成方法:
+
+长按人物大叫后掀翻螃蟹
+
+靠近螃蟹点击拾取图标即可完成
+
+ **![截屏2026-02-03
+06.26.22](https://img.166.net/reunionpub/1_kol_20260419_cd8fb228730804b24964240bbcbbcb4e)**
+
+ **任务四：颤抖开拓者在荧光森林需要帮助 0/1**
+
+完成方法：
+
+找到 颤抖拓荒者 后领取任务 [颤抖开拓者想让你在雨林溪边见证一些事情]
+
+等待完成即可
+
+ **位置：雨林 荧光森林**
+
+![每日任务.003](https://img.166.net/reunionpub/1_kol_20260505_30d0bb17864af64a4de6cc67792eb354)
 **  
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)  
 季节蜡烛**
 
- **地图：云野  
+ **地图：雨林  
 位置：B组**
 
-![云野](https://img.166.net/reunionpub/1_kol_20260424_54717847f0b907c112dfea471b2f0dd4)
+![雨林](https://img.166.net/reunionpub/1_kol_20260425_d7cc8b86bc185ae3e7bf002f17d0ec10)
 
 ![分栏图片](https://img.166.net/reunionpub/1_kol_20260423_427ee57e11d64e577cf7df70ba68ad25)
 
  **伊甸之眼坠落碎片位置**
 
-无
+ **地图：霞谷**
+
+ **冷却碎片 [黑石]**
+
+ **具体位置：** 滑冰场
+
+ **坠落时间：** 9、14、19小时的08分40秒左右～50分
+
+ **清理方式：** 净化黑石碎片周围黑暗植物即可
+
+ **获取货币：** 烛光 [普通蜡烛/白蜡烛]
+
+ **注：此坠落点不可完成 [破晓季] 季节任务**
+
+![滑冰场
+2](https://img.166.net/reunionpub/1_kol_20260505_4223daf2212a3f152481c396aca6478c)
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -232,7 +245,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **浪漫烟花×1**
+ **光能药剂×1**
 
  **魔法工坊**
 
@@ -246,7 +259,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250706_63f74eb45e29da0175f9a6d70633ddc5.png)
+![](https://img.166.net/reunionpub/1_kol_20250708_c428db6b2f8af513cbcd954ad1b8eaa0.png)
 
  **魔法商店**
 
@@ -254,7 +267,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250706_a68bc1dbce077f2636f189679178774d.png)
+![](https://img.166.net/reunionpub/1_kol_20250708_a7619ad9c802ad4d68241051031782b8.png)
 
  **留影魔法：**
 
