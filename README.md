@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-05-06 15:43:05
+date: 2026-05-07 01:50:22
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,64 +8,63 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![每日任务.001](https://img.166.net/reunionpub/1_kol_20260506_75ed35f92bac60da5a441a1a9ce2ae32)
+![每日任务.001](https://img.166.net/reunionpub/1_kol_20260507_038fc1b9bcabe0532a4ad70854143cd1)
 
-**任务一：在霞谷的滑行比赛中捕捉浮动的光点 0/1**
-
-完成方法：
-
-靠近收集三个光点即可完成
-
- **位置：霞谷 滑行赛道**
-
-![](https://img.166.net/reunionpub/1_kol_20260322_45b027b83bdad0bd90def169b4c7d6ad)
-
-![](https://img.166.net/reunionpub/1_kol_20260322_70fbcc37b6bd1899b98c4287358c6c18)
-
-![](https://img.166.net/reunionpub/1_kol_20260322_e30e5a4fa6831ffc7ccccb30532b148c)  
- **任务二：向一位玩家鞠躬 0/1**
+**任务一：在暮土追逐散落的星光 0/1**
 
 完成方法：
 
-点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
+靠近星光即可完成
 
- **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
+ **位置：暮土 边陲荒漠**
 
-![IMG_8994](https://img.166.net/reunionpub/1_kol_20260419_72355be93bfa7b1ec2864a25bbb2c43e)
+![暮土](https://img.166.net/reunionpub/1_kol_20260422_44e818612123b9f45bc7c8e745107ffe)
 
- **任务三：掀翻5只螃蟹 0/5**
+ **任务二：给一位朋友送礼 0/1**
 
 完成方法：
 
-点击人物头部长按大叫即可掀翻螃蟹
+1.点击好友 找到击掌右边的礼物 花费3根蜡烛并送给对方爱心后即可完成
 
- **推荐位置：**
+2.在 [好友星盘¹] 上随机点击一位已经解锁击掌的好友，找到第三个图标 花费3根普通蜡烛完成送礼即可
 
- **云野 圣岛**
+ **注：任意选择一种方式即可**
 
- **暮土 边陲荒漠/巨兽荒原**
+![](https://img.166.net/reunionpub/1_kol_20260119_7b30d810bc7f3051abf2aa918ea520bb)
 
-![](https://img.166.net/reunionpub/1_kol_20260310_634b1076f17b95837458657f7a93493b)
+![](https://img.166.net/reunionpub/1_kol_20260119_c8f9bd309402cb3ed637d2ffb74eb482)
 
- **任务四：前往霞谷-落日竞技场，重温鞠躬季军的美好回忆 0/1**
+ **任务三：净化10株黑暗植物 0/10**
+
+完成方法：
+
+拿出心火蜡烛燃烧10株黑暗植物即可完成
+
+ **推荐地图：雨林 暮土**
+
+![](https://img.166.net/reunionpub/1_kol_20260225_3e55a06df3add99c69ed67a32a25580e)
+
+![](https://img.166.net/reunionpub/1_kol_20260225_1fb91a66d7cb1584765884dbd05dd897)
+
+ **任务四：前往暮土-巨兽荒原，重温无畏士兵的美好回忆 0/1**
 
 完成方法：
 
 点燃先祖重温回忆
 
-位置：落日竞技场
+位置：暮土 巨兽荒原
 
-先祖：鞠躬季军
+先祖：无畏士兵
 
-![鞠躬季军](https://img.166.net/reunionpub/1_kol_20260506_5c6c9507e4fdfe6f1cbcacb0f48d67fa)
+![WechatIMG614](https://img.166.net/reunionpub/1_kol_20260427_d502e26c988b0ec04db915de6d011621)
 **  
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)  
 季节蜡烛**
 
- **地图：霞谷  
+ **地图：暮土  
 位置：B组**
 
-![霞谷](https://img.166.net/reunionpub/1_kol_20260426_fc60e76d9ee812af81b1bd288488ae89)
+![暮土](https://img.166.net/reunionpub/1_kol_20260427_76ff6b7bf096d3f26a1a72c9f38d6443)
 
 ![分栏图片](https://img.166.net/reunionpub/1_kol_20260423_427ee57e11d64e577cf7df70ba68ad25)
 
@@ -238,7 +237,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **璀璨之星×1**
+ **漂浮魔法×1**
 
  **魔法工坊**
 
@@ -252,7 +251,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250702_ce40b78a3bf6a5e9938cb1e55145ee7f.png)
+**![](https://img.166.net/reunionpub/1_kol_20250703_06117fc2a94fb142292b2cb331956084.png)**
 
  **魔法商店**
 
@@ -260,7 +259,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250702_be3531622a89b10e7faebb198d750ebd.png)
+**![](https://img.166.net/reunionpub/1_kol_20250724_d2bd1afbe9dcfa2e1a3d1f5ee497ba3d.png)**
 
  **留影魔法：**
 
