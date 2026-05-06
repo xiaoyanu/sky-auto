@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-05-06 08:00:52
+date: 2026-05-06 15:43:05
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,77 +8,70 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![每日任务.001](https://img.166.net/reunionpub/1_kol_20260505_0081e0317ac2325743781b0ec19ed02f)
+![每日任务.001](https://img.166.net/reunionpub/1_kol_20260506_75ed35f92bac60da5a441a1a9ce2ae32)
 
-**任务一：在雨林神殿的栖光雨潭旁冥想 0/1**
-
-完成方法：
-
-点击坐下冥想并回答问题即可完成
-
- **位置：雨林神殿  
-问题：你收到最好的礼物是什么？**
-
-![在雨林的神庙内冥想](https://img.166.net/reunionpub/1_kol_20260410_a2b1ccd4698468c4ae5266828aaa72f9)  
- **任务二：向一位朋友做个动作 0/1**
+**任务一：在霞谷的滑行比赛中捕捉浮动的光点 0/1**
 
 完成方法：
 
-点击屏幕上方中间的表情菜单 面对好友 随机点击任意动作即可完成
+靠近收集三个光点即可完成
 
-**![](https://img.166.net/reunionpub/1_kol_20260317_363faabb5db8dd97edb1e382f5490936)**
+ **位置：霞谷 滑行赛道**
 
- **任务三：拾起一只螃蟹 0/1**
+![](https://img.166.net/reunionpub/1_kol_20260322_45b027b83bdad0bd90def169b4c7d6ad)
 
-完成方法:
+![](https://img.166.net/reunionpub/1_kol_20260322_70fbcc37b6bd1899b98c4287358c6c18)
 
-长按人物大叫后掀翻螃蟹
-
-靠近螃蟹点击拾取图标即可完成
-
- **![截屏2026-02-03
-06.26.22](https://img.166.net/reunionpub/1_kol_20260419_cd8fb228730804b24964240bbcbbcb4e)**
-
- **任务四：颤抖开拓者在荧光森林需要帮助 0/1**
+![](https://img.166.net/reunionpub/1_kol_20260322_e30e5a4fa6831ffc7ccccb30532b148c)  
+ **任务二：向一位玩家鞠躬 0/1**
 
 完成方法：
 
-找到 颤抖拓荒者 后领取任务 [颤抖开拓者想让你在雨林溪边见证一些事情]
+点击屏幕上方中间动作栏 面对玩家 点击并完成鞠躬动作即可
 
-等待完成即可
+ **注：1～4级鞠躬动作均可完成；玩家包括陌生人与好友**
 
- **位置：雨林 荧光森林**
+![IMG_8994](https://img.166.net/reunionpub/1_kol_20260419_72355be93bfa7b1ec2864a25bbb2c43e)
 
-![每日任务.003](https://img.166.net/reunionpub/1_kol_20260505_30d0bb17864af64a4de6cc67792eb354)
+ **任务三：掀翻5只螃蟹 0/5**
+
+完成方法：
+
+点击人物头部长按大叫即可掀翻螃蟹
+
+ **推荐位置：**
+
+ **云野 圣岛**
+
+ **暮土 边陲荒漠/巨兽荒原**
+
+![](https://img.166.net/reunionpub/1_kol_20260310_634b1076f17b95837458657f7a93493b)
+
+ **任务四：前往霞谷-落日竞技场，重温鞠躬季军的美好回忆 0/1**
+
+完成方法：
+
+点燃先祖重温回忆
+
+位置：落日竞技场
+
+先祖：鞠躬季军
+
+![鞠躬季军](https://img.166.net/reunionpub/1_kol_20260506_5c6c9507e4fdfe6f1cbcacb0f48d67fa)
 **  
 ![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)  
 季节蜡烛**
 
- **地图：雨林  
+ **地图：霞谷  
 位置：B组**
 
-![雨林](https://img.166.net/reunionpub/1_kol_20260425_d7cc8b86bc185ae3e7bf002f17d0ec10)
+![霞谷](https://img.166.net/reunionpub/1_kol_20260426_fc60e76d9ee812af81b1bd288488ae89)
 
 ![分栏图片](https://img.166.net/reunionpub/1_kol_20260423_427ee57e11d64e577cf7df70ba68ad25)
 
  **伊甸之眼坠落碎片位置**
 
- **地图：霞谷**
-
- **冷却碎片 [黑石]**
-
- **具体位置：** 滑冰场
-
- **坠落时间：** 9、14、19小时的08分40秒左右～50分
-
- **清理方式：** 净化黑石碎片周围黑暗植物即可
-
- **获取货币：** 烛光 [普通蜡烛/白蜡烛]
-
- **注：此坠落点不可完成 [破晓季] 季节任务**
-
-![滑冰场
-2](https://img.166.net/reunionpub/1_kol_20260505_4223daf2212a3f152481c396aca6478c)
+ **无**
 
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
@@ -245,7 +238,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **今日免费魔法**
 
- **光能药剂×1**
+ **璀璨之星×1**
 
  **魔法工坊**
 
@@ -259,7 +252,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-![](https://img.166.net/reunionpub/1_kol_20250708_c428db6b2f8af513cbcd954ad1b8eaa0.png)
+![](https://img.166.net/reunionpub/1_kol_20250702_ce40b78a3bf6a5e9938cb1e55145ee7f.png)
 
  **魔法商店**
 
@@ -267,7 +260,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-![](https://img.166.net/reunionpub/1_kol_20250708_a7619ad9c802ad4d68241051031782b8.png)
+![](https://img.166.net/reunionpub/1_kol_20250702_be3531622a89b10e7faebb198d750ebd.png)
 
  **留影魔法：**
 
