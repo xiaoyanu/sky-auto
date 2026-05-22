@@ -13,13 +13,27 @@ jobs:
     
     env:
       TZ: Asia/Shanghai
+      UPSTREAM_REPO: https://github.com/xiaoyanu/sky-auto
     
     steps:
       
       - name: Checkout
         uses: actions/checkout@v3
-
-
+      
+      - name: add upstream remote
+        run: |
+          git remote add upstream $UPSTREAM_REPO || git remote set-url upstream $UPSTREAM_REPO
+          git remote -v
+      
+      - name: Fetch upstream
+        run: |
+          git fetch upstream
+          git fetch upstream main:upstream-main || git fetch upstream master:upstream-master || echo "No main/master branch found"
+      
+      - name: Sync with upstream
+        run: |
+          git reset --hard upstream-main || git reset --hard upstream-master || echo "Using current branch"
+      
       - name: import py 3.7
         uses: actions/setup-python@v1
         with:
