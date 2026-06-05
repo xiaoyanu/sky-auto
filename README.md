@@ -1,6 +1,6 @@
 ---
 title: 光遇每日任务标题
-date: 2026-06-05 08:18:54
+date: 2026-06-05 16:51:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇每日任务标题]
 description: 
@@ -8,62 +8,58 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇每日任务标题
-![每日任务.001](https://img.166.net/reunionpub/1_kol_20260604_5b814c2bb8279280ae137920868c8b4d)  
-**任务一：在水母上恢复能量 0/1**
+![每日任务.001](https://img.166.net/reunionpub/1_kol_20260605_6c42d75365816ffd8aa966dd71990210)
+
+**任务一：收集蓝色光芒 0/1**
 
 完成方法：
 
-1.将斗篷能量全部消耗
+靠近光芒即可完成
 
-2.靠近水母恢复能量即可完成
+ **位置：霞谷 滑冰场**
 
- **推荐位置：云野:圣岛/雨林:密林遗迹 大树屋/禁阁:星光沙漠海滩**
-
-![](https://img.166.net/reunionpub/1_kol_20260126_9f45c04157b425f4a20ec7fd7f6a0e93)
-
-![](https://img.166.net/reunionpub/1_kol_20260123_dc079e786f6169a6b63baf143b020fed)
-
- **任务二：向一位朋友做个动作 0/1**
+![收集蓝色光芒](https://img.166.net/reunionpub/1_kol_20260605_bad549d86612a96bdbf9a564cc03bf67)  
+ **任务二：向一位朋友招手 0/1**
 
 完成方法：
 
-点击屏幕上方中间的表情菜单 面对好友 随机点击任意动作即可完成
+点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成招手即可
 
-**![](https://img.166.net/reunionpub/1_kol_20260317_363faabb5db8dd97edb1e382f5490936)**
+ **注：1～6级招手动作均可完成**
 
- **任务三：和朋友击掌 0/1**
+![](https://img.166.net/reunionpub/1_kol_20260106_8aafd8f0602cf514c59b93fc26516bb0)
 
-完成方法：
-
-1.点击好友找到牵手上方的击掌 点击与好友完成击掌即可
-
- **注：一级二级都可以完成**
-
-2.找到对应季节向导，与季节向导完成击掌即可
-
- **注：需要完成前置的季节任务**
-
-**![](https://img.166.net/reunionpub/1_kol_20250728_3a65fc57db044bb6fa884270b2ac6ff5.jpeg)**
-
-**![](https://img.166.net/reunionpub/1_kol_20250728_074e3e7222786c0e314f0a0aa18086c1.jpeg)**
-
- **任务四：在雨林追逐散落的星光 0/1**
+ **任务三：在圆梦村的温泉休息一下 0/1**
 
 完成方法：
 
-靠近星光即可完成
+在圆梦村的温泉范围内等待60秒即可完成
 
- **位置：雨林 静谧庭院**
+ **位置：霞谷 圆梦村**
 
-![雨林](https://img.166.net/reunionpub/1_kol_20260530_455f7f4b5a1d73916f4d20397dfa2e66)
+![每日任务.004](https://img.166.net/reunionpub/1_kol_20260531_c3f7c96ea80bc4f8ba01220c37e283ee)
+
+ **任务四：忙碌舞台管理员在圆梦村剧场需要帮助 0/1**
+
+完成方法：
+
+1.前往圆梦村剧场找到 忙碌舞台管理员 领取任务
+
+2.根据指引将 谦逊的舞者 带到 忙碌舞台管理员 旁即可完成
+
+ **位置：霞谷 圆梦村剧场**
+
+![位置](https://img.166.net/reunionpub/1_kol_20260605_e9b5e6cb46774664ba4b038d6823af5c)
+
+![任务.001](https://img.166.net/reunionpub/1_kol_20260605_52de663efd660418af1e240b6d0639f1)
 
 ![分栏图片](https://img.166.net/reunionpub/1_kol_20260518_f04adc529e92fd1f82d458cf6c3f3279)
 
  **季节蜡烛**  
- **地图：雨林  
+ **地图：霞谷  
 位置：B组**
 
-![雨林](https://img.166.net/reunionpub/1_kol_20260425_d7cc8b86bc185ae3e7bf002f17d0ec10)
+![霞谷](https://img.166.net/reunionpub/1_kol_20260426_fc60e76d9ee812af81b1bd288488ae89)
 
 ![分栏图片](https://img.166.net/reunionpub/1_kol_20260423_427ee57e11d64e577cf7df70ba68ad25)
 
@@ -74,29 +70,67 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 **![](https://img.166.net/reunionpub/ds/kol_server/20240717/003917-8p704dsqv9.png)**
 
  **大蜡烛**  
- **地图：云野**
+ **地图：云野 雨林 霞谷**
 
-第一堆
+云野
 
-**![](https://img.166.net/reunionpub/1_kol_20250703_5a16dff37a40ff2bee04ba868c30a049.png)**
+第一堆：
 
-第二堆
+![](https://img.166.net/reunionpub/1_kol_20241107_83784c165dbf5a0baaf675d0bfbb918a.jpeg)
 
-**![](https://img.166.net/reunionpub/1_kol_20250703_72882ae9d12544a83482a78427b21526.png)**
+第二堆：
 
-第三堆
+![](https://img.166.net/reunionpub/1_kol_20241107_0cfb11c954a849662f988a0969c28237.jpeg)
 
-**![](https://img.166.net/reunionpub/1_kol_20250703_30baffa791373a321c2dbfe7bd70628a.png)**
+第三堆：
 
-第四堆
+![](https://img.166.net/reunionpub/1_kol_20241107_8303949e3889844bee7c2988595d8e44.jpeg)
 
-**![](https://img.166.net/reunionpub/1_kol_20250703_ba0bbd165bb68314356a72473b3cb6e2.png)**
+第四堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_bc482b5c8ee95083714bd94320d9045b.jpeg)
+
+雨林
+
+第一堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_1995c6999f2d58bf6281f328a6dfe5da.jpeg)
+
+第二堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_e505bc4e6dc36338fb17a3626a4117d9.jpeg)
+
+第三堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_85000b8c4b9af76f837fe69d7d3cc9ee.jpeg)
+
+第四堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_4add5263bf55edd596edfb2411afd3bb.jpeg)
+
+霞谷
+
+第一堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_4d92d51da0b331c64d1d7487e2dbf70e.jpeg)
+
+第二堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_fedf6a0cb07047ece6edc3521bb1b15e.jpeg)
+
+第三堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_153088c2405a7f8d8a6889f91938118b.jpeg)
+
+第四堆：
+
+![](https://img.166.net/reunionpub/1_kol_20241107_86923df74d8ab53187a087cbe951064a.jpeg)
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004048-gyt2imp830.png)**
 
  **今日免费魔法**
 
- **漂浮魔法×1**
+ **小不点×1 大只佬×1**
 
  **魔法工坊**
 
@@ -110,7 +144,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
  **![](https://img.166.net/reunionpub/ds/kol/20231014/004605-qmuiowanf4.png)**
 
-**![](https://img.166.net/reunionpub/1_kol_20250703_06117fc2a94fb142292b2cb331956084.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250627_461c45d0f3bb3bf77220b21fd5c7ea70.png)**
 
  **魔法商店**
 
@@ -118,7 +152,7 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 注：开启 魔法商店 需完成 [归巢季] 季节任务八
 
-**![](https://img.166.net/reunionpub/1_kol_20250724_d2bd1afbe9dcfa2e1a3d1f5ee497ba3d.png)**
+**![](https://img.166.net/reunionpub/1_kol_20250627_4d6210bedd8ba2d38dafab2bf8eb96d2.png)**
 
  **留影魔法：**
 
